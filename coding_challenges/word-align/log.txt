@@ -1,0 +1,18 @@
+dict:
+loaded 
+Splitting dictionary into 3 lists
+Dictionary 0: (thr: 0 , 0, 0 , 3)
+Only 1 dictionaries were crested instead of 3! at /home/vivek/Documents/FOSS/apertium/bin/split-dict.pl line 156.
+Extracting n-gram statistics for each word list
+Important: dictionary must be ordered according to order of appearance of words in data
+used to generate n-gram blocks,  so that sub language model blocks results ordered too
+Extracting n-gram statistics for dict.*
+[codesize 3]
+DEBUG_LEVEL:0/1 cannot open lang_models/dict.*
+
+Estimating language models for each word list
+Merging language models into data-en-es/europarl-v7.tag-clean.en.lm.gz
+merge-sublm.pl --size 3 --sublm lang_models/lm.dict --lm data-en-es/europarl-v7.tag-clean.en.lm.gz --backoff 0
+Compute total sizes of n-grams
+cannot find sublm files
+Cleaning temporary directory lang_models
