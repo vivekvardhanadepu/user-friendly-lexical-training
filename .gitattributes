@@ -1,0 +1,2 @@
+coding_challenges/europarl-v7.spa-eng.eng filter=lfs diff=lfs merge=lfs -text
+coding_challenges/europarl-v7.spa-eng.spa filter=lfs diff=lfs merge=lfs -text
