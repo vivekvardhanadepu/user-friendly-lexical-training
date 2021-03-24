@@ -12,8 +12,8 @@ parse_config_vars(){
         value=${BASH_REMATCH[2]#[\'\"]} # strip quotes
         value=${value%[\'\"]}
         value=${value%${value##*[![:blank:]]}} # strip trailing spaces
-        # printf '%s' "${key}"
-        # printf '=%s\n' "${value}"
+        printf '%s' "${key}"
+        printf '=%s\n' "${value}"
     done < "$1"
 }
 
