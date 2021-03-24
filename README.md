@@ -24,11 +24,13 @@ alignment and training: alignment.sh
 
 relevant logs in `.log`
 
-**Typical moses training:**
+**Typical moses training:**(*without using apertium tools*)
 
 In moses_training,
 
 change the relevant paths and run training_script.sh
+
+Ref: www.statmt.org/moses/?n=Moses.Baseline
 
 **Simple TOML parser**
 
