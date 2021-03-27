@@ -1,9 +1,9 @@
 adbackoff 0
-c ./corpus/eng-spa-int-train.snt
+c ./corpus/es-pt-int-train.snt
 compactadtable 1
 compactalignmentformat 0
-coocurrencefile ./giza.eng-spa/eng-spa.cooc
-corpusfile ./corpus/eng-spa-int-train.snt
+coocurrencefile ./giza.es-pt/es-pt.cooc
+corpusfile ./corpus/es-pt-int-train.snt
 countcutoff 1e-06
 countcutoffal 1e-05
 countincreasecutoff 1e-06
@@ -20,9 +20,9 @@ emprobforempty 0.4
 emsmoothhmm 2
 hmmdumpfrequency 0
 hmmiterations 5
-l 2021-03-24.144732.vivek.log
+l 2021-03-28.023445.vivek.log
 log 0
-logfile 2021-03-24.144732.vivek.log
+logfile 2021-03-28.023445.vivek.log
 m1 5
 m2 0
 m3 3
@@ -63,9 +63,9 @@ noiterationsmodel6 0
 nsmooth 4
 nsmoothgeneral 0
 numberofiterationsforhmmalignmentmodel 5
-o ./giza.eng-spa/eng-spa
+o ./giza.es-pt/es-pt
 onlyaldumps 1
-outputfileprefix ./giza.eng-spa/eng-spa
+outputfileprefix ./giza.es-pt/es-pt
 outputpath 
 p 0
 p0 0.999
@@ -74,15 +74,15 @@ pegging 0
 probcutoff 1e-07
 probsmooth 1e-07
 readtableprefix 
-s ./corpus/spa.vcb
-sourcevocabularyfile ./corpus/spa.vcb
-t ./corpus/eng.vcb
+s ./corpus/pt.vcb
+sourcevocabularyfile ./corpus/pt.vcb
+t ./corpus/es.vcb
 t1 1
 t2 0
 t2to3 0
 t3 0
 t345 0
-targetvocabularyfile ./corpus/eng.vcb
+targetvocabularyfile ./corpus/es.vcb
 tc 
 testcorpusfile 
 th 0

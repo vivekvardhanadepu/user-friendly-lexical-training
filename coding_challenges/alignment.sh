@@ -1,14 +1,14 @@
-CORPUS="europarl-v7"
-PAIR="spa-eng"
-SL="eng"
-TL="spa"
+CORPUS="Europarl"
+PAIR="es-pt"
+SL="es"
+TL="pt"
 
 LEX_TOOLS="/home/vivek/Documents/FOSS/apertium/apertium-lex-tools"
 SCRIPTS="$LEX_TOOLS/scripts"
 MOSESDECODER="/home/vivek/Documents/FOSS/apertium/mosesdecoder/scripts/training"
 BIN_DIR="/home/vivek/Documents/FOSS/apertium/GIZA++/bin"
 # *Absolute path* to the lm that you created with IRSTLM:
-LM="/home/vivek/Documents/FOSS/apertium/user-friendly-lexical-training/coding_challenges/data-eng-spa/europarl-v7.tag-clean.spa.lm"
+LM="/home/vivek/Documents/FOSS/apertium/user-friendly-lexical-training/coding_challenges/data-$SL-$TL/$CORPUS.tag-clean.$TL.lm"
 
 # ALIGN
 PYTHONIOENCODING=utf-8

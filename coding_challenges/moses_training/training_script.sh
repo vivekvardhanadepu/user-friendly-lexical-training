@@ -1,6 +1,6 @@
 MOSES="/home/vivek/Documents/FOSS/apertium/mosesdecoder/scripts"
 GIZA="/home/vivek/Documents/FOSS/apertium/GIZA++/bin"
-MY_ROOT=/home/vivek/Documents/FOSS/apertium/user-friendly-lexical-training/coding_challenges/moses_training
+MY_ROOT="/home/vivek/Documents/FOSS/apertium/user-friendly-lexical-training/coding_challenges/moses_training"
 
 mkdir corpus
 cd corpus 

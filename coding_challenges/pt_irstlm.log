@@ -1,0 +1,73 @@
+dict:
+loaded 
+Splitting dictionary into 3 lists
+Dictionary 0: (thr: 4973.33333333333 , 14920, 0 , 3)
+Dictionary 1: (thr: 4931 , 9862 , 5058 , 2)
+Dictionary 2: (thr: 4930 , 4930 , 4932 , 1)
+Extracting n-gram statistics for each word list
+Important: dictionary must be ordered according to order of appearance of words in data
+used to generate n-gram blocks,  so that sub language model blocks results ordered too
+Extracting n-gram statistics for dict.000
+Extracting n-gram statistics for dict.001
+[codesize 3]
+Extracting n-gram statistics for dict.002
+[codesize 3]
+[codesize 3]
+dict:loaded 
+load:prepare initial n-grams to make table consistent
+starting to use OOV words [<s>]
+aradict:aadict:aloaded 
+load:prepare initial n-grams to make table consistent
+starting to use OOV words [<s>]
+araaaaaaaloaded 
+aload:prepare initial n-grams to make table consistent
+starting to use OOV words [<s>]
+aaraaarraaaaaaaaaaaaaaraaaaaaaaaaraaaaaaaaadding some more n-grams to make table consistent
+
+savetxt in Google format: nGrAm 3 3994 ngram
+aaaaaaaadding some more n-grams to make table consistent
+
+savetxt in Google format: nGrAm 3 4300 ngram
+adding some more n-grams to make table consistent
+
+savetxt in Google format: nGrAm 3 4677 ngram
+
+
+
+Estimating language models for each word list
+Estimating language models for dict.000
+Estimating language models for dict.001
+Estimating language models for dict.002
+Merging language models into data-es-pt/Europarl.tag-clean.es.lm.gz
+merge-sublm.pl --size 3 --sublm tmp/lm.dict --lm data-es-pt/Europarl.tag-clean.es.lm.gz --backoff 0
+Compute total sizes of n-grams
+join files tmp/lm.dict.000.1gr.gz tmp/lm.dict.001.1gr.gz tmp/lm.dict.002.1gr.gz
+implicitely add <unk> word to counters
+n:1 size:3154 unk:0
+join files tmp/lm.dict.000.2gr.gz tmp/lm.dict.001.2gr.gz tmp/lm.dict.002.2gr.gz
+Executing: /usr/bin/gunzip -c tmp/lm.dict.000.2gr.gz | grep -v '10000.000' | wc -l > wc50224
+Executing: /usr/bin/gunzip -c tmp/lm.dict.001.2gr.gz | grep -v '10000.000' | wc -l > wc50224
+Executing: /usr/bin/gunzip -c tmp/lm.dict.002.2gr.gz | grep -v '10000.000' | wc -l > wc50224
+n:2 size:9205 unk:0
+join files tmp/lm.dict.000.3gr.gz tmp/lm.dict.001.3gr.gz tmp/lm.dict.002.3gr.gz
+Executing: /usr/bin/gunzip -c tmp/lm.dict.000.3gr.gz | grep -v '10000.000' | wc -l > wc50224
+Executing: /usr/bin/gunzip -c tmp/lm.dict.001.3gr.gz | grep -v '10000.000' | wc -l > wc50224
+Executing: /usr/bin/gunzip -c tmp/lm.dict.002.3gr.gz | grep -v '10000.000' | wc -l > wc50224
+n:3 size:12971 unk:0
+Merge all sub LMs
+Write LM Header
+Writing LM Tables
+Level 1
+input from: tmp/lm.dict.000.1gr.gz tmp/lm.dict.001.1gr.gz tmp/lm.dict.002.1gr.gz
+Level 2
+input from: tmp/lm.dict.000.2gr.gz tmp/lm.dict.001.2gr.gz tmp/lm.dict.002.2gr.gz
+Executing: /usr/bin/gunzip -c tmp/lm.dict.000.2gr.gz | grep -v '10000.000' | gzip -c >> data-es-pt/Europarl.tag-clean.es.lm.gz
+Executing: /usr/bin/gunzip -c tmp/lm.dict.001.2gr.gz | grep -v '10000.000' | gzip -c >> data-es-pt/Europarl.tag-clean.es.lm.gz
+Executing: /usr/bin/gunzip -c tmp/lm.dict.002.2gr.gz | grep -v '10000.000' | gzip -c >> data-es-pt/Europarl.tag-clean.es.lm.gz
+Level 3
+input from: tmp/lm.dict.000.3gr.gz tmp/lm.dict.001.3gr.gz tmp/lm.dict.002.3gr.gz
+Executing: /usr/bin/gunzip -c tmp/lm.dict.000.3gr.gz | grep -v '10000.000' | gzip -c >> data-es-pt/Europarl.tag-clean.es.lm.gz
+Executing: /usr/bin/gunzip -c tmp/lm.dict.001.3gr.gz | grep -v '10000.000' | gzip -c >> data-es-pt/Europarl.tag-clean.es.lm.gz
+Executing: /usr/bin/gunzip -c tmp/lm.dict.002.3gr.gz | grep -v '10000.000' | gzip -c >> data-es-pt/Europarl.tag-clean.es.lm.gz
+Cleaning temporary directory tmp
+Removing temporary directory tmp
