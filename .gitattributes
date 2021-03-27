@@ -1,2 +1,4 @@
 coding_challenges/europarl-v7.spa-eng.eng filter=lfs diff=lfs merge=lfs -text
 coding_challenges/europarl-v7.spa-eng.spa filter=lfs diff=lfs merge=lfs -text
+coding_challenges/moses_training/lm/news-commentary-v8.fr-en.arpa.en filter=lfs diff=lfs merge=lfs -text
+coding_challenges/moses_training/lm/news-commentary-v8.fr-en.blm.en filter=lfs diff=lfs merge=lfs -text

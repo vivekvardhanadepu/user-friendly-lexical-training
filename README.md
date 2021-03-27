@@ -37,3 +37,5 @@ Ref: www.statmt.org/moses/?n=Moses.Baseline
 parser: toml-parser.sh
 
 parser test: parser_test.toml
+
+Right now, it does basic syntax check and tests whether apertium, python, lttoolbox and apertium-lex-tools(specific version) are installed or not
