@@ -41,8 +41,8 @@ rm data-$SL-$TL/*.new
 
 
 # CLEAN CORPUS
-perl "/home/vivek/Documents/FOSS/apertium/mosesdecoder/scripts/tokenizer/escape-special-chars.perl" \
+perl "$MOSESDECODER/../tokenizer/escape-special-chars.perl" \
 								< data-$SL-$TL/$CORPUS.tagged.$SL > data-$SL-$TL/$CORPUS.tagged_esc.$SL
-perl "/home/vivek/Documents/FOSS/apertium/mosesdecoder/scripts/tokenizer/escape-special-chars.perl" \
+perl "$MOSESDECODER/../tokenizer/escape-special-chars.perl" \
 								< data-$SL-$TL/$CORPUS.tagged.$TL > data-$SL-$TL/$CORPUS.tagged_esc.$TL
 perl "$MOSESDECODER/clean-corpus-n.perl" data-$SL-$TL/$CORPUS.tagged_esc $SL $TL "data-$SL-$TL/$CORPUS.tag-clean" 1 40;
