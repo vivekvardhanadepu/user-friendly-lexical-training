@@ -1,13 +1,13 @@
-CORPUS="Europarl"
-PAIR="es-pt"
-SL="es"
-TL="pt"
+CORPUS="europarl-v7"
+PAIR="eng-spa"
+SL="eng"
+TL="spa"
 DATA="/home/vivek/Documents/FOSS/apertium/user-friendly-lexical-training/coding_challenges/apertium-$PAIR"
 
 LEX_TOOLS="/home/vivek/Documents/FOSS/apertium/apertium-lex-tools"
 SCRIPTS="$LEX_TOOLS/scripts"
-MOSESDECODER="/home/vivek/Documents/FOSS/apertium/mosesdecoder/scripts/training"
-TRAINING_LINES=1000
+# MOSESDECODER="/home/vivek/Documents/FOSS/apertium/mosesdecoder/scripts/training"
+TRAINING_LINES=100
 
 
 if [ ! -d data-$SL-$TL ]; then 
@@ -39,10 +39,11 @@ cat data-$SL-$TL/$CORPUS.tagged.$TL.new \
 	| sed 's/ /~/g' | sed 's/\$[^\^]*/$ /g' > data-$SL-$TL/$CORPUS.tagged.$TL
 rm data-$SL-$TL/*.new
 
+</dev/null paste -d '||| ' data-$SL-$TL/$CORPUS.tagged.$SL - - - data-$SL-$TL/$CORPUS.tagged.$TL > data-$SL-$TL/$CORPUS.tagged-merged.$SL-$TL
 
 # CLEAN CORPUS
-perl "$MOSESDECODER/../tokenizer/escape-special-chars.perl" \
-								< data-$SL-$TL/$CORPUS.tagged.$SL > data-$SL-$TL/$CORPUS.tagged_esc.$SL
-perl "$MOSESDECODER/../tokenizer/escape-special-chars.perl" \
-								< data-$SL-$TL/$CORPUS.tagged.$TL > data-$SL-$TL/$CORPUS.tagged_esc.$TL
-perl "$MOSESDECODER/clean-corpus-n.perl" data-$SL-$TL/$CORPUS.tagged_esc $SL $TL "data-$SL-$TL/$CORPUS.tag-clean" 1 40;
+# perl "$MOSESDECODER/../tokenizer/escape-special-chars.perl" \
+# 								< data-$SL-$TL/$CORPUS.tagged.$SL > data-$SL-$TL/$CORPUS.tagged_esc.$SL
+# perl "$MOSESDECODER/../tokenizer/escape-special-chars.perl" \
+# 								< data-$SL-$TL/$CORPUS.tagged.$TL > data-$SL-$TL/$CORPUS.tagged_esc.$TL
+# perl "$MOSESDECODER/clean-corpus-n.perl" data-$SL-$TL/$CORPUS.tagged_esc $SL $TL "data-$SL-$TL/$CORPUS.tag-clean" 1 40;
