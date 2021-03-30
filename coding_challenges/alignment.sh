@@ -15,9 +15,10 @@ FAST_ALIGN="$PROJ_HOME/fast_align/build"
 # ALIGN
 $FAST_ALIGN/fast_align -i data-$SL-$TL/$CORPUS.tagged-merged.$SL-$TL -d -o -v > data-$SL-$TL/$CORPUS.forward-align.$SL-$TL
 $FAST_ALIGN/fast_align -i data-$SL-$TL/$CORPUS.tagged-merged.$SL-$TL -d -o -v -r > data-$SL-$TL/$CORPUS.reverse-align.$SL-$TL
-$FAST_ALIGN/atools -i $PAIR-forward.align -j $PAIR-reverse.align -c grow-diag-final-and > data-$SL-$TL/$CORPUS.symm-align.$SL-$TL
+$FAST_ALIGN/atools -i $PAIR-forward.align -j $PAIR-reverse.align -c grow-diag-final-and
+# > data-$SL-$TL/$CORPUS.symm-align.$SL-$TL
 
-# cat data-$SL-$TL/$CORPUS.symm-align.$SL-$TL | cut -f 2 \
+# cat data-$SL-$TL/$CORPUS.reverse-align.$SL-$TL | cut -d " " -f 2 \
 #                 | $LEX_TOOLS/process-tagger-output $DATA/$SL-$TL.autobil.bin -b -t > data-$SL-$TL/$CORPUS.biltrans.$PAIR
 
 
