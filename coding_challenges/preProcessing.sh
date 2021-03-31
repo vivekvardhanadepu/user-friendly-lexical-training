@@ -39,7 +39,10 @@ cat data-$SL-$TL/$CORPUS.tagged.$TL.new \
 	| sed 's/ /~/g' | sed 's/\$[^\^]*/$ /g' > data-$SL-$TL/$CORPUS.tagged.$TL
 rm data-$SL-$TL/*.new
 
-</dev/null paste -d '||| ' data-$SL-$TL/$CORPUS.tagged.$SL - - - data-$SL-$TL/$CORPUS.tagged.$TL > data-$SL-$TL/$CORPUS.tagged-merged.$SL-$TL
+</dev/null paste -d '||| ' data-$SL-$TL/$CORPUS.tagged.$SL - - - data-$SL-$TL/$CORPUS.tagged.$TL \
+							> data-$SL-$TL/$CORPUS.tagged-merged.$SL-$TL
+cat "$CORPUS.$PAIR.$SL" | head -n $TRAINING_LINES | apertium -d "$DATA" $SL-$TL-biltrans \
+							> data-$SL-$TL/$CORPUS.biltrans.$SL-$TL
 
 # CLEAN CORPUS
 # perl "$MOSESDECODER/../tokenizer/escape-special-chars.perl" \
