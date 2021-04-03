@@ -29,21 +29,21 @@ $FAST_ALIGN/atools -i data-$SL-$TL/$CORPUS.forward-align.$SL-$TL -j data-$SL-$TL
 
 paste data-$SL-$TL/$CORPUS.tagged.$SL data-$SL-$TL/$CORPUS.tagged.$TL data-$SL-$TL/$CORPUS.reverse-align.$SL-$TL \
 	| sed 's/\t/ ||| /g' > data-$SL-$TL/$CORPUS.phrasetable.$SL-$TL
-	
+
 # TRIM TAGS
 cat data-$SL-$TL/$CORPUS.phrasetable.$SL-$TL | sed 's/ ||| /\t/g' | cut -f 1 \
 	| sed 's/~/ /g' | multitrans -p -t $DATA/$SL-$TL.autobil.bin> tmp1
-# sed -i -e '1,2d' tmp1
 
 cat data-$SL-$TL/$CORPUS.phrasetable.$SL-$TL | sed 's/ ||| /\t/g' | cut -f 2 \
 	| sed 's/~/ /g' | multitrans -p -t $DATA/$TL-$SL.autobil.bin > tmp2
-# sed -i -e '1,2d' tmp2
 
 cat data-$SL-$TL/$CORPUS.phrasetable.$SL-$TL | sed 's/ ||| /\t/g' | cut -f 3 > tmp3
 
-cat data-$SL-$TL/$CORPUS.phrasetable.$SL-$TL | sed 's/ ||| /\t/g' | cut -f 2 \
-	| sed 's/~/ /g' | multitrans -b -t $DATA/$TL-$SL.autobil.bin > data-$SL-$TL/$CORPUS.clean-biltrans.$PAIR
+# cat data-$SL-$TL/$CORPUS.phrasetable.$SL-$TL | sed 's/ ||| /\t/g' | cut -f 2 \
+# 	| sed 's/~/ /g' | multitrans -b -t $DATA/$TL-$SL.autobil.bin > data-$SL-$TL/$CORPUS.clean-biltrans.$PAIR
 # sed -i -e '1,2d' data-$SL-$TL/$CORPUS.clean-biltrans.$PAIR
+cat data-$SL-$TL/$CORPUS.phrasetable.$SL-$TL | sed 's/ ||| /\t/g' | cut -f 2 \
+	| sed 's/~/ /g' | lt-proc -b $DATA/$TL-$SL.autobil.bin > data-$SL-$TL/$CORPUS.clean-biltrans.$PAIR
 
 paste tmp1 tmp2 tmp3 | sed 's/\t/ ||| /g' > data-$SL-$TL/$CORPUS.phrasetable.$SL-$TL
 rm tmp1 tmp2 tmp3
