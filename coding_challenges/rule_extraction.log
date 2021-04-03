@@ -1,0 +1,32 @@
+\^de<pr>\$
+1 1 1
+I: 79 F: 6
+1 1 1
+I: 2 F: 1
+0. pp: 0.471861 er: 0.857143 erx: 0.857143 ppx: 0.471861
+1. pp: 0.594905 er: 0.857143 erx: 0.857143 ppx: 0.594905
+2. pp: 0.625382 er: 0.857143 erx: 0.857143 ppx: 0.625382
+3. pp: 0.414498 er: 0.857143 erx: 0.857143 ppx: 0.414498
+4. pp: 0.16441 er: 0.857143 erx: 0.857143 ppx: 0.16441
+5. pp: 0.0257622 er: 0.857143 erx: 0.857143 ppx: 0.0257622
+6. pp: 0.000632542 er: 0.857143 erx: 0.857143 ppx: 0.000632542
+7. pp: 3.81331e-07 er: 0.857143 erx: 0.857143 ppx: 3.81331e-07
+\^explosión<n><f><pl>\$
+1 1 1
+I: 13 F: 6
+1 1 1
+I: 1 F: 0
+I': 0
+0. pp: 0.333333 er: 0 erx: 0 ppx: 0.333333
+1. pp: 0.333333 er: 0 erx: 0 ppx: 0.333333
+^de<pr>$ 0 ^of<pr>$
+^de<pr>$ 1 ^during<pr>$
+^deseo<n><m><sg>$ 0 ^hope<n><sg>$
+^en<pr>$ 0 ^in<pr>$
+^presidente<n><f><sg>$ 0 ^president<n><sg>$
+^explosión<n><f><pl>$ 0 ^explosion<n><pl>$
+^explosión<n><f><pl>$ 1 ^bomb<n><sg>$
+Traceback (most recent call last):
+  File "/home/vivek/Documents/FOSS/apertium/apertium-lex-tools/scripts/lambdas-to-rules.py", line 61, in <module>
+    context = row[3].strip();
+IndexError: list index out of range

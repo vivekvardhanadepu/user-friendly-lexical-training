@@ -22,6 +22,8 @@ lang-models: make_lang_model.sh
 
 alignment and training: alignment.sh
 
+rule-extraction: rule_extraction.sh
+
 relevant logs in `.log`
 
 **Typical moses training:**(*without using apertium tools*)
