@@ -18,8 +18,8 @@ DATA="$PROJ_HOME/apertium-$PAIR"
 # ALIGN
 $FAST_ALIGN/fast_align -i data-$SL-$TL/$CORPUS.tagged-merged.$SL-$TL -d -o -v > data-$SL-$TL/$CORPUS.forward-align.$SL-$TL
 $FAST_ALIGN/fast_align -i data-$SL-$TL/$CORPUS.tagged-merged.$SL-$TL -d -o -v -r > data-$SL-$TL/$CORPUS.reverse-align.$SL-$TL
-$FAST_ALIGN/atools -i data-$SL-$TL/$CORPUS.forward-align.$SL-$TL -j data-$SL-$TL/$CORPUS.reverse-align.$SL-$TL\
-                 -c grow-diag-final-and
+# $FAST_ALIGN/atools -i data-$SL-$TL/$CORPUS.forward-align.$SL-$TL -j data-$SL-$TL/$CORPUS.reverse-align.$SL-$TL \
+#                  -c grow-diag-final-and
 
 # head -n $TRAINING_LINES $CORPUS.$PAIR.$SL > tmp1
 # head -n $TRAINING_LINES $CORPUS.$PAIR.$TL > tmp2

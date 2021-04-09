@@ -1,11 +1,84 @@
-\^de<pr>\$
+\^ámbito<n><m><sg>\$
+1 1 1
+I: 25 F: 6
+1 1 1
+I: 1 F: 0
+I': 0
+0. pp: 0.5 er: 1 erx: 1 ppx: 0.5
+1. pp: 0.5 er: 1 erx: 1 ppx: 0.5
+\^colega<n><mf><sg>\$
+1 1 1
+I: 45 F: 6
+1 1 1
+I: 2 F: 1
+0. pp: 0.408248 er: 0.5 erx: 0.5 ppx: 0.408248
+1. pp: 0.396781 er: 0.5 erx: 0.5 ppx: 0.396781
+2. pp: 0.187548 er: 0.5 erx: 0.5 ppx: 0.187548
+3. pp: 0.0266982 er: 0.5 erx: 0.5 ppx: 0.0266982
+4. pp: 0.000504695 er: 0.5 erx: 0.5 ppx: 0.000504695
+5. pp: 1.80112e-07 er: 0.5 erx: 0.5 ppx: 1.80112e-07
+\^conseguir<vblex><inf>\$
 1 1 1
 I: 77 F: 6
 1 1 1
 I: 1 F: 0
 I': 0
-0. pp: 0.471861 er: 0.857143 erx: 0.857143 ppx: 0.471861
-1. pp: 0.471861 er: 0.857143 erx: 0.857143 ppx: 0.471861
+0. pp: 0.102386 er: 0.75 erx: 0.75 ppx: 0.102386
+1. pp: 0.102386 er: 0.75 erx: 0.75 ppx: 0.102386
+\^decir<vblex><inf>\$
+1 1 1
+I: 69 F: 6
+1 1 1
+I: 9 F: 4
+0. pp: 0.417549 er: 0.555556 erx: 0.555556 ppx: 0.417549
+1. pp: 0.371957 er: 0.555556 erx: 0.555556 ppx: 0.371957
+2. pp: 0.362601 er: 0.555556 erx: 0.555556 ppx: 0.362601
+\^decir<vblex><pp><m><sg>\$
+1 1 1
+I: 25 F: 6
+1 1 1
+I: 1 F: 0
+I': 0
+0. pp: 0.408248 er: 0.5 erx: 0.5 ppx: 0.408248
+1. pp: 0.408248 er: 0.5 erx: 0.5 ppx: 0.408248
+\^de<pr>\$
+1 1 1
+I: 16678 F: 6
+1 1 1
+I: 91 F: 6
+0. pp: 0.0325318 er: 0.995238 erx: 0.995238 ppx: 0.0325318
+1. pp: 0.00050356 er: 0.995238 erx: 0.995238 ppx: 0.00050356
+2. pp: 0 er: 0.985714 erx: 0.985714 ppx: -nan
+\^disposición<n><f><pl>\$
+1 1 1
+I: 37 F: 6
+1 1 1
+I: 1 F: 0
+I': 0
+0. pp: 0.333333 er: 1 erx: 1 ppx: 0.333333
+1. pp: 0.333333 er: 1 erx: 1 ppx: 0.333333
+\^en<pr>\$
+1 1 1
+I: 3241 F: 6
+1 1 1
+I: 49 F: 6
+0. pp: 0.165978 er: 0.985294 erx: 0.985294 ppx: 0.165978
+1. pp: 0.166402 er: 0.985294 erx: 0.985294 ppx: 0.166402
+\^entre<pr>\$
+1 1 1
+I: 208 F: 6
+1 1 1
+I: 6 F: 4
+0. pp: 0.28317 er: 0.923077 erx: 0.923077 ppx: 0.28317
+1. pp: 0.28317 er: 0.923077 erx: 0.923077 ppx: 0.28317
+\^esfuerzo<n><m><pl>\$
+1 1 1
+I: 41 F: 6
+1 1 1
+I: 1 F: 0
+I': 0
+0. pp: 0.451801 er: 0.75 erx: 0.75 ppx: 0.451801
+1. pp: 0.451801 er: 0.75 erx: 0.75 ppx: 0.451801
 \^explosión<n><f><pl>\$
 1 1 1
 I: 13 F: 6
@@ -14,10 +87,211 @@ I: 1 F: 0
 I': 0
 0. pp: 0.333333 er: 0 erx: 0 ppx: 0.333333
 1. pp: 0.333333 er: 0 erx: 0 ppx: 0.333333
+\^fondo<n><m><pl>\$
+1 1 1
+I: 105 F: 6
+1 1 1
+I: 12 F: 6
+0. pp: 0.486666 er: 0.933333 erx: 0.933333 ppx: 0.486666
+1. pp: 0.486666 er: 0.933333 erx: 0.933333 ppx: 0.486666
+\^mínimo<adj><f><pl>\$
+1 1 1
+I: 27 F: 6
+1 1 1
+I: 4 F: 3
+0. pp: 0.5 er: 1 erx: 1 ppx: 0.5
+1. pp: 0.5 er: 1 erx: 1 ppx: 0.5
+\^parecer<vblex><pri><p3><pl>\$
+1 1 1
+I: 25 F: 6
+1 1 1
+I: 1 F: 0
+I': 0
+0. pp: 0.408248 er: 0.5 erx: 0.5 ppx: 0.408248
+1. pp: 0.408248 er: 0.5 erx: 0.5 ppx: 0.408248
+\^participar<vblex><inf>\$
+1 1 1
+I: 25 F: 6
+1 1 1
+I: 1 F: 0
+I': 0
+0. pp: 0.408248 er: 0.5 erx: 0.5 ppx: 0.408248
+1. pp: 0.408248 er: 0.5 erx: 0.5 ppx: 0.408248
+\^por<pr>\$
+1 1 1
+I: 931 F: 6
+1 1 1
+I: 17 F: 6
+0. pp: 0.1129 er: 0.954545 erx: 0.954545 ppx: 0.1129
+1. pp: 0.105629 er: 0.954545 erx: 0.954545 ppx: 0.105629
+\^sentido<n><m><sg>\$
+1 1 1
+I: 31 F: 6
+1 1 1
+I: 9 F: 6
+0. pp: 0.408248 er: 0.5 erx: 0.5 ppx: 0.408248
+1. pp: 0.311086 er: 0.5 erx: 0.5 ppx: 0.311086
+2. pp: 0.22571 er: 0.5 erx: 0.5 ppx: 0.22571
+3. pp: 0.219833 er: 0.5 erx: 0.5 ppx: 0.219833
+\^trabajo<n><m><sg>\$
+1 1 1
+I: 87 F: 6
+1 1 1
+I: 3 F: 1
+0. pp: 0.47529 er: 0.875 erx: 0.875 ppx: 0.47529
+1. pp: 0.647116 er: 0.875 erx: 0.875 ppx: 0.647116
+2. pp: 0.59649 er: 0.875 erx: 0.875 ppx: 0.59649
+3. pp: 0.326552 er: 0.875 erx: 0.875 ppx: 0.326552
+4. pp: 0.0943558 er: 0.875 erx: 0.875 ppx: 0.0943558
+5. pp: 0.00787573 er: 0.875 erx: 0.875 ppx: 0.00787573
+6. pp: 5.48701e-05 er: 0.875 erx: 0.875 ppx: 5.48701e-05
 ^de<pr>$ 0 ^of<pr>$
-^de<pr>$ 1 ^during<pr>$
-^deseo<n><m><sg>$ 0 ^hope<n><sg>$
+^de<pr>$ 1 ^for<pr>$
+^de<pr>$ 2 ^into<pr>$
+^de<pr>$ 3 ^from<pr>$
+^de<pr>$ 4 ^on<pr>$
+^de<pr>$ 5 ^with regard to<pr>$
+^de<pr>$ 6 ^at<pr>$
+^de<pr>$ 7 ^to<pr>$
+^de<pr>$ 8 ^in<pr>$
+^de<pr>$ 9 ^under<pr>$
+^de<pr>$ 10 ^out of<pr>$
+^de<pr>$ 11 ^because of<pr>$
+^de<pr>$ 12 ^owing to<pr>$
+^de<pr>$ 13 ^by means of<pr>$
+^de<pr>$ 14 ^out<pr>$
+^de<pr>$ 15 ^by<pr>$
+^de<pr>$ 16 ^about<pr>$
 ^en<pr>$ 0 ^in<pr>$
+^en<pr>$ 1 ^on<pr>$
+^en<pr>$ 2 ^at<pr>$
+^en<pr>$ 3 ^during<pr>$
+^en<pr>$ 4 ^of<pr>$
 ^presidente<n><f><sg>$ 0 ^president<n><sg>$
+^por<pr>$ 0 ^by<pr>$
+^por<pr>$ 1 ^on<pr>$
+^por<pr>$ 2 ^for<pr>$
+^por<pr>$ 3 ^as<pr>$
+^por<pr>$ 4 ^because of<pr>$
 ^explosión<n><f><pl>$ 0 ^explosion<n><pl>$
 ^explosión<n><f><pl>$ 1 ^bomb<n><sg>$
+^carta<n><f><sg>$ 0 ^letter<n><sg>$
+^presidente<n><m><sg>$ 0 ^president<n><sg>$
+^principio<n><m><sg>$ 0 ^principle<n><sg>$
+^principio<n><m><pl>$ 0 ^principle<n><pl>$
+^ganar<vblex><pri><p3><sg>$ 0 ^please<vblex><pp>$
+^canal<n><m><pl>$ 0 ^channel<n><pl>$
+^canal<n><m><sg>$ 0 ^channel<n><sg>$
+^decir<vblex><inf>$ 0 ^say<vblex><inf>$
+^decir<vblex><inf>$ 1 ^tell<vblex><inf>$
+^esperar<vblex><pri><p1><sg>$ 0 ^hope<vblex><pres>$
+^por qué<adv><itg>$ 0 ^why<adv><itg>$
+^edificio<n><m><sg>$ 0 ^building<n><sg>$
+^reunión<n><f><sg>$ 0 ^health<n><sg>$
+^aprobar<vblex><prs><p1><pl>$ 0 ^pass<vblex><pres>$
+^anterior<adj><mf><sg>$ 0 ^previous<adj>$
+^parecer<vblex><pri><p3><pl>$ 0 ^seem<vblex><pres>$
+^parecer<vblex><pri><p3><pl>$ 1 ^seem<vblex><pri><p3><sg>$
+^claro<adj><m><sg>$ 0 ^clear<adj><sint>$
+^renovar<vblex><inf>$ 0 ^renew<vblex><inf>$
+^considerar<vblex><ger>$ 0 ^consider<vblex><ger>$
+^deseo<n><m><sg>$ 0 ^wish<n><sg>$
+^decir<vblex><pp><m><sg>$ 0 ^say<vblex><pp>$
+^decir<vblex><pp><m><sg>$ 1 ^tell<vblex><pp>$
+^trabajo<n><m><pl>$ 0 ^agenda<n><sg>$
+^conferencia<n><f><sg>$ 0 ^conference<n><sg>$
+^presidente<n><m><pl>$ 0 ^president<n><pl>$
+^partido<n><m><sg>$ 0 ^party<n><sg>$
+^compromiso<n><m><sg>$ 0 ^commitment<n><sg>$
+^confianza<n><f><sg>$ 0 ^confidence<n><sg>$
+^tiempo<n><m><sg>$ 0 ^time<n><sg>$
+^entre<pr>$ 0 ^between<pr>$
+^entre<pr>$ 1 ^amongst<pr>$
+^entre<pr>$ 2 ^from<pr>$
+^reiterar<vblex><inf>$ 0 ^repeat<vblex><inf>$
+^retirar<vblex><prs><p3><sg>$ 0 ^request<vblex><ger>$
+^colega<n><mf><sg>$ 0 ^colleague<n><sg>$
+^colega<n><mf><sg>$ 1 ^member<n><sg>$
+^falta<n><f><sg>$ 0 ^lack<n><sg>$
+^consejo<n><m><sg>$ 0 ^council<n><sg>$
+^dejar<vblex><prs><p1><pl>$ 0 ^leave<vblex><inf>$
+^claro<adj><f><pl>$ 0 ^clear<adj><sint>$
+^llevar<vblex><cni><p3><pl>$ 0 ^consume<vblex><ger>$
+^registro<n><m><sg>$ 0 ^record<n><pl>$
+^correctamente<adv>$ 0 ^correctly<adv>$
+^política<n><f><sg>$ 0 ^policy<n><sg>$
+^mínimo<adj><f><pl>$ 0 ^minimum<adj>$
+^mínimo<adj><f><pl>$ 1 ^common<adj>$
+^alto<adj><m><sg>$ 0 ^high<adj><sint>$
+^sentido<n><m><sg>$ 0 ^sense<n><sg>$
+^sentido<n><m><sg>$ 1 ^principle<n><sg>$
+^cortar<vblex><ifi><p3><sg>$ 0 ^cut<vblex><pp>$
+^llevar<vblex><ifi><p3><sg>$ 0 ^stretch<vblex><pp>$
+^localidad<n><f><pl>$ 0 ^hell<n><sg>$
+^mayor<adj><mf><sg>$ 0 ^great<adj><sint><comp>$
+^llevar<vblex><pp><m><pl>$ 0 ^apply<vblex><pp>$
+^ámbito<n><m><sg>$ 0 ^sector<n><sg>$
+^ámbito<n><m><sg>$ 1 ^provision<n><pl>$
+^déficit<n><m><sg>$ 0 ^lack<n><sg>$
+^apoyar<vblex><inf>$ 0 ^support<vblex><inf>$
+^mínimo<adj><m><pl>$ 0 ^minimum<adj>$
+^pena<n><f><sg>$ 0 ^pity<n><sg>$
+^motivo<n><m><pl>$ 0 ^reason<n><pl>$
+^dedicar<vblex><inf>$ 0 ^pay<vblex><inf>$
+^fijar<vblex><imp><p3><pl>$ 0 ^think<vblex><inf>$
+^decir<vblex><pp><m><pl>$ 0 ^employ<vblex><inf>$
+^creciente<adj><mf><pl>$ 0 ^increasing<adj>$
+^ámbito<n><m><pl>$ 0 ^case<n><pl>$
+^emprender<vblex><inf>$ 0 ^work<vblex><inf>$
+^trabajo<n><m><sg>$ 0 ^work<n><sg>$
+^trabajo<n><m><sg>$ 1 ^job<n><sg>$
+^esperar<vblex><pri><p1><pl>$ 0 ^hope<vblex><pres>$
+^colega<n><mf><pl>$ 0 ^speaker<n><pl>$
+^disposición<n><f><pl>$ 0 ^provision<n><pl>$
+^disposición<n><f><pl>$ 1 ^deadline<n><pl>$
+^disposición<n><f><pl>$ 2 ^rule<n><pl>$
+^anexo<n><m><pl>$ 0 ^annex<n><pl>$
+^realizar<vblex><pp><m><sg>$ 0 ^do<vblex><pp>$
+^obligar<vblex><cni><p3><sg>$ 0 ^fail<vblex><pres>$
+^amor<n><m><sg>$ 0 ^love<n><sg>$
+^acordar<vblex><imp><p1><pl>$ 0 ^let<vblex><pp>$
+^esfuerzo<n><m><pl>$ 0 ^effort<n><pl>$
+^esfuerzo<n><m><pl>$ 1 ^play<n><sg>$
+^detener<vblex><pri><p3><sg>$ 0 ^stop<vblex><inf>$
+^concreto<adj><m><pl>$ 0 ^concrete<adj>$
+^fondo<n><m><pl>$ 0 ^fund<n><pl>$
+^fondo<n><m><pl>$ 1 ^funding<n><sg>$
+^considerar<vblex><pp><m><sg>$ 0 ^regard<vblex><pp>$
+^económico<adj><f><sg>$ 0 ^economic<adj>$
+^asegurar<vblex><prs><p3><sg>$ 0 ^ensure<vblex><pri><p3><sg>$
+^investigación<n><f><sg>$ 0 ^research<n><sg>$
+^empleo<n><m><sg>$ 0 ^employment<n><sg>$
+^enfermo<adj><m><sg>$ 0 ^ill<adj><sint>$
+^pasar<vblex><pp><m><sg>$ 0 ^view<vblex><pp>$
+^campo<n><m><pl>$ 0 ^field<n><pl>$
+^fondo<n><m><sg>$ 0 ^fund<n><sg>$
+^asegurar<vblex><inf>$ 0 ^reassure<vblex><inf>$
+^fuente<n><f><pl>$ 0 ^source<n><pl>$
+^red<n><f><pl>$ 0 ^network<n><pl>$
+^acentuar<vblex><pri><p3><pl>$ 0 ^exacerbate<vblex><pri><p3><sg>$
+^consecuencia<n><f><pl>$ 0 ^consequence<n><pl>$
+^empleo<n><m><pl>$ 0 ^job<n><pl>$
+^aprobar<vblex><prs><p3><pl>$ 0 ^take<vblex><pri><p3><sg>$
+^conseguir<vblex><inf>$ 0 ^achieve<vblex><inf>$
+^conseguir<vblex><inf>$ 1 ^achieve<vblex><ger>$
+^conseguir<vblex><inf>$ 2 ^carry<vblex><pp>$
+^conseguir<vblex><inf>$ 3 ^overcome<vblex><inf>$
+^participar<vblex><inf>$ 0 ^take# part<vblex><inf>$
+^participar<vblex><inf>$ 1 ^participate<vblex><inf>$
+^perder<vblex><pp><m><sg>$ 0 ^miss<vblex><pp>$
+^recordar<vblex><inf>$ 0 ^remind<vblex><inf>$
+^perder<vblex><ger>$ 0 ^lose<vblex><ger>$
+^dejar<vblex><inf>$ 0 ^be# left<vblex><inf>$
+^interpretación<n><f><sg>$ 0 ^interpretation<n><sg>$
+^dirección<n><f><sg>$ 0 ^coherence<n><sg>$
+^participar<vblex><prs><p3><pl>$ 0 ^involve<vblex><past>$
+^considerar<vblex><pri><p3><sg>$ 0 ^consider<vblex><pri><p3><sg>$
+^dejar<vblex><pp><m><sg>$ 0 ^have<vblex><pp>$
+^único<adj><m><sg>$ 0 ^mistaken<adj>$
+^próspero<adj><f><pl>$ 0 ^prosperous<adj>$
+^obligar<vblex><pri><p3><sg>$ 0 ^mean<vblex><pri><p3><sg>$

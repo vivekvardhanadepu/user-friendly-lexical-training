@@ -1,43 +1,43 @@
-1 	 ^reanudación<n><f><sg>$ ^de<pr>$
-2 	 ^de<pr>$ ^el<det><def><m><sg>$
-3 	 ^reanudación<n><f><sg>$ ^de<pr>$ ^el<det><def><m><sg>$
-4 	 ^de<pr>$ ^el<det><def><m><sg>$ ^periodo<n><m><sg>$
-5 	 ^periodo<n><m><sg>$ ^de<pr>$
-6 	 ^de<pr>$ ^sesión<n><f><pl>$
-7 	 ^periodo<n><m><sg>$ ^de<pr>$ ^sesión<n><f><pl>$
-8 	 ^el<det><def><m><sg>$ ^periodo<n><m><sg>$ ^de<pr>$
-9 	 ^de<pr>$ ^sesión<n><f><pl>$ ^de<pr>$
-10 	 ^el<det><def><m><sg>$ ^periodo<n><m><sg>$ ^de<pr>$ ^sesión<n><f><pl>$ ^de<pr>$
-11 	 ^mío<det><pos><mf><sg>$ ^deseo<n><m><sg>$
-12 	 ^deseo<n><m><sg>$ ^de que<cnjsub>$
-13 	 ^mío<det><pos><mf><sg>$ ^deseo<n><m><sg>$ ^de que<cnjsub>$
-14 	 ^*Señorías<>$ ^mío<det><pos><mf><sg>$ ^deseo<n><m><sg>$
-15 	 ^deseo<n><m><sg>$ ^de que<cnjsub>$ ^haber<vbhaver><prs><p3><pl>$
-16 	 ^*Señorías<>$ ^mío<det><pos><mf><sg>$ ^deseo<n><m><sg>$ ^de que<cnjsub>$ ^haber<vbhaver><prs><p3><pl>$
-17 	 ^vario<adj><m><pl>$ ^de<pr>$
-18 	 ^de<pr>$ ^nuestro<det><pos><m><pl>$
-19 	 ^vario<adj><m><pl>$ ^de<pr>$ ^nuestro<det><pos><m><pl>$
-20 	 ^de<pr>$ ^vario<adj><m><pl>$ ^de<pr>$
-21 	 ^de<pr>$ ^nuestro<det><pos><m><pl>$ ^país<n><m><pl>$
-22 	 ^de<pr>$ ^vario<adj><m><pl>$ ^de<pr>$ ^nuestro<det><pos><m><pl>$ ^país<n><m><pl>$
-23 	 ^curso<n><m><sg>$ ^de<pr>$
-24 	 ^de<pr>$ ^este<det><dem><m><sg>$
-25 	 ^curso<n><m><sg>$ ^de<pr>$ ^este<det><dem><m><sg>$
-26 	 ^el<det><def><m><sg>$ ^curso<n><m><sg>$ ^de<pr>$
-27 	 ^de<pr>$ ^este<det><dem><m><sg>$ ^periodo<n><m><sg>$
-28 	 ^el<det><def><m><sg>$ ^curso<n><m><sg>$ ^de<pr>$ ^este<det><dem><m><sg>$ ^periodo<n><m><sg>$
-29 	 ^minuto<n><m><sg>$ ^de<pr>$
-30 	 ^de<pr>$ ^silencio<n><m><sg>$
-31 	 ^minuto<n><m><sg>$ ^de<pr>$ ^silencio<n><m><sg>$
-32 	 ^uno<det><ind><m><sg>$ ^minuto<n><m><sg>$ ^de<pr>$
-33 	 ^de<pr>$ ^silencio<n><m><sg>$ ^en<pr>$
-34 	 ^uno<det><ind><m><sg>$ ^minuto<n><m><sg>$ ^de<pr>$ ^silencio<n><m><sg>$ ^en<pr>$
-35 	 ^,<cm>$ ^en<pr>$
-36 	 ^en<pr>$ ^el<det><def><m><pl>$
-37 	 ^,<cm>$ ^en<pr>$ ^el<det><def><m><pl>$
-38 	 ^tormenta<n><f><pl>$ ^,<cm>$ ^en<pr>$
-39 	 ^en<pr>$ ^el<det><def><m><pl>$ ^distinto<adj><m><pl>$
-40 	 ^tormenta<n><f><pl>$ ^,<cm>$ ^en<pr>$ ^el<det><def><m><pl>$ ^distinto<adj><m><pl>$
+1 	 ^periodo<n><m><sg>$ ^de<pr>$
+2 	 ^de<pr>$ ^sesión<n><f><pl>$
+3 	 ^periodo<n><m><sg>$ ^de<pr>$ ^sesión<n><f><pl>$
+4 	 ^el<det><def><m><sg>$ ^periodo<n><m><sg>$ ^de<pr>$
+5 	 ^de<pr>$ ^sesión<n><f><pl>$ ^de<pr>$
+6 	 ^el<det><def><m><sg>$ ^periodo<n><m><sg>$ ^de<pr>$ ^sesión<n><f><pl>$ ^de<pr>$
+7 	 ^vario<adj><m><pl>$ ^de<pr>$
+8 	 ^de<pr>$ ^nuestro<det><pos><m><pl>$
+9 	 ^vario<adj><m><pl>$ ^de<pr>$ ^nuestro<det><pos><m><pl>$
+10 	 ^de<pr>$ ^vario<adj><m><pl>$ ^de<pr>$
+11 	 ^de<pr>$ ^nuestro<det><pos><m><pl>$ ^país<n><m><pl>$
+12 	 ^de<pr>$ ^vario<adj><m><pl>$ ^de<pr>$ ^nuestro<det><pos><m><pl>$ ^país<n><m><pl>$
+13 	 ^,<cm>$ ^en<pr>$
+14 	 ^en<pr>$ ^el<det><def><m><sg>$
+15 	 ^,<cm>$ ^en<pr>$ ^el<det><def><m><sg>$
+16 	 ^día<n><m><pl>$ ^,<cm>$ ^en<pr>$
+17 	 ^en<pr>$ ^el<det><def><m><sg>$ ^curso<n><m><sg>$
+18 	 ^día<n><m><pl>$ ^,<cm>$ ^en<pr>$ ^el<det><def><m><sg>$ ^curso<n><m><sg>$
+19 	 ^minuto<n><m><sg>$ ^de<pr>$
+20 	 ^de<pr>$ ^silencio<n><m><sg>$
+21 	 ^minuto<n><m><sg>$ ^de<pr>$ ^silencio<n><m><sg>$
+22 	 ^uno<det><ind><m><sg>$ ^minuto<n><m><sg>$ ^de<pr>$
+23 	 ^de<pr>$ ^silencio<n><m><sg>$ ^en<pr>$
+24 	 ^uno<det><ind><m><sg>$ ^minuto<n><m><sg>$ ^de<pr>$ ^silencio<n><m><sg>$ ^en<pr>$
+25 	 ^silencio<n><m><sg>$ ^en<pr>$
+26 	 ^en<pr>$ ^memoria<n><f><sg>$
+27 	 ^silencio<n><m><sg>$ ^en<pr>$ ^memoria<n><f><sg>$
+28 	 ^en<pr>$ ^memoria<n><f><sg>$ ^de<pr>$
+29 	 ^de<pr>$ ^silencio<n><m><sg>$ ^en<pr>$ ^memoria<n><f><sg>$ ^de<pr>$
+30 	 ^en<pr>$ ^el<det><def><m><pl>$
+31 	 ^,<cm>$ ^en<pr>$ ^el<det><def><m><pl>$
+32 	 ^tormenta<n><f><pl>$ ^,<cm>$ ^en<pr>$
+33 	 ^en<pr>$ ^el<det><def><m><pl>$ ^distinto<adj><m><pl>$
+34 	 ^tormenta<n><f><pl>$ ^,<cm>$ ^en<pr>$ ^el<det><def><m><pl>$ ^distinto<adj><m><pl>$
+35 	 ^país<n><m><pl>$ ^de<pr>$
+36 	 ^de<pr>$ ^el<det><def><f><sg>$
+37 	 ^país<n><m><pl>$ ^de<pr>$ ^el<det><def><f><sg>$
+38 	 ^distinto<adj><m><pl>$ ^país<n><m><pl>$ ^de<pr>$
+39 	 ^de<pr>$ ^el<det><def><f><sg>$ ^unión<n><f><sg>$
+40 	 ^distinto<adj><m><pl>$ ^país<n><m><pl>$ ^de<pr>$ ^el<det><def><f><sg>$ ^unión<n><f><sg>$
 41 	 ^señor<n><f><sg>$ ^presidente<n><f><sg>$
 42 	 ^presidente<n><f><sg>$ ^,<cm>$
 43 	 ^señor<n><f><sg>$ ^presidente<n><f><sg>$ ^,<cm>$
@@ -48,24 +48,2872 @@
 48 	 ^uno<det><ind><f><sg>$ ^cuestión<n><f><sg>$ ^de<pr>$
 49 	 ^de<pr>$ ^procedimiento<n><m><sg>$ ^.<sent>$
 50 	 ^uno<det><ind><f><sg>$ ^cuestión<n><f><sg>$ ^de<pr>$ ^procedimiento<n><m><sg>$ ^.<sent>$
-51 	 ^de<pr>$ ^explosión<n><f><pl>$
-52 	 ^explosión<n><f><pl>$ ^y<cnjcoo>$
-53 	 ^de<pr>$ ^explosión<n><f><pl>$ ^y<cnjcoo>$
-54 	 ^serie<n><f><sg>$ ^de<pr>$ ^explosión<n><f><pl>$
-55 	 ^explosión<n><f><pl>$ ^y<cnjcoo>$ ^asesinato<n><m><pl>$
-56 	 ^serie<n><f><sg>$ ^de<pr>$ ^explosión<n><f><pl>$ ^y<cnjcoo>$ ^asesinato<n><m><pl>$
-57 	 ^asesinato<n><m><pl>$ ^en<pr>$
-58 	 ^en<pr>$ ^Sri Lanka<np><loc><m><sg>$
-59 	 ^asesinato<n><m><pl>$ ^en<pr>$ ^Sri Lanka<np><loc><m><sg>$
-60 	 ^y<cnjcoo>$ ^asesinato<n><m><pl>$ ^en<pr>$
-61 	 ^en<pr>$ ^Sri Lanka<np><loc><m><sg>$ ^.<sent>$
-62 	 ^y<cnjcoo>$ ^asesinato<n><m><pl>$ ^en<pr>$ ^Sri Lanka<np><loc><m><sg>$ ^.<sent>$
-63 	 ^uno<prn><tn><f><sg>$ ^de<pr>$
-64 	 ^de<pr>$ ^el<det><def><f><pl>$
-65 	 ^uno<prn><tn><f><sg>$ ^de<pr>$ ^el<det><def><f><pl>$
-66 	 ^de<pr>$ ^el<det><def><f><pl>$ ^persona<n><f><pl>$
-67 	 ^asesinar<vblex><pp><m><sg>$ ^en<pr>$
-68 	 ^asesinar<vblex><pp><m><sg>$ ^en<pr>$ ^Sri Lanka<np><loc><m><sg>$
-69 	 ^haber<vbhaver><pri><p3><pl>$ ^asesinar<vblex><pp><m><sg>$ ^en<pr>$
-70 	 ^en<pr>$ ^Sri Lanka<np><loc><m><sg>$ ^haber<vbhaver><pri><p3><sg>$
-71 	 ^haber<vbhaver><pri><p3><pl>$ ^asesinar<vblex><pp><m><sg>$ ^en<pr>$ ^Sri Lanka<np><loc><m><sg>$ ^haber<vbhaver><pri><p3><sg>$
+51 	 ^serie<n><f><sg>$ ^de<pr>$
+52 	 ^de<pr>$ ^explosión<n><f><pl>$
+53 	 ^serie<n><f><sg>$ ^de<pr>$ ^explosión<n><f><pl>$
+54 	 ^uno<det><ind><f><sg>$ ^serie<n><f><sg>$ ^de<pr>$
+55 	 ^de<pr>$ ^explosión<n><f><pl>$ ^y<cnjcoo>$
+56 	 ^uno<det><ind><f><sg>$ ^serie<n><f><sg>$ ^de<pr>$ ^explosión<n><f><pl>$ ^y<cnjcoo>$
+57 	 ^explosión<n><f><pl>$ ^y<cnjcoo>$
+58 	 ^explosión<n><f><pl>$ ^y<cnjcoo>$ ^asesinato<n><m><pl>$
+59 	 ^serie<n><f><sg>$ ^de<pr>$ ^explosión<n><f><pl>$ ^y<cnjcoo>$ ^asesinato<n><m><pl>$
+60 	 ^asesinato<n><m><pl>$ ^en<pr>$
+61 	 ^en<pr>$ ^Sri Lanka<np><loc><m><sg>$
+62 	 ^asesinato<n><m><pl>$ ^en<pr>$ ^Sri Lanka<np><loc><m><sg>$
+63 	 ^y<cnjcoo>$ ^asesinato<n><m><pl>$ ^en<pr>$
+64 	 ^en<pr>$ ^Sri Lanka<np><loc><m><sg>$ ^.<sent>$
+65 	 ^y<cnjcoo>$ ^asesinato<n><m><pl>$ ^en<pr>$ ^Sri Lanka<np><loc><m><sg>$ ^.<sent>$
+66 	 ^uno<prn><tn><f><sg>$ ^de<pr>$
+67 	 ^de<pr>$ ^el<det><def><f><pl>$
+68 	 ^uno<prn><tn><f><sg>$ ^de<pr>$ ^el<det><def><f><pl>$
+69 	 ^de<pr>$ ^el<det><def><f><pl>$ ^persona<n><f><pl>$
+70 	 ^,<cm>$ ^señor<n><f><sg>$ ^presidente<n><f><sg>$
+71 	 ^presidente<n><f><sg>$ ^,<cm>$ ^escribir<vblex><pis><p3><sg>$
+72 	 ^,<cm>$ ^señor<n><f><sg>$ ^presidente<n><f><sg>$ ^,<cm>$ ^escribir<vblex><pis><p3><sg>$
+73 	 ^uno<det><ind><f><sg>$ ^carta<n><f><sg>$
+74 	 ^carta<n><f><sg>$ ^a<pr>$
+75 	 ^uno<det><ind><f><sg>$ ^carta<n><f><sg>$ ^a<pr>$
+76 	 ^escribir<vblex><pis><p3><sg>$ ^uno<det><ind><f><sg>$ ^carta<n><f><sg>$
+77 	 ^carta<n><f><sg>$ ^a<pr>$ ^el<det><def><m><sg>$
+78 	 ^escribir<vblex><pis><p3><sg>$ ^uno<det><ind><f><sg>$ ^carta<n><f><sg>$ ^a<pr>$ ^el<det><def><m><sg>$
+79 	 ^el<det><def><m><sg>$ ^presidente<n><m><sg>$
+80 	 ^presidente<n><m><sg>$ ^de<pr>$
+81 	 ^el<det><def><m><sg>$ ^presidente<n><m><sg>$ ^de<pr>$
+82 	 ^a<pr>$ ^el<det><def><m><sg>$ ^presidente<n><m><sg>$
+83 	 ^presidente<n><m><sg>$ ^de<pr>$ ^Sri Lanka<np><loc><m><sg>$
+84 	 ^a<pr>$ ^el<det><def><m><sg>$ ^presidente<n><m><sg>$ ^de<pr>$ ^Sri Lanka<np><loc><m><sg>$
+85 	 ^propuesta<n><f><sg>$ ^en<pr>$
+86 	 ^propuesta<n><f><sg>$ ^en<pr>$ ^el<det><def><m><sg>$
+87 	 ^uno<det><ind><f><sg>$ ^propuesta<n><f><sg>$ ^en<pr>$
+88 	 ^en<pr>$ ^el<det><def><m><sg>$ ^apartado<n><m><sg>$
+89 	 ^uno<det><ind><f><sg>$ ^propuesta<n><f><sg>$ ^en<pr>$ ^el<det><def><m><sg>$ ^apartado<n><m><sg>$
+90 	 ^forma<n><f><sg>$ ^de<pr>$
+91 	 ^de<pr>$ ^penalización<n><f><pl>$
+92 	 ^forma<n><f><sg>$ ^de<pr>$ ^penalización<n><f><pl>$
+93 	 ^uno<det><ind><f><sg>$ ^forma<n><f><sg>$ ^de<pr>$
+94 	 ^de<pr>$ ^penalización<n><f><pl>$ ^basar<vblex><pp><f><sg>$
+95 	 ^uno<det><ind><f><sg>$ ^forma<n><f><sg>$ ^de<pr>$ ^penalización<n><f><pl>$ ^basar<vblex><pp><f><sg>$
+96 	 ^el<det><def><m><sg>$ ^principio<n><m><sg>$
+97 	 ^principio<n><m><sg>$ ^de<pr>$
+98 	 ^el<det><def><m><sg>$ ^principio<n><m><sg>$ ^de<pr>$
+99 	 ^a pesar de<pr>$ ^el<det><def><m><sg>$ ^principio<n><m><sg>$
+100 	 ^principio<n><m><sg>$ ^de<pr>$ ^estabilidad<n><f><sg>$
+101 	 ^a pesar de<pr>$ ^el<det><def><m><sg>$ ^principio<n><m><sg>$ ^de<pr>$ ^estabilidad<n><f><sg>$
+102 	 ^de<pr>$ ^estabilidad<n><f><sg>$
+103 	 ^de<pr>$ ^estabilidad<n><f><sg>$ ^relativo<adj><f><sg>$
+104 	 ^el<det><def><m><sg>$ ^principio<n><m><sg>$ ^de<pr>$ ^estabilidad<n><f><sg>$ ^relativo<adj><f><sg>$
+105 	 ^creer# que<vblex><pri><p1><sg>$ ^el<det><def><m><sg>$ ^principio<n><m><sg>$
+106 	 ^creer# que<vblex><pri><p1><sg>$ ^el<det><def><m><sg>$ ^principio<n><m><sg>$ ^de<pr>$ ^estabilidad<n><f><sg>$
+107 	 ^uno<det><ind><m><sg>$ ^principio<n><m><sg>$
+108 	 ^principio<n><m><sg>$ ^legal<adj><mf><sg>$
+109 	 ^uno<det><ind><m><sg>$ ^principio<n><m><sg>$ ^legal<adj><mf><sg>$
+110 	 ^ser<vbser><pri><p3><sg>$ ^uno<det><ind><m><sg>$ ^principio<n><m><sg>$
+111 	 ^principio<n><m><sg>$ ^legal<adj><mf><sg>$ ^fundamental<adj><mf><sg>$
+112 	 ^ser<vbser><pri><p3><sg>$ ^uno<det><ind><m><sg>$ ^principio<n><m><sg>$ ^legal<adj><mf><sg>$ ^fundamental<adj><mf><sg>$
+113 	 ^tipo<n><m><sg>$ ^de<pr>$
+114 	 ^de<pr>$ ^objeción<n><f><sg>$
+115 	 ^tipo<n><m><sg>$ ^de<pr>$ ^objeción<n><f><sg>$
+116 	 ^este<det><dem><m><sg>$ ^tipo<n><m><sg>$ ^de<pr>$
+117 	 ^de<pr>$ ^objeción<n><f><sg>$ ^a<pr>$
+118 	 ^este<det><dem><m><sg>$ ^tipo<n><m><sg>$ ^de<pr>$ ^objeción<n><f><sg>$ ^a<pr>$
+119 	 ^presidente<n><f><sg>$ ^,<cm>$ ^coincidir<vblex><ger>$
+120 	 ^sesión<n><f><pl>$ ^de<pr>$
+121 	 ^de<pr>$ ^este año<adv>$
+122 	 ^sesión<n><f><pl>$ ^de<pr>$ ^este año<adv>$
+123 	 ^de<pr>$ ^este año<adv>$ ^de<pr>$
+124 	 ^de<pr>$ ^sesión<n><f><pl>$ ^de<pr>$ ^este año<adv>$ ^de<pr>$
+125 	 ^en<pr>$ ^Texas<np><loc><m><sg>$
+126 	 ^,<cm>$ ^en<pr>$ ^Texas<np><loc><m><sg>$
+127 	 ^Estados Unidos<np><loc><m><pl>$ ^,<cm>$ ^en<pr>$
+128 	 ^en<pr>$ ^Texas<np><loc><m><sg>$ ^,<cm>$
+129 	 ^Estados Unidos<np><loc><m><pl>$ ^,<cm>$ ^en<pr>$ ^Texas<np><loc><m><sg>$ ^,<cm>$
+130 	 ^a petición<adv>$ ^de<pr>$
+131 	 ^de<pr>$ ^uno<det><ind><m><sg>$
+132 	 ^a petición<adv>$ ^de<pr>$ ^uno<det><ind><m><sg>$
+133 	 ^de<pr>$ ^uno<det><ind><m><sg>$ ^diputado<n><m><sg>$
+134 	 ^y<cnjcoo>$ ^por<pr>$
+135 	 ^por<pr>$ ^todo<predet><f><sg>$
+136 	 ^y<cnjcoo>$ ^por<pr>$ ^todo<predet><f><sg>$
+137 	 ^europeo<adj><m><sg>$ ^y<cnjcoo>$ ^por<pr>$
+138 	 ^por<pr>$ ^todo<predet><f><sg>$ ^el<det><def><f><sg>$
+139 	 ^europeo<adj><m><sg>$ ^y<cnjcoo>$ ^por<pr>$ ^todo<predet><f><sg>$ ^el<det><def><f><sg>$
+140 	 ^prestigio<n><m><sg>$ ^de<pr>$
+141 	 ^de<pr>$ ^suyo<det><pos><mf><sg>$
+142 	 ^prestigio<n><m><sg>$ ^de<pr>$ ^suyo<det><pos><mf><sg>$
+143 	 ^el<det><def><m><sg>$ ^prestigio<n><m><sg>$ ^de<pr>$
+144 	 ^de<pr>$ ^suyo<det><pos><mf><sg>$ ^cargo<n><m><sg>$
+145 	 ^el<det><def><m><sg>$ ^prestigio<n><m><sg>$ ^de<pr>$ ^suyo<det><pos><mf><sg>$ ^cargo<n><m><sg>$
+146 	 ^y<cnjcoo>$ ^de<pr>$
+147 	 ^y<cnjcoo>$ ^de<pr>$ ^el<det><def><f><sg>$
+148 	 ^cargo<n><m><sg>$ ^y<cnjcoo>$ ^de<pr>$
+149 	 ^de<pr>$ ^el<det><def><f><sg>$ ^institución<n><f><sg>$
+150 	 ^cargo<n><m><sg>$ ^y<cnjcoo>$ ^de<pr>$ ^el<det><def><f><sg>$ ^institución<n><f><sg>$
+151 	 ^de<pr>$ ^*indultar<>$
+152 	 ^y<cnjcoo>$ ^de<pr>$ ^*indultar<>$
+153 	 ^muerte<n><f><sg>$ ^y<cnjcoo>$ ^de<pr>$
+154 	 ^de<pr>$ ^*indultar<>$ ^a<pr>$
+155 	 ^muerte<n><f><sg>$ ^y<cnjcoo>$ ^de<pr>$ ^*indultar<>$ ^a<pr>$
+156 	 ^el<det><def><m><pl>$ ^principio<n><m><pl>$
+157 	 ^principio<n><m><pl>$ ^que<rel><an><mf><sp>$
+158 	 ^el<det><def><m><pl>$ ^principio<n><m><pl>$ ^que<rel><an><mf><sp>$
+159 	 ^con<pr>$ ^el<det><def><m><pl>$ ^principio<n><m><pl>$
+160 	 ^principio<n><m><pl>$ ^que<rel><an><mf><sp>$ ^siempre<adv>$
+161 	 ^con<pr>$ ^el<det><def><m><pl>$ ^principio<n><m><pl>$ ^que<rel><an><mf><sp>$ ^siempre<adv>$
+162 	 ^presidente<n><f><sg>$ ^,<cm>$ ^querer<vbmod><pis><p3><sg>$
+163 	 ^caso<n><m><sg>$ ^de<pr>$
+164 	 ^de<pr>$ ^Alexander<np><ant><m><sg>$
+165 	 ^caso<n><m><sg>$ ^de<pr>$ ^Alexander<np><ant><m><sg>$
+166 	 ^el<det><def><m><sg>$ ^caso<n><m><sg>$ ^de<pr>$
+167 	 ^de<pr>$ ^Alexander<np><ant><m><sg>$ ^*Nikitin<>$
+168 	 ^el<det><def><m><sg>$ ^caso<n><m><sg>$ ^de<pr>$ ^Alexander<np><ant><m><sg>$ ^*Nikitin<>$
+169 	 ^*plenaria<>$ ^de<pr>$
+170 	 ^de<pr>$ ^el<det><def><m><sg>$
+171 	 ^*plenaria<>$ ^de<pr>$ ^el<det><def><m><sg>$
+172 	 ^sesión<n><f><sg>$ ^*plenaria<>$ ^de<pr>$
+173 	 ^de<pr>$ ^el<det><def><m><sg>$ ^año<n><m><sg>$
+174 	 ^sesión<n><f><sg>$ ^*plenaria<>$ ^de<pr>$ ^el<det><def><m><sg>$ ^año<n><m><sg>$
+175 	 ^de<pr>$ ^traición<n><f><sg>$
+176 	 ^y<cnjcoo>$ ^de<pr>$ ^traición<n><f><sg>$
+177 	 ^criminal<adj><mf><sg>$ ^y<cnjcoo>$ ^de<pr>$
+178 	 ^de<pr>$ ^traición<n><f><sg>$ ^,<cm>$
+179 	 ^criminal<adj><mf><sg>$ ^y<cnjcoo>$ ^de<pr>$ ^traición<n><f><sg>$ ^,<cm>$
+180 	 ^afectar<vblex><pp><m><pl>$ ^por<pr>$
+181 	 ^por<pr>$ ^suyo<det><pos><mf><pl>$
+182 	 ^afectar<vblex><pp><m><pl>$ ^por<pr>$ ^suyo<det><pos><mf><pl>$
+183 	 ^como<cnjadv>$ ^afectar<vblex><pp><m><pl>$ ^por<pr>$
+184 	 ^por<pr>$ ^suyo<det><pos><mf><pl>$ ^resultado<n><m><pl>$
+185 	 ^como<cnjadv>$ ^afectar<vblex><pp><m><pl>$ ^por<pr>$ ^suyo<det><pos><mf><pl>$ ^resultado<n><m><pl>$
+186 	 ^base<n><f><sg>$ ^de<pr>$
+187 	 ^de<pr>$ ^el<det><def><m><pl>$
+188 	 ^base<n><f><sg>$ ^de<pr>$ ^el<det><def><m><pl>$
+189 	 ^el<det><def><f><sg>$ ^base<n><f><sg>$ ^de<pr>$
+190 	 ^de<pr>$ ^el<det><def><m><pl>$ ^programa<n><m><pl>$
+191 	 ^el<det><def><f><sg>$ ^base<n><f><sg>$ ^de<pr>$ ^el<det><def><m><pl>$ ^programa<n><m><pl>$
+192 	 ^de<pr>$ ^carta<n><f><sg>$
+193 	 ^carta<n><f><sg>$ ^que<rel><an><mf><sp>$
+194 	 ^de<pr>$ ^carta<n><f><sg>$ ^que<rel><an><mf><sp>$
+195 	 ^borrador<n><m><sg>$ ^de<pr>$ ^carta<n><f><sg>$
+196 	 ^carta<n><f><sg>$ ^que<rel><an><mf><sp>$ ^prpers<prn><pro><p3><mf><sg>$
+197 	 ^borrador<n><m><sg>$ ^de<pr>$ ^carta<n><f><sg>$ ^que<rel><an><mf><sp>$ ^prpers<prn><pro><p3><mf><sg>$
+198 	 ^bueno<adj><f><sg>$ ^ganar<vblex><pri><p3><sg>$
+199 	 ^ganar<vblex><pri><p3><sg>$ ^ir<vblex><pri><p1><sg>$
+200 	 ^bueno<adj><f><sg>$ ^ganar<vblex><pri><p3><sg>$ ^ir<vblex><pri><p1><sg>$
+201 	 ^de<pr>$ ^bueno<adj><f><sg>$ ^ganar<vblex><pri><p3><sg>$
+202 	 ^ganar<vblex><pri><p3><sg>$ ^ir<vblex><pri><p1><sg>$ ^a<pr>$
+203 	 ^de<pr>$ ^bueno<adj><f><sg>$ ^ganar<vblex><pri><p3><sg>$ ^ir<vblex><pri><p1><sg>$ ^a<pr>$
+204 	 ^suyo<det><pos><mf><sg>$ ^carta<n><f><sg>$
+205 	 ^carta<n><f><sg>$ ^.<sent>$
+206 	 ^suyo<det><pos><mf><sg>$ ^carta<n><f><sg>$ ^.<sent>$
+207 	 ^recibir<vblex><prs><p3><sg>$ ^suyo<det><pos><mf><sg>$ ^carta<n><f><sg>$
+208 	 ^recibir<vblex><prs><p3><sg>$ ^suyo<det><pos><mf><sg>$ ^carta<n><f><sg>$ ^.<sent>$
+209 	 ^presidente<n><f><sg>$ ^,<cm>$ ^en primer lugar<adv>$
+210 	 ^número<n><m><sg>$ ^de<pr>$
+211 	 ^de<pr>$ ^canal<n><m><pl>$
+212 	 ^número<n><m><sg>$ ^de<pr>$ ^canal<n><m><pl>$
+213 	 ^el<det><def><m><sg>$ ^número<n><m><sg>$ ^de<pr>$
+214 	 ^de<pr>$ ^canal<n><m><pl>$ ^en<pr>$
+215 	 ^el<det><def><m><sg>$ ^número<n><m><sg>$ ^de<pr>$ ^canal<n><m><pl>$ ^en<pr>$
+216 	 ^canal<n><m><pl>$ ^en<pr>$
+217 	 ^canal<n><m><pl>$ ^en<pr>$ ^nuestro<det><pos><m><pl>$
+218 	 ^número<n><m><sg>$ ^de<pr>$ ^canal<n><m><pl>$ ^en<pr>$ ^nuestro<det><pos><m><pl>$
+219 	 ^en<pr>$ ^nuestro<det><pos><m><pl>$
+220 	 ^en<pr>$ ^nuestro<det><pos><m><pl>$ ^despacho<n><m><pl>$
+221 	 ^de<pr>$ ^canal<n><m><pl>$ ^en<pr>$ ^nuestro<det><pos><m><pl>$ ^despacho<n><m><pl>$
+222 	 ^presidente<n><f><sg>$ ^,<cm>$ ^no<adv>$
+223 	 ^,<cm>$ ^señor<n><f><sg>$ ^presidente<n><f><sg>$ ^,<cm>$ ^no<adv>$
+224 	 ^dos<num><mf><sp>$ ^canal<n><m><pl>$
+225 	 ^canal<n><m><pl>$ ^finlandés<adj><m><pl>$
+226 	 ^dos<num><mf><sp>$ ^canal<n><m><pl>$ ^finlandés<adj><m><pl>$
+227 	 ^hay<vblex><pri><p3><sg>$ ^dos<num><mf><sp>$ ^canal<n><m><pl>$
+228 	 ^canal<n><m><pl>$ ^finlandés<adj><m><pl>$ ^y<cnjcoo>$
+229 	 ^hay<vblex><pri><p3><sg>$ ^dos<num><mf><sp>$ ^canal<n><m><pl>$ ^finlandés<adj><m><pl>$ ^y<cnjcoo>$
+230 	 ^poder<vbmod><pri><p1><sg>$ ^decir<vblex><inf>$
+231 	 ^decir<vblex><inf>$ ^prpers<prn><enc><p3><mf><sg>$
+232 	 ^poder<vbmod><pri><p1><sg>$ ^decir<vblex><inf>$ ^prpers<prn><enc><p3><mf><sg>$
+233 	 ^,<cm>$ ^poder<vbmod><pri><p1><sg>$ ^decir<vblex><inf>$
+234 	 ^decir<vblex><inf>$ ^prpers<prn><enc><p3><mf><sg>$ ^que<cnjsub>$
+235 	 ^,<cm>$ ^poder<vbmod><pri><p1><sg>$ ^decir<vblex><inf>$ ^prpers<prn><enc><p3><mf><sg>$ ^que<cnjsub>$
+236 	 ^presidente<n><f><sg>$ ^,<cm>$ ^¿<lquest>$
+237 	 ^prpers<prn><enc><p1><mf><sg>$ ^por qué<adv><itg>$
+238 	 ^por qué<adv><itg>$ ^este<det><dem><m><sg>$
+239 	 ^prpers<prn><enc><p1><mf><sg>$ ^por qué<adv><itg>$ ^este<det><dem><m><sg>$
+240 	 ^decir<vblex><inf>$ ^prpers<prn><enc><p1><mf><sg>$ ^por qué<adv><itg>$
+241 	 ^por qué<adv><itg>$ ^este<det><dem><m><sg>$ ^parlamento<n><m><sg>$
+242 	 ^decir<vblex><inf>$ ^prpers<prn><enc><p1><mf><sg>$ ^por qué<adv><itg>$ ^este<det><dem><m><sg>$ ^parlamento<n><m><sg>$
+243 	 ^este<det><dem><m><sg>$ ^edificio<n><m><sg>$
+244 	 ^edificio<n><m><sg>$ ^desde que<cnjadv>$
+245 	 ^este<det><dem><m><sg>$ ^edificio<n><m><sg>$ ^desde que<cnjadv>$
+246 	 ^de<pr>$ ^este<det><dem><m><sg>$ ^edificio<n><m><sg>$
+247 	 ^edificio<n><m><sg>$ ^desde que<cnjadv>$ ^haber<vbhaver><pri><p1><pl>$
+248 	 ^de<pr>$ ^este<det><dem><m><sg>$ ^edificio<n><m><sg>$ ^desde que<cnjadv>$ ^haber<vbhaver><pri><p1><pl>$
+249 	 ^ninguno<det><ind><f><sg>$ ^reunión<n><f><sg>$
+250 	 ^reunión<n><f><sg>$ ^de<pr>$
+251 	 ^ninguno<det><ind><f><sg>$ ^reunión<n><f><sg>$ ^de<pr>$
+252 	 ^celebrar<vblex><pp><m><sg>$ ^ninguno<det><ind><f><sg>$ ^reunión<n><f><sg>$
+253 	 ^reunión<n><f><sg>$ ^de<pr>$ ^el<det><def><m><sg>$
+254 	 ^celebrar<vblex><pp><m><sg>$ ^ninguno<det><ind><f><sg>$ ^reunión<n><f><sg>$ ^de<pr>$ ^el<det><def><m><sg>$
+255 	 ^ni<cnjcoo>$ ^en<pr>$
+256 	 ^ni<cnjcoo>$ ^en<pr>$ ^el<det><def><m><pl>$
+257 	 ^simulacro# de incendio<n><m><pl>$ ^ni<cnjcoo>$ ^en<pr>$
+258 	 ^en<pr>$ ^el<det><def><m><pl>$ ^edificio<n><m><pl>$
+259 	 ^simulacro# de incendio<n><m><pl>$ ^ni<cnjcoo>$ ^en<pr>$ ^el<det><def><m><pl>$ ^edificio<n><m><pl>$
+260 	 ^que<rel><an><mf><sp>$ ^aprobar<vblex><prs><p1><pl>$
+261 	 ^aprobar<vblex><prs><p1><pl>$ ^uno<det><ind><f><sg>$
+262 	 ^que<rel><an><mf><sp>$ ^aprobar<vblex><prs><p1><pl>$ ^uno<det><ind><f><sg>$
+263 	 ^vergonzoso<adj><m><sg>$ ^que<rel><an><mf><sp>$ ^aprobar<vblex><prs><p1><pl>$
+264 	 ^aprobar<vblex><prs><p1><pl>$ ^uno<det><ind><f><sg>$ ^legislación<n><f><sg>$
+265 	 ^vergonzoso<adj><m><sg>$ ^que<rel><an><mf><sp>$ ^aprobar<vblex><prs><p1><pl>$ ^uno<det><ind><f><sg>$ ^legislación<n><f><sg>$
+266 	 ^junta<n><f><sg>$ ^de<pr>$
+267 	 ^de<pr>$ ^*Cuestores<>$
+268 	 ^junta<n><f><sg>$ ^de<pr>$ ^*Cuestores<>$
+269 	 ^el<det><def><f><sg>$ ^junta<n><f><sg>$ ^de<pr>$
+270 	 ^de<pr>$ ^*Cuestores<>$ ^,<cm>$
+271 	 ^el<det><def><f><sg>$ ^junta<n><f><sg>$ ^de<pr>$ ^*Cuestores<>$ ^,<cm>$
+272 	 ^incluir<vblex><pp><m><sg>$ ^en<pr>$
+273 	 ^incluir<vblex><pp><m><sg>$ ^en<pr>$ ^el<det><def><m><sg>$
+274 	 ^haber<vbhaver><pri><p3><pl>$ ^incluir<vblex><pp><m><sg>$ ^en<pr>$
+275 	 ^en<pr>$ ^el<det><def><m><sg>$ ^orden# del día<n><m><sg>$
+276 	 ^haber<vbhaver><pri><p3><pl>$ ^incluir<vblex><pp><m><sg>$ ^en<pr>$ ^el<det><def><m><sg>$ ^orden# del día<n><m><sg>$
+277 	 ^orden# del día<n><m><sg>$ ^por<pr>$
+278 	 ^por<pr>$ ^considerar<vblex><inf>$
+279 	 ^orden# del día<n><m><sg>$ ^por<pr>$ ^considerar<vblex><inf>$
+280 	 ^el<det><def><m><sg>$ ^orden# del día<n><m><sg>$ ^por<pr>$
+281 	 ^por<pr>$ ^considerar<vblex><inf>$ ^que<cnjsub>$
+282 	 ^el<det><def><m><sg>$ ^orden# del día<n><m><sg>$ ^por<pr>$ ^considerar<vblex><inf>$ ^que<cnjsub>$
+283 	 ^contestar<vblex><pp><f><pl>$ ^en<pr>$
+284 	 ^en<pr>$ ^uno<det><ind><f><sg>$
+285 	 ^contestar<vblex><pp><f><pl>$ ^en<pr>$ ^uno<det><ind><f><sg>$
+286 	 ^ser<vbser><pp><m><sg>$ ^contestar<vblex><pp><f><pl>$ ^en<pr>$
+287 	 ^en<pr>$ ^uno<det><ind><f><sg>$ ^sesión<n><f><sg>$
+288 	 ^ser<vbser><pp><m><sg>$ ^contestar<vblex><pp><f><pl>$ ^en<pr>$ ^uno<det><ind><f><sg>$ ^sesión<n><f><sg>$
+289 	 ^sesión<n><f><sg>$ ^anterior<adj><mf><sg>$
+290 	 ^anterior<adj><mf><sg>$ ^.<sent>$
+291 	 ^sesión<n><f><sg>$ ^anterior<adj><mf><sg>$ ^.<sent>$
+292 	 ^uno<det><ind><f><sg>$ ^sesión<n><f><sg>$ ^anterior<adj><mf><sg>$
+293 	 ^uno<det><ind><f><sg>$ ^sesión<n><f><sg>$ ^anterior<adj><mf><sg>$ ^.<sent>$
+294 	 ^aparecer<vblex><pp><f><pl>$ ^en<pr>$
+295 	 ^aparecer<vblex><pp><f><pl>$ ^en<pr>$ ^el<det><def><m><sg>$
+296 	 ^declaración<n><f><pl>$ ^aparecer<vblex><pp><f><pl>$ ^en<pr>$
+297 	 ^en<pr>$ ^el<det><def><m><sg>$ ^diario<n><m><sg>$
+298 	 ^declaración<n><f><pl>$ ^aparecer<vblex><pp><f><pl>$ ^en<pr>$ ^el<det><def><m><sg>$ ^diario<n><m><sg>$
+299 	 ^prpers<prn><pro><p1><mf><sg>$ ^parecer<vblex><pri><p3><pl>$
+300 	 ^parecer<vblex><pri><p3><pl>$ ^uno<det><ind><m><sg>$
+301 	 ^prpers<prn><pro><p1><mf><sg>$ ^parecer<vblex><pri><p3><pl>$ ^uno<det><ind><m><sg>$
+302 	 ^cosa<n><f><pl>$ ^prpers<prn><pro><p1><mf><sg>$ ^parecer<vblex><pri><p3><pl>$
+303 	 ^parecer<vblex><pri><p3><pl>$ ^uno<det><ind><m><sg>$ ^tanto<det><qnt><m><sg>$
+304 	 ^cosa<n><f><pl>$ ^prpers<prn><pro><p1><mf><sg>$ ^parecer<vblex><pri><p3><pl>$ ^uno<det><ind><m><sg>$ ^tanto<det><qnt><m><sg>$
+305 	 ^presidente<n><f><sg>$ ^,<cm>$ ^prpers<prn><pro><p1><mf><sg>$
+306 	 ^comunicado<n><m><sg>$ ^claro<adj><m><sg>$
+307 	 ^claro<adj><m><sg>$ ^sobre<pr>$
+308 	 ^comunicado<n><m><sg>$ ^claro<adj><m><sg>$ ^sobre<pr>$
+309 	 ^uno<det><ind><m><sg>$ ^comunicado<n><m><sg>$ ^claro<adj><m><sg>$
+310 	 ^claro<adj><m><sg>$ ^sobre<pr>$ ^el<det><def><m><sg>$
+311 	 ^uno<det><ind><m><sg>$ ^comunicado<n><m><sg>$ ^claro<adj><m><sg>$ ^sobre<pr>$ ^el<det><def><m><sg>$
+312 	 ^decisión<n><f><sg>$ ^de<pr>$
+313 	 ^de<pr>$ ^hoy<adv>$
+314 	 ^decisión<n><f><sg>$ ^de<pr>$ ^hoy<adv>$
+315 	 ^el<det><def><f><sg>$ ^decisión<n><f><sg>$ ^de<pr>$
+316 	 ^de<pr>$ ^hoy<adv>$ ^de<pr>$
+317 	 ^el<det><def><f><sg>$ ^decisión<n><f><sg>$ ^de<pr>$ ^hoy<adv>$ ^de<pr>$
+318 	 ^no<adv>$ ^renovar<vblex><inf>$
+319 	 ^renovar<vblex><inf>$ ^el<det><def><m><sg>$
+320 	 ^no<adv>$ ^renovar<vblex><inf>$ ^el<det><def><m><sg>$
+321 	 ^de<pr>$ ^no<adv>$ ^renovar<vblex><inf>$
+322 	 ^renovar<vblex><inf>$ ^el<det><def><m><sg>$ ^embargo<n><m><sg>$
+323 	 ^de<pr>$ ^no<adv>$ ^renovar<vblex><inf>$ ^el<det><def><m><sg>$ ^embargo<n><m><sg>$
+324 	 ^,<cm>$ ^considerar<vblex><ger>$
+325 	 ^considerar<vblex><ger>$ ^que<cnjsub>$
+326 	 ^,<cm>$ ^considerar<vblex><ger>$ ^que<cnjsub>$
+327 	 ^Indonesia<np><loc><f><sg>$ ^,<cm>$ ^considerar<vblex><ger>$
+328 	 ^considerar<vblex><ger>$ ^que<cnjsub>$ ^el<det><def><f><sg>$
+329 	 ^Indonesia<np><loc><f><sg>$ ^,<cm>$ ^considerar<vblex><ger>$ ^que<cnjsub>$ ^el<det><def><f><sg>$
+330 	 ^apoyar<vblex><ifi><p3><sg>$ ^en<pr>$
+331 	 ^apoyar<vblex><ifi><p3><sg>$ ^en<pr>$ ^el<det><def><m><sg>$
+332 	 ^parlamento<n><m><sg>$ ^apoyar<vblex><ifi><p3><sg>$ ^en<pr>$
+333 	 ^en<pr>$ ^el<det><def><m><sg>$ ^pasar<vblex><pp><m><sg>$
+334 	 ^parlamento<n><m><sg>$ ^apoyar<vblex><ifi><p3><sg>$ ^en<pr>$ ^el<det><def><m><sg>$ ^pasar<vblex><pp><m><sg>$
+335 	 ^el<det><def><m><sg>$ ^deseo<n><m><sg>$
+336 	 ^deseo<n><m><sg>$ ^de<pr>$
+337 	 ^el<det><def><m><sg>$ ^deseo<n><m><sg>$ ^de<pr>$
+338 	 ^ser<vbser><pri><p3><sg>$ ^el<det><def><m><sg>$ ^deseo<n><m><sg>$
+339 	 ^deseo<n><m><sg>$ ^de<pr>$ ^el<det><def><f><sg>$
+340 	 ^ser<vbser><pri><p3><sg>$ ^el<det><def><m><sg>$ ^deseo<n><m><sg>$ ^de<pr>$ ^el<det><def><f><sg>$
+341 	 ^de<pr>$ ^el<det><def><f><sg>$ ^inmenso<adj><f><sg>$
+342 	 ^el<det><def><m><sg>$ ^deseo<n><m><sg>$ ^de<pr>$ ^el<det><def><f><sg>$ ^inmenso<adj><f><sg>$
+343 	 ^a<pr>$ ^renovar<vblex><inf>$
+344 	 ^a<pr>$ ^renovar<vblex><inf>$ ^el<det><def><m><sg>$
+345 	 ^se<prn><enc><ref><p3><mf><sp>$ ^a<pr>$ ^renovar<vblex><inf>$
+346 	 ^se<prn><enc><ref><p3><mf><sp>$ ^a<pr>$ ^renovar<vblex><inf>$ ^el<det><def><m><sg>$ ^embargo<n><m><sg>$
+347 	 ^riesgo<n><m><sg>$ ^de<pr>$
+348 	 ^riesgo<n><m><sg>$ ^de<pr>$ ^uno<det><ind><m><sg>$
+349 	 ^el<det><def><m><sg>$ ^riesgo<n><m><sg>$ ^de<pr>$
+350 	 ^de<pr>$ ^uno<det><ind><m><sg>$ ^golpe<n><m><sg>$
+351 	 ^el<det><def><m><sg>$ ^riesgo<n><m><sg>$ ^de<pr>$ ^uno<det><ind><m><sg>$ ^golpe<n><m><sg>$
+352 	 ^en<pr>$ ^cualquier<det><ind><mf><sg>$
+353 	 ^en<pr>$ ^cualquier<det><ind><mf><sg>$ ^caso<n><m><sg>$
+354 	 ^el<det><def><m><pl>$ ^trabajo<n><m><pl>$
+355 	 ^trabajo<n><m><pl>$
+356 	 ^de<pr>$ ^el<det><def><m><pl>$ ^trabajo<n><m><pl>$
+357 	 ^establecer<vblex><pp><m><sg>$ ^de<pr>$
+358 	 ^de<pr>$ ^conformidad<n><f><sg>$
+359 	 ^establecer<vblex><pp><m><sg>$ ^de<pr>$ ^conformidad<n><f><sg>$
+360 	 ^,<cm>$ ^establecer<vblex><pp><m><sg>$ ^de<pr>$
+361 	 ^de<pr>$ ^conformidad<n><f><sg>$ ^con<pr>$
+362 	 ^,<cm>$ ^establecer<vblex><pp><m><sg>$ ^de<pr>$ ^conformidad<n><f><sg>$ ^con<pr>$
+363 	 ^reglamento<n><m><sg>$ ^en<pr>$
+364 	 ^en<pr>$ ^el<det><def><f><sg>$
+365 	 ^reglamento<n><m><sg>$ ^en<pr>$ ^el<det><def><f><sg>$
+366 	 ^el<det><def><m><sg>$ ^reglamento<n><m><sg>$ ^en<pr>$
+367 	 ^en<pr>$ ^el<det><def><f><sg>$ ^conferencia<n><f><sg>$
+368 	 ^el<det><def><m><sg>$ ^reglamento<n><m><sg>$ ^en<pr>$ ^el<det><def><f><sg>$ ^conferencia<n><f><sg>$
+369 	 ^el<det><def><f><sg>$ ^conferencia<n><f><sg>$
+370 	 ^conferencia<n><f><sg>$ ^de<pr>$
+371 	 ^el<det><def><f><sg>$ ^conferencia<n><f><sg>$ ^de<pr>$
+372 	 ^conferencia<n><f><sg>$ ^de<pr>$ ^presidente<n><m><pl>$
+373 	 ^en<pr>$ ^el<det><def><f><sg>$ ^conferencia<n><f><sg>$ ^de<pr>$ ^presidente<n><m><pl>$
+374 	 ^de<pr>$ ^presidente<n><m><pl>$
+375 	 ^presidente<n><m><pl>$ ^,<cm>$
+376 	 ^de<pr>$ ^presidente<n><m><pl>$ ^,<cm>$
+377 	 ^presidente<n><m><pl>$ ^,<cm>$ ^el<det><def><m><sg>$
+378 	 ^conferencia<n><f><sg>$ ^de<pr>$ ^presidente<n><m><pl>$ ^,<cm>$ ^el<det><def><m><sg>$
+379 	 ^13<num>$ ^de<pr>$
+380 	 ^de<pr>$ ^enero<n><m><sg>$
+381 	 ^13<num>$ ^de<pr>$ ^enero<n><m><sg>$
+382 	 ^jueves<n><m><sp>$ ^13<num>$ ^de<pr>$
+383 	 ^de<pr>$ ^enero<n><m><sg>$ ^.<sent>$
+384 	 ^jueves<n><m><sp>$ ^13<num>$ ^de<pr>$ ^enero<n><m><sg>$ ^.<sent>$
+385 	 ^grupo<n><m><sg>$ ^de<pr>$
+386 	 ^grupo<n><m><sg>$ ^de<pr>$ ^el<det><def><m><sg>$
+387 	 ^el<det><def><m><sg>$ ^grupo<n><m><sg>$ ^de<pr>$
+388 	 ^de<pr>$ ^el<det><def><m><sg>$ ^partido<n><m><sg>$
+389 	 ^el<det><def><m><sg>$ ^grupo<n><m><sg>$ ^de<pr>$ ^el<det><def><m><sg>$ ^partido<n><m><sg>$
+390 	 ^el<det><def><m><sg>$ ^partido<n><m><sg>$
+391 	 ^partido<n><m><sg>$ ^de<pr>$
+392 	 ^el<det><def><m><sg>$ ^partido<n><m><sg>$ ^de<pr>$
+393 	 ^partido<n><m><sg>$ ^de<pr>$ ^el<det><def><m><pl>$
+394 	 ^de<pr>$ ^el<det><def><m><sg>$ ^partido<n><m><sg>$ ^de<pr>$ ^el<det><def><m><pl>$
+395 	 ^administrativo<adj><f><sg>$ ^de<pr>$
+396 	 ^administrativo<adj><f><sg>$ ^de<pr>$ ^el<det><def><f><sg>$
+397 	 ^reforma<n><f><sg>$ ^administrativo<adj><f><sg>$ ^de<pr>$
+398 	 ^de<pr>$ ^el<det><def><f><sg>$ ^comisión<n><f><sg>$
+399 	 ^reforma<n><f><sg>$ ^administrativo<adj><f><sg>$ ^de<pr>$ ^el<det><def><f><sg>$ ^comisión<n><f><sg>$
+400 	 ^presidente<n><f><sg>$ ^,<cm>$ ^el<det><def><f><sg>$
+401 	 ^presentación<n><f><sg>$ ^de<pr>$
+402 	 ^presentación<n><f><sg>$ ^de<pr>$ ^el<det><def><m><sg>$
+403 	 ^el<det><def><f><sg>$ ^presentación<n><f><sg>$ ^de<pr>$
+404 	 ^de<pr>$ ^el<det><def><m><sg>$ ^programa<n><m><sg>$
+405 	 ^el<det><def><f><sg>$ ^presentación<n><f><sg>$ ^de<pr>$ ^el<det><def><m><sg>$ ^programa<n><m><sg>$
+406 	 ^de<pr>$ ^el<det><def><f><sg>$ ^conferencia<n><f><sg>$
+407 	 ^de<pr>$ ^el<det><def><f><sg>$ ^conferencia<n><f><sg>$ ^de<pr>$ ^presidente<n><m><pl>$
+408 	 ^de<pr>$ ^presidente<n><m><pl>$ ^en<pr>$
+409 	 ^el<det><def><f><sg>$ ^conferencia<n><f><sg>$ ^de<pr>$ ^presidente<n><m><pl>$ ^en<pr>$
+410 	 ^presidente<n><m><pl>$ ^en<pr>$
+411 	 ^presidente<n><m><pl>$ ^en<pr>$ ^septiembre<n><m><sg>$
+412 	 ^conferencia<n><f><sg>$ ^de<pr>$ ^presidente<n><m><pl>$ ^en<pr>$ ^septiembre<n><m><sg>$
+413 	 ^en<pr>$ ^septiembre<n><m><sg>$
+414 	 ^en<pr>$ ^septiembre<n><m><sg>$ ^y<cnjcoo>$
+415 	 ^de<pr>$ ^presidente<n><m><pl>$ ^en<pr>$ ^septiembre<n><m><sg>$ ^y<cnjcoo>$
+416 	 ^presidente<n><m><sg>$ ^*Prodi<>$
+417 	 ^el<det><def><m><sg>$ ^presidente<n><m><sg>$ ^*Prodi<>$
+418 	 ^de<pr>$ ^el<det><def><m><sg>$ ^presidente<n><m><sg>$
+419 	 ^presidente<n><m><sg>$ ^*Prodi<>$ ^,<cm>$
+420 	 ^de<pr>$ ^el<det><def><m><sg>$ ^presidente<n><m><sg>$ ^*Prodi<>$ ^,<cm>$
+421 	 ^suyo<det><pos><mf><sg>$ ^compromiso<n><m><sg>$
+422 	 ^compromiso<n><m><sg>$ ^en<pr>$
+423 	 ^suyo<det><pos><mf><sg>$ ^compromiso<n><m><sg>$ ^en<pr>$
+424 	 ^reiterar<vblex><ifi><p3><sg>$ ^suyo<det><pos><mf><sg>$ ^compromiso<n><m><sg>$
+425 	 ^compromiso<n><m><sg>$ ^en<pr>$ ^suyo<det><pos><mf><sg>$
+426 	 ^reiterar<vblex><ifi><p3><sg>$ ^suyo<det><pos><mf><sg>$ ^compromiso<n><m><sg>$ ^en<pr>$ ^suyo<det><pos><mf><sg>$
+427 	 ^en<pr>$ ^suyo<det><pos><mf><sg>$
+428 	 ^en<pr>$ ^suyo<det><pos><mf><sg>$ ^discurso<n><m><sg>$
+429 	 ^suyo<det><pos><mf><sg>$ ^compromiso<n><m><sg>$ ^en<pr>$ ^suyo<det><pos><mf><sg>$ ^discurso<n><m><sg>$
+430 	 ^este<det><dem><m><sg>$ ^compromiso<n><m><sg>$
+431 	 ^este<det><dem><m><sg>$ ^compromiso<n><m><sg>$ ^en<pr>$
+432 	 ^importancia<n><f><sg>$ ^este<det><dem><m><sg>$ ^compromiso<n><m><sg>$
+433 	 ^compromiso<n><m><sg>$ ^en<pr>$ ^el<det><def><f><sg>$
+434 	 ^importancia<n><f><sg>$ ^este<det><dem><m><sg>$ ^compromiso<n><m><sg>$ ^en<pr>$ ^el<det><def><f><sg>$
+435 	 ^monopolio<n><m><sg>$ ^de<pr>$
+436 	 ^monopolio<n><m><sg>$ ^de<pr>$ ^el<det><def><f><sg>$
+437 	 ^el<det><def><m><sg>$ ^monopolio<n><m><sg>$ ^de<pr>$
+438 	 ^de<pr>$ ^el<det><def><f><sg>$ ^iniciativa<n><f><sg>$
+439 	 ^el<det><def><m><sg>$ ^monopolio<n><m><sg>$ ^de<pr>$ ^el<det><def><f><sg>$ ^iniciativa<n><f><sg>$
+440 	 ^el<det><def><f><sg>$ ^anterior<adj><mf><sg>$
+441 	 ^anterior<adj><mf><sg>$ ^legislatura<n><f><sg>$
+442 	 ^el<det><def><f><sg>$ ^anterior<adj><mf><sg>$ ^legislatura<n><f><sg>$
+443 	 ^en<pr>$ ^el<det><def><f><sg>$ ^anterior<adj><mf><sg>$
+444 	 ^anterior<adj><mf><sg>$ ^legislatura<n><f><sg>$ ^suyo<det><pos><mf><sg>$
+445 	 ^en<pr>$ ^el<det><def><f><sg>$ ^anterior<adj><mf><sg>$ ^legislatura<n><f><sg>$ ^suyo<det><pos><mf><sg>$
+446 	 ^suyo<det><pos><mf><sg>$ ^confianza<n><f><sg>$
+447 	 ^confianza<n><f><sg>$ ^en<pr>$
+448 	 ^suyo<det><pos><mf><sg>$ ^confianza<n><f><sg>$ ^en<pr>$
+449 	 ^legislatura<n><f><sg>$ ^suyo<det><pos><mf><sg>$ ^confianza<n><f><sg>$
+450 	 ^confianza<n><f><sg>$ ^en<pr>$ ^el<det><def><m><sg>$
+451 	 ^legislatura<n><f><sg>$ ^suyo<det><pos><mf><sg>$ ^confianza<n><f><sg>$ ^en<pr>$ ^el<det><def><m><sg>$
+452 	 ^en<pr>$ ^el<det><def><m><sg>$ ^presidente<n><m><sg>$
+453 	 ^presidente<n><m><sg>$ ^*Prodi<>$ ^;<sent>$
+454 	 ^en<pr>$ ^el<det><def><m><sg>$ ^presidente<n><m><sg>$ ^*Prodi<>$ ^;<sent>$
+455 	 ^;<sent>$ ^en<pr>$
+456 	 ^en<pr>$ ^este<det><dem><f><sg>$
+457 	 ^;<sent>$ ^en<pr>$ ^este<det><dem><f><sg>$
+458 	 ^*Prodi<>$ ^;<sent>$ ^en<pr>$
+459 	 ^en<pr>$ ^este<det><dem><f><sg>$ ^legislatura<n><f><sg>$
+460 	 ^*Prodi<>$ ^;<sent>$ ^en<pr>$ ^este<det><dem><f><sg>$ ^legislatura<n><f><sg>$
+461 	 ^comisión<n><f><sg>$ ^en<pr>$
+462 	 ^en<pr>$ ^función<n><f><pl>$
+463 	 ^comisión<n><f><sg>$ ^en<pr>$ ^función<n><f><pl>$
+464 	 ^nuevo<adj><f><sg>$ ^comisión<n><f><sg>$ ^en<pr>$
+465 	 ^en<pr>$ ^función<n><f><pl>$ ^,<cm>$
+466 	 ^nuevo<adj><f><sg>$ ^comisión<n><f><sg>$ ^en<pr>$ ^función<n><f><pl>$ ^,<cm>$
+467 	 ^volver<vblex><ifi><p3><sg>$ ^en<pr>$
+468 	 ^volver<vblex><ifi><p3><sg>$ ^en<pr>$ ^septiembre<n><m><sg>$
+469 	 ^,<cm>$ ^volver<vblex><ifi><p3><sg>$ ^en<pr>$
+470 	 ^en<pr>$ ^septiembre<n><m><sg>$ ^a<pr>$
+471 	 ^,<cm>$ ^volver<vblex><ifi><p3><sg>$ ^en<pr>$ ^septiembre<n><m><sg>$ ^a<pr>$
+472 	 ^haber<vbhaver><pp><m><sg>$ ^tiempo<n><m><sg>$
+473 	 ^tiempo<n><m><sg>$ ^suficiente<adj><mf><sg>$
+474 	 ^haber<vbhaver><pp><m><sg>$ ^tiempo<n><m><sg>$ ^suficiente<adj><mf><sg>$
+475 	 ^haber<vbhaver><pri><p3><sg>$ ^haber<vbhaver><pp><m><sg>$ ^tiempo<n><m><sg>$
+476 	 ^tiempo<n><m><sg>$ ^suficiente<adj><mf><sg>$ ^para que<cnjadv>$
+477 	 ^haber<vbhaver><pri><p3><sg>$ ^haber<vbhaver><pp><m><sg>$ ^tiempo<n><m><sg>$ ^suficiente<adj><mf><sg>$ ^para que<cnjadv>$
+478 	 ^15<num>$ ^de<pr>$
+479 	 ^de<pr>$ ^septiembre<n><m><sg>$
+480 	 ^15<num>$ ^de<pr>$ ^septiembre<n><m><sg>$
+481 	 ^el<det><def><m><sg>$ ^15<num>$ ^de<pr>$
+482 	 ^de<pr>$ ^septiembre<n><m><sg>$ ^,<cm>$
+483 	 ^el<det><def><m><sg>$ ^15<num>$ ^de<pr>$ ^septiembre<n><m><sg>$ ^,<cm>$
+484 	 ^margen<n><m><sg>$ ^de<pr>$
+485 	 ^margen<n><m><sg>$ ^de<pr>$ ^el<det><def><f><sg>$
+486 	 ^el<det><def><m><sg>$ ^margen<n><m><sg>$ ^de<pr>$
+487 	 ^el<det><def><m><sg>$ ^margen<n><m><sg>$ ^de<pr>$ ^el<det><def><f><sg>$ ^conferencia<n><f><sg>$
+488 	 ^presidente<n><m><pl>$ ^y<cnjcoo>$
+489 	 ^de<pr>$ ^presidente<n><m><pl>$ ^y<cnjcoo>$
+490 	 ^presidente<n><m><pl>$ ^y<cnjcoo>$ ^utilizar<vblex><ger>$
+491 	 ^conferencia<n><f><sg>$ ^de<pr>$ ^presidente<n><m><pl>$ ^y<cnjcoo>$ ^utilizar<vblex><ger>$
+492 	 ^(<lpar>$ ^en<pr>$
+493 	 ^en<pr>$ ^ese<det><dem><m><sg>$
+494 	 ^(<lpar>$ ^en<pr>$ ^ese<det><dem><m><sg>$
+495 	 ^programa<n><m><sg>$ ^(<lpar>$ ^en<pr>$
+496 	 ^en<pr>$ ^ese<det><dem><m><sg>$ ^caso<n><m><sg>$
+497 	 ^programa<n><m><sg>$ ^(<lpar>$ ^en<pr>$ ^ese<det><dem><m><sg>$ ^caso<n><m><sg>$
+498 	 ^suyo<det><pos><mf><sg>$ ^presidente<n><m><sg>$
+499 	 ^presidente<n><m><sg>$ ^,<cm>$
+500 	 ^suyo<det><pos><mf><sg>$ ^presidente<n><m><sg>$ ^,<cm>$
+501 	 ^de<pr>$ ^suyo<det><pos><mf><sg>$ ^presidente<n><m><sg>$
+502 	 ^presidente<n><m><sg>$ ^,<cm>$ ^estar<vblex><pri><p3><sg>$
+503 	 ^de<pr>$ ^suyo<det><pos><mf><sg>$ ^presidente<n><m><sg>$ ^,<cm>$ ^estar<vblex><pri><p3><sg>$
+504 	 ^estar<vblex><pri><p3><sg>$ ^en<pr>$
+505 	 ^en<pr>$ ^condición<n><f><pl>$
+506 	 ^estar<vblex><pri><p3><sg>$ ^en<pr>$ ^condición<n><f><pl>$
+507 	 ^,<cm>$ ^estar<vblex><pri><p3><sg>$ ^en<pr>$
+508 	 ^en<pr>$ ^condición<n><f><pl>$ ^de<pr>$
+509 	 ^,<cm>$ ^estar<vblex><pri><p3><sg>$ ^en<pr>$ ^condición<n><f><pl>$ ^de<pr>$
+510 	 ^en<pr>$ ^mío<det><pos><mf><sg>$
+511 	 ^en<pr>$ ^mío<det><pos><mf><sg>$ ^opinión<n><f><sg>$
+512 	 ^consistente<adj><mf><sg>$ ^en<pr>$
+513 	 ^en<pr>$ ^dar<vblex><inf>$
+514 	 ^consistente<adj><mf><sg>$ ^en<pr>$ ^dar<vblex><inf>$
+515 	 ^desconocido<adj><m><sg>$ ^consistente<adj><mf><sg>$ ^en<pr>$
+516 	 ^en<pr>$ ^dar<vblex><inf>$ ^a<pr>$
+517 	 ^desconocido<adj><m><sg>$ ^consistente<adj><mf><sg>$ ^en<pr>$ ^dar<vblex><inf>$ ^a<pr>$
+518 	 ^discutir<vblex><fti><p3><sg>$ ^en<pr>$
+519 	 ^en<pr>$ ^febrero<n><m><sg>$
+520 	 ^discutir<vblex><fti><p3><sg>$ ^en<pr>$ ^febrero<n><m><sg>$
+521 	 ^se<prn><pro><ref><p3><mf><sp>$ ^discutir<vblex><fti><p3><sg>$ ^en<pr>$
+522 	 ^en<pr>$ ^febrero<n><m><sg>$ ^,<cm>$
+523 	 ^se<prn><pro><ref><p3><mf><sp>$ ^discutir<vblex><fti><p3><sg>$ ^en<pr>$ ^febrero<n><m><sg>$ ^,<cm>$
+524 	 ^a<pr>$ ^tiempo<n><m><sg>$
+525 	 ^tiempo<n><m><sg>$ ^para<pr>$
+526 	 ^a<pr>$ ^tiempo<n><m><sg>$ ^para<pr>$
+527 	 ^perfectamente<adv>$ ^a<pr>$ ^tiempo<n><m><sg>$
+528 	 ^tiempo<n><m><sg>$ ^para<pr>$ ^poder<vbmod><inf>$
+529 	 ^perfectamente<adv>$ ^a<pr>$ ^tiempo<n><m><sg>$ ^para<pr>$ ^poder<vbmod><inf>$
+530 	 ^original<adj><mf><sg>$ ^entre<pr>$
+531 	 ^entre<pr>$ ^el<det><def><m><sg>$
+532 	 ^original<adj><mf><sg>$ ^entre<pr>$ ^el<det><def><m><sg>$
+533 	 ^acuerdo<n><m><sg>$ ^original<adj><mf><sg>$ ^entre<pr>$
+534 	 ^entre<pr>$ ^el<det><def><m><sg>$ ^parlamento<n><m><sg>$
+535 	 ^acuerdo<n><m><sg>$ ^original<adj><mf><sg>$ ^entre<pr>$ ^el<det><def><m><sg>$ ^parlamento<n><m><sg>$
+536 	 ^de<pr>$ ^el<det><def><m><pl>$ ^socialista<n><mf><pl>$
+537 	 ^el<det><def><m><sg>$ ^partido<n><m><sg>$ ^de<pr>$ ^el<det><def><m><pl>$ ^socialista<n><mf><pl>$
+538 	 ^presidente<n><m><sg>$ ^de<pr>$ ^el<det><def><f><sg>$
+539 	 ^a<pr>$ ^el<det><def><m><sg>$ ^presidente<n><m><sg>$ ^de<pr>$ ^el<det><def><f><sg>$
+540 	 ^hablar<vblex><inf>$ ^en<pr>$
+541 	 ^en<pr>$ ^este<det><dem><m><sg>$
+542 	 ^hablar<vblex><inf>$ ^en<pr>$ ^este<det><dem><m><sg>$
+543 	 ^a<pr>$ ^hablar<vblex><inf>$ ^en<pr>$
+544 	 ^en<pr>$ ^este<det><dem><m><sg>$ ^parlamento<n><m><sg>$
+545 	 ^a<pr>$ ^hablar<vblex><inf>$ ^en<pr>$ ^este<det><dem><m><sg>$ ^parlamento<n><m><sg>$
+546 	 ^presidente<n><f><sg>$ ^,<cm>$ ^que<rel><an><mf><sp>$
+547 	 ^,<cm>$ ^señor<n><f><sg>$ ^presidente<n><f><sg>$ ^,<cm>$ ^que<rel><an><mf><sp>$
+548 	 ^manifestar<vblex><prs><p3><sg>$ ^en<pr>$
+549 	 ^manifestar<vblex><prs><p3><sg>$ ^en<pr>$ ^este<det><dem><m><sg>$
+550 	 ^se<prn><pro><ref><p3><mf><sp>$ ^manifestar<vblex><prs><p3><sg>$ ^en<pr>$
+551 	 ^en<pr>$ ^este<det><dem><m><sg>$ ^momento<n><m><sg>$
+552 	 ^se<prn><pro><ref><p3><mf><sp>$ ^manifestar<vblex><prs><p3><sg>$ ^en<pr>$ ^este<det><dem><m><sg>$ ^momento<n><m><sg>$
+553 	 ^.<sent>$ ^señor<n><f><sg>$ ^presidente<n><f><sg>$
+554 	 ^presidente<n><f><sg>$ ^,<cm>$ ^querer<vbmod><pri><p1><sg>$
+555 	 ^.<sent>$ ^señor<n><f><sg>$ ^presidente<n><f><sg>$ ^,<cm>$ ^querer<vbmod><pri><p1><sg>$
+556 	 ^muy<preadv>$ ^claro<adj><m><sg>$
+557 	 ^claro<adj><m><sg>$ ^que<rel><an><mf><sp>$
+558 	 ^muy<preadv>$ ^claro<adj><m><sg>$ ^que<rel><an><mf><sp>$
+559 	 ^dejar<vblex><inf>$ ^muy<preadv>$ ^claro<adj><m><sg>$
+560 	 ^claro<adj><m><sg>$ ^que<rel><an><mf><sp>$ ^,<cm>$
+561 	 ^dejar<vblex><inf>$ ^muy<preadv>$ ^claro<adj><m><sg>$ ^que<rel><an><mf><sp>$ ^,<cm>$
+562 	 ^respeto<n><m><sg>$ ^por<pr>$
+563 	 ^por<pr>$ ^el<det><def><f><pl>$
+564 	 ^respeto<n><m><sg>$ ^por<pr>$ ^el<det><def><f><pl>$
+565 	 ^máximo<adj><m><sg>$ ^respeto<n><m><sg>$ ^por<pr>$
+566 	 ^por<pr>$ ^el<det><def><f><pl>$ ^decisión<n><f><pl>$
+567 	 ^máximo<adj><m><sg>$ ^respeto<n><m><sg>$ ^por<pr>$ ^el<det><def><f><pl>$ ^decisión<n><f><pl>$
+568 	 ^decisión<n><f><pl>$ ^de<pr>$
+569 	 ^de<pr>$ ^este<det><dem><m><sg>$
+570 	 ^decisión<n><f><pl>$ ^de<pr>$ ^este<det><dem><m><sg>$
+571 	 ^el<det><def><f><pl>$ ^decisión<n><f><pl>$ ^de<pr>$
+572 	 ^de<pr>$ ^este<det><dem><m><sg>$ ^parlamento<n><m><sg>$
+573 	 ^el<det><def><f><pl>$ ^decisión<n><f><pl>$ ^de<pr>$ ^este<det><dem><m><sg>$ ^parlamento<n><m><sg>$
+574 	 ^,<cm>$ ^entre<pr>$
+575 	 ^entre<pr>$ ^prpers<prn><tn><p3><f><pl>$
+576 	 ^,<cm>$ ^entre<pr>$ ^prpers<prn><tn><p3><f><pl>$
+577 	 ^y<cnjcoo>$ ^,<cm>$ ^entre<pr>$
+578 	 ^entre<pr>$ ^prpers<prn><tn><p3><f><pl>$ ^,<cm>$
+579 	 ^y<cnjcoo>$ ^,<cm>$ ^entre<pr>$ ^prpers<prn><tn><p3><f><pl>$ ^,<cm>$
+580 	 ^claro<adj><m><sg>$ ^que<cnjsub>$
+581 	 ^muy<preadv>$ ^claro<adj><m><sg>$ ^que<cnjsub>$
+582 	 ^también<adv>$ ^muy<preadv>$ ^claro<adj><m><sg>$
+583 	 ^claro<adj><m><sg>$ ^que<cnjsub>$ ^el<det><def><m><sg>$
+584 	 ^también<adv>$ ^muy<preadv>$ ^claro<adj><m><sg>$ ^que<cnjsub>$ ^el<det><def><m><sg>$
+585 	 ^que<cnjsub>$ ^el<det><def><m><sg>$ ^presidente<n><m><sg>$
+586 	 ^presidente<n><m><sg>$ ^*Prodi<>$ ^se<prn><pro><ref><p3><mf><sp>$
+587 	 ^que<cnjsub>$ ^el<det><def><m><sg>$ ^presidente<n><m><sg>$ ^*Prodi<>$ ^se<prn><pro><ref><p3><mf><sp>$
+588 	 ^línea<n><f><pl>$ ^de<pr>$
+589 	 ^de<pr>$ ^actuación<n><f><sg>$
+590 	 ^línea<n><f><pl>$ ^de<pr>$ ^actuación<n><f><sg>$
+591 	 ^grande<adj><mf><pl>$ ^línea<n><f><pl>$ ^de<pr>$
+592 	 ^de<pr>$ ^actuación<n><f><sg>$ ^para<pr>$
+593 	 ^grande<adj><mf><pl>$ ^línea<n><f><pl>$ ^de<pr>$ ^actuación<n><f><sg>$ ^para<pr>$
+594 	 ^querer<vbmod><pri><p1><sg>$ ^decir<vblex><inf>$
+595 	 ^decir<vblex><inf>$ ^,<cm>$
+596 	 ^querer<vbmod><pri><p1><sg>$ ^decir<vblex><inf>$ ^,<cm>$
+597 	 ^decir<vblex><inf>$ ^,<cm>$ ^señor<n><f><sg>$
+598 	 ^llegar<vblex><ifi><p3><sg>$ ^en<pr>$
+599 	 ^llegar<vblex><ifi><p3><sg>$ ^en<pr>$ ^el<det><def><m><sg>$
+600 	 ^se<prn><pro><ref><p3><mf><sp>$ ^llegar<vblex><ifi><p3><sg>$ ^en<pr>$
+601 	 ^en<pr>$ ^el<det><def><m><sg>$ ^mes<n><m><sg>$
+602 	 ^se<prn><pro><ref><p3><mf><sp>$ ^llegar<vblex><ifi><p3><sg>$ ^en<pr>$ ^el<det><def><m><sg>$ ^mes<n><m><sg>$
+603 	 ^mes<n><m><sg>$ ^de<pr>$
+604 	 ^mes<n><m><sg>$ ^de<pr>$ ^septiembre<n><m><sg>$
+605 	 ^el<det><def><m><sg>$ ^mes<n><m><sg>$ ^de<pr>$
+606 	 ^el<det><def><m><sg>$ ^mes<n><m><sg>$ ^de<pr>$ ^septiembre<n><m><sg>$ ^,<cm>$
+607 	 ^anual<adj><mf><sg>$ ^de<pr>$
+608 	 ^anual<adj><mf><sg>$ ^de<pr>$ ^el<det><def><m><sg>$
+609 	 ^presentación<n><f><sg>$ ^anual<adj><mf><sg>$ ^de<pr>$
+610 	 ^presentación<n><f><sg>$ ^anual<adj><mf><sg>$ ^de<pr>$ ^el<det><def><m><sg>$ ^programa<n><m><sg>$
+611 	 ^y<cnjcoo>$ ^querer<vbmod><pri><p1><sg>$ ^decir<vblex><inf>$
+612 	 ^y<cnjcoo>$ ^querer<vbmod><pri><p1><sg>$ ^decir<vblex><inf>$ ^,<cm>$ ^señor<n><f><sg>$
+613 	 ^partir<vblex><ger>$ ^de<pr>$
+614 	 ^partir<vblex><ger>$ ^de<pr>$ ^el<det><def><f><sg>$
+615 	 ^,<cm>$ ^partir<vblex><ger>$ ^de<pr>$
+616 	 ^de<pr>$ ^el<det><def><f><sg>$ ^base<n><f><sg>$
+617 	 ^,<cm>$ ^partir<vblex><ger>$ ^de<pr>$ ^el<det><def><f><sg>$ ^base<n><f><sg>$
+618 	 ^víspera<n><f><sg>$ ^en<pr>$
+619 	 ^en<pr>$ ^uno<det><ind><m><sg>$
+620 	 ^víspera<n><f><sg>$ ^en<pr>$ ^uno<det><ind><m><sg>$
+621 	 ^el<det><def><f><sg>$ ^víspera<n><f><sg>$ ^en<pr>$
+622 	 ^en<pr>$ ^uno<det><ind><m><sg>$ ^discurso<n><m><sg>$
+623 	 ^el<det><def><f><sg>$ ^víspera<n><f><sg>$ ^en<pr>$ ^uno<det><ind><m><sg>$ ^discurso<n><m><sg>$
+624 	 ^,<cm>$ ^señor<n><f><sg>$ ^presidente<n><f><sg>$ ^,<cm>$ ^querer<vbmod><pri><p1><sg>$
+625 	 ^querer<vbmod><pri><p1><sg>$ ^reiterar<vblex><inf>$
+626 	 ^reiterar<vblex><inf>$ ^que<cnjsub>$
+627 	 ^querer<vbmod><pri><p1><sg>$ ^reiterar<vblex><inf>$ ^que<cnjsub>$
+628 	 ^,<cm>$ ^querer<vbmod><pri><p1><sg>$ ^reiterar<vblex><inf>$
+629 	 ^reiterar<vblex><inf>$ ^que<cnjsub>$ ^,<cm>$
+630 	 ^,<cm>$ ^querer<vbmod><pri><p1><sg>$ ^reiterar<vblex><inf>$ ^que<cnjsub>$ ^,<cm>$
+631 	 ^presidente<n><m><sg>$ ^.<sent>$
+632 	 ^el<det><def><m><sg>$ ^presidente<n><m><sg>$ ^.<sent>$
+633 	 ^)<rpar>$ ^el<det><def><m><sg>$ ^presidente<n><m><sg>$
+634 	 ^)<rpar>$ ^el<det><def><m><sg>$ ^presidente<n><m><sg>$ ^.<sent>$
+635 	 ^tema<n><m><sg>$ ^de<pr>$
+636 	 ^tema<n><m><sg>$ ^de<pr>$ ^el<det><def><m><sg>$
+637 	 ^el<det><def><m><sg>$ ^tema<n><m><sg>$ ^de<pr>$
+638 	 ^de<pr>$ ^el<det><def><m><sg>$ ^miércoles<n><m><sp>$
+639 	 ^el<det><def><m><sg>$ ^tema<n><m><sg>$ ^de<pr>$ ^el<det><def><m><sg>$ ^miércoles<n><m><sp>$
+640 	 ^se<prn><pro><ref><p3><mf><sp>$ ^retirar<vblex><prs><p3><sg>$
+641 	 ^retirar<vblex><prs><p3><sg>$ ^este<det><dem><m><sg>$
+642 	 ^se<prn><pro><ref><p3><mf><sp>$ ^retirar<vblex><prs><p3><sg>$ ^este<det><dem><m><sg>$
+643 	 ^que<cnjsub>$ ^se<prn><pro><ref><p3><mf><sp>$ ^retirar<vblex><prs><p3><sg>$
+644 	 ^retirar<vblex><prs><p3><sg>$ ^este<det><dem><m><sg>$ ^punto<n><m><sg>$
+645 	 ^que<cnjsub>$ ^se<prn><pro><ref><p3><mf><sp>$ ^retirar<vblex><prs><p3><sg>$ ^este<det><dem><m><sg>$ ^punto<n><m><sg>$
+646 	 ^alguno<det><qnt><m><sg>$ ^colega<n><mf><sg>$
+647 	 ^colega<n><mf><sg>$ ^tomar<vblex><fti><p3><sg>$
+648 	 ^alguno<det><qnt><m><sg>$ ^colega<n><mf><sg>$ ^tomar<vblex><fti><p3><sg>$
+649 	 ^¿<lquest>$ ^alguno<det><qnt><m><sg>$ ^colega<n><mf><sg>$
+650 	 ^colega<n><mf><sg>$ ^tomar<vblex><fti><p3><sg>$ ^el<det><def><f><sg>$
+651 	 ^¿<lquest>$ ^alguno<det><qnt><m><sg>$ ^colega<n><mf><sg>$ ^tomar<vblex><fti><p3><sg>$ ^el<det><def><f><sg>$
+652 	 ^presidente<n><f><sg>$ ^,<cm>$ ^escuchar<vblex><pri><p1><sg>$
+653 	 ^risa<n><f><pl>$ ^entre<pr>$
+654 	 ^entre<pr>$ ^el<det><def><m><pl>$
+655 	 ^risa<n><f><pl>$ ^entre<pr>$ ^el<det><def><m><pl>$
+656 	 ^alguno<det><qnt><f><pl>$ ^risa<n><f><pl>$ ^entre<pr>$
+657 	 ^entre<pr>$ ^el<det><def><m><pl>$ ^socialista<n><mf><pl>$
+658 	 ^alguno<det><qnt><f><pl>$ ^risa<n><f><pl>$ ^entre<pr>$ ^el<det><def><m><pl>$ ^socialista<n><mf><pl>$
+659 	 ^haber<vbhaver><pri><p3><pl>$ ^decir<vblex><pp><m><sg>$
+660 	 ^decir<vblex><pp><m><sg>$ ^que<cnjsub>$
+661 	 ^haber<vbhaver><pri><p3><pl>$ ^decir<vblex><pp><m><sg>$ ^que<cnjsub>$
+662 	 ^prpers<prn><pro><p1><mf><sg>$ ^haber<vbhaver><pri><p3><pl>$ ^decir<vblex><pp><m><sg>$
+663 	 ^decir<vblex><pp><m><sg>$ ^que<cnjsub>$ ^también<adv>$
+664 	 ^prpers<prn><pro><p1><mf><sg>$ ^haber<vbhaver><pri><p3><pl>$ ^decir<vblex><pp><m><sg>$ ^que<cnjsub>$ ^también<adv>$
+665 	 ^círculo<n><m><pl>$ ^de<pr>$
+666 	 ^círculo<n><m><pl>$ ^de<pr>$ ^el<det><def><m><sg>$
+667 	 ^amplio<adj><m><pl>$ ^círculo<n><m><pl>$ ^de<pr>$
+668 	 ^de<pr>$ ^el<det><def><m><sg>$ ^grupo<n><m><sg>$
+669 	 ^amplio<adj><m><pl>$ ^círculo<n><m><pl>$ ^de<pr>$ ^el<det><def><m><sg>$ ^grupo<n><m><sg>$
+670 	 ^*habida<>$ ^en<pr>$
+671 	 ^*habida<>$ ^en<pr>$ ^el<det><def><f><sg>$
+672 	 ^votación<n><f><sg>$ ^*habida<>$ ^en<pr>$
+673 	 ^votación<n><f><sg>$ ^*habida<>$ ^en<pr>$ ^el<det><def><f><sg>$ ^conferencia<n><f><sg>$
+674 	 ^de<pr>$ ^presidente<n><m><pl>$ ^faltar<vblex><ifi><p3><sg>$
+675 	 ^el<det><def><f><sg>$ ^conferencia<n><f><sg>$ ^de<pr>$ ^presidente<n><m><pl>$ ^faltar<vblex><ifi><p3><sg>$
+676 	 ^presidente<n><m><pl>$ ^faltar<vblex><ifi><p3><sg>$
+677 	 ^presidente<n><m><pl>$ ^faltar<vblex><ifi><p3><sg>$ ^el<det><def><m><sg>$
+678 	 ^conferencia<n><f><sg>$ ^de<pr>$ ^presidente<n><m><pl>$ ^faltar<vblex><ifi><p3><sg>$ ^el<det><def><m><sg>$
+679 	 ^presidente<n><f><sg>$ ^,<cm>$ ^ante todo<adv>$
+680 	 ^el<det><def><f><sg>$ ^falta<n><f><sg>$
+681 	 ^falta<n><f><sg>$ ^de<pr>$
+682 	 ^el<det><def><f><sg>$ ^falta<n><f><sg>$ ^de<pr>$
+683 	 ^subrayar<vblex><inf>$ ^el<det><def><f><sg>$ ^falta<n><f><sg>$
+684 	 ^falta<n><f><sg>$ ^de<pr>$ ^lógica<n><f><sg>$
+685 	 ^subrayar<vblex><inf>$ ^el<det><def><f><sg>$ ^falta<n><f><sg>$ ^de<pr>$ ^lógica<n><f><sg>$
+686 	 ^grupo<n><m><sg>$ ^de<pr>$ ^el<det><def><m><pl>$
+687 	 ^de<pr>$ ^el<det><def><m><pl>$ ^socialista<n><mf><sg>$
+688 	 ^el<det><def><m><sg>$ ^grupo<n><m><sg>$ ^de<pr>$ ^el<det><def><m><pl>$ ^socialista<n><mf><sg>$
+689 	 ^absolutamente<adv>$ ^claro<adj><m><sg>$
+690 	 ^claro<adj><m><sg>$ ^en<pr>$
+691 	 ^absolutamente<adv>$ ^claro<adj><m><sg>$ ^en<pr>$
+692 	 ^modo<n><m><sg>$ ^absolutamente<adv>$ ^claro<adj><m><sg>$
+693 	 ^claro<adj><m><sg>$ ^en<pr>$ ^el<det><def><f><sg>$
+694 	 ^modo<n><m><sg>$ ^absolutamente<adv>$ ^claro<adj><m><sg>$ ^en<pr>$ ^el<det><def><f><sg>$
+695 	 ^absolutamente<adv>$ ^claro<adj><m><sg>$ ^en<pr>$ ^el<det><def><f><sg>$ ^conferencia<n><f><sg>$
+696 	 ^presidente<n><m><pl>$ ^.<sent>$
+697 	 ^de<pr>$ ^presidente<n><m><pl>$ ^.<sent>$
+698 	 ^conferencia<n><f><sg>$ ^de<pr>$ ^presidente<n><m><pl>$ ^.<sent>$
+699 	 ^y<cnjcoo>$ ^de<pr>$ ^el<det><def><m><sg>$
+700 	 ^*PPE<>$ ^y<cnjcoo>$ ^de<pr>$
+701 	 ^*PPE<>$ ^y<cnjcoo>$ ^de<pr>$ ^el<det><def><m><sg>$ ^partido<n><m><sg>$
+702 	 ^tratar<vblex><pri><p3><sg>$ ^de<pr>$
+703 	 ^de<pr>$ ^saber<vblex><inf>$
+704 	 ^tratar<vblex><pri><p3><sg>$ ^de<pr>$ ^saber<vblex><inf>$
+705 	 ^se<prn><pro><ref><p3><mf><sp>$ ^tratar<vblex><pri><p3><sg>$ ^de<pr>$
+706 	 ^de<pr>$ ^saber<vblex><inf>$ ^si<cnjadv>$
+707 	 ^se<prn><pro><ref><p3><mf><sp>$ ^tratar<vblex><pri><p3><sg>$ ^de<pr>$ ^saber<vblex><inf>$ ^si<cnjadv>$
+708 	 ^sino<cnjcoo>$ ^de<pr>$
+709 	 ^sino<cnjcoo>$ ^de<pr>$ ^saber<vblex><inf>$
+710 	 ^,<cm>$ ^sino<cnjcoo>$ ^de<pr>$
+711 	 ^,<cm>$ ^sino<cnjcoo>$ ^de<pr>$ ^saber<vblex><inf>$ ^si<cnjadv>$
+712 	 ^el<det><def><m><sg>$ ^consejo<n><m><sg>$
+713 	 ^consejo<n><m><sg>$ ^.<sent>$
+714 	 ^el<det><def><m><sg>$ ^consejo<n><m><sg>$ ^.<sent>$
+715 	 ^y<cnjcoo>$ ^el<det><def><m><sg>$ ^consejo<n><m><sg>$
+716 	 ^y<cnjcoo>$ ^el<det><def><m><sg>$ ^consejo<n><m><sg>$ ^.<sent>$
+717 	 ^consejo<n><m><sg>$ ^para<pr>$
+718 	 ^el<det><def><m><sg>$ ^consejo<n><m><sg>$ ^para<pr>$
+719 	 ^a<pr>$ ^el<det><def><m><sg>$ ^consejo<n><m><sg>$
+720 	 ^consejo<n><m><sg>$ ^para<pr>$ ^saber<vblex><inf>$
+721 	 ^a<pr>$ ^el<det><def><m><sg>$ ^consejo<n><m><sg>$ ^para<pr>$ ^saber<vblex><inf>$
+722 	 ^posición<n><f><sg>$ ^de<pr>$
+723 	 ^de<pr>$ ^ese<det><dem><m><pl>$
+724 	 ^posición<n><f><sg>$ ^de<pr>$ ^ese<det><dem><m><pl>$
+725 	 ^el<det><def><f><sg>$ ^posición<n><f><sg>$ ^de<pr>$
+726 	 ^de<pr>$ ^ese<det><dem><m><pl>$ ^dos<num><mf><sp>$
+727 	 ^el<det><def><f><sg>$ ^posición<n><f><sg>$ ^de<pr>$ ^ese<det><dem><m><pl>$ ^dos<num><mf><sp>$
+728 	 ^fracaso<n><m><sg>$ ^de<pr>$
+729 	 ^fracaso<n><m><sg>$ ^de<pr>$ ^el<det><def><f><sg>$
+730 	 ^el<det><def><m><sg>$ ^fracaso<n><m><sg>$ ^de<pr>$
+731 	 ^el<det><def><m><sg>$ ^fracaso<n><m><sg>$ ^de<pr>$ ^el<det><def><f><sg>$ ^conferencia<n><f><sg>$
+732 	 ^conferencia<n><f><sg>$ ^de<pr>$ ^Seattle<np><loc><f><sg>$
+733 	 ^de<pr>$ ^el<det><def><f><sg>$ ^conferencia<n><f><sg>$ ^de<pr>$ ^Seattle<np><loc><f><sg>$
+734 	 ^acabar<vblex><pri><p3><sg>$ ^de<pr>$
+735 	 ^de<pr>$ ^dar<vblex><inf>$
+736 	 ^acabar<vblex><pri><p3><sg>$ ^de<pr>$ ^dar<vblex><inf>$
+737 	 ^que<rel><an><mf><sp>$ ^acabar<vblex><pri><p3><sg>$ ^de<pr>$
+738 	 ^de<pr>$ ^dar<vblex><inf>$ ^a<pr>$
+739 	 ^que<rel><an><mf><sp>$ ^acabar<vblex><pri><p3><sg>$ ^de<pr>$ ^dar<vblex><inf>$ ^a<pr>$
+740 	 ^resultado<n><m><sg>$ ^de<pr>$
+741 	 ^resultado<n><m><sg>$ ^de<pr>$ ^el<det><def><f><sg>$
+742 	 ^el<det><def><m><sg>$ ^resultado<n><m><sg>$ ^de<pr>$
+743 	 ^de<pr>$ ^el<det><def><f><sg>$ ^votación<n><f><sg>$
+744 	 ^el<det><def><m><sg>$ ^resultado<n><m><sg>$ ^de<pr>$ ^el<det><def><f><sg>$ ^votación<n><f><sg>$
+745 	 ^presidente<n><f><sg>$ ^,<cm>$ ^en<pr>$
+746 	 ^,<cm>$ ^en<pr>$ ^el<det><def><f><sg>$
+747 	 ^en<pr>$ ^el<det><def><f><sg>$ ^votación<n><f><sg>$
+748 	 ^presidente<n><f><sg>$ ^,<cm>$ ^en<pr>$ ^el<det><def><f><sg>$ ^votación<n><f><sg>$
+749 	 ^cuestión<n><f><sg>$ ^de<pr>$ ^el<det><def><m><sg>$
+750 	 ^el<det><def><f><sg>$ ^cuestión<n><f><sg>$ ^de<pr>$
+751 	 ^de<pr>$ ^el<det><def><m><sg>$ ^plan<n><m><sg>$
+752 	 ^el<det><def><f><sg>$ ^cuestión<n><f><sg>$ ^de<pr>$ ^el<det><def><m><sg>$ ^plan<n><m><sg>$
+753 	 ^estratégico<adj><m><sg>$ ^de<pr>$
+754 	 ^estratégico<adj><m><sg>$ ^de<pr>$ ^el<det><def><f><sg>$
+755 	 ^plan<n><m><sg>$ ^estratégico<adj><m><sg>$ ^de<pr>$
+756 	 ^plan<n><m><sg>$ ^estratégico<adj><m><sg>$ ^de<pr>$ ^el<det><def><f><sg>$ ^comisión<n><f><sg>$
+757 	 ^cierre<n><m><sg>$ ^de<pr>$
+758 	 ^cierre<n><m><sg>$ ^de<pr>$ ^este<det><dem><m><sg>$
+759 	 ^el<det><def><m><sg>$ ^cierre<n><m><sg>$ ^de<pr>$
+760 	 ^de<pr>$ ^este<det><dem><m><sg>$ ^punto<n><m><sg>$
+761 	 ^el<det><def><m><sg>$ ^cierre<n><m><sg>$ ^de<pr>$ ^este<det><dem><m><sg>$ ^punto<n><m><sg>$
+762 	 ^explicación<n><f><sg>$ ^de<pr>$
+763 	 ^explicación<n><f><sg>$ ^de<pr>$ ^el<det><def><m><sg>$
+764 	 ^uno<det><ind><f><sg>$ ^explicación<n><f><sg>$ ^de<pr>$
+765 	 ^de<pr>$ ^el<det><def><m><sg>$ ^voto<n><m><sg>$
+766 	 ^uno<det><ind><f><sg>$ ^explicación<n><f><sg>$ ^de<pr>$ ^el<det><def><m><sg>$ ^voto<n><m><sg>$
+767 	 ^historial<n><m><sg>$ ^de<pr>$
+768 	 ^historial<n><m><sg>$ ^de<pr>$ ^el<det><def><f><sg>$
+769 	 ^el<det><def><m><sg>$ ^historial<n><m><sg>$ ^de<pr>$
+770 	 ^de<pr>$ ^el<det><def><f><sg>$ ^cámara<n><mf><sg>$
+771 	 ^el<det><def><m><sg>$ ^historial<n><m><sg>$ ^de<pr>$ ^el<det><def><f><sg>$ ^cámara<n><mf><sg>$
+772 	 ^luz<n><f><sg>$ ^de<pr>$
+773 	 ^de<pr>$ ^suyo<det><pos><mf><pl>$
+774 	 ^luz<n><f><sg>$ ^de<pr>$ ^suyo<det><pos><mf><pl>$
+775 	 ^el<det><def><f><sg>$ ^luz<n><f><sg>$ ^de<pr>$
+776 	 ^de<pr>$ ^suyo<det><pos><mf><pl>$ ^propio<adj><m><pl>$
+777 	 ^el<det><def><f><sg>$ ^luz<n><f><sg>$ ^de<pr>$ ^suyo<det><pos><mf><pl>$ ^propio<adj><m><pl>$
+778 	 ^,<cm>$ ^dejar<vblex><prs><p1><pl>$
+779 	 ^dejar<vblex><prs><p1><pl>$ ^así<adv>$
+780 	 ^,<cm>$ ^dejar<vblex><prs><p1><pl>$ ^así<adv>$
+781 	 ^por consiguiente<cnjadv>$ ^,<cm>$ ^dejar<vblex><prs><p1><pl>$
+782 	 ^dejar<vblex><prs><p1><pl>$ ^así<adv>$ ^el<det><def><f><pl>$
+783 	 ^por consiguiente<cnjadv>$ ^,<cm>$ ^dejar<vblex><prs><p1><pl>$ ^así<adv>$ ^el<det><def><f><pl>$
+784 	 ^estar<vblex><pri><p3><pl>$ ^claro<adj><f><pl>$
+785 	 ^claro<adj><f><pl>$ ^y<cnjcoo>$
+786 	 ^estar<vblex><pri><p3><pl>$ ^claro<adj><f><pl>$ ^y<cnjcoo>$
+787 	 ^posición<n><f><pl>$ ^estar<vblex><pri><p3><pl>$ ^claro<adj><f><pl>$
+788 	 ^claro<adj><f><pl>$ ^y<cnjcoo>$ ^que<rel><an><mf><sp>$
+789 	 ^posición<n><f><pl>$ ^estar<vblex><pri><p3><pl>$ ^claro<adj><f><pl>$ ^y<cnjcoo>$ ^que<rel><an><mf><sp>$
+790 	 ^reflejar<vblex><fti><p3><pl>$ ^en<pr>$
+791 	 ^reflejar<vblex><fti><p3><pl>$ ^en<pr>$ ^el<det><def><m><sg>$
+792 	 ^se<prn><pro><ref><p3><mf><sp>$ ^reflejar<vblex><fti><p3><pl>$ ^en<pr>$
+793 	 ^en<pr>$ ^el<det><def><m><sg>$ ^acta<n><f><sg>$
+794 	 ^se<prn><pro><ref><p3><mf><sp>$ ^reflejar<vblex><fti><p3><pl>$ ^en<pr>$ ^el<det><def><m><sg>$ ^acta<n><f><sg>$
+795 	 ^aprobación<n><f><sg>$ ^de<pr>$
+796 	 ^aprobación<n><f><sg>$ ^de<pr>$ ^el<det><def><m><sg>$
+797 	 ^el<det><def><f><sg>$ ^aprobación<n><f><sg>$ ^de<pr>$
+798 	 ^de<pr>$ ^el<det><def><m><sg>$ ^acta<n><f><sg>$
+799 	 ^el<det><def><f><sg>$ ^aprobación<n><f><sg>$ ^de<pr>$ ^el<det><def><m><sg>$ ^acta<n><f><sg>$
+800 	 ^acta<n><f><sg>$ ^de<pr>$
+801 	 ^acta<n><f><sg>$ ^de<pr>$ ^el<det><def><f><sg>$
+802 	 ^el<det><def><m><sg>$ ^acta<n><f><sg>$ ^de<pr>$
+803 	 ^de<pr>$ ^el<det><def><f><sg>$ ^sesión<n><f><sg>$
+804 	 ^el<det><def><m><sg>$ ^acta<n><f><sg>$ ^de<pr>$ ^el<det><def><f><sg>$ ^sesión<n><f><sg>$
+805 	 ^prpers<prn><pro><p1><mf><pl>$ ^llevar<vblex><cni><p3><pl>$
+806 	 ^llevar<vblex><cni><p3><pl>$ ^mucho tiempo<adv>$
+807 	 ^prpers<prn><pro><p1><mf><pl>$ ^llevar<vblex><cni><p3><pl>$ ^mucho tiempo<adv>$
+808 	 ^que<rel><an><mf><sp>$ ^prpers<prn><pro><p1><mf><pl>$ ^llevar<vblex><cni><p3><pl>$
+809 	 ^llevar<vblex><cni><p3><pl>$ ^mucho tiempo<adv>$ ^.<sent>$
+810 	 ^que<rel><an><mf><sp>$ ^prpers<prn><pro><p1><mf><pl>$ ^llevar<vblex><cni><p3><pl>$ ^mucho tiempo<adv>$ ^.<sent>$
+811 	 ^presidente<n><f><sg>$ ^,<cm>$ ^si<cnjadv>$
+812 	 ^el<det><def><m><sg>$ ^registro<n><m><sg>$
+813 	 ^registro<n><m><sg>$ ^de<pr>$
+814 	 ^el<det><def><m><sg>$ ^registro<n><m><sg>$ ^de<pr>$
+815 	 ^en<pr>$ ^el<det><def><m><sg>$ ^registro<n><m><sg>$
+816 	 ^registro<n><m><sg>$ ^de<pr>$ ^el<det><def><f><sg>$
+817 	 ^en<pr>$ ^el<det><def><m><sg>$ ^registro<n><m><sg>$ ^de<pr>$ ^el<det><def><f><sg>$
+818 	 ^constar<vblex><pri><p3><sg>$ ^correctamente<adv>$
+819 	 ^correctamente<adv>$ ^cómo<adv><itg>$
+820 	 ^constar<vblex><pri><p3><sg>$ ^correctamente<adv>$ ^cómo<adv><itg>$
+821 	 ^votación<n><f><sg>$ ^constar<vblex><pri><p3><sg>$ ^correctamente<adv>$
+822 	 ^correctamente<adv>$ ^cómo<adv><itg>$ ^haber<vbhaver><pri><p3><sg>$
+823 	 ^votación<n><f><sg>$ ^constar<vblex><pri><p3><sg>$ ^correctamente<adv>$ ^cómo<adv><itg>$ ^haber<vbhaver><pri><p3><sg>$
+824 	 ^transporte<n><m><sg>$ ^de<pr>$
+825 	 ^de<pr>$ ^mercancía<n><f><pl>$
+826 	 ^transporte<n><m><sg>$ ^de<pr>$ ^mercancía<n><f><pl>$
+827 	 ^el<det><def><m><sg>$ ^transporte<n><m><sg>$ ^de<pr>$
+828 	 ^de<pr>$ ^mercancía<n><f><pl>$ ^peligroso<adj><f><pl>$
+829 	 ^el<det><def><m><sg>$ ^transporte<n><m><sg>$ ^de<pr>$ ^mercancía<n><f><pl>$ ^peligroso<adj><f><pl>$
+830 	 ^consejo<n><m><sg>$ ^relativo<adj><f><sg>$
+831 	 ^el<det><def><m><sg>$ ^consejo<n><m><sg>$ ^relativo<adj><f><sg>$
+832 	 ^de<pr>$ ^el<det><def><m><sg>$ ^consejo<n><m><sg>$
+833 	 ^consejo<n><m><sg>$ ^relativo<adj><f><sg>$ ^a<pr>$
+834 	 ^de<pr>$ ^el<det><def><m><sg>$ ^consejo<n><m><sg>$ ^relativo<adj><f><sg>$ ^a<pr>$
+835 	 ^peligroso<adj><f><pl>$ ^por<pr>$
+836 	 ^por<pr>$ ^carretera<n><f><sg>$
+837 	 ^peligroso<adj><f><pl>$ ^por<pr>$ ^carretera<n><f><sg>$
+838 	 ^mercancía<n><f><pl>$ ^peligroso<adj><f><pl>$ ^por<pr>$
+839 	 ^por<pr>$ ^carretera<n><f><sg>$ ^,<cm>$
+840 	 ^mercancía<n><f><pl>$ ^peligroso<adj><f><pl>$ ^por<pr>$ ^carretera<n><f><sg>$ ^,<cm>$
+841 	 ^o<cnjcoo>$ ^por<pr>$
+842 	 ^por<pr>$ ^vía<n><f><sg>$
+843 	 ^o<cnjcoo>$ ^por<pr>$ ^vía<n><f><sg>$
+844 	 ^ferrocarril<n><m><sg>$ ^o<cnjcoo>$ ^por<pr>$
+845 	 ^por<pr>$ ^vía<n><f><sg>$ ^navegable<adj><mf><sg>$
+846 	 ^ferrocarril<n><m><sg>$ ^o<cnjcoo>$ ^por<pr>$ ^vía<n><f><sg>$ ^navegable<adj><mf><sg>$
+847 	 ^de<pr>$ ^política<n><f><sg>$
+848 	 ^política<n><f><sg>$ ^regional<adj><mf><sg>$
+849 	 ^de<pr>$ ^política<n><f><sg>$ ^regional<adj><mf><sg>$
+850 	 ^comisión<n><f><sg>$ ^de<pr>$ ^política<n><f><sg>$
+851 	 ^política<n><f><sg>$ ^regional<adj><mf><sg>$ ^,<cm>$
+852 	 ^comisión<n><f><sg>$ ^de<pr>$ ^política<n><f><sg>$ ^regional<adj><mf><sg>$ ^,<cm>$
+853 	 ^consejo<n><m><sg>$ ^sobre<pr>$
+854 	 ^el<det><def><m><sg>$ ^consejo<n><m><sg>$ ^sobre<pr>$
+855 	 ^consejo<n><m><sg>$ ^sobre<pr>$ ^el<det><def><f><sg>$
+856 	 ^de<pr>$ ^el<det><def><m><sg>$ ^consejo<n><m><sg>$ ^sobre<pr>$ ^el<det><def><f><sg>$
+857 	 ^consejero<n><m><pl>$ ^de<pr>$
+858 	 ^de<pr>$ ^seguridad<n><f><sg>$
+859 	 ^consejero<n><m><pl>$ ^de<pr>$ ^seguridad<n><f><sg>$
+860 	 ^el<det><def><m><pl>$ ^consejero<n><m><pl>$ ^de<pr>$
+861 	 ^de<pr>$ ^seguridad<n><f><sg>$ ^para<pr>$
+862 	 ^el<det><def><m><pl>$ ^consejero<n><m><pl>$ ^de<pr>$ ^seguridad<n><f><sg>$ ^para<pr>$
+863 	 ^como<cnjadv>$ ^en<pr>$
+864 	 ^como<cnjadv>$ ^en<pr>$ ^el<det><def><m><sg>$
+865 	 ^transporte<n><m><sg>$ ^como<cnjadv>$ ^en<pr>$
+866 	 ^en<pr>$ ^el<det><def><m><sg>$ ^transbordo<n><m><sg>$
+867 	 ^transporte<n><m><sg>$ ^como<cnjadv>$ ^en<pr>$ ^el<det><def><m><sg>$ ^transbordo<n><m><sg>$
+868 	 ^existencia<n><f><sg>$ ^de<pr>$
+869 	 ^de<pr>$ ^muy<preadv>$
+870 	 ^existencia<n><f><sg>$ ^de<pr>$ ^muy<preadv>$
+871 	 ^el<det><def><f><sg>$ ^existencia<n><f><sg>$ ^de<pr>$
+872 	 ^de<pr>$ ^muy<preadv>$ ^diferente<adj><mf><pl>$
+873 	 ^el<det><def><f><sg>$ ^existencia<n><f><sg>$ ^de<pr>$ ^muy<preadv>$ ^diferente<adj><mf><pl>$
+874 	 ^seguridad<n><f><sg>$ ^en<pr>$
+875 	 ^seguridad<n><f><sg>$ ^en<pr>$ ^el<det><def><m><sg>$
+876 	 ^de<pr>$ ^seguridad<n><f><sg>$ ^en<pr>$
+877 	 ^en<pr>$ ^el<det><def><m><sg>$ ^mercado<n><m><sg>$
+878 	 ^de<pr>$ ^seguridad<n><f><sg>$ ^en<pr>$ ^el<det><def><m><sg>$ ^mercado<n><m><sg>$
+879 	 ^norma<n><f><pl>$ ^mínimo<adj><f><pl>$
+880 	 ^mínimo<adj><f><pl>$ ^,<cm>$
+881 	 ^norma<n><f><pl>$ ^mínimo<adj><f><pl>$ ^,<cm>$
+882 	 ^a<pr>$ ^norma<n><f><pl>$ ^mínimo<adj><f><pl>$
+883 	 ^mínimo<adj><f><pl>$ ^,<cm>$ ^garantizar<vblex><pri><p1><pl>$
+884 	 ^a<pr>$ ^norma<n><f><pl>$ ^mínimo<adj><f><pl>$ ^,<cm>$ ^garantizar<vblex><pri><p1><pl>$
+885 	 ^uno<det><ind><m><sg>$ ^alto<adj><m><sg>$
+886 	 ^alto<adj><m><sg>$ ^grado<n><m><sg>$
+887 	 ^uno<det><ind><m><sg>$ ^alto<adj><m><sg>$ ^grado<n><m><sg>$
+888 	 ^garantizar<vblex><pri><p1><pl>$ ^uno<det><ind><m><sg>$ ^alto<adj><m><sg>$
+889 	 ^alto<adj><m><sg>$ ^grado<n><m><sg>$ ^de<pr>$
+890 	 ^garantizar<vblex><pri><p1><pl>$ ^uno<det><ind><m><sg>$ ^alto<adj><m><sg>$ ^grado<n><m><sg>$ ^de<pr>$
+891 	 ^grado<n><m><sg>$ ^de<pr>$
+892 	 ^de<pr>$ ^flexibilidad<n><f><sg>$
+893 	 ^grado<n><m><sg>$ ^de<pr>$ ^flexibilidad<n><f><sg>$
+894 	 ^de<pr>$ ^flexibilidad<n><f><sg>$ ^y<cnjcoo>$
+895 	 ^alto<adj><m><sg>$ ^grado<n><m><sg>$ ^de<pr>$ ^flexibilidad<n><f><sg>$ ^y<cnjcoo>$
+896 	 ^esto<prn><tn><m><sp>$ ^en<pr>$
+897 	 ^esto<prn><tn><m><sp>$ ^en<pr>$ ^el<det><def><m><sg>$
+898 	 ^todo<predet><nt><sp>$ ^esto<prn><tn><m><sp>$ ^en<pr>$
+899 	 ^en<pr>$ ^el<det><def><m><sg>$ ^sentido<n><m><sg>$
+900 	 ^todo<predet><nt><sp>$ ^esto<prn><tn><m><sp>$ ^en<pr>$ ^el<det><def><m><sg>$ ^sentido<n><m><sg>$
+901 	 ^el<det><def><m><sg>$ ^sentido<n><m><sg>$
+902 	 ^sentido<n><m><sg>$ ^de<pr>$
+903 	 ^el<det><def><m><sg>$ ^sentido<n><m><sg>$ ^de<pr>$
+904 	 ^sentido<n><m><sg>$ ^de<pr>$ ^el<det><def><f><sg>$
+905 	 ^en<pr>$ ^el<det><def><m><sg>$ ^sentido<n><m><sg>$ ^de<pr>$ ^el<det><def><f><sg>$
+906 	 ^poner<vblex><pp><m><sg>$ ^en<pr>$
+907 	 ^en<pr>$ ^práctica<n><f><sg>$
+908 	 ^poner<vblex><pp><m><sg>$ ^en<pr>$ ^práctica<n><f><sg>$
+909 	 ^haber<vbhaver><pri><p3><pl>$ ^poner<vblex><pp><m><sg>$ ^en<pr>$
+910 	 ^en<pr>$ ^práctica<n><f><sg>$ ^adecuadamente<adv>$
+911 	 ^haber<vbhaver><pri><p3><pl>$ ^poner<vblex><pp><m><sg>$ ^en<pr>$ ^práctica<n><f><sg>$ ^adecuadamente<adv>$
+912 	 ^política<n><f><sg>$ ^regional<adj><mf><sg>$ ^y<cnjcoo>$
+913 	 ^comisión<n><f><sg>$ ^de<pr>$ ^política<n><f><sg>$ ^regional<adj><mf><sg>$ ^y<cnjcoo>$
+914 	 ^de<pr>$ ^tres<num><mf><sp>$
+915 	 ^periodo<n><m><sg>$ ^de<pr>$ ^tres<num><mf><sp>$
+916 	 ^uno<det><ind><m><sg>$ ^periodo<n><m><sg>$ ^de<pr>$
+917 	 ^de<pr>$ ^tres<num><mf><sp>$ ^mes<n><m><pl>$
+918 	 ^uno<det><ind><m><sg>$ ^periodo<n><m><sg>$ ^de<pr>$ ^tres<num><mf><sp>$ ^mes<n><m><pl>$
+919 	 ^conformidad<n><f><sg>$ ^de<pr>$
+920 	 ^de<pr>$ ^prpers<prn><tn><p3><mf><pl>$
+921 	 ^conformidad<n><f><sg>$ ^de<pr>$ ^prpers<prn><tn><p3><mf><pl>$
+922 	 ^el<det><def><f><sg>$ ^conformidad<n><f><sg>$ ^de<pr>$
+923 	 ^de<pr>$ ^prpers<prn><tn><p3><mf><pl>$ ^.<sent>$
+924 	 ^el<det><def><f><sg>$ ^conformidad<n><f><sg>$ ^de<pr>$ ^prpers<prn><tn><p3><mf><pl>$ ^.<sent>$
+925 	 ^noticia<n><f><pl>$ ^de<pr>$
+926 	 ^de<pr>$ ^accidente<n><m><pl>$
+927 	 ^noticia<n><f><pl>$ ^de<pr>$ ^accidente<n><m><pl>$
+928 	 ^frecuencia<n><f><sg>$ ^noticia<n><f><pl>$ ^de<pr>$
+929 	 ^de<pr>$ ^accidente<n><m><pl>$ ^en<pr>$
+930 	 ^frecuencia<n><f><sg>$ ^noticia<n><f><pl>$ ^de<pr>$ ^accidente<n><m><pl>$ ^en<pr>$
+931 	 ^navegable<adj><mf><pl>$ ^en<pr>$
+932 	 ^en<pr>$ ^el que<rel><nn><m><pl>$
+933 	 ^navegable<adj><mf><pl>$ ^en<pr>$ ^el que<rel><nn><m><pl>$
+934 	 ^vía<n><f><pl>$ ^navegable<adj><mf><pl>$ ^en<pr>$
+935 	 ^en<pr>$ ^el que<rel><nn><m><pl>$ ^se<prn><pro><ref><p3><mf><sp>$
+936 	 ^vía<n><f><pl>$ ^navegable<adj><mf><pl>$ ^en<pr>$ ^el que<rel><nn><m><pl>$ ^se<prn><pro><ref><p3><mf><sp>$
+937 	 ^tránsito<n><m><sg>$ ^de<pr>$
+938 	 ^tránsito<n><m><sg>$ ^de<pr>$ ^mercancía<n><f><pl>$
+939 	 ^el<det><def><m><sg>$ ^tránsito<n><m><sg>$ ^de<pr>$
+940 	 ^el<det><def><m><sg>$ ^tránsito<n><m><sg>$ ^de<pr>$ ^mercancía<n><f><pl>$ ^peligroso<adj><f><pl>$
+941 	 ^persona<n><f><pl>$ ^en<pr>$
+942 	 ^persona<n><f><pl>$ ^en<pr>$ ^el<det><def><m><sg>$
+943 	 ^numeroso<adj><f><pl>$ ^persona<n><f><pl>$ ^en<pr>$
+944 	 ^en<pr>$ ^el<det><def><m><sg>$ ^túnel<n><m><sg>$
+945 	 ^numeroso<adj><f><pl>$ ^persona<n><f><pl>$ ^en<pr>$ ^el<det><def><m><sg>$ ^túnel<n><m><sg>$
+946 	 ^destruir<vblex><pp><m><sg>$ ^por<pr>$
+947 	 ^por<pr>$ ^el<det><def><m><sg>$
+948 	 ^destruir<vblex><pp><m><sg>$ ^por<pr>$ ^el<det><def><m><sg>$
+949 	 ^ser<vbser><ifi><p3><sg>$ ^destruir<vblex><pp><m><sg>$ ^por<pr>$
+950 	 ^por<pr>$ ^el<det><def><m><sg>$ ^incendio<n><m><sg>$
+951 	 ^ser<vbser><ifi><p3><sg>$ ^destruir<vblex><pp><m><sg>$ ^por<pr>$ ^el<det><def><m><sg>$ ^incendio<n><m><sg>$
+952 	 ^incendio<n><m><sg>$ ^en<pr>$
+953 	 ^incendio<n><m><sg>$ ^en<pr>$ ^el<det><def><m><sg>$
+954 	 ^el<det><def><m><sg>$ ^incendio<n><m><sg>$ ^en<pr>$
+955 	 ^el<det><def><m><sg>$ ^incendio<n><m><sg>$ ^en<pr>$ ^el<det><def><m><sg>$ ^túnel<n><m><sg>$
+956 	 ^,<cm>$ ^cortar<vblex><ifi><p3><sg>$
+957 	 ^cortar<vblex><ifi><p3><sg>$ ^este<det><dem><f><sg>$
+958 	 ^,<cm>$ ^cortar<vblex><ifi><p3><sg>$ ^este<det><dem><f><sg>$
+959 	 ^mes<n><m><pl>$ ^,<cm>$ ^cortar<vblex><ifi><p3><sg>$
+960 	 ^cortar<vblex><ifi><p3><sg>$ ^este<det><dem><f><sg>$ ^importante<adj><mf><sg>$
+961 	 ^mes<n><m><pl>$ ^,<cm>$ ^cortar<vblex><ifi><p3><sg>$ ^este<det><dem><f><sg>$ ^importante<adj><mf><sg>$
+962 	 ^sur<n><m><sg>$ ^de<pr>$
+963 	 ^de<pr>$ ^Europa<np><loc><f><sg>$
+964 	 ^sur<n><m><sg>$ ^de<pr>$ ^Europa<np><loc><f><sg>$
+965 	 ^el<det><def><m><sg>$ ^sur<n><m><sg>$ ^de<pr>$
+966 	 ^de<pr>$ ^Europa<np><loc><f><sg>$ ^.<sent>$
+967 	 ^el<det><def><m><sg>$ ^sur<n><m><sg>$ ^de<pr>$ ^Europa<np><loc><f><sg>$ ^.<sent>$
+968 	 ^transporte<n><m><sg>$ ^por<pr>$
+969 	 ^por<pr>$ ^este<det><dem><f><sg>$
+970 	 ^transporte<n><m><sg>$ ^por<pr>$ ^este<det><dem><f><sg>$
+971 	 ^el<det><def><m><sg>$ ^transporte<n><m><sg>$ ^por<pr>$
+972 	 ^por<pr>$ ^este<det><dem><f><sg>$ ^causa<n><f><sg>$
+973 	 ^el<det><def><m><sg>$ ^transporte<n><m><sg>$ ^por<pr>$ ^este<det><dem><f><sg>$ ^causa<n><f><sg>$
+974 	 ^causa<n><f><sg>$ ^llevar<vblex><ifi><p3><sg>$
+975 	 ^llevar<vblex><ifi><p3><sg>$ ^hasta<pr>$
+976 	 ^causa<n><f><sg>$ ^llevar<vblex><ifi><p3><sg>$ ^hasta<pr>$
+977 	 ^este<det><dem><f><sg>$ ^causa<n><f><sg>$ ^llevar<vblex><ifi><p3><sg>$
+978 	 ^llevar<vblex><ifi><p3><sg>$ ^hasta<pr>$ ^el<det><def><m><sg>$
+979 	 ^este<det><dem><f><sg>$ ^causa<n><f><sg>$ ^llevar<vblex><ifi><p3><sg>$ ^hasta<pr>$ ^el<det><def><m><sg>$
+980 	 ^límite<n><m><sg>$ ^de<pr>$
+981 	 ^de<pr>$ ^lo<det><def><nt><sg>$
+982 	 ^límite<n><m><sg>$ ^de<pr>$ ^lo<det><def><nt><sg>$
+983 	 ^el<det><def><m><sg>$ ^límite<n><m><sg>$ ^de<pr>$
+984 	 ^de<pr>$ ^lo<det><def><nt><sg>$ ^soportable<adj><mf><sg>$
+985 	 ^el<det><def><m><sg>$ ^límite<n><m><sg>$ ^de<pr>$ ^lo<det><def><nt><sg>$ ^soportable<adj><mf><sg>$
+986 	 ^nacional<adj><mf><pl>$ ^por<pr>$
+987 	 ^por<pr>$ ^el<det><def><m><pl>$
+988 	 ^nacional<adj><mf><pl>$ ^por<pr>$ ^el<det><def><m><pl>$
+989 	 ^legislación<n><f><pl>$ ^nacional<adj><mf><pl>$ ^por<pr>$
+990 	 ^por<pr>$ ^el<det><def><m><pl>$ ^estado<n><m><pl>$
+991 	 ^legislación<n><f><pl>$ ^nacional<adj><mf><pl>$ ^por<pr>$ ^el<det><def><m><pl>$ ^estado<n><m><pl>$
+992 	 ^miembro<n><mf><pl>$ ^en<pr>$
+993 	 ^miembro<n><mf><pl>$ ^en<pr>$ ^el<det><def><m><pl>$
+994 	 ^estado<n><m><pl>$ ^miembro<n><mf><pl>$ ^en<pr>$
+995 	 ^en<pr>$ ^el<det><def><m><pl>$ ^plazo<n><m><pl>$
+996 	 ^estado<n><m><pl>$ ^miembro<n><mf><pl>$ ^en<pr>$ ^el<det><def><m><pl>$ ^plazo<n><m><pl>$
+997 	 ^ser<vbser><prs><p3><pl>$ ^llevar<vblex><pp><m><pl>$
+998 	 ^llevar<vblex><pp><m><pl>$ ^a<pr>$
+999 	 ^ser<vbser><prs><p3><pl>$ ^llevar<vblex><pp><m><pl>$ ^a<pr>$
+1000 	 ^luego<adv>$ ^ser<vbser><prs><p3><pl>$ ^llevar<vblex><pp><m><pl>$
+1001 	 ^llevar<vblex><pp><m><pl>$ ^a<pr>$ ^el<det><def><f><sg>$
+1002 	 ^luego<adv>$ ^ser<vbser><prs><p3><pl>$ ^llevar<vblex><pp><m><pl>$ ^a<pr>$ ^el<det><def><f><sg>$
+1003 	 ^otro<det><ind><m><sg>$ ^ámbito<n><m><sg>$
+1004 	 ^ámbito<n><m><sg>$ ^en<pr>$
+1005 	 ^otro<det><ind><m><sg>$ ^ámbito<n><m><sg>$ ^en<pr>$
+1006 	 ^ser<vbser><prs><p3><sg>$ ^otro<det><ind><m><sg>$ ^ámbito<n><m><sg>$
+1007 	 ^ámbito<n><m><sg>$ ^en<pr>$ ^el que<rel><nn><m><sg>$
+1008 	 ^ser<vbser><prs><p3><sg>$ ^otro<det><ind><m><sg>$ ^ámbito<n><m><sg>$ ^en<pr>$ ^el que<rel><nn><m><sg>$
+1009 	 ^uno<det><ind><m><sg>$ ^déficit<n><m><sg>$
+1010 	 ^déficit<n><m><sg>$ ^de<pr>$
+1011 	 ^uno<det><ind><m><sg>$ ^déficit<n><m><sg>$ ^de<pr>$
+1012 	 ^lamentar<vblex><inf>$ ^uno<det><ind><m><sg>$ ^déficit<n><m><sg>$
+1013 	 ^déficit<n><m><sg>$ ^de<pr>$ ^ejecución<n><f><sg>$
+1014 	 ^lamentar<vblex><inf>$ ^uno<det><ind><m><sg>$ ^déficit<n><m><sg>$ ^de<pr>$ ^ejecución<n><f><sg>$
+1015 	 ^agujero<n><m><sg>$ ^en<pr>$
+1016 	 ^agujero<n><m><sg>$ ^en<pr>$ ^el<det><def><f><sg>$
+1017 	 ^otro<det><ind><m><sg>$ ^agujero<n><m><sg>$ ^en<pr>$
+1018 	 ^en<pr>$ ^el<det><def><f><sg>$ ^red<n><f><sg>$
+1019 	 ^otro<det><ind><m><sg>$ ^agujero<n><m><sg>$ ^en<pr>$ ^el<det><def><f><sg>$ ^red<n><f><sg>$
+1020 	 ^tarea<n><f><sg>$ ^en<pr>$
+1021 	 ^tarea<n><f><sg>$ ^en<pr>$ ^el<det><def><m><sg>$
+1022 	 ^suyo<det><pos><mf><sg>$ ^tarea<n><f><sg>$ ^en<pr>$
+1023 	 ^en<pr>$ ^el<det><def><m><sg>$ ^ámbito<n><m><sg>$
+1024 	 ^suyo<det><pos><mf><sg>$ ^tarea<n><f><sg>$ ^en<pr>$ ^el<det><def><m><sg>$ ^ámbito<n><m><sg>$
+1025 	 ^el<det><def><f><sg>$ ^seguridad<n><f><sg>$ ^en<pr>$
+1026 	 ^en<pr>$ ^el<det><def><m><sg>$ ^transporte<n><m><sg>$
+1027 	 ^el<det><def><f><sg>$ ^seguridad<n><f><sg>$ ^en<pr>$ ^el<det><def><m><sg>$ ^transporte<n><m><sg>$
+1028 	 ^en<pr>$ ^Londres<np><loc><m><sg>$
+1029 	 ^,<cm>$ ^en<pr>$ ^Londres<np><loc><m><sg>$
+1030 	 ^*Paddington<>$ ^,<cm>$ ^en<pr>$
+1031 	 ^en<pr>$ ^Londres<np><loc><m><sg>$ ^,<cm>$
+1032 	 ^*Paddington<>$ ^,<cm>$ ^en<pr>$ ^Londres<np><loc><m><sg>$ ^,<cm>$
+1033 	 ^aéreo<adj><m><pl>$ ^en<pr>$
+1034 	 ^aéreo<adj><m><pl>$ ^en<pr>$ ^el que<rel><nn><m><pl>$
+1035 	 ^accidente<n><m><pl>$ ^aéreo<adj><m><pl>$ ^en<pr>$
+1036 	 ^accidente<n><m><pl>$ ^aéreo<adj><m><pl>$ ^en<pr>$ ^el que<rel><nn><m><pl>$ ^se<prn><pro><ref><p3><mf><sp>$
+1037 	 ^dar<vblex><inf>$ ^por<pr>$
+1038 	 ^por<pr>$ ^sentar<vblex><pp><f><sg>$
+1039 	 ^dar<vblex><inf>$ ^por<pr>$ ^sentar<vblex><pp><f><sg>$
+1040 	 ^deber<vbmod><pri><p1><pl>$ ^dar<vblex><inf>$ ^por<pr>$
+1041 	 ^por<pr>$ ^sentar<vblex><pp><f><sg>$ ^el<det><def><f><sg>$
+1042 	 ^deber<vbmod><pri><p1><pl>$ ^dar<vblex><inf>$ ^por<pr>$ ^sentar<vblex><pp><f><sg>$ ^el<det><def><f><sg>$
+1043 	 ^consejo<n><m><sg>$ ^haber<vbhaver><pri><p3><sg>$
+1044 	 ^el<det><def><m><sg>$ ^consejo<n><m><sg>$ ^haber<vbhaver><pri><p3><sg>$
+1045 	 ^que<rel><an><mf><sp>$ ^el<det><def><m><sg>$ ^consejo<n><m><sg>$
+1046 	 ^consejo<n><m><sg>$ ^haber<vbhaver><pri><p3><sg>$ ^aceptar<vblex><pp><m><sg>$
+1047 	 ^que<rel><an><mf><sp>$ ^el<det><def><m><sg>$ ^consejo<n><m><sg>$ ^haber<vbhaver><pri><p3><sg>$ ^aceptar<vblex><pp><m><sg>$
+1048 	 ^aceptar<vblex><pp><m><sg>$ ^en<pr>$
+1049 	 ^aceptar<vblex><pp><m><sg>$ ^en<pr>$ ^suyo<det><pos><mf><sg>$
+1050 	 ^haber<vbhaver><pri><p3><sg>$ ^aceptar<vblex><pp><m><sg>$ ^en<pr>$
+1051 	 ^en<pr>$ ^suyo<det><pos><mf><sg>$ ^posición<n><f><sg>$
+1052 	 ^haber<vbhaver><pri><p3><sg>$ ^aceptar<vblex><pp><m><sg>$ ^en<pr>$ ^suyo<det><pos><mf><sg>$ ^posición<n><f><sg>$
+1053 	 ^esencia<n><f><sg>$ ^de<pr>$
+1054 	 ^esencia<n><f><sg>$ ^de<pr>$ ^el<det><def><f><pl>$
+1055 	 ^el<det><def><f><sg>$ ^esencia<n><f><sg>$ ^de<pr>$
+1056 	 ^de<pr>$ ^el<det><def><f><pl>$ ^otro<prn><tn><f><pl>$
+1057 	 ^el<det><def><f><sg>$ ^esencia<n><f><sg>$ ^de<pr>$ ^el<det><def><f><pl>$ ^otro<prn><tn><f><pl>$
+1058 	 ^a<pr>$ ^apoyar<vblex><inf>$
+1059 	 ^apoyar<vblex><inf>$ ^ese<det><dem><f><sg>$
+1060 	 ^a<pr>$ ^apoyar<vblex><inf>$ ^ese<det><dem><f><sg>$
+1061 	 ^ir<vblex><pri><p3><sg>$ ^a<pr>$ ^apoyar<vblex><inf>$
+1062 	 ^apoyar<vblex><inf>$ ^ese<det><dem><f><sg>$ ^posición<n><f><sg>$
+1063 	 ^ir<vblex><pri><p3><sg>$ ^a<pr>$ ^apoyar<vblex><inf>$ ^ese<det><dem><f><sg>$ ^posición<n><f><sg>$
+1064 	 ^transporte<n><m><sg>$ ^en<pr>$
+1065 	 ^transporte<n><m><sg>$ ^en<pr>$ ^el<det><def><f><sg>$
+1066 	 ^el<det><def><m><sg>$ ^transporte<n><m><sg>$ ^en<pr>$
+1067 	 ^en<pr>$ ^el<det><def><f><sg>$ ^unión<n><f><sg>$
+1068 	 ^el<det><def><m><sg>$ ^transporte<n><m><sg>$ ^en<pr>$ ^el<det><def><f><sg>$ ^unión<n><f><sg>$
+1069 	 ^tratar<vblex><pri><p3><sg>$ ^de<pr>$ ^seguridad<n><f><sg>$
+1070 	 ^de<pr>$ ^seguridad<n><f><sg>$ ^mío<det><pos><mf><sg>$
+1071 	 ^se<prn><pro><ref><p3><mf><sp>$ ^tratar<vblex><pri><p3><sg>$ ^de<pr>$ ^seguridad<n><f><sg>$ ^mío<det><pos><mf><sg>$
+1072 	 ^mucho<adv>$ ^por<pr>$
+1073 	 ^por<pr>$ ^hacer<vblex><inf>$
+1074 	 ^mucho<adv>$ ^por<pr>$ ^hacer<vblex><inf>$
+1075 	 ^quedar<vblex><pri><p3><sg>$ ^mucho<adv>$ ^por<pr>$
+1076 	 ^por<pr>$ ^hacer<vblex><inf>$ ^sobre<pr>$
+1077 	 ^quedar<vblex><pri><p3><sg>$ ^mucho<adv>$ ^por<pr>$ ^hacer<vblex><inf>$ ^sobre<pr>$
+1078 	 ^técnico<adj><f><sg>$ ^en<pr>$
+1079 	 ^técnico<adj><f><sg>$ ^en<pr>$ ^este<det><dem><m><sg>$
+1080 	 ^y<cnjcoo>$ ^técnico<adj><f><sg>$ ^en<pr>$
+1081 	 ^en<pr>$ ^este<det><dem><m><sg>$ ^informe<n><m><sg>$
+1082 	 ^y<cnjcoo>$ ^técnico<adj><f><sg>$ ^en<pr>$ ^este<det><dem><m><sg>$ ^informe<n><m><sg>$
+1083 	 ^requisito<n><m><pl>$ ^de<pr>$
+1084 	 ^requisito<n><m><pl>$ ^de<pr>$ ^el<det><def><m><pl>$
+1085 	 ^el<det><def><m><pl>$ ^requisito<n><m><pl>$ ^de<pr>$
+1086 	 ^de<pr>$ ^el<det><def><m><pl>$ ^examen<n><m><pl>$
+1087 	 ^el<det><def><m><pl>$ ^requisito<n><m><pl>$ ^de<pr>$ ^el<det><def><m><pl>$ ^examen<n><m><pl>$
+1088 	 ^requisito<n><m><pl>$ ^mínimo<adj><m><pl>$
+1089 	 ^mínimo<adj><m><pl>$ ^.<sent>$
+1090 	 ^requisito<n><m><pl>$ ^mínimo<adj><m><pl>$ ^.<sent>$
+1091 	 ^el<det><def><m><pl>$ ^requisito<n><m><pl>$ ^mínimo<adj><m><pl>$
+1092 	 ^el<det><def><m><pl>$ ^requisito<n><m><pl>$ ^mínimo<adj><m><pl>$ ^.<sent>$
+1093 	 ^uno<det><ind><f><sg>$ ^pena<n><f><sg>$
+1094 	 ^pena<n><f><sg>$ ^en<pr>$
+1095 	 ^uno<det><ind><f><sg>$ ^pena<n><f><sg>$ ^en<pr>$
+1096 	 ^ser<vbser><pri><p3><sg>$ ^uno<det><ind><f><sg>$ ^pena<n><f><sg>$
+1097 	 ^pena<n><f><sg>$ ^en<pr>$ ^cierto<det><ind><m><sg>$
+1098 	 ^ser<vbser><pri><p3><sg>$ ^uno<det><ind><f><sg>$ ^pena<n><f><sg>$ ^en<pr>$ ^cierto<det><ind><m><sg>$
+1099 	 ^cierto<det><ind><m><sg>$ ^sentido<n><m><sg>$
+1100 	 ^sentido<n><m><sg>$ ^.<sent>$
+1101 	 ^cierto<det><ind><m><sg>$ ^sentido<n><m><sg>$ ^.<sent>$
+1102 	 ^en<pr>$ ^cierto<det><ind><m><sg>$ ^sentido<n><m><sg>$
+1103 	 ^en<pr>$ ^cierto<det><ind><m><sg>$ ^sentido<n><m><sg>$ ^.<sent>$
+1104 	 ^transporte<n><m><sg>$ ^por<pr>$ ^carretera<n><f><sg>$
+1105 	 ^el<det><def><m><sg>$ ^transporte<n><m><sg>$ ^por<pr>$ ^carretera<n><f><sg>$ ^,<cm>$
+1106 	 ^internacional<adj><mf><sg>$ ^de<pr>$
+1107 	 ^internacional<adj><mf><sg>$ ^de<pr>$ ^el<det><def><m><sg>$
+1108 	 ^carácter<n><m><sg>$ ^internacional<adj><mf><sg>$ ^de<pr>$
+1109 	 ^de<pr>$ ^el<det><def><m><sg>$ ^transporte<n><m><sg>$
+1110 	 ^carácter<n><m><sg>$ ^internacional<adj><mf><sg>$ ^de<pr>$ ^el<det><def><m><sg>$ ^transporte<n><m><sg>$
+1111 	 ^varios<det><ind><m><pl>$ ^motivo<n><m><pl>$
+1112 	 ^motivo<n><m><pl>$ ^por<pr>$
+1113 	 ^varios<det><ind><m><pl>$ ^motivo<n><m><pl>$ ^por<pr>$
+1114 	 ^por supuesto<adv>$ ^varios<det><ind><m><pl>$ ^motivo<n><m><pl>$
+1115 	 ^motivo<n><m><pl>$ ^por<pr>$ ^el que<rel><nn><m><pl>$
+1116 	 ^por supuesto<adv>$ ^varios<det><ind><m><pl>$ ^motivo<n><m><pl>$ ^por<pr>$ ^el que<rel><nn><m><pl>$
+1117 	 ^deber<vbmod><pri><p1><pl>$ ^dedicar<vblex><inf>$
+1118 	 ^dedicar<vblex><inf>$ ^prpers<prn><enc><p3><mf><sg>$
+1119 	 ^deber<vbmod><pri><p1><pl>$ ^dedicar<vblex><inf>$ ^prpers<prn><enc><p3><mf><sg>$
+1120 	 ^el que<rel><nn><m><pl>$ ^deber<vbmod><pri><p1><pl>$ ^dedicar<vblex><inf>$
+1121 	 ^dedicar<vblex><inf>$ ^prpers<prn><enc><p3><mf><sg>$ ^uno<det><ind><f><sg>$
+1122 	 ^el que<rel><nn><m><pl>$ ^deber<vbmod><pri><p1><pl>$ ^dedicar<vblex><inf>$ ^prpers<prn><enc><p3><mf><sg>$ ^uno<det><ind><f><sg>$
+1123 	 ^fijar<vblex><imp><p3><pl>$ ^se<prn><enc><ref><p3><mf><sp>$
+1124 	 ^fijar<vblex><imp><p3><pl>$ ^se<prn><enc><ref><p3><mf><sp>$ ^en<pr>$
+1125 	 ^por ejemplo<adv>$ ^en<pr>$
+1126 	 ^en<pr>$ ^Bélgica<np><loc><f><sg>$
+1127 	 ^por ejemplo<adv>$ ^en<pr>$ ^Bélgica<np><loc><f><sg>$
+1128 	 ^.<sent>$ ^por ejemplo<adv>$ ^en<pr>$
+1129 	 ^en<pr>$ ^Bélgica<np><loc><f><sg>$ ^,<cm>$
+1130 	 ^.<sent>$ ^por ejemplo<adv>$ ^en<pr>$ ^Bélgica<np><loc><f><sg>$ ^,<cm>$
+1131 	 ^al lado<adv>$ ^de<pr>$
+1132 	 ^de<pr>$ ^otro<det><ind><f><pl>$
+1133 	 ^al lado<adv>$ ^de<pr>$ ^otro<det><ind><f><pl>$
+1134 	 ^atracar<vblex><pp><m><pl>$ ^al lado<adv>$ ^de<pr>$
+1135 	 ^de<pr>$ ^otro<det><ind><f><pl>$ ^embarcación<n><f><pl>$
+1136 	 ^atracar<vblex><pp><m><pl>$ ^al lado<adv>$ ^de<pr>$ ^otro<det><ind><f><pl>$ ^embarcación<n><f><pl>$
+1137 	 ^realizar<vblex><pp><f><pl>$ ^en<pr>$
+1138 	 ^realizar<vblex><pp><f><pl>$ ^en<pr>$ ^el<det><def><m><pl>$
+1139 	 ^investigación<n><f><pl>$ ^realizar<vblex><pp><f><pl>$ ^en<pr>$
+1140 	 ^en<pr>$ ^el<det><def><m><pl>$ ^puerto<n><m><pl>$
+1141 	 ^investigación<n><f><pl>$ ^realizar<vblex><pp><f><pl>$ ^en<pr>$ ^el<det><def><m><pl>$ ^puerto<n><m><pl>$
+1142 	 ^puerto<n><m><pl>$ ^en<pr>$
+1143 	 ^puerto<n><m><pl>$ ^en<pr>$ ^Bélgica<np><loc><f><sg>$
+1144 	 ^el<det><def><m><pl>$ ^puerto<n><m><pl>$ ^en<pr>$
+1145 	 ^el<det><def><m><pl>$ ^puerto<n><m><pl>$ ^en<pr>$ ^Bélgica<np><loc><f><sg>$ ^,<cm>$
+1146 	 ^también<adv>$ ^en<pr>$
+1147 	 ^en<pr>$ ^Japón<np><loc><m><sg>$
+1148 	 ^también<adv>$ ^en<pr>$ ^Japón<np><loc><m><sg>$
+1149 	 ^pero<cnjcoo>$ ^también<adv>$ ^en<pr>$
+1150 	 ^en<pr>$ ^Japón<np><loc><m><sg>$ ^,<cm>$
+1151 	 ^pero<cnjcoo>$ ^también<adv>$ ^en<pr>$ ^Japón<np><loc><m><sg>$ ^,<cm>$
+1152 	 ^50%<num><percent>$ ^de<pr>$
+1153 	 ^50%<num><percent>$ ^de<pr>$ ^el<det><def><m><pl>$
+1154 	 ^el<det><def><m><sg>$ ^50%<num><percent>$ ^de<pr>$
+1155 	 ^de<pr>$ ^el<det><def><m><pl>$ ^contenedor<n><m><pl>$
+1156 	 ^el<det><def><m><sg>$ ^50%<num><percent>$ ^de<pr>$ ^el<det><def><m><pl>$ ^contenedor<n><m><pl>$
+1157 	 ^entregar<vblex><pri><p3><pl>$ ^correctamente<adv>$
+1158 	 ^correctamente<adv>$ ^.<sent>$
+1159 	 ^entregar<vblex><pri><p3><pl>$ ^correctamente<adv>$ ^.<sent>$
+1160 	 ^se<prn><pro><ref><p3><mf><sp>$ ^entregar<vblex><pri><p3><pl>$ ^correctamente<adv>$
+1161 	 ^se<prn><pro><ref><p3><mf><sp>$ ^entregar<vblex><pri><p3><pl>$ ^correctamente<adv>$ ^.<sent>$
+1162 	 ^contar<vblex><inf>$ ^en<pr>$
+1163 	 ^en<pr>$ ^el<det><def><f><pl>$
+1164 	 ^contar<vblex><inf>$ ^en<pr>$ ^el<det><def><f><pl>$
+1165 	 ^obligatorio<adj><m><sg>$ ^contar<vblex><inf>$ ^en<pr>$
+1166 	 ^en<pr>$ ^el<det><def><f><pl>$ ^empresa<n><f><pl>$
+1167 	 ^obligatorio<adj><m><sg>$ ^contar<vblex><inf>$ ^en<pr>$ ^el<det><def><f><pl>$ ^empresa<n><f><pl>$
+1168 	 ^con<pr>$ ^decir<vblex><pp><m><pl>$
+1169 	 ^decir<vblex><pp><m><pl>$ ^consejero<n><m><pl>$
+1170 	 ^con<pr>$ ^decir<vblex><pp><m><pl>$ ^consejero<n><m><pl>$
+1171 	 ^empresa<n><f><pl>$ ^con<pr>$ ^decir<vblex><pp><m><pl>$
+1172 	 ^decir<vblex><pp><m><pl>$ ^consejero<n><m><pl>$ ^de<pr>$
+1173 	 ^empresa<n><f><pl>$ ^con<pr>$ ^decir<vblex><pp><m><pl>$ ^consejero<n><m><pl>$ ^de<pr>$
+1174 	 ^enero<n><m><sg>$ ^de<pr>$
+1175 	 ^enero<n><m><sg>$ ^de<pr>$ ^este año<adv>$
+1176 	 ^de<pr>$ ^enero<n><m><sg>$ ^de<pr>$
+1177 	 ^de<pr>$ ^este año<adv>$ ^.<sent>$
+1178 	 ^de<pr>$ ^enero<n><m><sg>$ ^de<pr>$ ^este año<adv>$ ^.<sent>$
+1179 	 ^análisis<n><m><sp>$ ^de<pr>$
+1180 	 ^de<pr>$ ^empresa<n><f><pl>$
+1181 	 ^análisis<n><m><sp>$ ^de<pr>$ ^empresa<n><f><pl>$
+1182 	 ^,<cm>$ ^análisis<n><m><sp>$ ^de<pr>$
+1183 	 ^de<pr>$ ^empresa<n><f><pl>$ ^,<cm>$
+1184 	 ^,<cm>$ ^análisis<n><m><sp>$ ^de<pr>$ ^empresa<n><f><pl>$ ^,<cm>$
+1185 	 ^*eventualmente<>$ ^en<pr>$
+1186 	 ^*eventualmente<>$ ^en<pr>$ ^el<det><def><m><pl>$
+1187 	 ^incorporar<vblex><inf>$ ^*eventualmente<>$ ^en<pr>$
+1188 	 ^en<pr>$ ^el<det><def><m><pl>$ ^certificar<vblex><pp><m><pl>$
+1189 	 ^incorporar<vblex><inf>$ ^*eventualmente<>$ ^en<pr>$ ^el<det><def><m><pl>$ ^certificar<vblex><pp><m><pl>$
+1190 	 ^julio<n><m><sg>$ ^de<pr>$
+1191 	 ^de<pr>$ ^2001<num>$
+1192 	 ^julio<n><m><sg>$ ^de<pr>$ ^2001<num>$
+1193 	 ^de<pr>$ ^julio<n><m><sg>$ ^de<pr>$
+1194 	 ^de<pr>$ ^2001<num>$ ^,<cm>$
+1195 	 ^de<pr>$ ^julio<n><m><sg>$ ^de<pr>$ ^2001<num>$ ^,<cm>$
+1196 	 ^grave<adj><mf><sg>$ ^en<pr>$
+1197 	 ^en<pr>$ ^sí<adv>$
+1198 	 ^grave<adj><mf><sg>$ ^en<pr>$ ^sí<adv>$
+1199 	 ^ser<vbser><pri><p3><sg>$ ^grave<adj><mf><sg>$ ^en<pr>$
+1200 	 ^en<pr>$ ^sí<adv>$ ^,<cm>$
+1201 	 ^ser<vbser><pri><p3><sg>$ ^grave<adj><mf><sg>$ ^en<pr>$ ^sí<adv>$ ^,<cm>$
+1202 	 ^mercancía<n><f><pl>$ ^por<pr>$
+1203 	 ^mercancía<n><f><pl>$ ^por<pr>$ ^carretera<n><f><sg>$
+1204 	 ^de<pr>$ ^mercancía<n><f><pl>$ ^por<pr>$
+1205 	 ^de<pr>$ ^mercancía<n><f><pl>$ ^por<pr>$ ^carretera<n><f><sg>$ ^,<cm>$
+1206 	 ^parte<n><f><sg>$ ^de<pr>$
+1207 	 ^parte<n><f><sg>$ ^de<pr>$ ^el<det><def><m><sg>$
+1208 	 ^este<det><dem><f><sg>$ ^parte<n><f><sg>$ ^de<pr>$
+1209 	 ^de<pr>$ ^el<det><def><m><sg>$ ^*acervo<>$
+1210 	 ^este<det><dem><f><sg>$ ^parte<n><f><sg>$ ^de<pr>$ ^el<det><def><m><sg>$ ^*acervo<>$
+1211 	 ^redactar<vblex><pp><m><sg>$ ^en<pr>$
+1212 	 ^en<pr>$ ^otro<det><ind><f><sg>$
+1213 	 ^redactar<vblex><pp><m><sg>$ ^en<pr>$ ^otro<det><ind><f><sg>$
+1214 	 ^haber<vbhaver><pri><p3><pl>$ ^redactar<vblex><pp><m><sg>$ ^en<pr>$
+1215 	 ^en<pr>$ ^otro<det><ind><f><sg>$ ^directiva<n><f><sg>$
+1216 	 ^haber<vbhaver><pri><p3><pl>$ ^redactar<vblex><pp><m><sg>$ ^en<pr>$ ^otro<det><ind><f><sg>$ ^directiva<n><f><sg>$
+1217 	 ^,<cm>$ ^parecer<vblex><pri><p3><pl>$
+1218 	 ^parecer<vblex><pri><p3><pl>$ ^lo<det><def><nt><sg>$
+1219 	 ^,<cm>$ ^parecer<vblex><pri><p3><pl>$ ^lo<det><def><nt><sg>$
+1220 	 ^*CE<>$ ^,<cm>$ ^parecer<vblex><pri><p3><pl>$
+1221 	 ^parecer<vblex><pri><p3><pl>$ ^lo<det><def><nt><sg>$ ^suficientemente<adv>$
+1222 	 ^*CE<>$ ^,<cm>$ ^parecer<vblex><pri><p3><pl>$ ^lo<det><def><nt><sg>$ ^suficientemente<adv>$
+1223 	 ^organización<n><f><sg>$ ^de<pr>$
+1224 	 ^organización<n><f><sg>$ ^de<pr>$ ^el<det><def><m><sg>$
+1225 	 ^el<det><def><f><sg>$ ^organización<n><f><sg>$ ^de<pr>$
+1226 	 ^el<det><def><f><sg>$ ^organización<n><f><sg>$ ^de<pr>$ ^el<det><def><m><sg>$ ^transporte<n><m><sg>$
+1227 	 ^con<pr>$ ^el<det><def><m><sg>$ ^consejo<n><m><sg>$
+1228 	 ^consejo<n><m><sg>$ ^sobre<pr>$ ^el<det><def><m><pl>$
+1229 	 ^con<pr>$ ^el<det><def><m><sg>$ ^consejo<n><m><sg>$ ^sobre<pr>$ ^el<det><def><m><pl>$
+1230 	 ^mínimo<adj><m><pl>$ ^para<pr>$
+1231 	 ^requisito<n><m><pl>$ ^mínimo<adj><m><pl>$ ^para<pr>$
+1232 	 ^mínimo<adj><m><pl>$ ^para<pr>$ ^suyo<det><pos><mf><sg>$
+1233 	 ^el<det><def><m><pl>$ ^requisito<n><m><pl>$ ^mínimo<adj><m><pl>$ ^para<pr>$ ^suyo<det><pos><mf><sg>$
+1234 	 ^señor<n><m><sg>$ ^presidente<n><m><sg>$
+1235 	 ^señor<n><m><sg>$ ^presidente<n><m><sg>$ ^,<cm>$
+1236 	 ^presidente<n><m><sg>$ ^,<cm>$ ^señor<n><f><sg>$
+1237 	 ^,<cm>$ ^por<pr>$
+1238 	 ^,<cm>$ ^por<pr>$ ^suyo<det><pos><mf><pl>$
+1239 	 ^*Koch<>$ ^,<cm>$ ^por<pr>$
+1240 	 ^por<pr>$ ^suyo<det><pos><mf><pl>$ ^informe<n><m><pl>$
+1241 	 ^*Koch<>$ ^,<cm>$ ^por<pr>$ ^suyo<det><pos><mf><pl>$ ^informe<n><m><pl>$
+1242 	 ^cuestión<n><f><sg>$ ^de<pr>$ ^el<det><def><f><sg>$
+1243 	 ^de<pr>$ ^el<det><def><f><sg>$ ^seguridad<n><f><sg>$
+1244 	 ^el<det><def><f><sg>$ ^cuestión<n><f><sg>$ ^de<pr>$ ^el<det><def><f><sg>$ ^seguridad<n><f><sg>$
+1245 	 ^o<cnjcoo>$ ^en<pr>$
+1246 	 ^o<cnjcoo>$ ^en<pr>$ ^el<det><def><f><pl>$
+1247 	 ^ferrocarril<n><m><sg>$ ^o<cnjcoo>$ ^en<pr>$
+1248 	 ^en<pr>$ ^el<det><def><f><pl>$ ^vía<n><f><pl>$
+1249 	 ^ferrocarril<n><m><sg>$ ^o<cnjcoo>$ ^en<pr>$ ^el<det><def><f><pl>$ ^vía<n><f><pl>$
+1250 	 ^de<pr>$ ^tiempo<n><m><sg>$
+1251 	 ^tiempo<n><m><sg>$ ^ser<vbser><pri><p3><sg>$
+1252 	 ^de<pr>$ ^tiempo<n><m><sg>$ ^ser<vbser><pri><p3><sg>$
+1253 	 ^periodo<n><m><sg>$ ^de<pr>$ ^tiempo<n><m><sg>$
+1254 	 ^tiempo<n><m><sg>$ ^ser<vbser><pri><p3><sg>$ ^demasiado<preadv>$
+1255 	 ^periodo<n><m><sg>$ ^de<pr>$ ^tiempo<n><m><sg>$ ^ser<vbser><pri><p3><sg>$ ^demasiado<preadv>$
+1256 	 ^culpar<vblex><pri><p3><sg>$ ^de<pr>$
+1257 	 ^culpar<vblex><pri><p3><sg>$ ^de<pr>$ ^el<det><def><f><sg>$
+1258 	 ^ahora<adv>$ ^culpar<vblex><pri><p3><sg>$ ^de<pr>$
+1259 	 ^ahora<adv>$ ^culpar<vblex><pri><p3><sg>$ ^de<pr>$ ^el<det><def><f><sg>$ ^comisión<n><f><sg>$
+1260 	 ^armonización<n><f><sg>$ ^en<pr>$
+1261 	 ^armonización<n><f><sg>$ ^en<pr>$ ^este<det><dem><m><sg>$
+1262 	 ^mayor<adj><mf><sg>$ ^armonización<n><f><sg>$ ^en<pr>$
+1263 	 ^en<pr>$ ^este<det><dem><m><sg>$ ^punto<n><m><sg>$
+1264 	 ^mayor<adj><mf><sg>$ ^armonización<n><f><sg>$ ^en<pr>$ ^este<det><dem><m><sg>$ ^punto<n><m><sg>$
+1265 	 ^mínimo<adj><f><pl>$ ^.<sent>$
+1266 	 ^norma<n><f><pl>$ ^mínimo<adj><f><pl>$ ^.<sent>$
+1267 	 ^el<det><def><f><pl>$ ^norma<n><f><pl>$ ^mínimo<adj><f><pl>$
+1268 	 ^el<det><def><f><pl>$ ^norma<n><f><pl>$ ^mínimo<adj><f><pl>$ ^.<sent>$
+1269 	 ^de que<cnjsub>$ ^en<pr>$
+1270 	 ^en<pr>$ ^mucho<det><qnt><m><pl>$
+1271 	 ^de que<cnjsub>$ ^en<pr>$ ^mucho<det><qnt><m><pl>$
+1272 	 ^opinión<n><f><sg>$ ^de que<cnjsub>$ ^en<pr>$
+1273 	 ^en<pr>$ ^mucho<det><qnt><m><pl>$ ^ámbito<n><m><pl>$
+1274 	 ^opinión<n><f><sg>$ ^de que<cnjsub>$ ^en<pr>$ ^mucho<det><qnt><m><pl>$ ^ámbito<n><m><pl>$
+1275 	 ^mucho<det><qnt><m><pl>$ ^ámbito<n><m><pl>$
+1276 	 ^ámbito<n><m><pl>$ ^de<pr>$
+1277 	 ^mucho<det><qnt><m><pl>$ ^ámbito<n><m><pl>$ ^de<pr>$
+1278 	 ^ámbito<n><m><pl>$ ^de<pr>$ ^el<det><def><m><sg>$
+1279 	 ^en<pr>$ ^mucho<det><qnt><m><pl>$ ^ámbito<n><m><pl>$ ^de<pr>$ ^el<det><def><m><sg>$
+1280 	 ^en<pr>$ ^Suecia<np><loc><f><sg>$
+1281 	 ^seguridad<n><f><sg>$ ^en<pr>$ ^Suecia<np><loc><f><sg>$
+1282 	 ^en<pr>$ ^Suecia<np><loc><f><sg>$ ^,<cm>$
+1283 	 ^el<det><def><f><sg>$ ^seguridad<n><f><sg>$ ^en<pr>$ ^Suecia<np><loc><f><sg>$ ^,<cm>$
+1284 	 ^,<cm>$ ^de<pr>$
+1285 	 ^,<cm>$ ^de<pr>$ ^el<det><def><f><sg>$
+1286 	 ^en principio<adv>$ ^,<cm>$ ^de<pr>$
+1287 	 ^en principio<adv>$ ^,<cm>$ ^de<pr>$ ^el<det><def><f><sg>$ ^seguridad<n><f><sg>$
+1288 	 ^en<pr>$ ^Alemania<np><loc><f><sg>$
+1289 	 ^seguridad<n><f><sg>$ ^en<pr>$ ^Alemania<np><loc><f><sg>$
+1290 	 ^en<pr>$ ^Alemania<np><loc><f><sg>$ ^,<cm>$
+1291 	 ^el<det><def><f><sg>$ ^seguridad<n><f><sg>$ ^en<pr>$ ^Alemania<np><loc><f><sg>$ ^,<cm>$
+1292 	 ^este<det><dem><f><pl>$ ^norma<n><f><pl>$ ^mínimo<adj><f><pl>$
+1293 	 ^mínimo<adj><f><pl>$ ^,<cm>$ ^pero<cnjcoo>$
+1294 	 ^este<det><dem><f><pl>$ ^norma<n><f><pl>$ ^mínimo<adj><f><pl>$ ^,<cm>$ ^pero<cnjcoo>$
+1295 	 ^conducir<vblex><pis><p3><sg>$ ^en<pr>$
+1296 	 ^en<pr>$ ^alguno<det><qnt><m><pl>$
+1297 	 ^conducir<vblex><pis><p3><sg>$ ^en<pr>$ ^alguno<det><qnt><m><pl>$
+1298 	 ^flexibilidad<n><f><sg>$ ^conducir<vblex><pis><p3><sg>$ ^en<pr>$
+1299 	 ^en<pr>$ ^alguno<det><qnt><m><pl>$ ^país<n><m><pl>$
+1300 	 ^flexibilidad<n><f><sg>$ ^conducir<vblex><pis><p3><sg>$ ^en<pr>$ ^alguno<det><qnt><m><pl>$ ^país<n><m><pl>$
+1301 	 ^deber<vbmod><cni><p1><pl>$ ^emprender<vblex><inf>$
+1302 	 ^emprender<vblex><inf>$ ^uno<det><ind><f><sg>$
+1303 	 ^deber<vbmod><cni><p1><pl>$ ^emprender<vblex><inf>$ ^uno<det><ind><f><sg>$
+1304 	 ^,<cm>$ ^deber<vbmod><cni><p1><pl>$ ^emprender<vblex><inf>$
+1305 	 ^emprender<vblex><inf>$ ^uno<det><ind><f><sg>$ ^armonización<n><f><sg>$
+1306 	 ^,<cm>$ ^deber<vbmod><cni><p1><pl>$ ^emprender<vblex><inf>$ ^uno<det><ind><f><sg>$ ^armonización<n><f><sg>$
+1307 	 ^competencia<n><f><sg>$ ^de<pr>$
+1308 	 ^de<pr>$ ^manera<n><f><sg>$
+1309 	 ^competencia<n><f><sg>$ ^de<pr>$ ^manera<n><f><sg>$
+1310 	 ^el<det><def><f><sg>$ ^competencia<n><f><sg>$ ^de<pr>$
+1311 	 ^de<pr>$ ^manera<n><f><sg>$ ^unilateral<adj><mf><sg>$
+1312 	 ^el<det><def><f><sg>$ ^competencia<n><f><sg>$ ^de<pr>$ ^manera<n><f><sg>$ ^unilateral<adj><mf><sg>$
+1313 	 ^en<pr>$ ^todo<predet><m><pl>$
+1314 	 ^,<cm>$ ^en<pr>$ ^todo<predet><m><pl>$
+1315 	 ^por cierto<adv>$ ^,<cm>$ ^en<pr>$
+1316 	 ^en<pr>$ ^todo<predet><m><pl>$ ^el<det><def><m><pl>$
+1317 	 ^por cierto<adv>$ ^,<cm>$ ^en<pr>$ ^todo<predet><m><pl>$ ^el<det><def><m><pl>$
+1318 	 ^.<sent>$ ^señor<n><m><sg>$ ^presidente<n><m><sg>$
+1319 	 ^presidente<n><m><sg>$ ^,<cm>$ ^en primer lugar<adv>$
+1320 	 ^.<sent>$ ^señor<n><m><sg>$ ^presidente<n><m><sg>$ ^,<cm>$ ^en primer lugar<adv>$
+1321 	 ^magnífico<adj><m><sg>$ ^trabajo<n><m><sg>$
+1322 	 ^trabajo<n><m><sg>$ ^y<cnjcoo>$
+1323 	 ^magnífico<adj><m><sg>$ ^trabajo<n><m><sg>$ ^y<cnjcoo>$
+1324 	 ^suyo<det><pos><mf><sg>$ ^magnífico<adj><m><sg>$ ^trabajo<n><m><sg>$
+1325 	 ^trabajo<n><m><sg>$ ^y<cnjcoo>$ ^por<pr>$
+1326 	 ^suyo<det><pos><mf><sg>$ ^magnífico<adj><m><sg>$ ^trabajo<n><m><sg>$ ^y<cnjcoo>$ ^por<pr>$
+1327 	 ^por<pr>$ ^suyo<det><pos><mf><sg>$
+1328 	 ^y<cnjcoo>$ ^por<pr>$ ^suyo<det><pos><mf><sg>$
+1329 	 ^por<pr>$ ^suyo<det><pos><mf><sg>$ ^positivo<adj><f><sg>$
+1330 	 ^trabajo<n><m><sg>$ ^y<cnjcoo>$ ^por<pr>$ ^suyo<det><pos><mf><sg>$ ^positivo<adj><f><sg>$
+1331 	 ^hora<n><f><sg>$ ^de<pr>$
+1332 	 ^de<pr>$ ^mejorar<vblex><inf>$
+1333 	 ^hora<n><f><sg>$ ^de<pr>$ ^mejorar<vblex><inf>$
+1334 	 ^el<det><def><f><sg>$ ^hora<n><f><sg>$ ^de<pr>$
+1335 	 ^de<pr>$ ^mejorar<vblex><inf>$ ^el<det><def><m><pl>$
+1336 	 ^el<det><def><f><sg>$ ^hora<n><f><sg>$ ^de<pr>$ ^mejorar<vblex><inf>$ ^el<det><def><m><pl>$
+1337 	 ^comisión<n><f><sg>$ ^de<pr>$
+1338 	 ^el<det><def><f><sg>$ ^comisión<n><f><sg>$ ^de<pr>$
+1339 	 ^el<det><def><f><sg>$ ^comisión<n><f><sg>$ ^de<pr>$ ^política<n><f><sg>$ ^regional<adj><mf><sg>$
+1340 	 ^aceptar<vblex><pp><f><pl>$ ^por<pr>$
+1341 	 ^por<pr>$ ^el<det><def><f><sg>$
+1342 	 ^aceptar<vblex><pp><f><pl>$ ^por<pr>$ ^el<det><def><f><sg>$
+1343 	 ^enmienda<n><f><pl>$ ^aceptar<vblex><pp><f><pl>$ ^por<pr>$
+1344 	 ^por<pr>$ ^el<det><def><f><sg>$ ^comisión<n><f><sg>$
+1345 	 ^enmienda<n><f><pl>$ ^aceptar<vblex><pp><f><pl>$ ^por<pr>$ ^el<det><def><f><sg>$ ^comisión<n><f><sg>$
+1346 	 ^mínimo<adj><m><pl>$ ^de<pr>$
+1347 	 ^requisito<n><m><pl>$ ^mínimo<adj><m><pl>$ ^de<pr>$
+1348 	 ^mínimo<adj><m><pl>$ ^de<pr>$ ^el<det><def><m><pl>$
+1349 	 ^el<det><def><m><pl>$ ^requisito<n><m><pl>$ ^mínimo<adj><m><pl>$ ^de<pr>$ ^el<det><def><m><pl>$
+1350 	 ^en<pr>$ ^segundo<det><ord><f><sg>$
+1351 	 ^,<cm>$ ^en<pr>$ ^segundo<det><ord><f><sg>$
+1352 	 ^y<cnjcoo>$ ^,<cm>$ ^en<pr>$
+1353 	 ^en<pr>$ ^segundo<det><ord><f><sg>$ ^lectura<n><f><sg>$
+1354 	 ^y<cnjcoo>$ ^,<cm>$ ^en<pr>$ ^segundo<det><ord><f><sg>$ ^lectura<n><f><sg>$
+1355 	 ^en principio<adv>$ ^por<pr>$
+1356 	 ^en principio<adv>$ ^por<pr>$ ^el<det><def><f><sg>$
+1357 	 ^plantear<vblex><pp><f><sg>$ ^en principio<adv>$ ^por<pr>$
+1358 	 ^plantear<vblex><pp><f><sg>$ ^en principio<adv>$ ^por<pr>$ ^el<det><def><f><sg>$ ^comisión<n><f><sg>$
+1359 	 ^y<cnjcoo>$ ^decir<vblex><inf>$
+1360 	 ^decir<vblex><inf>$ ^prpers<prn><enc><p3><mf><pl>$
+1361 	 ^y<cnjcoo>$ ^decir<vblex><inf>$ ^prpers<prn><enc><p3><mf><pl>$
+1362 	 ^diputado<n><m><pl>$ ^y<cnjcoo>$ ^decir<vblex><inf>$
+1363 	 ^decir<vblex><inf>$ ^prpers<prn><enc><p3><mf><pl>$ ^a<pr>$
+1364 	 ^diputado<n><m><pl>$ ^y<cnjcoo>$ ^decir<vblex><inf>$ ^prpers<prn><enc><p3><mf><pl>$ ^a<pr>$
+1365 	 ^prioridad<n><f><sg>$ ^de<pr>$
+1366 	 ^prioridad<n><f><sg>$ ^de<pr>$ ^el<det><def><f><sg>$
+1367 	 ^uno<det><ind><f><sg>$ ^prioridad<n><f><sg>$ ^de<pr>$
+1368 	 ^uno<det><ind><f><sg>$ ^prioridad<n><f><sg>$ ^de<pr>$ ^el<det><def><f><sg>$ ^comisión<n><f><sg>$
+1369 	 ^comisión<n><f><sg>$ ^en<pr>$ ^el<det><def><m><sg>$
+1370 	 ^el<det><def><f><sg>$ ^comisión<n><f><sg>$ ^en<pr>$
+1371 	 ^el<det><def><f><sg>$ ^comisión<n><f><sg>$ ^en<pr>$ ^el<det><def><m><sg>$ ^ámbito<n><m><sg>$
+1372 	 ^haber<vbhaver><pri><p3><sg>$ ^decir<vblex><pp><m><sg>$
+1373 	 ^decir<vblex><pp><m><sg>$ ^el<det><def><m><sg>$
+1374 	 ^haber<vbhaver><pri><p3><sg>$ ^decir<vblex><pp><m><sg>$ ^el<det><def><m><sg>$
+1375 	 ^bien<adv>$ ^haber<vbhaver><pri><p3><sg>$ ^decir<vblex><pp><m><sg>$
+1376 	 ^decir<vblex><pp><m><sg>$ ^el<det><def><m><sg>$ ^Sr.<n><m><sg>$
+1377 	 ^bien<adv>$ ^haber<vbhaver><pri><p3><sg>$ ^decir<vblex><pp><m><sg>$ ^el<det><def><m><sg>$ ^Sr.<n><m><sg>$
+1378 	 ^por<pr>$ ^adquirir<vblex><pp><m><sg>$
+1379 	 ^o<cnjcoo>$ ^por<pr>$ ^adquirir<vblex><pp><m><sg>$
+1380 	 ^dar# por sentado<vblex><inf>$ ^o<cnjcoo>$ ^por<pr>$
+1381 	 ^por<pr>$ ^adquirir<vblex><pp><m><sg>$ ^o<cnjcoo>$
+1382 	 ^dar# por sentado<vblex><inf>$ ^o<cnjcoo>$ ^por<pr>$ ^adquirir<vblex><pp><m><sg>$ ^o<cnjcoo>$
+1383 	 ^proceso<n><m><sg>$ ^de<pr>$
+1384 	 ^de<pr>$ ^incrementar<vblex><inf>$
+1385 	 ^proceso<n><m><sg>$ ^de<pr>$ ^incrementar<vblex><inf>$
+1386 	 ^el<det><def><m><sg>$ ^proceso<n><m><sg>$ ^de<pr>$
+1387 	 ^de<pr>$ ^incrementar<vblex><inf>$ ^el<det><def><m><pl>$
+1388 	 ^el<det><def><m><sg>$ ^proceso<n><m><sg>$ ^de<pr>$ ^incrementar<vblex><inf>$ ^el<det><def><m><pl>$
+1389 	 ^seguridad<n><f><sg>$ ^en<pr>$ ^el<det><def><m><pl>$
+1390 	 ^en<pr>$ ^el<det><def><m><pl>$ ^transporte<n><m><pl>$
+1391 	 ^de<pr>$ ^seguridad<n><f><sg>$ ^en<pr>$ ^el<det><def><m><pl>$ ^transporte<n><m><pl>$
+1392 	 ^indudablemente<adv>$ ^,<cm>$ ^en<pr>$
+1393 	 ^en<pr>$ ^el<det><def><m><sg>$ ^caso<n><m><sg>$
+1394 	 ^indudablemente<adv>$ ^,<cm>$ ^en<pr>$ ^el<det><def><m><sg>$ ^caso<n><m><sg>$
+1395 	 ^de<pr>$ ^Austria<np><loc><f><sg>$
+1396 	 ^caso<n><m><sg>$ ^de<pr>$ ^Austria<np><loc><f><sg>$
+1397 	 ^de<pr>$ ^Austria<np><loc><f><sg>$ ^,<cm>$
+1398 	 ^el<det><def><m><sg>$ ^caso<n><m><sg>$ ^de<pr>$ ^Austria<np><loc><f><sg>$ ^,<cm>$
+1399 	 ^en<pr>$ ^uno<prn><tn><m><sg>$
+1400 	 ^en<pr>$ ^uno<prn><tn><m><sg>$ ^de<pr>$
+1401 	 ^uno<prn><tn><m><sg>$ ^de<pr>$
+1402 	 ^uno<prn><tn><m><sg>$ ^de<pr>$ ^el<det><def><m><pl>$
+1403 	 ^de<pr>$ ^el<det><def><m><pl>$ ^grande<adj><mf><pl>$
+1404 	 ^en<pr>$ ^uno<prn><tn><m><sg>$ ^de<pr>$ ^el<det><def><m><pl>$ ^grande<adj><mf><pl>$
+1405 	 ^ser<vbser><pii><p3><sg>$ ^en<pr>$
+1406 	 ^en<pr>$ ^sí<prn><tn><ref><p3><mf><sp>$
+1407 	 ^ser<vbser><pii><p3><sg>$ ^en<pr>$ ^sí<prn><tn><ref><p3><mf><sp>$
+1408 	 ^no<adv>$ ^ser<vbser><pii><p3><sg>$ ^en<pr>$
+1409 	 ^en<pr>$ ^sí<prn><tn><ref><p3><mf><sp>$ ^peligroso<adj><f><sg>$
+1410 	 ^no<adv>$ ^ser<vbser><pii><p3><sg>$ ^en<pr>$ ^sí<prn><tn><ref><p3><mf><sp>$ ^peligroso<adj><f><sg>$
+1411 	 ^kilo<n><m><pl>$ ^de<pr>$
+1412 	 ^de<pr>$ ^pintura<n><f><sg>$
+1413 	 ^kilo<n><m><pl>$ ^de<pr>$ ^pintura<n><f><sg>$
+1414 	 ^uno<det><ind><m><pl>$ ^kilo<n><m><pl>$ ^de<pr>$
+1415 	 ^de<pr>$ ^pintura<n><f><sg>$ ^que<rel><an><mf><sp>$
+1416 	 ^uno<det><ind><m><pl>$ ^kilo<n><m><pl>$ ^de<pr>$ ^pintura<n><f><sg>$ ^que<rel><an><mf><sp>$
+1417 	 ^querer<vbmod><pis><p3><sg>$ ^decir<vblex><inf>$
+1418 	 ^decir<vblex><inf>$ ^que<cnjsub>$
+1419 	 ^querer<vbmod><pis><p3><sg>$ ^decir<vblex><inf>$ ^que<cnjsub>$
+1420 	 ^,<cm>$ ^querer<vbmod><pis><p3><sg>$ ^decir<vblex><inf>$
+1421 	 ^decir<vblex><inf>$ ^que<cnjsub>$ ^haber que<vbmod><pri><p3><sg>$
+1422 	 ^,<cm>$ ^querer<vbmod><pis><p3><sg>$ ^decir<vblex><inf>$ ^que<cnjsub>$ ^haber que<vbmod><pri><p3><sg>$
+1423 	 ^seguridad<n><f><sg>$ ^en<pr>$ ^todo<predet><m><pl>$
+1424 	 ^el<det><def><f><sg>$ ^seguridad<n><f><sg>$ ^en<pr>$ ^todo<predet><m><pl>$ ^el<det><def><m><pl>$
+1425 	 ^tipo<n><m><pl>$ ^de<pr>$
+1426 	 ^de<pr>$ ^transporte<n><m><sg>$
+1427 	 ^tipo<n><m><pl>$ ^de<pr>$ ^transporte<n><m><sg>$
+1428 	 ^el<det><def><m><pl>$ ^tipo<n><m><pl>$ ^de<pr>$
+1429 	 ^de<pr>$ ^transporte<n><m><sg>$ ^.<sent>$
+1430 	 ^el<det><def><m><pl>$ ^tipo<n><m><pl>$ ^de<pr>$ ^transporte<n><m><sg>$ ^.<sent>$
+1431 	 ^seguridad<n><f><sg>$ ^de<pr>$
+1432 	 ^seguridad<n><f><sg>$ ^de<pr>$ ^el<det><def><m><sg>$
+1433 	 ^el<det><def><f><sg>$ ^seguridad<n><f><sg>$ ^de<pr>$
+1434 	 ^el<det><def><f><sg>$ ^seguridad<n><f><sg>$ ^de<pr>$ ^el<det><def><m><sg>$ ^transporte<n><m><sg>$
+1435 	 ^catástrofe<n><f><sg>$ ^de<pr>$
+1436 	 ^catástrofe<n><f><sg>$ ^de<pr>$ ^el<det><def><m><sg>$
+1437 	 ^el<det><def><f><sg>$ ^catástrofe<n><f><sg>$ ^de<pr>$
+1438 	 ^de<pr>$ ^el<det><def><m><sg>$ ^Erika<np><ant><f><sg>$
+1439 	 ^el<det><def><f><sg>$ ^catástrofe<n><f><sg>$ ^de<pr>$ ^el<det><def><m><sg>$ ^Erika<np><ant><f><sg>$
+1440 	 ^en<pr>$ ^materia<n><f><sg>$
+1441 	 ^,<cm>$ ^en<pr>$ ^materia<n><f><sg>$
+1442 	 ^objetivo<n><m><pl>$ ^,<cm>$ ^en<pr>$
+1443 	 ^en<pr>$ ^materia<n><f><sg>$ ^de<pr>$
+1444 	 ^objetivo<n><m><pl>$ ^,<cm>$ ^en<pr>$ ^materia<n><f><sg>$ ^de<pr>$
+1445 	 ^materia<n><f><sg>$ ^de<pr>$
+1446 	 ^materia<n><f><sg>$ ^de<pr>$ ^seguridad<n><f><sg>$
+1447 	 ^de<pr>$ ^seguridad<n><f><sg>$ ^,<cm>$
+1448 	 ^en<pr>$ ^materia<n><f><sg>$ ^de<pr>$ ^seguridad<n><f><sg>$ ^,<cm>$
+1449 	 ^,<cm>$ ^de<pr>$ ^el<det><def><m><sg>$
+1450 	 ^seguridad<n><f><sg>$ ^,<cm>$ ^de<pr>$
+1451 	 ^seguridad<n><f><sg>$ ^,<cm>$ ^de<pr>$ ^el<det><def><m><sg>$ ^transporte<n><m><sg>$
+1452 	 ^pero<cnjcoo>$ ^querer<vbmod><pri><p1><sg>$ ^decir<vblex><inf>$
+1453 	 ^decir<vblex><inf>$ ^,<cm>$ ^*Señorías<>$
+1454 	 ^pero<cnjcoo>$ ^querer<vbmod><pri><p1><sg>$ ^decir<vblex><inf>$ ^,<cm>$ ^*Señorías<>$
+1455 	 ^*prioritario<>$ ^de<pr>$
+1456 	 ^*prioritario<>$ ^de<pr>$ ^el<det><def><f><sg>$
+1457 	 ^objetivo<n><m><sg>$ ^*prioritario<>$ ^de<pr>$
+1458 	 ^objetivo<n><m><sg>$ ^*prioritario<>$ ^de<pr>$ ^el<det><def><f><sg>$ ^comisión<n><f><sg>$
+1459 	 ^aspecto<n><m><sg>$ ^de<pr>$
+1460 	 ^aspecto<n><m><sg>$ ^de<pr>$ ^el<det><def><f><sg>$
+1461 	 ^el<det><def><m><sg>$ ^aspecto<n><m><sg>$ ^de<pr>$
+1462 	 ^el<det><def><m><sg>$ ^aspecto<n><m><sg>$ ^de<pr>$ ^el<det><def><f><sg>$ ^seguridad<n><f><sg>$
+1463 	 ^mercancía<n><f><pl>$ ^peligroso<adj><f><pl>$ ^por<pr>$ ^carretera<n><f><sg>$
+1464 	 ^)<rpar>$ ^de<pr>$
+1465 	 ^)<rpar>$ ^de<pr>$ ^el<det><def><m><sg>$
+1466 	 ^1999<num>$ ^)<rpar>$ ^de<pr>$
+1467 	 ^de<pr>$ ^el<det><def><m><sg>$ ^Sr.<n><m><sg>$
+1468 	 ^1999<num>$ ^)<rpar>$ ^de<pr>$ ^el<det><def><m><sg>$ ^Sr.<n><m><sg>$
+1469 	 ^propuesta<n><f><sg>$ ^de<pr>$
+1470 	 ^de<pr>$ ^directiva<n><f><sg>$
+1471 	 ^propuesta<n><f><sg>$ ^de<pr>$ ^directiva<n><f><sg>$
+1472 	 ^uno<det><ind><f><sg>$ ^propuesta<n><f><sg>$ ^de<pr>$
+1473 	 ^de<pr>$ ^directiva<n><f><sg>$ ^de<pr>$
+1474 	 ^uno<det><ind><f><sg>$ ^propuesta<n><f><sg>$ ^de<pr>$ ^directiva<n><f><sg>$ ^de<pr>$
+1475 	 ^consejo<n><m><sg>$ ^(<lpar>$
+1476 	 ^el<det><def><m><sg>$ ^consejo<n><m><sg>$ ^(<lpar>$
+1477 	 ^consejo<n><m><sg>$ ^(<lpar>$ ^*COM<>$
+1478 	 ^de<pr>$ ^el<det><def><m><sg>$ ^consejo<n><m><sg>$ ^(<lpar>$ ^*COM<>$
+1479 	 ^)<rpar>$ ^por<pr>$
+1480 	 ^por<pr>$ ^el que<rel><nn><f><sg>$
+1481 	 ^)<rpar>$ ^por<pr>$ ^el que<rel><nn><f><sg>$
+1482 	 ^)<rpar>$ ^)<rpar>$ ^por<pr>$
+1483 	 ^por<pr>$ ^el que<rel><nn><f><sg>$ ^se<prn><pro><ref><p3><mf><sp>$
+1484 	 ^)<rpar>$ ^)<rpar>$ ^por<pr>$ ^el que<rel><nn><f><sg>$ ^se<prn><pro><ref><p3><mf><sp>$
+1485 	 ^presidente<n><m><sg>$ ^,<cm>$ ^distinguir<vblex><pp><f><sg>$
+1486 	 ^legislación<n><f><pl>$ ^de<pr>$
+1487 	 ^legislación<n><f><pl>$ ^de<pr>$ ^el<det><def><m><pl>$
+1488 	 ^el<det><def><f><pl>$ ^legislación<n><f><pl>$ ^de<pr>$
+1489 	 ^de<pr>$ ^el<det><def><m><pl>$ ^estado<n><m><pl>$
+1490 	 ^el<det><def><f><pl>$ ^legislación<n><f><pl>$ ^de<pr>$ ^el<det><def><m><pl>$ ^estado<n><m><pl>$
+1491 	 ^de<pr>$ ^1997<num>$
+1492 	 ^enero<n><m><sg>$ ^de<pr>$ ^1997<num>$
+1493 	 ^de<pr>$ ^1997<num>$ ^,<cm>$
+1494 	 ^de<pr>$ ^enero<n><m><sg>$ ^de<pr>$ ^1997<num>$ ^,<cm>$
+1495 	 ^producir<vblex><pp><m><sg>$ ^en<pr>$
+1496 	 ^producir<vblex><pp><m><sg>$ ^en<pr>$ ^el<det><def><m><pl>$
+1497 	 ^haber<vbhaver><pri><p3><pl>$ ^producir<vblex><pp><m><sg>$ ^en<pr>$
+1498 	 ^en<pr>$ ^el<det><def><m><pl>$ ^trabajo<n><m><pl>$
+1499 	 ^haber<vbhaver><pri><p3><pl>$ ^producir<vblex><pp><m><sg>$ ^en<pr>$ ^el<det><def><m><pl>$ ^trabajo<n><m><pl>$
+1500 	 ^haber<vbhaver><pri><p3><pl>$ ^realizar<vblex><pp><m><sg>$
+1501 	 ^realizar<vblex><pp><m><sg>$ ^suyo<det><pos><mf><sg>$
+1502 	 ^haber<vbhaver><pri><p3><pl>$ ^realizar<vblex><pp><m><sg>$ ^suyo<det><pos><mf><sg>$
+1503 	 ^no<adv>$ ^haber<vbhaver><pri><p3><pl>$ ^realizar<vblex><pp><m><sg>$
+1504 	 ^realizar<vblex><pp><m><sg>$ ^suyo<det><pos><mf><sg>$ ^trabajo<n><m><sg>$
+1505 	 ^no<adv>$ ^haber<vbhaver><pri><p3><pl>$ ^realizar<vblex><pp><m><sg>$ ^suyo<det><pos><mf><sg>$ ^trabajo<n><m><sg>$
+1506 	 ^suyo<det><pos><mf><sg>$ ^trabajo<n><m><sg>$
+1507 	 ^trabajo<n><m><sg>$ ^.<sent>$
+1508 	 ^suyo<det><pos><mf><sg>$ ^trabajo<n><m><sg>$ ^.<sent>$
+1509 	 ^realizar<vblex><pp><m><sg>$ ^suyo<det><pos><mf><sg>$ ^trabajo<n><m><sg>$ ^.<sent>$
+1510 	 ^europeo<adj><f><sg>$ ^obligar<vblex><cni><p3><sg>$
+1511 	 ^obligar<vblex><cni><p3><sg>$ ^a<pr>$
+1512 	 ^europeo<adj><f><sg>$ ^obligar<vblex><cni><p3><sg>$ ^a<pr>$
+1513 	 ^unión<n><f><sg>$ ^europeo<adj><f><sg>$ ^obligar<vblex><cni><p3><sg>$
+1514 	 ^obligar<vblex><cni><p3><sg>$ ^a<pr>$ ^el<det><def><m><pl>$
+1515 	 ^unión<n><f><sg>$ ^europeo<adj><f><sg>$ ^obligar<vblex><cni><p3><sg>$ ^a<pr>$ ^el<det><def><m><pl>$
+1516 	 ^armonización<n><f><sg>$ ^de<pr>$
+1517 	 ^armonización<n><f><sg>$ ^de<pr>$ ^el<det><def><m><sg>$
+1518 	 ^el<det><def><f><sg>$ ^armonización<n><f><sg>$ ^de<pr>$
+1519 	 ^el<det><def><f><sg>$ ^armonización<n><f><sg>$ ^de<pr>$ ^el<det><def><m><sg>$ ^transporte<n><m><sg>$
+1520 	 ^llevar# a cabo<vblex><ger>$ ^en<pr>$
+1521 	 ^llevar# a cabo<vblex><ger>$ ^en<pr>$ ^el<det><def><f><sg>$
+1522 	 ^estar<vblex><pri><p3><sg>$ ^llevar# a cabo<vblex><ger>$ ^en<pr>$
+1523 	 ^en<pr>$ ^el<det><def><f><sg>$ ^comunidad<n><f><sg>$
+1524 	 ^estar<vblex><pri><p3><sg>$ ^llevar# a cabo<vblex><ger>$ ^en<pr>$ ^el<det><def><f><sg>$ ^comunidad<n><f><sg>$
+1525 	 ^de<pr>$ ^cantidad<n><f><pl>$
+1526 	 ^transporte<n><m><sg>$ ^de<pr>$ ^cantidad<n><f><pl>$
+1527 	 ^de<pr>$ ^cantidad<n><f><pl>$ ^muy<preadv>$
+1528 	 ^el<det><def><m><sg>$ ^transporte<n><m><sg>$ ^de<pr>$ ^cantidad<n><f><pl>$ ^muy<preadv>$
+1529 	 ^completamente<adv>$ ^en<pr>$
+1530 	 ^completamente<adv>$ ^en<pr>$ ^el<det><def><m><sg>$
+1531 	 ^hacer<vblex><pri><p3><sg>$ ^completamente<adv>$ ^en<pr>$
+1532 	 ^hacer<vblex><pri><p3><sg>$ ^completamente<adv>$ ^en<pr>$ ^el<det><def><m><sg>$ ^sentido<n><m><sg>$
+1533 	 ^de<pr>$ ^el<det><def><f><sg>$ ^subsidiariedad<n><f><sg>$
+1534 	 ^el<det><def><m><sg>$ ^sentido<n><m><sg>$ ^de<pr>$ ^el<det><def><f><sg>$ ^subsidiariedad<n><f><sg>$
+1535 	 ^por<pr>$ ^uno<det><ind><m><sg>$
+1536 	 ^,<cm>$ ^por<pr>$ ^uno<det><ind><m><sg>$
+1537 	 ^normativo<adj><m><sg>$ ^,<cm>$ ^por<pr>$
+1538 	 ^por<pr>$ ^uno<det><ind><m><sg>$ ^comité<n><m><sg>$
+1539 	 ^normativo<adj><m><sg>$ ^,<cm>$ ^por<pr>$ ^uno<det><ind><m><sg>$ ^comité<n><m><sg>$
+1540 	 ^materia<n><f><sg>$ ^de<pr>$ ^transporte<n><m><sg>$
+1541 	 ^de<pr>$ ^transporte<n><m><sg>$ ^de<pr>$
+1542 	 ^en<pr>$ ^materia<n><f><sg>$ ^de<pr>$ ^transporte<n><m><sg>$ ^de<pr>$
+1543 	 ^modalidad<n><f><pl>$ ^de<pr>$
+1544 	 ^de<pr>$ ^ejercicio<n><m><sg>$
+1545 	 ^modalidad<n><f><pl>$ ^de<pr>$ ^ejercicio<n><m><sg>$
+1546 	 ^el<det><def><f><pl>$ ^modalidad<n><f><pl>$ ^de<pr>$
+1547 	 ^de<pr>$ ^ejercicio<n><m><sg>$ ^de<pr>$
+1548 	 ^el<det><def><f><pl>$ ^modalidad<n><f><pl>$ ^de<pr>$ ^ejercicio<n><m><sg>$ ^de<pr>$
+1549 	 ^facultad<n><f><pl>$ ^de<pr>$
+1550 	 ^de<pr>$ ^ejecución<n><f><sg>$
+1551 	 ^facultad<n><f><pl>$ ^de<pr>$ ^ejecución<n><f><sg>$
+1552 	 ^este<det><dem><f><pl>$ ^facultad<n><f><pl>$ ^de<pr>$
+1553 	 ^de<pr>$ ^ejecución<n><f><sg>$ ^transferir<vblex><pp><f><pl>$
+1554 	 ^este<det><dem><f><pl>$ ^facultad<n><f><pl>$ ^de<pr>$ ^ejecución<n><f><sg>$ ^transferir<vblex><pp><f><pl>$
+1555 	 ^regular<vblex><pp><f><pl>$ ^por<pr>$
+1556 	 ^por<pr>$ ^vez<n><f><sg>$
+1557 	 ^regular<vblex><pp><f><pl>$ ^por<pr>$ ^vez<n><f><sg>$
+1558 	 ^ser<vbser><ifi><p3><pl>$ ^regular<vblex><pp><f><pl>$ ^por<pr>$
+1559 	 ^por<pr>$ ^vez<n><f><sg>$ ^primero<adj><f><sg>$
+1560 	 ^ser<vbser><ifi><p3><pl>$ ^regular<vblex><pp><f><pl>$ ^por<pr>$ ^vez<n><f><sg>$ ^primero<adj><f><sg>$
+1561 	 ^acuerdo<n><m><sg>$ ^de<pr>$
+1562 	 ^acuerdo<n><m><sg>$ ^de<pr>$ ^el<det><def><m><sg>$
+1563 	 ^por<pr>$ ^acuerdo<n><m><sg>$ ^de<pr>$
+1564 	 ^por<pr>$ ^acuerdo<n><m><sg>$ ^de<pr>$ ^el<det><def><m><sg>$ ^consejo<n><m><sg>$
+1565 	 ^consejo<n><m><sg>$ ^de<pr>$
+1566 	 ^el<det><def><m><sg>$ ^consejo<n><m><sg>$ ^de<pr>$
+1567 	 ^consejo<n><m><sg>$ ^de<pr>$ ^junio<n><m><sg>$
+1568 	 ^de<pr>$ ^el<det><def><m><sg>$ ^consejo<n><m><sg>$ ^de<pr>$ ^junio<n><m><sg>$
+1569 	 ^todavía<adv>$ ^de<pr>$
+1570 	 ^todavía<adv>$ ^de<pr>$ ^el<det><def><m><sg>$
+1571 	 ^se<prn><enc><ref><p3><mf><sp>$ ^todavía<adv>$ ^de<pr>$
+1572 	 ^de<pr>$ ^el<det><def><m><sg>$ ^actual<adj><mf><sg>$
+1573 	 ^se<prn><enc><ref><p3><mf><sp>$ ^todavía<adv>$ ^de<pr>$ ^el<det><def><m><sg>$ ^actual<adj><mf><sg>$
+1574 	 ^consejo<n><m><sg>$ ^haber# de<vbmod><pri><p3><sg>$
+1575 	 ^el<det><def><m><sg>$ ^consejo<n><m><sg>$ ^haber# de<vbmod><pri><p3><sg>$
+1576 	 ^*cual<>$ ^el<det><def><m><sg>$ ^consejo<n><m><sg>$
+1577 	 ^consejo<n><m><sg>$ ^haber# de<vbmod><pri><p3><sg>$ ^adoptar<vblex><inf>$
+1578 	 ^*cual<>$ ^el<det><def><m><sg>$ ^consejo<n><m><sg>$ ^haber# de<vbmod><pri><p3><sg>$ ^adoptar<vblex><inf>$
+1579 	 ^fijar<vblex><prs><p3><sg>$ ^en<pr>$
+1580 	 ^en<pr>$ ^tres<num><mf><sp>$
+1581 	 ^fijar<vblex><prs><p3><sg>$ ^en<pr>$ ^tres<num><mf><sp>$
+1582 	 ^se<prn><pro><ref><p3><mf><sp>$ ^fijar<vblex><prs><p3><sg>$ ^en<pr>$
+1583 	 ^en<pr>$ ^tres<num><mf><sp>$ ^mes<n><m><pl>$
+1584 	 ^se<prn><pro><ref><p3><mf><sp>$ ^fijar<vblex><prs><p3><sg>$ ^en<pr>$ ^tres<num><mf><sp>$ ^mes<n><m><pl>$
+1585 	 ^uno<det><ind><f><sg>$ ^mayor<adj><mf><sg>$
+1586 	 ^mayor<adj><mf><sg>$ ^transparencia<n><f><sg>$
+1587 	 ^uno<det><ind><f><sg>$ ^mayor<adj><mf><sg>$ ^transparencia<n><f><sg>$
+1588 	 ^de<pr>$ ^uno<det><ind><f><sg>$ ^mayor<adj><mf><sg>$
+1589 	 ^mayor<adj><mf><sg>$ ^transparencia<n><f><sg>$ ^.<sent>$
+1590 	 ^de<pr>$ ^uno<det><ind><f><sg>$ ^mayor<adj><mf><sg>$ ^transparencia<n><f><sg>$ ^.<sent>$
+1591 	 ^el<det><def><m><sg>$ ^trabajo<n><m><sg>$
+1592 	 ^trabajo<n><m><sg>$ ^o<cnjcoo>$
+1593 	 ^el<det><def><m><sg>$ ^trabajo<n><m><sg>$ ^o<cnjcoo>$
+1594 	 ^cuando<cnjadv>$ ^el<det><def><m><sg>$ ^trabajo<n><m><sg>$
+1595 	 ^trabajo<n><m><sg>$ ^o<cnjcoo>$ ^el<det><def><m><sg>$
+1596 	 ^cuando<cnjadv>$ ^el<det><def><m><sg>$ ^trabajo<n><m><sg>$ ^o<cnjcoo>$ ^el<det><def><m><sg>$
+1597 	 ^en uso<adv>$ ^entre<pr>$
+1598 	 ^en uso<adv>$ ^entre<pr>$ ^el<det><def><m><sg>$
+1599 	 ^entrar<vblex><pp><m><sg>$ ^en uso<adv>$ ^entre<pr>$
+1600 	 ^entre<pr>$ ^el<det><def><m><sg>$ ^1<num>$
+1601 	 ^entrar<vblex><pp><m><sg>$ ^en uso<adv>$ ^entre<pr>$ ^el<det><def><m><sg>$ ^1<num>$
+1602 	 ^presidente<n><m><sg>$ ^,<cm>$ ^*señorías<>$
+1603 	 ^presentar<vblex><pp><f><sg>$ ^por<pr>$
+1604 	 ^presentar<vblex><pp><f><sg>$ ^por<pr>$ ^el<det><def><f><sg>$
+1605 	 ^propuesta<n><f><sg>$ ^presentar<vblex><pp><f><sg>$ ^por<pr>$
+1606 	 ^propuesta<n><f><sg>$ ^presentar<vblex><pp><f><sg>$ ^por<pr>$ ^el<det><def><f><sg>$ ^comisión<n><f><sg>$
+1607 	 ^por<pr>$ ^carretera<n><f><sg>$ ^.<sent>$
+1608 	 ^mercancía<n><f><pl>$ ^peligroso<adj><f><pl>$ ^por<pr>$ ^carretera<n><f><sg>$ ^.<sent>$
+1609 	 ^aprobar<vblex><pp><f><pl>$ ^por<pr>$
+1610 	 ^por<pr>$ ^nuestro<det><pos><f><sg>$
+1611 	 ^aprobar<vblex><pp><f><pl>$ ^por<pr>$ ^nuestro<det><pos><f><sg>$
+1612 	 ^ser<vbser><ifi><p3><pl>$ ^aprobar<vblex><pp><f><pl>$ ^por<pr>$
+1613 	 ^por<pr>$ ^nuestro<det><pos><f><sg>$ ^comisión<n><f><sg>$
+1614 	 ^ser<vbser><ifi><p3><pl>$ ^aprobar<vblex><pp><f><pl>$ ^por<pr>$ ^nuestro<det><pos><f><sg>$ ^comisión<n><f><sg>$
+1615 	 ^que<cnjsub>$ ^en<pr>$
+1616 	 ^en<pr>$ ^*Laponia<>$
+1617 	 ^que<cnjsub>$ ^en<pr>$ ^*Laponia<>$
+1618 	 ^se<prn><enc><ref><p3><mf><sp>$ ^que<cnjsub>$ ^en<pr>$
+1619 	 ^en<pr>$ ^*Laponia<>$ ^se<prn><pro><ref><p3><mf><sp>$
+1620 	 ^se<prn><enc><ref><p3><mf><sp>$ ^que<cnjsub>$ ^en<pr>$ ^*Laponia<>$ ^se<prn><pro><ref><p3><mf><sp>$
+1621 	 ^así que<cnjadv>$ ^acordar<vblex><imp><p1><pl>$
+1622 	 ^acordar<vblex><imp><p1><pl>$ ^prpers<prn><enc><p1><mf><pl>$
+1623 	 ^así que<cnjadv>$ ^acordar<vblex><imp><p1><pl>$ ^prpers<prn><enc><p1><mf><pl>$
+1624 	 ^,<cm>$ ^así que<cnjadv>$ ^acordar<vblex><imp><p1><pl>$
+1625 	 ^acordar<vblex><imp><p1><pl>$ ^prpers<prn><enc><p1><mf><pl>$ ^de<pr>$
+1626 	 ^,<cm>$ ^así que<cnjadv>$ ^acordar<vblex><imp><p1><pl>$ ^prpers<prn><enc><p1><mf><pl>$ ^de<pr>$
+1627 	 ^nivel<n><m><sg>$ ^de<pr>$
+1628 	 ^nivel<n><m><sg>$ ^de<pr>$ ^seguridad<n><f><sg>$
+1629 	 ^el<det><def><m><sg>$ ^nivel<n><m><sg>$ ^de<pr>$
+1630 	 ^de<pr>$ ^seguridad<n><f><sg>$ ^se<prn><pro><ref><p3><mf><sp>$
+1631 	 ^el<det><def><m><sg>$ ^nivel<n><m><sg>$ ^de<pr>$ ^seguridad<n><f><sg>$ ^se<prn><pro><ref><p3><mf><sp>$
+1632 	 ^mantener<vblex><prs><p3><sg>$ ^en<pr>$
+1633 	 ^mantener<vblex><prs><p3><sg>$ ^en<pr>$ ^el<det><def><f><pl>$
+1634 	 ^se<prn><pro><ref><p3><mf><sp>$ ^mantener<vblex><prs><p3><sg>$ ^en<pr>$
+1635 	 ^en<pr>$ ^el<det><def><f><pl>$ ^región<n><f><pl>$
+1636 	 ^se<prn><pro><ref><p3><mf><sp>$ ^mantener<vblex><prs><p3><sg>$ ^en<pr>$ ^el<det><def><f><pl>$ ^región<n><f><pl>$
+1637 	 ^esperar<vblex><pri><p1><sg>$ ^que<cnjsub>$
+1638 	 ^esperar<vblex><pri><p1><sg>$ ^que<cnjsub>$ ^mío<det><pos><mf><sg>$
+1639 	 ^cuenta<n><f><sg>$ ^en<pr>$
+1640 	 ^cuenta<n><f><sg>$ ^en<pr>$ ^el<det><def><f><sg>$
+1641 	 ^en<pr>$ ^cuenta<n><f><sg>$ ^en<pr>$
+1642 	 ^en<pr>$ ^cuenta<n><f><sg>$ ^en<pr>$ ^el<det><def><f><sg>$ ^votación<n><f><sg>$
+1643 	 ^presidente<n><m><sg>$ ^,<cm>$ ^si<cnjadv>$
+1644 	 ^respeto<n><m><sg>$ ^por<pr>$ ^el<det><def><f><sg>$
+1645 	 ^mío<det><pos><mf><sg>$ ^respeto<n><m><sg>$ ^por<pr>$
+1646 	 ^por<pr>$ ^el<det><def><f><sg>$ ^forma<n><f><sg>$
+1647 	 ^mío<det><pos><mf><sg>$ ^respeto<n><m><sg>$ ^por<pr>$ ^el<det><def><f><sg>$ ^forma<n><f><sg>$
+1648 	 ^forma<n><f><sg>$ ^en<pr>$
+1649 	 ^en<pr>$ ^que<cnjsub>$
+1650 	 ^forma<n><f><sg>$ ^en<pr>$ ^que<cnjsub>$
+1651 	 ^el<det><def><f><sg>$ ^forma<n><f><sg>$ ^en<pr>$
+1652 	 ^en<pr>$ ^que<cnjsub>$ ^prpers<prn><tn><p3><mf><sg>$
+1653 	 ^el<det><def><f><sg>$ ^forma<n><f><sg>$ ^en<pr>$ ^que<cnjsub>$ ^prpers<prn><tn><p3><mf><sg>$
+1654 	 ^cambio<n><m><sg>$ ^en<pr>$
+1655 	 ^cambio<n><m><sg>$ ^en<pr>$ ^el<det><def><f><sg>$
+1656 	 ^ágil<adj><mf><sg>$ ^cambio<n><m><sg>$ ^en<pr>$
+1657 	 ^en<pr>$ ^el<det><def><f><sg>$ ^presidencia<n><f><sg>$
+1658 	 ^ágil<adj><mf><sg>$ ^cambio<n><m><sg>$ ^en<pr>$ ^el<det><def><f><sg>$ ^presidencia<n><f><sg>$
+1659 	 ^entrar<vblex><pri><p1><sg>$ ^en<pr>$
+1660 	 ^entrar<vblex><pri><p1><sg>$ ^en<pr>$ ^el<det><def><m><sg>$
+1661 	 ^en<pr>$ ^el<det><def><m><sg>$ ^tema<n><m><sg>$
+1662 	 ^ciudadano<n><m><pl>$ ^de<pr>$
+1663 	 ^ciudadano<n><m><pl>$ ^de<pr>$ ^Europa<np><loc><f><sg>$
+1664 	 ^el<det><def><m><pl>$ ^ciudadano<n><m><pl>$ ^de<pr>$
+1665 	 ^de<pr>$ ^Europa<np><loc><f><sg>$ ^poder<vbmod><pri><p3><pl>$
+1666 	 ^el<det><def><m><pl>$ ^ciudadano<n><m><pl>$ ^de<pr>$ ^Europa<np><loc><f><sg>$ ^poder<vbmod><pri><p3><pl>$
+1667 	 ^*demora<>$ ^de<pr>$
+1668 	 ^*demora<>$ ^de<pr>$ ^el<det><def><m><pl>$
+1669 	 ^este<det><dem><f><sg>$ ^*demora<>$ ^de<pr>$
+1670 	 ^de<pr>$ ^el<det><def><m><pl>$ ^*CEN<>$
+1671 	 ^este<det><dem><f><sg>$ ^*demora<>$ ^de<pr>$ ^el<det><def><m><pl>$ ^*CEN<>$
+1672 	 ^y<cnjcoo>$ ^en<pr>$
+1673 	 ^y<cnjcoo>$ ^en<pr>$ ^el<det><def><f><sg>$
+1674 	 ^elaboración<n><f><sg>$ ^y<cnjcoo>$ ^en<pr>$
+1675 	 ^en<pr>$ ^el<det><def><f><sg>$ ^adaptación<n><f><sg>$
+1676 	 ^elaboración<n><f><sg>$ ^y<cnjcoo>$ ^en<pr>$ ^el<det><def><f><sg>$ ^adaptación<n><f><sg>$
+1677 	 ^esto<prn><tn><m><sp>$ ^en<pr>$ ^este<det><dem><f><sg>$
+1678 	 ^decidir<vblex><inf>$ ^esto<prn><tn><m><sp>$ ^en<pr>$
+1679 	 ^en<pr>$ ^este<det><dem><f><sg>$ ^semana<n><f><sg>$
+1680 	 ^decidir<vblex><inf>$ ^esto<prn><tn><m><sp>$ ^en<pr>$ ^este<det><dem><f><sg>$ ^semana<n><f><sg>$
+1681 	 ^que<cnjsub>$ ^en<pr>$ ^el<det><def><m><sg>$
+1682 	 ^-<guio>$ ^que<cnjsub>$ ^en<pr>$
+1683 	 ^en<pr>$ ^el<det><def><m><sg>$ ^2001<num>$
+1684 	 ^-<guio>$ ^que<cnjsub>$ ^en<pr>$ ^el<det><def><m><sg>$ ^2001<num>$
+1685 	 ^un poco<adv>$ ^de<pr>$
+1686 	 ^un poco<adv>$ ^de<pr>$ ^seguridad<n><f><sg>$
+1687 	 ^tener<vblex><prs><p1><pl>$ ^un poco<adv>$ ^de<pr>$
+1688 	 ^de<pr>$ ^seguridad<n><f><sg>$ ^jurídico<adj><f><sg>$
+1689 	 ^tener<vblex><prs><p1><pl>$ ^un poco<adv>$ ^de<pr>$ ^seguridad<n><f><sg>$ ^jurídico<adj><f><sg>$
+1690 	 ^presidente<n><m><sg>$ ^,<cm>$ ^el<det><def><m><sg>$
+1691 	 ^la mayoría<prn><tn><mf><sp>$ ^de<pr>$
+1692 	 ^la mayoría<prn><tn><mf><sp>$ ^de<pr>$ ^el<det><def><f><pl>$
+1693 	 ^de<pr>$ ^el<det><def><f><pl>$ ^enmienda<n><f><pl>$
+1694 	 ^exclusivamente<adv>$ ^de<pr>$
+1695 	 ^de<pr>$ ^carácter<n><m><sg>$
+1696 	 ^exclusivamente<adv>$ ^de<pr>$ ^carácter<n><m><sg>$
+1697 	 ^ser<vbser><pri><p3><pl>$ ^exclusivamente<adv>$ ^de<pr>$
+1698 	 ^de<pr>$ ^carácter<n><m><sg>$ ^técnico<adj><m><sg>$
+1699 	 ^ser<vbser><pri><p3><pl>$ ^exclusivamente<adv>$ ^de<pr>$ ^carácter<n><m><sg>$ ^técnico<adj><m><sg>$
+1700 	 ^por<pr>$ ^ferrocarril<n><m><pl>$
+1701 	 ^,<cm>$ ^por<pr>$ ^ferrocarril<n><m><pl>$
+1702 	 ^carretera<n><f><pl>$ ^,<cm>$ ^por<pr>$
+1703 	 ^por<pr>$ ^ferrocarril<n><m><pl>$ ^y<cnjcoo>$
+1704 	 ^carretera<n><f><pl>$ ^,<cm>$ ^por<pr>$ ^ferrocarril<n><m><pl>$ ^y<cnjcoo>$
+1705 	 ^trabajo<n><m><sg>$ ^realizar<vblex><pp><m><sg>$
+1706 	 ^el<det><def><m><sg>$ ^trabajo<n><m><sg>$ ^realizar<vblex><pp><m><sg>$
+1707 	 ^por<pr>$ ^el<det><def><m><sg>$ ^trabajo<n><m><sg>$
+1708 	 ^trabajo<n><m><sg>$ ^realizar<vblex><pp><m><sg>$ ^en<pr>$
+1709 	 ^por<pr>$ ^el<det><def><m><sg>$ ^trabajo<n><m><sg>$ ^realizar<vblex><pp><m><sg>$ ^en<pr>$
+1710 	 ^realizar<vblex><pp><m><sg>$ ^en<pr>$
+1711 	 ^en<pr>$ ^relación<n><f><sg>$
+1712 	 ^realizar<vblex><pp><m><sg>$ ^en<pr>$ ^relación<n><f><sg>$
+1713 	 ^en<pr>$ ^relación<n><f><sg>$ ^con<pr>$
+1714 	 ^trabajo<n><m><sg>$ ^realizar<vblex><pp><m><sg>$ ^en<pr>$ ^relación<n><f><sg>$ ^con<pr>$
+1715 	 ^presentar<vblex><pp><f><sg>$ ^por<pr>$ ^el<det><def><m><sg>$
+1716 	 ^enmienda<n><f><sg>$ ^presentar<vblex><pp><f><sg>$ ^por<pr>$
+1717 	 ^por<pr>$ ^el<det><def><m><sg>$ ^diputado<n><m><sg>$
+1718 	 ^enmienda<n><f><sg>$ ^presentar<vblex><pp><f><sg>$ ^por<pr>$ ^el<det><def><m><sg>$ ^diputado<n><m><sg>$
+1719 	 ^influir<vblex><pri><p3><sg>$ ^en<pr>$
+1720 	 ^influir<vblex><pri><p3><sg>$ ^en<pr>$ ^el<det><def><m><pl>$
+1721 	 ^frío<adj><m><sg>$ ^influir<vblex><pri><p3><sg>$ ^en<pr>$
+1722 	 ^en<pr>$ ^el<det><def><m><pl>$ ^material<n><m><pl>$
+1723 	 ^frío<adj><m><sg>$ ^influir<vblex><pri><p3><sg>$ ^en<pr>$ ^el<det><def><m><pl>$ ^material<n><m><pl>$
+1724 	 ^presidente<n><m><sg>$ ^,<cm>$ ^no<adv>$
+1725 	 ^vicepresidente<n><f><sg>$ ^de<pr>$
+1726 	 ^vicepresidente<n><f><sg>$ ^de<pr>$ ^el<det><def><f><sg>$
+1727 	 ^el<det><def><f><sg>$ ^vicepresidente<n><f><sg>$ ^de<pr>$
+1728 	 ^el<det><def><f><sg>$ ^vicepresidente<n><f><sg>$ ^de<pr>$ ^el<det><def><f><sg>$ ^comisión<n><f><sg>$
+1729 	 ^comisión<n><f><sg>$ ^por<pr>$
+1730 	 ^por<pr>$ ^haber<vbhaver><inf>$
+1731 	 ^comisión<n><f><sg>$ ^por<pr>$ ^haber<vbhaver><inf>$
+1732 	 ^el<det><def><f><sg>$ ^comisión<n><f><sg>$ ^por<pr>$
+1733 	 ^por<pr>$ ^haber<vbhaver><inf>$ ^se<prn><enc><ref><p3><mf><sp>$
+1734 	 ^el<det><def><f><sg>$ ^comisión<n><f><sg>$ ^por<pr>$ ^haber<vbhaver><inf>$ ^se<prn><enc><ref><p3><mf><sp>$
+1735 	 ^el<det><def><f><sg>$ ^seguridad<n><f><sg>$ ^en<pr>$ ^el<det><def><m><sg>$ ^ámbito<n><m><sg>$
+1736 	 ^el<det><def><m><sg>$ ^ámbito<n><m><sg>$
+1737 	 ^ámbito<n><m><sg>$ ^de<pr>$
+1738 	 ^el<det><def><m><sg>$ ^ámbito<n><m><sg>$ ^de<pr>$
+1739 	 ^ámbito<n><m><sg>$ ^de<pr>$ ^el<det><def><m><sg>$
+1740 	 ^en<pr>$ ^el<det><def><m><sg>$ ^ámbito<n><m><sg>$ ^de<pr>$ ^el<det><def><m><sg>$
+1741 	 ^también<adv>$ ^en<pr>$ ^el<det><def><m><sg>$
+1742 	 ^y<cnjcoo>$ ^también<adv>$ ^en<pr>$
+1743 	 ^en<pr>$ ^el<det><def><m><sg>$ ^marco<n><m><sg>$
+1744 	 ^y<cnjcoo>$ ^también<adv>$ ^en<pr>$ ^el<det><def><m><sg>$ ^marco<n><m><sg>$
+1745 	 ^poder<vbmod><pri><p3><sg>$ ^decir<vblex><inf>$
+1746 	 ^decir<vblex><inf>$ ^hoy<adv>$
+1747 	 ^poder<vbmod><pri><p3><sg>$ ^decir<vblex><inf>$ ^hoy<adv>$
+1748 	 ^prpers<prn><pro><p1><mf><pl>$ ^poder<vbmod><pri><p3><sg>$ ^decir<vblex><inf>$
+1749 	 ^decir<vblex><inf>$ ^hoy<adv>$ ^cómo<adv><itg>$
+1750 	 ^prpers<prn><pro><p1><mf><pl>$ ^poder<vbmod><pri><p3><sg>$ ^decir<vblex><inf>$ ^hoy<adv>$ ^cómo<adv><itg>$
+1751 	 ^el<det><def><m><pl>$ ^esfuerzo<n><m><pl>$
+1752 	 ^esfuerzo<n><m><pl>$ ^de<pr>$
+1753 	 ^el<det><def><m><pl>$ ^esfuerzo<n><m><pl>$ ^de<pr>$
+1754 	 ^en lo que respecta a<pr>$ ^el<det><def><m><pl>$ ^esfuerzo<n><m><pl>$
+1755 	 ^esfuerzo<n><m><pl>$ ^de<pr>$ ^armonización<n><f><sg>$
+1756 	 ^en lo que respecta a<pr>$ ^el<det><def><m><pl>$ ^esfuerzo<n><m><pl>$ ^de<pr>$ ^armonización<n><f><sg>$
+1757 	 ^de<pr>$ ^armonización<n><f><sg>$
+1758 	 ^de<pr>$ ^armonización<n><f><sg>$ ^de<pr>$
+1759 	 ^el<det><def><m><pl>$ ^esfuerzo<n><m><pl>$ ^de<pr>$ ^armonización<n><f><sg>$ ^de<pr>$
+1760 	 ^acelerar<vblex><inf>$ ^el<det><def><m><pl>$ ^esfuerzo<n><m><pl>$
+1761 	 ^acelerar<vblex><inf>$ ^el<det><def><m><pl>$ ^esfuerzo<n><m><pl>$ ^de<pr>$ ^armonización<n><f><sg>$
+1762 	 ^principio<n><m><pl>$ ^más<preadv>$
+1763 	 ^el<det><def><m><pl>$ ^principio<n><m><pl>$ ^más<preadv>$
+1764 	 ^a<pr>$ ^el<det><def><m><pl>$ ^principio<n><m><pl>$
+1765 	 ^principio<n><m><pl>$ ^más<preadv>$ ^simple<adj><mf><pl>$
+1766 	 ^a<pr>$ ^el<det><def><m><pl>$ ^principio<n><m><pl>$ ^más<preadv>$ ^simple<adj><mf><pl>$
+1767 	 ^se<prn><pro><ref><p3><mf><sp>$ ^detener<vblex><pri><p3><sg>$
+1768 	 ^detener<vblex><pri><p3><sg>$ ^en<pr>$
+1769 	 ^se<prn><pro><ref><p3><mf><sp>$ ^detener<vblex><pri><p3><sg>$ ^en<pr>$
+1770 	 ^no<adv>$ ^se<prn><pro><ref><p3><mf><sp>$ ^detener<vblex><pri><p3><sg>$
+1771 	 ^detener<vblex><pri><p3><sg>$ ^en<pr>$ ^el<det><def><f><pl>$
+1772 	 ^no<adv>$ ^se<prn><pro><ref><p3><mf><sp>$ ^detener<vblex><pri><p3><sg>$ ^en<pr>$ ^el<det><def><f><pl>$
+1773 	 ^en<pr>$ ^el<det><def><f><pl>$ ^frontera<n><f><pl>$
+1774 	 ^se<prn><pro><ref><p3><mf><sp>$ ^detener<vblex><pri><p3><sg>$ ^en<pr>$ ^el<det><def><f><pl>$ ^frontera<n><f><pl>$
+1775 	 ^estado<n><m><sg>$ ^de<pr>$
+1776 	 ^de<pr>$ ^cosa<n><f><pl>$
+1777 	 ^estado<n><m><sg>$ ^de<pr>$ ^cosa<n><f><pl>$
+1778 	 ^el<det><def><m><sg>$ ^estado<n><m><sg>$ ^de<pr>$
+1779 	 ^de<pr>$ ^cosa<n><f><pl>$ ^y<cnjcoo>$
+1780 	 ^el<det><def><m><sg>$ ^estado<n><m><sg>$ ^de<pr>$ ^cosa<n><f><pl>$ ^y<cnjcoo>$
+1781 	 ^negociación<n><f><pl>$ ^entre<pr>$
+1782 	 ^negociación<n><f><pl>$ ^entre<pr>$ ^el<det><def><m><sg>$
+1783 	 ^el<det><def><f><pl>$ ^negociación<n><f><pl>$ ^entre<pr>$
+1784 	 ^entre<pr>$ ^el<det><def><m><sg>$ ^*CEN<>$
+1785 	 ^el<det><def><f><pl>$ ^negociación<n><f><pl>$ ^entre<pr>$ ^el<det><def><m><sg>$ ^*CEN<>$
+1786 	 ^de<pr>$ ^economía<n><f><sg>$
+1787 	 ^comisión<n><f><sg>$ ^de<pr>$ ^economía<n><f><sg>$
+1788 	 ^de<pr>$ ^economía<n><f><sg>$ ^?<sent>$
+1789 	 ^el<det><def><f><sg>$ ^comisión<n><f><sg>$ ^de<pr>$ ^economía<n><f><sg>$ ^?<sent>$
+1790 	 ^presidente<n><m><sg>$ ^,<cm>$ ^de nuevo<adv>$
+1791 	 ^.<sent>$ ^señor<n><m><sg>$ ^presidente<n><m><sg>$ ^,<cm>$ ^de nuevo<adv>$
+1792 	 ^*Koch<>$ ^por<pr>$
+1793 	 ^*Koch<>$ ^por<pr>$ ^suyo<det><pos><mf><sg>$
+1794 	 ^Sr.<n><m><sg>$ ^*Koch<>$ ^por<pr>$
+1795 	 ^por<pr>$ ^suyo<det><pos><mf><sg>$ ^trabajo<n><m><sg>$
+1796 	 ^Sr.<n><m><sg>$ ^*Koch<>$ ^por<pr>$ ^suyo<det><pos><mf><sg>$ ^trabajo<n><m><sg>$
+1797 	 ^trabajo<n><m><sg>$ ^en<pr>$
+1798 	 ^suyo<det><pos><mf><sg>$ ^trabajo<n><m><sg>$ ^en<pr>$
+1799 	 ^trabajo<n><m><sg>$ ^en<pr>$ ^este<n><m><sg>$
+1800 	 ^por<pr>$ ^suyo<det><pos><mf><sg>$ ^trabajo<n><m><sg>$ ^en<pr>$ ^este<n><m><sg>$
+1801 	 ^tener<vblex><ifi><p1><pl>$ ^en<pr>$
+1802 	 ^tener<vblex><ifi><p1><pl>$ ^en<pr>$ ^el<det><def><m><sg>$
+1803 	 ^que<rel><an><mf><sp>$ ^tener<vblex><ifi><p1><pl>$ ^en<pr>$
+1804 	 ^que<rel><an><mf><sp>$ ^tener<vblex><ifi><p1><pl>$ ^en<pr>$ ^el<det><def><m><sg>$ ^mes<n><m><sg>$
+1805 	 ^el<det><def><m><sg>$ ^tiempo<n><m><sg>$
+1806 	 ^tiempo<n><m><sg>$ ^requerir<vblex><pp><m><sg>$
+1807 	 ^el<det><def><m><sg>$ ^tiempo<n><m><sg>$ ^requerir<vblex><pp><m><sg>$
+1808 	 ^en<pr>$ ^el<det><def><m><sg>$ ^tiempo<n><m><sg>$
+1809 	 ^tiempo<n><m><sg>$ ^requerir<vblex><pp><m><sg>$ ^el<det><def><f><sg>$
+1810 	 ^en<pr>$ ^el<det><def><m><sg>$ ^tiempo<n><m><sg>$ ^requerir<vblex><pp><m><sg>$ ^el<det><def><f><sg>$
+1811 	 ^de<pr>$ ^disposición<n><f><pl>$
+1812 	 ^disposición<n><f><pl>$ ^necesario<adj><f><sg>$
+1813 	 ^de<pr>$ ^disposición<n><f><pl>$ ^necesario<adj><f><sg>$
+1814 	 ^modificación<n><f><sg>$ ^de<pr>$ ^disposición<n><f><pl>$
+1815 	 ^disposición<n><f><pl>$ ^necesario<adj><f><sg>$ ^para<pr>$
+1816 	 ^modificación<n><f><sg>$ ^de<pr>$ ^disposición<n><f><pl>$ ^necesario<adj><f><sg>$ ^para<pr>$
+1817 	 ^modificación<n><f><sg>$ ^de<pr>$
+1818 	 ^modificación<n><f><sg>$ ^de<pr>$ ^el<det><def><f><sg>$
+1819 	 ^el<det><def><f><sg>$ ^modificación<n><f><sg>$ ^de<pr>$
+1820 	 ^de<pr>$ ^el<det><def><f><sg>$ ^directiva<n><f><sg>$
+1821 	 ^el<det><def><f><sg>$ ^modificación<n><f><sg>$ ^de<pr>$ ^el<det><def><f><sg>$ ^directiva<n><f><sg>$
+1822 	 ^hablar<vblex><pri><p3><pl>$ ^de<pr>$
+1823 	 ^hablar<vblex><pri><p3><pl>$ ^de<pr>$ ^el<det><def><f><sg>$
+1824 	 ^que<rel><an><mf><sp>$ ^hablar<vblex><pri><p3><pl>$ ^de<pr>$
+1825 	 ^de<pr>$ ^el<det><def><f><sg>$ ^diversidad<n><f><sg>$
+1826 	 ^que<rel><an><mf><sp>$ ^hablar<vblex><pri><p3><pl>$ ^de<pr>$ ^el<det><def><f><sg>$ ^diversidad<n><f><sg>$
+1827 	 ^hablar<vblex><pii><p3><sg>$ ^de<pr>$
+1828 	 ^de<pr>$ ^temperatura<n><f><pl>$
+1829 	 ^hablar<vblex><pii><p3><sg>$ ^de<pr>$ ^temperatura<n><f><pl>$
+1830 	 ^prpers<prn><pro><p1><mf><pl>$ ^hablar<vblex><pii><p3><sg>$ ^de<pr>$
+1831 	 ^de<pr>$ ^temperatura<n><f><pl>$ ^inferior<adj><mf><pl>$
+1832 	 ^prpers<prn><pro><p1><mf><pl>$ ^hablar<vblex><pii><p3><sg>$ ^de<pr>$ ^temperatura<n><f><pl>$ ^inferior<adj><mf><pl>$
+1833 	 ^climático<adj><f><sg>$ ^de<pr>$
+1834 	 ^climático<adj><f><sg>$ ^de<pr>$ ^el<det><def><f><sg>$
+1835 	 ^variedad<n><f><sg>$ ^climático<adj><f><sg>$ ^de<pr>$
+1836 	 ^variedad<n><f><sg>$ ^climático<adj><f><sg>$ ^de<pr>$ ^el<det><def><f><sg>$ ^unión<n><f><sg>$
+1837 	 ^requisito<n><m><pl>$ ^concreto<adj><m><pl>$
+1838 	 ^concreto<adj><m><pl>$ ^a<pr>$
+1839 	 ^requisito<n><m><pl>$ ^concreto<adj><m><pl>$ ^a<pr>$
+1840 	 ^en<pr>$ ^requisito<n><m><pl>$ ^concreto<adj><m><pl>$
+1841 	 ^concreto<adj><m><pl>$ ^a<pr>$ ^el<det><def><f><sg>$
+1842 	 ^en<pr>$ ^requisito<n><m><pl>$ ^concreto<adj><m><pl>$ ^a<pr>$ ^el<det><def><f><sg>$
+1843 	 ^de<pr>$ ^contemplar<vblex><inf>$
+1844 	 ^hora<n><f><sg>$ ^de<pr>$ ^contemplar<vblex><inf>$
+1845 	 ^de<pr>$ ^contemplar<vblex><inf>$ ^normalización<n><f><pl>$
+1846 	 ^el<det><def><f><sg>$ ^hora<n><f><sg>$ ^de<pr>$ ^contemplar<vblex><inf>$ ^normalización<n><f><pl>$
+1847 	 ^caracterización<n><f><pl>$ ^de<pr>$
+1848 	 ^de<pr>$ ^tipo<n><m><sg>$
+1849 	 ^caracterización<n><f><pl>$ ^de<pr>$ ^tipo<n><m><sg>$
+1850 	 ^o<cnjcoo>$ ^caracterización<n><f><pl>$ ^de<pr>$
+1851 	 ^de<pr>$ ^tipo<n><m><sg>$ ^técnico<adj><m><sg>$
+1852 	 ^o<cnjcoo>$ ^caracterización<n><f><pl>$ ^de<pr>$ ^tipo<n><m><sg>$ ^técnico<adj><m><sg>$
+1853 	 ^decir<vblex><inf>$ ^,<cm>$ ^respecto a<pr>$
+1854 	 ^manifestar<vblex><pp><m><sg>$ ^por<pr>$
+1855 	 ^manifestar<vblex><pp><m><sg>$ ^por<pr>$ ^el<det><def><m><sg>$
+1856 	 ^lo<det><def><nt><sg>$ ^manifestar<vblex><pp><m><sg>$ ^por<pr>$
+1857 	 ^por<pr>$ ^el<det><def><m><sg>$ ^Sr.<n><m><sg>$
+1858 	 ^lo<det><def><nt><sg>$ ^manifestar<vblex><pp><m><sg>$ ^por<pr>$ ^el<det><def><m><sg>$ ^Sr.<n><m><sg>$
+1859 	 ^actividad<n><f><sg>$ ^de<pr>$
+1860 	 ^actividad<n><f><sg>$ ^de<pr>$ ^el<det><def><m><sg>$
+1861 	 ^el<det><def><f><sg>$ ^actividad<n><f><sg>$ ^de<pr>$
+1862 	 ^de<pr>$ ^el<det><def><m><sg>$ ^*CEN<>$
+1863 	 ^el<det><def><f><sg>$ ^actividad<n><f><sg>$ ^de<pr>$ ^el<det><def><m><sg>$ ^*CEN<>$
+1864 	 ^trabajo<n><m><sg>$ ^porque<cnjadv>$
+1865 	 ^suyo<det><pos><mf><sg>$ ^trabajo<n><m><sg>$ ^porque<cnjadv>$
+1866 	 ^máximo<n><m><sg>$ ^suyo<det><pos><mf><sg>$ ^trabajo<n><m><sg>$
+1867 	 ^trabajo<n><m><sg>$ ^porque<cnjadv>$ ^ser<vbser><cni><p3><sg>$
+1868 	 ^máximo<n><m><sg>$ ^suyo<det><pos><mf><sg>$ ^trabajo<n><m><sg>$ ^porque<cnjadv>$ ^ser<vbser><cni><p3><sg>$
+1869 	 ^,<cm>$ ^señor<n><m><sg>$ ^presidente<n><m><sg>$
+1870 	 ^presidente<n><m><sg>$ ^,<cm>$ ^ya<adv>$
+1871 	 ^,<cm>$ ^señor<n><m><sg>$ ^presidente<n><m><sg>$ ^,<cm>$ ^ya<adv>$
+1872 	 ^de<pr>$ ^alguno<det><qnt><f><pl>$
+1873 	 ^modificación<n><f><sg>$ ^de<pr>$ ^alguno<det><qnt><f><pl>$
+1874 	 ^de<pr>$ ^alguno<det><qnt><f><pl>$ ^disposición<n><f><pl>$
+1875 	 ^el<det><def><f><sg>$ ^modificación<n><f><sg>$ ^de<pr>$ ^alguno<det><qnt><f><pl>$ ^disposición<n><f><pl>$
+1876 	 ^alguno<det><qnt><f><pl>$ ^disposición<n><f><pl>$
+1877 	 ^disposición<n><f><pl>$ ^,<cm>$
+1878 	 ^alguno<det><qnt><f><pl>$ ^disposición<n><f><pl>$ ^,<cm>$
+1879 	 ^disposición<n><f><pl>$ ^,<cm>$ ^a<pr>$
+1880 	 ^de<pr>$ ^alguno<det><qnt><f><pl>$ ^disposición<n><f><pl>$ ^,<cm>$ ^a<pr>$
+1881 	 ^coherencia<n><f><sg>$ ^entre<pr>$
+1882 	 ^coherencia<n><f><sg>$ ^entre<pr>$ ^el<det><def><m><sg>$
+1883 	 ^el<det><def><f><sg>$ ^coherencia<n><f><sg>$ ^entre<pr>$
+1884 	 ^entre<pr>$ ^el<det><def><m><sg>$ ^texto<n><m><sg>$
+1885 	 ^el<det><def><f><sg>$ ^coherencia<n><f><sg>$ ^entre<pr>$ ^el<det><def><m><sg>$ ^texto<n><m><sg>$
+1886 	 ^texto<n><m><sg>$ ^de<pr>$
+1887 	 ^texto<n><m><sg>$ ^de<pr>$ ^el<det><def><f><sg>$
+1888 	 ^el<det><def><m><sg>$ ^texto<n><m><sg>$ ^de<pr>$
+1889 	 ^el<det><def><m><sg>$ ^texto<n><m><sg>$ ^de<pr>$ ^el<det><def><f><sg>$ ^directiva<n><f><sg>$
+1890 	 ^el<det><def><m><pl>$ ^anexo<n><m><pl>$
+1891 	 ^anexo<n><m><pl>$ ^,<cm>$
+1892 	 ^el<det><def><m><pl>$ ^anexo<n><m><pl>$ ^,<cm>$
+1893 	 ^de<pr>$ ^el<det><def><m><pl>$ ^anexo<n><m><pl>$
+1894 	 ^anexo<n><m><pl>$ ^,<cm>$ ^a<pr>$
+1895 	 ^de<pr>$ ^el<det><def><m><pl>$ ^anexo<n><m><pl>$ ^,<cm>$ ^a<pr>$
+1896 	 ^aportación<n><f><pl>$ ^de<pr>$
+1897 	 ^aportación<n><f><pl>$ ^de<pr>$ ^el<det><def><f><sg>$
+1898 	 ^el<det><def><f><pl>$ ^aportación<n><f><pl>$ ^de<pr>$
+1899 	 ^el<det><def><f><pl>$ ^aportación<n><f><pl>$ ^de<pr>$ ^el<det><def><f><sg>$ ^comisión<n><f><sg>$
+1900 	 ^parlamentario<adj><f><sg>$ ^y<cnjcoo>$ ^de<pr>$
+1901 	 ^de<pr>$ ^el<det><def><m><sg>$ ^ponente<n><mf><sg>$
+1902 	 ^parlamentario<adj><f><sg>$ ^y<cnjcoo>$ ^de<pr>$ ^el<det><def><m><sg>$ ^ponente<n><mf><sg>$
+1903 	 ^concretamente<adv>$ ^en<pr>$
+1904 	 ^en<pr>$ ^cuatro<num><mf><sp>$
+1905 	 ^concretamente<adv>$ ^en<pr>$ ^cuatro<num><mf><sp>$
+1906 	 ^,<cm>$ ^concretamente<adv>$ ^en<pr>$
+1907 	 ^en<pr>$ ^cuatro<num><mf><sp>$ ^,<cm>$
+1908 	 ^,<cm>$ ^concretamente<adv>$ ^en<pr>$ ^cuatro<num><mf><sp>$ ^,<cm>$
+1909 	 ^coordinación<n><f><sg>$ ^fondo<n><m><pl>$
+1910 	 ^fondo<n><m><pl>$ ^estructural<adj><mf><pl>$
+1911 	 ^coordinación<n><f><sg>$ ^fondo<n><m><pl>$ ^estructural<adj><mf><pl>$
+1912 	 ^fondo<n><m><pl>$ ^estructural<adj><mf><pl>$ ^fondo# de cohesión<n><m><sg>$
+1913 	 ^fondo# de cohesión<n><m><sg>$
+1914 	 ^)<rpar>$ ^de<pr>$ ^el<det><def><f><sg>$
+1915 	 ^de<pr>$ ^el<det><def><f><sg>$ ^Sra.<n><f><sg>$
+1916 	 ^1999<num>$ ^)<rpar>$ ^de<pr>$ ^el<det><def><f><sg>$ ^Sra.<n><f><sg>$
+1917 	 ^comunicación<n><f><sg>$ ^de<pr>$
+1918 	 ^comunicación<n><f><sg>$ ^de<pr>$ ^el<det><def><f><sg>$
+1919 	 ^el<det><def><f><sg>$ ^comunicación<n><f><sg>$ ^de<pr>$
+1920 	 ^el<det><def><f><sg>$ ^comunicación<n><f><sg>$ ^de<pr>$ ^el<det><def><f><sg>$ ^comisión<n><f><sg>$
+1921 	 ^el<det><def><m><pl>$ ^fondo<n><m><pl>$
+1922 	 ^el<det><def><m><pl>$ ^fondo<n><m><pl>$ ^estructural<adj><mf><pl>$
+1923 	 ^a<pr>$ ^el<det><def><m><pl>$ ^fondo<n><m><pl>$
+1924 	 ^fondo<n><m><pl>$ ^estructural<adj><mf><pl>$ ^y<cnjcoo>$
+1925 	 ^a<pr>$ ^el<det><def><m><pl>$ ^fondo<n><m><pl>$ ^estructural<adj><mf><pl>$ ^y<cnjcoo>$
+1926 	 ^presidente<n><m><sg>$ ^,<cm>$ ^prpers<prn><pro><p1><mf><sg>$
+1927 	 ^haber<vbhaver><pri><p3><sg>$ ^considerar<vblex><pp><m><sg>$
+1928 	 ^considerar<vblex><pp><m><sg>$ ^de<pr>$
+1929 	 ^haber<vbhaver><pri><p3><sg>$ ^considerar<vblex><pp><m><sg>$ ^de<pr>$
+1930 	 ^se<prn><pro><ref><p3><mf><sp>$ ^haber<vbhaver><pri><p3><sg>$ ^considerar<vblex><pp><m><sg>$
+1931 	 ^considerar<vblex><pp><m><sg>$ ^de<pr>$ ^el<det><def><f><sg>$
+1932 	 ^se<prn><pro><ref><p3><mf><sp>$ ^haber<vbhaver><pri><p3><sg>$ ^considerar<vblex><pp><m><sg>$ ^de<pr>$ ^el<det><def><f><sg>$
+1933 	 ^el<det><def><f><sg>$ ^parte<n><f><sg>$ ^de<pr>$
+1934 	 ^de<pr>$ ^el<det><def><m><sg>$ ^Reino Unido<np><loc><m><sg>$
+1935 	 ^el<det><def><f><sg>$ ^parte<n><f><sg>$ ^de<pr>$ ^el<det><def><m><sg>$ ^Reino Unido<np><loc><m><sg>$
+1936 	 ^programa<n><m><sg>$ ^de<pr>$
+1937 	 ^programa<n><m><sg>$ ^de<pr>$ ^el<det><def><m><pl>$
+1938 	 ^el<det><def><m><sg>$ ^programa<n><m><sg>$ ^de<pr>$
+1939 	 ^de<pr>$ ^el<det><def><m><pl>$ ^fondo<n><m><pl>$
+1940 	 ^el<det><def><m><sg>$ ^programa<n><m><sg>$ ^de<pr>$ ^el<det><def><m><pl>$ ^fondo<n><m><pl>$
+1941 	 ^fondo<n><m><pl>$ ^estructural<adj><mf><pl>$ ^.<sent>$
+1942 	 ^de<pr>$ ^el<det><def><m><pl>$ ^fondo<n><m><pl>$ ^estructural<adj><mf><pl>$ ^.<sent>$
+1943 	 ^de<pr>$ ^fondo<n><m><pl>$
+1944 	 ^de<pr>$ ^fondo<n><m><pl>$ ^estructural<adj><mf><pl>$
+1945 	 ^programa<n><m><sg>$ ^de<pr>$ ^fondo<n><m><pl>$
+1946 	 ^fondo<n><m><pl>$ ^estructural<adj><mf><pl>$ ^europeo<n><m><pl>$
+1947 	 ^programa<n><m><sg>$ ^de<pr>$ ^fondo<n><m><pl>$ ^estructural<adj><mf><pl>$ ^europeo<n><m><pl>$
+1948 	 ^alguno<prn><tn><f><pl>$ ^de<pr>$
+1949 	 ^alguno<prn><tn><f><pl>$ ^de<pr>$ ^el<det><def><f><pl>$
+1950 	 ^solventar<vblex><inf>$ ^alguno<prn><tn><f><pl>$ ^de<pr>$
+1951 	 ^de<pr>$ ^el<det><def><f><pl>$ ^grande<adj><mf><pl>$
+1952 	 ^solventar<vblex><inf>$ ^alguno<prn><tn><f><pl>$ ^de<pr>$ ^el<det><def><f><pl>$ ^grande<adj><mf><pl>$
+1953 	 ^pobreza<n><f><sg>$ ^en<pr>$
+1954 	 ^en<pr>$ ^Gales<np><loc><m><sg>$
+1955 	 ^pobreza<n><f><sg>$ ^en<pr>$ ^Gales<np><loc><m><sg>$
+1956 	 ^el<det><def><f><sg>$ ^pobreza<n><f><sg>$ ^en<pr>$
+1957 	 ^en<pr>$ ^Gales<np><loc><m><sg>$ ^,<cm>$
+1958 	 ^el<det><def><f><sg>$ ^pobreza<n><f><sg>$ ^en<pr>$ ^Gales<np><loc><m><sg>$ ^,<cm>$
+1959 	 ^abismo<n><m><sg>$ ^entre<pr>$
+1960 	 ^entre<pr>$ ^rico<adj><m><pl>$
+1961 	 ^abismo<n><m><sg>$ ^entre<pr>$ ^rico<adj><m><pl>$
+1962 	 ^el<det><def><m><sg>$ ^abismo<n><m><sg>$ ^entre<pr>$
+1963 	 ^entre<pr>$ ^rico<adj><m><pl>$ ^y<cnjcoo>$
+1964 	 ^el<det><def><m><sg>$ ^abismo<n><m><sg>$ ^entre<pr>$ ^rico<adj><m><pl>$ ^y<cnjcoo>$
+1965 	 ^fondo<n><m><pl>$ ^estructural<adj><mf><pl>$ ^no<adv>$
+1966 	 ^programa<n><m><sg>$ ^de<pr>$ ^fondo<n><m><pl>$ ^estructural<adj><mf><pl>$ ^no<adv>$
+1967 	 ^conjunto<n><m><sg>$ ^de<pr>$
+1968 	 ^conjunto<n><m><sg>$ ^de<pr>$ ^el<det><def><f><sg>$
+1969 	 ^el<det><def><m><sg>$ ^conjunto<n><m><sg>$ ^de<pr>$
+1970 	 ^el<det><def><m><sg>$ ^conjunto<n><m><sg>$ ^de<pr>$ ^el<det><def><f><sg>$ ^base<n><f><sg>$
+1971 	 ^base<n><f><sg>$ ^económico<adj><f><sg>$
+1972 	 ^económico<adj><f><sg>$ ^de<pr>$
+1973 	 ^base<n><f><sg>$ ^económico<adj><f><sg>$ ^de<pr>$
+1974 	 ^el<det><def><f><sg>$ ^base<n><f><sg>$ ^económico<adj><f><sg>$
+1975 	 ^económico<adj><f><sg>$ ^de<pr>$ ^el<det><def><m><sg>$
+1976 	 ^el<det><def><f><sg>$ ^base<n><f><sg>$ ^económico<adj><f><sg>$ ^de<pr>$ ^el<det><def><m><sg>$
+1977 	 ^concesión<n><f><sg>$ ^de<pr>$ ^fondo<n><m><pl>$
+1978 	 ^fondo<n><m><pl>$ ^estructural<adj><mf><pl>$ ^ser<vbser><pri><p3><sg>$
+1979 	 ^concesión<n><f><sg>$ ^de<pr>$ ^fondo<n><m><pl>$ ^estructural<adj><mf><pl>$ ^ser<vbser><pri><p3><sg>$
+1980 	 ^en<pr>$ ^cierto<det><ind><m><sg>$
+1981 	 ^,<cm>$ ^en<pr>$ ^cierto<det><ind><m><sg>$
+1982 	 ^ser<vbser><pp><m><sg>$ ^,<cm>$ ^en<pr>$
+1983 	 ^ser<vbser><pp><m><sg>$ ^,<cm>$ ^en<pr>$ ^cierto<det><ind><m><sg>$ ^sentido<n><m><sg>$
+1984 	 ^sentido<n><m><sg>$ ^,<cm>$
+1985 	 ^cierto<det><ind><m><sg>$ ^sentido<n><m><sg>$ ^,<cm>$
+1986 	 ^sentido<n><m><sg>$ ^,<cm>$ ^uno<det><ind><m><sg>$
+1987 	 ^en<pr>$ ^cierto<det><ind><m><sg>$ ^sentido<n><m><sg>$ ^,<cm>$ ^uno<det><ind><m><sg>$
+1988 	 ^logro<n><m><sg>$ ^de<pr>$
+1989 	 ^logro<n><m><sg>$ ^de<pr>$ ^el<det><def><m><sg>$
+1990 	 ^uno<det><ind><m><sg>$ ^logro<n><m><sg>$ ^de<pr>$
+1991 	 ^de<pr>$ ^el<det><def><m><sg>$ ^gobierno<n><m><sg>$
+1992 	 ^uno<det><ind><m><sg>$ ^logro<n><m><sg>$ ^de<pr>$ ^el<det><def><m><sg>$ ^gobierno<n><m><sg>$
+1993 	 ^reconocimiento<n><m><sg>$ ^de<pr>$
+1994 	 ^reconocimiento<n><m><sg>$ ^de<pr>$ ^el<det><def><f><pl>$
+1995 	 ^uno<det><ind><m><sg>$ ^reconocimiento<n><m><sg>$ ^de<pr>$
+1996 	 ^uno<det><ind><m><sg>$ ^reconocimiento<n><m><sg>$ ^de<pr>$ ^el<det><def><f><pl>$ ^grande<adj><mf><pl>$
+1997 	 ^fondo<n><m><pl>$ ^estructural<adj><mf><pl>$ ^,<cm>$
+1998 	 ^de<pr>$ ^el<det><def><m><pl>$ ^fondo<n><m><pl>$ ^estructural<adj><mf><pl>$ ^,<cm>$
+1999 	 ^implicar<vblex><pri><p3><sg>$ ^en<pr>$
+2000 	 ^implicar<vblex><pri><p3><sg>$ ^en<pr>$ ^el<det><def><f><sg>$
+2001 	 ^se<prn><pro><ref><p3><mf><sp>$ ^implicar<vblex><pri><p3><sg>$ ^en<pr>$
+2002 	 ^en<pr>$ ^el<det><def><f><sg>$ ^planificación<n><f><sg>$
+2003 	 ^se<prn><pro><ref><p3><mf><sp>$ ^implicar<vblex><pri><p3><sg>$ ^en<pr>$ ^el<det><def><f><sg>$ ^planificación<n><f><sg>$
+2004 	 ^comisión<n><f><sg>$ ^asegurar<vblex><prs><p3><sg>$
+2005 	 ^asegurar<vblex><prs><p3><sg>$ ^que<cnjsub>$
+2006 	 ^comisión<n><f><sg>$ ^asegurar<vblex><prs><p3><sg>$ ^que<cnjsub>$
+2007 	 ^el<det><def><f><sg>$ ^comisión<n><f><sg>$ ^asegurar<vblex><prs><p3><sg>$
+2008 	 ^asegurar<vblex><prs><p3><sg>$ ^que<cnjsub>$ ^el<det><def><m><sg>$
+2009 	 ^el<det><def><f><sg>$ ^comisión<n><f><sg>$ ^asegurar<vblex><prs><p3><sg>$ ^que<cnjsub>$ ^el<det><def><m><sg>$
+2010 	 ^presidente<n><m><sg>$ ^,<cm>$ ^nuestro<det><pos><f><sg>$
+2011 	 ^punto# de vista<n><m><sg>$ ^de<pr>$
+2012 	 ^punto# de vista<n><m><sg>$ ^de<pr>$ ^el<det><def><f><sg>$
+2013 	 ^el<det><def><m><sg>$ ^punto# de vista<n><m><sg>$ ^de<pr>$
+2014 	 ^de<pr>$ ^el<det><def><f><sg>$ ^investigación<n><f><sg>$
+2015 	 ^el<det><def><m><sg>$ ^punto# de vista<n><m><sg>$ ^de<pr>$ ^el<det><def><f><sg>$ ^investigación<n><f><sg>$
+2016 	 ^el<det><def><f><sg>$ ^investigación<n><f><sg>$
+2017 	 ^investigación<n><f><sg>$ ^.<sent>$
+2018 	 ^el<det><def><f><sg>$ ^investigación<n><f><sg>$ ^.<sent>$
+2019 	 ^de<pr>$ ^el<det><def><f><sg>$ ^investigación<n><f><sg>$ ^.<sent>$
+2020 	 ^investigación<n><f><sg>$ ^*emplazando<>$
+2021 	 ^el<det><def><f><sg>$ ^investigación<n><f><sg>$ ^*emplazando<>$
+2022 	 ^investigación<n><f><sg>$ ^*emplazando<>$ ^a<pr>$
+2023 	 ^de<pr>$ ^el<det><def><f><sg>$ ^investigación<n><f><sg>$ ^*emplazando<>$ ^a<pr>$
+2024 	 ^cualificado<adj><f><pl>$ ^en<pr>$
+2025 	 ^en<pr>$ ^suyo<det><pos><mf><pl>$
+2026 	 ^cualificado<adj><f><pl>$ ^en<pr>$ ^suyo<det><pos><mf><pl>$
+2027 	 ^persona<n><f><pl>$ ^cualificado<adj><f><pl>$ ^en<pr>$
+2028 	 ^en<pr>$ ^suyo<det><pos><mf><pl>$ ^zona<n><f><pl>$
+2029 	 ^persona<n><f><pl>$ ^cualificado<adj><f><pl>$ ^en<pr>$ ^suyo<det><pos><mf><pl>$ ^zona<n><f><pl>$
+2030 	 ^ubicación<n><f><sg>$ ^de<pr>$
+2031 	 ^ubicación<n><f><sg>$ ^de<pr>$ ^el<det><def><f><sg>$
+2032 	 ^el<det><def><f><sg>$ ^ubicación<n><f><sg>$ ^de<pr>$
+2033 	 ^de<pr>$ ^el<det><def><f><sg>$ ^enseñanza<n><f><sg>$
+2034 	 ^el<det><def><f><sg>$ ^ubicación<n><f><sg>$ ^de<pr>$ ^el<det><def><f><sg>$ ^enseñanza<n><f><sg>$
+2035 	 ^uno<det><ind><f><sg>$ ^política<n><f><sg>$
+2036 	 ^política<n><f><sg>$ ^eficiente<adj><mf><sg>$
+2037 	 ^uno<det><ind><f><sg>$ ^política<n><f><sg>$ ^eficiente<adj><mf><sg>$
+2038 	 ^,<cm>$ ^uno<det><ind><f><sg>$ ^política<n><f><sg>$
+2039 	 ^política<n><f><sg>$ ^eficiente<adj><mf><sg>$ ^para<pr>$
+2040 	 ^,<cm>$ ^uno<det><ind><f><sg>$ ^política<n><f><sg>$ ^eficiente<adj><mf><sg>$ ^para<pr>$
+2041 	 ^de<pr>$ ^el<det><def><f><sg>$ ^política<n><f><sg>$
+2042 	 ^el<det><def><m><sg>$ ^punto# de vista<n><m><sg>$ ^de<pr>$ ^el<det><def><f><sg>$ ^política<n><f><sg>$
+2043 	 ^el<det><def><f><sg>$ ^política<n><f><sg>$
+2044 	 ^política<n><f><sg>$ ^industrial<adj><mf><sg>$
+2045 	 ^el<det><def><f><sg>$ ^política<n><f><sg>$ ^industrial<adj><mf><sg>$
+2046 	 ^política<n><f><sg>$ ^industrial<adj><mf><sg>$ ^,<cm>$
+2047 	 ^de<pr>$ ^el<det><def><f><sg>$ ^política<n><f><sg>$ ^industrial<adj><mf><sg>$ ^,<cm>$
+2048 	 ^comercio electrónico<n><m><sp>$ ^y<cnjcoo>$ ^de<pr>$
+2049 	 ^de<pr>$ ^el<det><def><m><sg>$ ^uso<n><m><sg>$
+2050 	 ^comercio electrónico<n><m><sp>$ ^y<cnjcoo>$ ^de<pr>$ ^el<det><def><m><sg>$ ^uso<n><m><sg>$
+2051 	 ^inversión<n><f><pl>$ ^en<pr>$
+2052 	 ^inversión<n><f><pl>$ ^en<pr>$ ^el<det><def><m><pl>$
+2053 	 ^nuevo<adj><f><pl>$ ^inversión<n><f><pl>$ ^en<pr>$
+2054 	 ^en<pr>$ ^el<det><def><m><pl>$ ^sector<n><m><pl>$
+2055 	 ^nuevo<adj><f><pl>$ ^inversión<n><f><pl>$ ^en<pr>$ ^el<det><def><m><pl>$ ^sector<n><m><pl>$
+2056 	 ^producción<n><f><sg>$ ^de<pr>$
+2057 	 ^de<pr>$ ^servicio<n><m><pl>$
+2058 	 ^producción<n><f><sg>$ ^de<pr>$ ^servicio<n><m><pl>$
+2059 	 ^de<pr>$ ^producción<n><f><sg>$ ^de<pr>$
+2060 	 ^de<pr>$ ^servicio<n><m><pl>$ ^,<cm>$
+2061 	 ^de<pr>$ ^producción<n><f><sg>$ ^de<pr>$ ^servicio<n><m><pl>$ ^,<cm>$
+2062 	 ^suficientemente<adv>$ ^en<pr>$
+2063 	 ^en<pr>$ ^cuenta<n><f><sg>$
+2064 	 ^suficientemente<adv>$ ^en<pr>$ ^cuenta<n><f><sg>$
+2065 	 ^lo<det><def><nt><sg>$ ^suficientemente<adv>$ ^en<pr>$
+2066 	 ^en<pr>$ ^cuenta<n><f><sg>$ ^por<pr>$
+2067 	 ^lo<det><def><nt><sg>$ ^suficientemente<adv>$ ^en<pr>$ ^cuenta<n><f><sg>$ ^por<pr>$
+2068 	 ^encargar<vblex><pp><f><sg>$ ^de<pr>$
+2069 	 ^de<pr>$ ^elaborar<vblex><inf>$
+2070 	 ^encargar<vblex><pp><f><sg>$ ^de<pr>$ ^elaborar<vblex><inf>$
+2071 	 ^comisión<n><f><sg>$ ^encargar<vblex><pp><f><sg>$ ^de<pr>$
+2072 	 ^de<pr>$ ^elaborar<vblex><inf>$ ^el<det><def><m><sg>$
+2073 	 ^comisión<n><f><sg>$ ^encargar<vblex><pp><f><sg>$ ^de<pr>$ ^elaborar<vblex><inf>$ ^el<det><def><m><sg>$
+2074 	 ^necesidad<n><f><sg>$ ^de<pr>$
+2075 	 ^de<pr>$ ^subvencionar<vblex><inf>$
+2076 	 ^necesidad<n><f><sg>$ ^de<pr>$ ^subvencionar<vblex><inf>$
+2077 	 ^el<det><def><f><sg>$ ^necesidad<n><f><sg>$ ^de<pr>$
+2078 	 ^de<pr>$ ^subvencionar<vblex><inf>$ ^el<det><def><f><pl>$
+2079 	 ^el<det><def><f><sg>$ ^necesidad<n><f><sg>$ ^de<pr>$ ^subvencionar<vblex><inf>$ ^el<det><def><f><pl>$
+2080 	 ^con<pr>$ ^el<det><def><m><pl>$ ^fondo<n><m><pl>$
+2081 	 ^con<pr>$ ^el<det><def><m><pl>$ ^fondo<n><m><pl>$ ^estructural<adj><mf><pl>$ ^,<cm>$
+2082 	 ^ambos<det><ind><m><pl>$ ^fondo<n><m><pl>$
+2083 	 ^fondo<n><m><pl>$ ^,<cm>$
+2084 	 ^ambos<det><ind><m><pl>$ ^fondo<n><m><pl>$ ^,<cm>$
+2085 	 ^de<pr>$ ^ambos<det><ind><m><pl>$ ^fondo<n><m><pl>$
+2086 	 ^fondo<n><m><pl>$ ^,<cm>$ ^el<det><def><m><sg>$
+2087 	 ^de<pr>$ ^ambos<det><ind><m><pl>$ ^fondo<n><m><pl>$ ^,<cm>$ ^el<det><def><m><sg>$
+2088 	 ^presidente<n><m><sg>$ ^,<cm>$ ^querer<vbmod><pis><p3><sg>$
+2089 	 ^*Schroedter<>$ ^por<pr>$
+2090 	 ^*Schroedter<>$ ^por<pr>$ ^suyo<det><pos><mf><sg>$
+2091 	 ^Sr.<n><m><sg>$ ^*Schroedter<>$ ^por<pr>$
+2092 	 ^por<pr>$ ^suyo<det><pos><mf><sg>$ ^contribución<n><f><sg>$
+2093 	 ^Sr.<n><m><sg>$ ^*Schroedter<>$ ^por<pr>$ ^suyo<det><pos><mf><sg>$ ^contribución<n><f><sg>$
+2094 	 ^mío<det><pos><mf><sg>$ ^colega<n><mf><sg>$
+2095 	 ^colega<n><mf><sg>$ ^,<cm>$
+2096 	 ^mío<det><pos><mf><sg>$ ^colega<n><mf><sg>$ ^,<cm>$
+2097 	 ^en nombre de<pr>$ ^mío<det><pos><mf><sg>$ ^colega<n><mf><sg>$
+2098 	 ^colega<n><mf><sg>$ ^,<cm>$ ^el<det><def><m><sg>$
+2099 	 ^en nombre de<pr>$ ^mío<det><pos><mf><sg>$ ^colega<n><mf><sg>$ ^,<cm>$ ^el<det><def><m><sg>$
+2100 	 ^de<pr>$ ^empleo<n><m><sg>$
+2101 	 ^empleo<n><m><sg>$ ^y<cnjcoo>$
+2102 	 ^de<pr>$ ^empleo<n><m><sg>$ ^y<cnjcoo>$
+2103 	 ^comisión<n><f><sg>$ ^de<pr>$ ^empleo<n><m><sg>$
+2104 	 ^empleo<n><m><sg>$ ^y<cnjcoo>$ ^Asuntos Sociales<np><al><m><pl>$
+2105 	 ^comisión<n><f><sg>$ ^de<pr>$ ^empleo<n><m><sg>$ ^y<cnjcoo>$ ^Asuntos Sociales<np><al><m><pl>$
+2106 	 ^estar<vblex><pri><p3><sg>$ ^enfermo<adj><m><sg>$
+2107 	 ^enfermo<adj><m><sg>$ ^.<sent>$
+2108 	 ^estar<vblex><pri><p3><sg>$ ^enfermo<adj><m><sg>$ ^.<sent>$
+2109 	 ^por desgracia<adv>$ ^estar<vblex><pri><p3><sg>$ ^enfermo<adj><m><sg>$
+2110 	 ^por desgracia<adv>$ ^estar<vblex><pri><p3><sg>$ ^enfermo<adj><m><sg>$ ^.<sent>$
+2111 	 ^acordar<vblex><pp><f><pl>$ ^por<pr>$
+2112 	 ^acordar<vblex><pp><f><pl>$ ^por<pr>$ ^el<det><def><f><sg>$
+2113 	 ^2<num>$ ^acordar<vblex><pp><f><pl>$ ^por<pr>$
+2114 	 ^2<num>$ ^acordar<vblex><pp><f><pl>$ ^por<pr>$ ^el<det><def><f><sg>$ ^comisión<n><f><sg>$
+2115 	 ^rechazar<vblex><pp><f><pl>$ ^por<pr>$
+2116 	 ^rechazar<vblex><pp><f><pl>$ ^por<pr>$ ^el<det><def><f><sg>$
+2117 	 ^ser<vbser><pp><m><sg>$ ^rechazar<vblex><pp><f><pl>$ ^por<pr>$
+2118 	 ^ser<vbser><pp><m><sg>$ ^rechazar<vblex><pp><f><pl>$ ^por<pr>$ ^el<det><def><f><sg>$ ^comisión<n><f><sg>$
+2119 	 ^oportunidad<n><f><pl>$ ^de<pr>$ ^empleo<n><m><sg>$
+2120 	 ^empleo<n><m><sg>$ ^y<cnjcoo>$ ^fortalecer<vblex><inf>$
+2121 	 ^oportunidad<n><f><pl>$ ^de<pr>$ ^empleo<n><m><sg>$ ^y<cnjcoo>$ ^fortalecer<vblex><inf>$
+2122 	 ^el<det><def><m><sg>$ ^pasar<vblex><pp><m><sg>$
+2123 	 ^pasar<vblex><pp><m><sg>$ ^el<det><def><f><sg>$
+2124 	 ^el<det><def><m><sg>$ ^pasar<vblex><pp><m><sg>$ ^el<det><def><f><sg>$
+2125 	 ^pasar<vblex><pp><m><sg>$ ^el<det><def><f><sg>$ ^economía<n><f><sg>$
+2126 	 ^en<pr>$ ^el<det><def><m><sg>$ ^pasar<vblex><pp><m><sg>$ ^el<det><def><f><sg>$ ^economía<n><f><sg>$
+2127 	 ^potencial<adj><mf><sg>$ ^de<pr>$
+2128 	 ^potencial<adj><mf><sg>$ ^de<pr>$ ^empleo<n><m><sg>$
+2129 	 ^proveedor<n><m><sg>$ ^potencial<adj><mf><sg>$ ^de<pr>$
+2130 	 ^de<pr>$ ^empleo<n><m><sg>$ ^.<sent>$
+2131 	 ^proveedor<n><m><sg>$ ^potencial<adj><mf><sg>$ ^de<pr>$ ^empleo<n><m><sg>$ ^.<sent>$
+2132 	 ^empleo<n><m><sg>$ ^.<sent>$
+2133 	 ^potencial<adj><mf><sg>$ ^de<pr>$ ^empleo<n><m><sg>$ ^.<sent>$
+2134 	 ^estar<vblex><prs><p3><pl>$ ^considerar<vblex><ger>$
+2135 	 ^considerar<vblex><ger>$ ^rechazar<vblex><inf>$
+2136 	 ^estar<vblex><prs><p3><pl>$ ^considerar<vblex><ger>$ ^rechazar<vblex><inf>$
+2137 	 ^el que<rel><nn><m><pl>$ ^estar<vblex><prs><p3><pl>$ ^considerar<vblex><ger>$
+2138 	 ^considerar<vblex><ger>$ ^rechazar<vblex><inf>$ ^este<det><dem><f><pl>$
+2139 	 ^el que<rel><nn><m><pl>$ ^estar<vblex><prs><p3><pl>$ ^considerar<vblex><ger>$ ^rechazar<vblex><inf>$ ^este<det><dem><f><pl>$
+2140 	 ^subrayar<vblex><ifi><p3><sg>$ ^en<pr>$
+2141 	 ^subrayar<vblex><ifi><p3><sg>$ ^en<pr>$ ^suyo<det><pos><mf><sg>$
+2142 	 ^*Flautre<>$ ^subrayar<vblex><ifi><p3><sg>$ ^en<pr>$
+2143 	 ^en<pr>$ ^suyo<det><pos><mf><sg>$ ^informe<n><m><sg>$
+2144 	 ^*Flautre<>$ ^subrayar<vblex><ifi><p3><sg>$ ^en<pr>$ ^suyo<det><pos><mf><sg>$ ^informe<n><m><sg>$
+2145 	 ^pilar<n><f><pl>$ ^de<pr>$
+2146 	 ^pilar<n><f><pl>$ ^de<pr>$ ^el<det><def><f><sg>$
+2147 	 ^cuatro<num><mf><sp>$ ^pilar<n><f><pl>$ ^de<pr>$
+2148 	 ^de<pr>$ ^el<det><def><f><sg>$ ^estrategia<n><f><sg>$
+2149 	 ^cuatro<num><mf><sp>$ ^pilar<n><f><pl>$ ^de<pr>$ ^el<det><def><f><sg>$ ^estrategia<n><f><sg>$
+2150 	 ^el<det><def><m><sg>$ ^empleo<n><m><sg>$
+2151 	 ^el<det><def><m><sg>$ ^empleo<n><m><sg>$ ^y<cnjcoo>$
+2152 	 ^de<pr>$ ^el<det><def><m><sg>$ ^empleo<n><m><sg>$
+2153 	 ^empleo<n><m><sg>$ ^y<cnjcoo>$ ^a<pr>$
+2154 	 ^de<pr>$ ^el<det><def><m><sg>$ ^empleo<n><m><sg>$ ^y<cnjcoo>$ ^a<pr>$
+2155 	 ^cinco<num><mf><sp>$ ^campo<n><m><pl>$
+2156 	 ^campo<n><m><pl>$ ^de<pr>$
+2157 	 ^cinco<num><mf><sp>$ ^campo<n><m><pl>$ ^de<pr>$
+2158 	 ^el<det><def><m><pl>$ ^cinco<num><mf><sp>$ ^campo<n><m><pl>$
+2159 	 ^campo<n><m><pl>$ ^de<pr>$ ^acción<n><f><sg>$
+2160 	 ^el<det><def><m><pl>$ ^cinco<num><mf><sp>$ ^campo<n><m><pl>$ ^de<pr>$ ^acción<n><f><sg>$
+2161 	 ^de<pr>$ ^acción<n><f><sg>$
+2162 	 ^de<pr>$ ^acción<n><f><sg>$ ^de<pr>$
+2163 	 ^cinco<num><mf><sp>$ ^campo<n><m><pl>$ ^de<pr>$ ^acción<n><f><sg>$ ^de<pr>$
+2164 	 ^el<det><def><m><sg>$ ^fondo<n><m><sg>$
+2165 	 ^fondo<n><m><sg>$ ^social<adj><mf><sg>$
+2166 	 ^el<det><def><m><sg>$ ^fondo<n><m><sg>$ ^social<adj><mf><sg>$
+2167 	 ^de<pr>$ ^el<det><def><m><sg>$ ^fondo<n><m><sg>$
+2168 	 ^fondo<n><m><sg>$ ^social<adj><mf><sg>$ ^europeo<n><m><sg>$
+2169 	 ^de<pr>$ ^el<det><def><m><sg>$ ^fondo<n><m><sg>$ ^social<adj><mf><sg>$ ^europeo<n><m><sg>$
+2170 	 ^ausencia<n><f><sg>$ ^de<pr>$
+2171 	 ^de<pr>$ ^directriz<n><f><pl>$
+2172 	 ^ausencia<n><f><sg>$ ^de<pr>$ ^directriz<n><f><pl>$
+2173 	 ^el<det><def><f><sg>$ ^ausencia<n><f><sg>$ ^de<pr>$
+2174 	 ^de<pr>$ ^directriz<n><f><pl>$ ^específico<adj><f><pl>$
+2175 	 ^el<det><def><f><sg>$ ^ausencia<n><f><sg>$ ^de<pr>$ ^directriz<n><f><pl>$ ^específico<adj><f><pl>$
+2176 	 ^ayuda<n><f><sg>$ ^de<pr>$
+2177 	 ^ayuda<n><f><sg>$ ^de<pr>$ ^el<det><def><m><sg>$
+2178 	 ^el<det><def><f><sg>$ ^ayuda<n><f><sg>$ ^de<pr>$
+2179 	 ^el<det><def><f><sg>$ ^ayuda<n><f><sg>$ ^de<pr>$ ^el<det><def><m><sg>$ ^fondo<n><m><sg>$
+2180 	 ^fondo<n><m><sg>$ ^social<adj><mf><sg>$ ^a<pr>$
+2181 	 ^de<pr>$ ^el<det><def><m><sg>$ ^fondo<n><m><sg>$ ^social<adj><mf><sg>$ ^a<pr>$
+2182 	 ^empleo<n><m><sg>$ ^se<prn><pro><ref><p3><mf><sp>$
+2183 	 ^de<pr>$ ^empleo<n><m><sg>$ ^se<prn><pro><ref><p3><mf><sp>$
+2184 	 ^estrategia<n><f><sg>$ ^de<pr>$ ^empleo<n><m><sg>$
+2185 	 ^empleo<n><m><sg>$ ^se<prn><pro><ref><p3><mf><sp>$ ^llevar<vblex><fti><p3><sg>$
+2186 	 ^estrategia<n><f><sg>$ ^de<pr>$ ^empleo<n><m><sg>$ ^se<prn><pro><ref><p3><mf><sp>$ ^llevar<vblex><fti><p3><sg>$
+2187 	 ^por primera vez<adv>$ ^en<pr>$
+2188 	 ^por primera vez<adv>$ ^en<pr>$ ^el<det><def><m><sg>$
+2189 	 ^práctica<n><f><sg>$ ^por primera vez<adv>$ ^en<pr>$
+2190 	 ^en<pr>$ ^el<det><def><m><sg>$ ^programa<n><m><sg>$
+2191 	 ^práctica<n><f><sg>$ ^por primera vez<adv>$ ^en<pr>$ ^el<det><def><m><sg>$ ^programa<n><m><sg>$
+2192 	 ^coordinación<n><f><sg>$ ^entre<pr>$
+2193 	 ^entre<pr>$ ^el<det><def><f><sg>$
+2194 	 ^coordinación<n><f><sg>$ ^entre<pr>$ ^el<det><def><f><sg>$
+2195 	 ^máximo<adj><f><sg>$ ^coordinación<n><f><sg>$ ^entre<pr>$
+2196 	 ^entre<pr>$ ^el<det><def><f><sg>$ ^ayuda<n><f><sg>$
+2197 	 ^máximo<adj><f><sg>$ ^coordinación<n><f><sg>$ ^entre<pr>$ ^el<det><def><f><sg>$ ^ayuda<n><f><sg>$
+2198 	 ^empleo<n><m><sg>$ ^de<pr>$
+2199 	 ^de<pr>$ ^empleo<n><m><sg>$ ^de<pr>$
+2200 	 ^anual<adj><mf><pl>$ ^de<pr>$ ^empleo<n><m><sg>$
+2201 	 ^empleo<n><m><sg>$ ^de<pr>$ ^el<det><def><m><pl>$
+2202 	 ^anual<adj><mf><pl>$ ^de<pr>$ ^empleo<n><m><sg>$ ^de<pr>$ ^el<det><def><m><pl>$
+2203 	 ^poder<vbmod><prs><p3><sg>$ ^asegurar<vblex><inf>$
+2204 	 ^asegurar<vblex><inf>$ ^que<cnjsub>$
+2205 	 ^poder<vbmod><prs><p3><sg>$ ^asegurar<vblex><inf>$ ^que<cnjsub>$
+2206 	 ^prpers<prn><pro><p1><mf><pl>$ ^poder<vbmod><prs><p3><sg>$ ^asegurar<vblex><inf>$
+2207 	 ^asegurar<vblex><inf>$ ^que<cnjsub>$ ^se<prn><pro><ref><p3><mf><sp>$
+2208 	 ^prpers<prn><pro><p1><mf><pl>$ ^poder<vbmod><prs><p3><sg>$ ^asegurar<vblex><inf>$ ^que<cnjsub>$ ^se<prn><pro><ref><p3><mf><sp>$
+2209 	 ^presidente<n><m><sg>$ ^,<cm>$ ^señor<n><m><sg>$
+2210 	 ^.<sent>$ ^señor<n><m><sg>$ ^presidente<n><m><sg>$ ^,<cm>$ ^señor<n><m><sg>$
+2211 	 ^población<n><f><sg>$ ^en<pr>$
+2212 	 ^población<n><f><sg>$ ^en<pr>$ ^el<det><def><f><pl>$
+2213 	 ^el<det><def><f><sg>$ ^población<n><f><sg>$ ^en<pr>$
+2214 	 ^en<pr>$ ^el<det><def><f><pl>$ ^zona<n><f><pl>$
+2215 	 ^el<det><def><f><sg>$ ^población<n><f><sg>$ ^en<pr>$ ^el<det><def><f><pl>$ ^zona<n><f><pl>$
+2216 	 ^producir<vblex><ger>$ ^en<pr>$
+2217 	 ^en<pr>$ ^todo<predet><m><sg>$
+2218 	 ^producir<vblex><ger>$ ^en<pr>$ ^todo<predet><m><sg>$
+2219 	 ^estar<vblex><pri><p3><pl>$ ^producir<vblex><ger>$ ^en<pr>$
+2220 	 ^en<pr>$ ^todo<predet><m><sg>$ ^tipo<n><m><sg>$
+2221 	 ^estar<vblex><pri><p3><pl>$ ^producir<vblex><ger>$ ^en<pr>$ ^todo<predet><m><sg>$ ^tipo<n><m><sg>$
+2222 	 ^pérdida<n><f><sg>$ ^de<pr>$
+2223 	 ^de<pr>$ ^peso<n><m><sg>$
+2224 	 ^pérdida<n><f><sg>$ ^de<pr>$ ^peso<n><m><sg>$
+2225 	 ^creciente<adj><mf><sg>$ ^pérdida<n><f><sg>$ ^de<pr>$
+2226 	 ^de<pr>$ ^peso<n><m><sg>$ ^de<pr>$
+2227 	 ^creciente<adj><mf><sg>$ ^pérdida<n><f><sg>$ ^de<pr>$ ^peso<n><m><sg>$ ^de<pr>$
+2228 	 ^agrícola<adj><mf><sg>$ ^entre<pr>$
+2229 	 ^entre<pr>$ ^el<det><def><f><pl>$
+2230 	 ^agrícola<adj><mf><sg>$ ^entre<pr>$ ^el<det><def><f><pl>$
+2231 	 ^sector<n><m><sg>$ ^agrícola<adj><mf><sg>$ ^entre<pr>$
+2232 	 ^entre<pr>$ ^el<det><def><f><pl>$ ^diverso<adj><f><pl>$
+2233 	 ^sector<n><m><sg>$ ^agrícola<adj><mf><sg>$ ^entre<pr>$ ^el<det><def><f><pl>$ ^diverso<adj><f><pl>$
+2234 	 ^diverso<adj><f><pl>$ ^fuente<n><f><pl>$
+2235 	 ^fuente<n><f><pl>$ ^de<pr>$
+2236 	 ^diverso<adj><f><pl>$ ^fuente<n><f><pl>$ ^de<pr>$
+2237 	 ^el<det><def><f><pl>$ ^diverso<adj><f><pl>$ ^fuente<n><f><pl>$
+2238 	 ^fuente<n><f><pl>$ ^de<pr>$ ^renta<n><f><sg>$
+2239 	 ^el<det><def><f><pl>$ ^diverso<adj><f><pl>$ ^fuente<n><f><pl>$ ^de<pr>$ ^renta<n><f><sg>$
+2240 	 ^deficiencia<n><f><pl>$ ^en<pr>$
+2241 	 ^deficiencia<n><f><pl>$ ^en<pr>$ ^el<det><def><f><pl>$
+2242 	 ^el<det><def><f><pl>$ ^deficiencia<n><f><pl>$ ^en<pr>$
+2243 	 ^en<pr>$ ^el<det><def><f><pl>$ ^red<n><f><pl>$
+2244 	 ^el<det><def><f><pl>$ ^deficiencia<n><f><pl>$ ^en<pr>$ ^el<det><def><f><pl>$ ^red<n><f><pl>$
+2245 	 ^el<det><def><f><pl>$ ^red<n><f><pl>$
+2246 	 ^red<n><f><pl>$ ^de<pr>$
+2247 	 ^el<det><def><f><pl>$ ^red<n><f><pl>$ ^de<pr>$
+2248 	 ^red<n><f><pl>$ ^de<pr>$ ^infraestructura<n><f><pl>$
+2249 	 ^en<pr>$ ^el<det><def><f><pl>$ ^red<n><f><pl>$ ^de<pr>$ ^infraestructura<n><f><pl>$
+2250 	 ^de<pr>$ ^infraestructura<n><f><pl>$
+2251 	 ^de<pr>$ ^infraestructura<n><f><pl>$ ^y<cnjcoo>$
+2252 	 ^el<det><def><f><pl>$ ^red<n><f><pl>$ ^de<pr>$ ^infraestructura<n><f><pl>$ ^y<cnjcoo>$
+2253 	 ^empleo<n><m><sg>$ ^generalmente<adv>$
+2254 	 ^de<pr>$ ^empleo<n><m><sg>$ ^generalmente<adv>$
+2255 	 ^oferta<n><f><sg>$ ^de<pr>$ ^empleo<n><m><sg>$
+2256 	 ^empleo<n><m><sg>$ ^generalmente<adv>$ ^muy<preadv>$
+2257 	 ^oferta<n><f><sg>$ ^de<pr>$ ^empleo<n><m><sg>$ ^generalmente<adv>$ ^muy<preadv>$
+2258 	 ^,<cm>$ ^acentuar<vblex><pri><p3><pl>$
+2259 	 ^acentuar<vblex><pri><p3><pl>$ ^el<det><def><m><sg>$
+2260 	 ^,<cm>$ ^acentuar<vblex><pri><p3><pl>$ ^el<det><def><m><sg>$
+2261 	 ^diversificar<vblex><pp><f><sg>$ ^,<cm>$ ^acentuar<vblex><pri><p3><pl>$
+2262 	 ^acentuar<vblex><pri><p3><pl>$ ^el<det><def><m><sg>$ ^éxodo<n><m><sg>$
+2263 	 ^diversificar<vblex><pp><f><sg>$ ^,<cm>$ ^acentuar<vblex><pri><p3><pl>$ ^el<det><def><m><sg>$ ^éxodo<n><m><sg>$
+2264 	 ^el<det><def><f><pl>$ ^consecuencia<n><f><pl>$
+2265 	 ^consecuencia<n><f><pl>$ ^no<adv>$
+2266 	 ^el<det><def><f><pl>$ ^consecuencia<n><f><pl>$ ^no<adv>$
+2267 	 ^consecuencia<n><f><pl>$ ^no<adv>$ ^se<prn><pro><ref><p3><mf><sp>$
+2268 	 ^este<det><dem><f><sg>$ ^falta<n><f><sg>$
+2269 	 ^este<det><dem><f><sg>$ ^falta<n><f><sg>$ ^de<pr>$
+2270 	 ^falta<n><f><sg>$ ^de<pr>$ ^infraestructura<n><f><pl>$
+2271 	 ^de<pr>$ ^infraestructura<n><f><pl>$ ^ser<vbser><pri><p3><sg>$
+2272 	 ^este<det><dem><f><sg>$ ^falta<n><f><sg>$ ^de<pr>$ ^infraestructura<n><f><pl>$ ^ser<vbser><pri><p3><sg>$
+2273 	 ^creación<n><f><sg>$ ^de<pr>$
+2274 	 ^de<pr>$ ^empleo<n><m><pl>$
+2275 	 ^creación<n><f><sg>$ ^de<pr>$ ^empleo<n><m><pl>$
+2276 	 ^el<det><def><f><sg>$ ^creación<n><f><sg>$ ^de<pr>$
+2277 	 ^de<pr>$ ^empleo<n><m><pl>$ ^.<sent>$
+2278 	 ^el<det><def><f><sg>$ ^creación<n><f><sg>$ ^de<pr>$ ^empleo<n><m><pl>$ ^.<sent>$
+2279 	 ^empleo<n><m><pl>$ ^.<sent>$
+2280 	 ^creación<n><f><sg>$ ^de<pr>$ ^empleo<n><m><pl>$ ^.<sent>$
+2281 	 ^parte<n><f><pl>$ ^de<pr>$
+2282 	 ^parte<n><f><pl>$ ^de<pr>$ ^el<det><def><m><sg>$
+2283 	 ^quinto<det><ord><f><pl>$ ^parte<n><f><pl>$ ^de<pr>$
+2284 	 ^de<pr>$ ^el<det><def><m><sg>$ ^territorio<n><m><sg>$
+2285 	 ^quinto<det><ord><f><pl>$ ^parte<n><f><pl>$ ^de<pr>$ ^el<det><def><m><sg>$ ^territorio<n><m><sg>$
+2286 	 ^territorio<n><m><sg>$ ^de<pr>$
+2287 	 ^territorio<n><m><sg>$ ^de<pr>$ ^el<det><def><f><sg>$
+2288 	 ^el<det><def><m><sg>$ ^territorio<n><m><sg>$ ^de<pr>$
+2289 	 ^el<det><def><m><sg>$ ^territorio<n><m><sg>$ ^de<pr>$ ^el<det><def><f><sg>$ ^unión<n><f><sg>$
+2290 	 ^5,5%<num><percent>$ ^de<pr>$
+2291 	 ^5,5%<num><percent>$ ^de<pr>$ ^el<det><def><m><sg>$
+2292 	 ^uno<det><ind><m><sg>$ ^5,5%<num><percent>$ ^de<pr>$
+2293 	 ^uno<det><ind><m><sg>$ ^5,5%<num><percent>$ ^de<pr>$ ^el<det><def><m><sg>$ ^empleo<n><m><sg>$
+2294 	 ^el<det><def><m><sg>$ ^empleo<n><m><sg>$ ^de<pr>$
+2295 	 ^empleo<n><m><sg>$ ^de<pr>$ ^este<det><dem><f><sg>$
+2296 	 ^de<pr>$ ^el<det><def><m><sg>$ ^empleo<n><m><sg>$ ^de<pr>$ ^este<det><dem><f><sg>$
+2297 	 ^de<pr>$ ^este<det><dem><f><sg>$
+2298 	 ^de<pr>$ ^este<det><dem><f><sg>$ ^mismo<adj><f><sg>$
+2299 	 ^el<det><def><m><sg>$ ^empleo<n><m><sg>$ ^de<pr>$ ^este<det><dem><f><sg>$ ^mismo<adj><f><sg>$
+2300 	 ^parte<n><f><pl>$ ^de<pr>$ ^nuestro<det><pos><m><pl>$
+2301 	 ^cuarto<det><ord><f><pl>$ ^parte<n><f><pl>$ ^de<pr>$
+2302 	 ^de<pr>$ ^nuestro<det><pos><m><pl>$ ^agricultor<n><m><pl>$
+2303 	 ^cuarto<det><ord><f><pl>$ ^parte<n><f><pl>$ ^de<pr>$ ^nuestro<det><pos><m><pl>$ ^agricultor<n><m><pl>$
+2304 	 ^,<cm>$ ^uno<prn><tn><m><sg>$ ^de<pr>$
+2305 	 ^de<pr>$ ^el<det><def><m><pl>$ ^objetivo<n><m><pl>$
+2306 	 ^,<cm>$ ^uno<prn><tn><m><sg>$ ^de<pr>$ ^el<det><def><m><pl>$ ^objetivo<n><m><pl>$
+2307 	 ^prpers<prn><enc><p1><mf><pl>$ ^en<pr>$
+2308 	 ^prpers<prn><enc><p1><mf><pl>$ ^en<pr>$ ^el<det><def><f><sg>$
+2309 	 ^fijar<vblex><inf>$ ^prpers<prn><enc><p1><mf><pl>$ ^en<pr>$
+2310 	 ^fijar<vblex><inf>$ ^prpers<prn><enc><p1><mf><pl>$ ^en<pr>$ ^el<det><def><f><sg>$ ^unión<n><f><sg>$
+2311 	 ^desarrollar<vblex><inf>$ ^esfuerzo<n><m><pl>$
+2312 	 ^esfuerzo<n><m><pl>$ ^para<pr>$
+2313 	 ^desarrollar<vblex><inf>$ ^esfuerzo<n><m><pl>$ ^para<pr>$
+2314 	 ^ser<vbser><pri><p3><sg>$ ^desarrollar<vblex><inf>$ ^esfuerzo<n><m><pl>$
+2315 	 ^esfuerzo<n><m><pl>$ ^para<pr>$ ^crear<vblex><inf>$
+2316 	 ^ser<vbser><pri><p3><sg>$ ^desarrollar<vblex><inf>$ ^esfuerzo<n><m><pl>$ ^para<pr>$ ^crear<vblex><inf>$
+2317 	 ^en<pr>$ ^sector<n><m><pl>$
+2318 	 ^,<cm>$ ^en<pr>$ ^sector<n><m><pl>$
+2319 	 ^agrario<adj><m><sg>$ ^,<cm>$ ^en<pr>$
+2320 	 ^en<pr>$ ^sector<n><m><pl>$ ^como<pr>$
+2321 	 ^agrario<adj><m><sg>$ ^,<cm>$ ^en<pr>$ ^sector<n><m><pl>$ ^como<pr>$
+2322 	 ^transformación<n><f><sg>$ ^de<pr>$
+2323 	 ^transformación<n><f><sg>$ ^de<pr>$ ^empresa<n><f><pl>$
+2324 	 ^el<det><def><f><sg>$ ^transformación<n><f><sg>$ ^de<pr>$
+2325 	 ^el<det><def><f><sg>$ ^transformación<n><f><sg>$ ^de<pr>$ ^empresa<n><f><pl>$ ^,<cm>$
+2326 	 ^desintegración<n><f><sg>$ ^económico<adj><f><sg>$
+2327 	 ^económico<adj><f><sg>$ ^y<cnjcoo>$
+2328 	 ^desintegración<n><f><sg>$ ^económico<adj><f><sg>$ ^y<cnjcoo>$
+2329 	 ^el<det><def><f><sg>$ ^desintegración<n><f><sg>$ ^económico<adj><f><sg>$
+2330 	 ^económico<adj><f><sg>$ ^y<cnjcoo>$ ^social<adj><mf><sg>$
+2331 	 ^el<det><def><f><sg>$ ^desintegración<n><f><sg>$ ^económico<adj><f><sg>$ ^y<cnjcoo>$ ^social<adj><mf><sg>$
+2332 	 ^creación<n><f><sg>$ ^de<pr>$ ^otro<det><ind><f><pl>$
+2333 	 ^de<pr>$ ^otro<det><ind><f><pl>$ ^ciudad<n><f><pl>$
+2334 	 ^el<det><def><f><sg>$ ^creación<n><f><sg>$ ^de<pr>$ ^otro<det><ind><f><pl>$ ^ciudad<n><f><pl>$
+2335 	 ^territorio<n><m><sg>$ ^,<cm>$ ^en<pr>$
+2336 	 ^en<pr>$ ^el<det><def><f><sg>$ ^preservación<n><f><sg>$
+2337 	 ^territorio<n><m><sg>$ ^,<cm>$ ^en<pr>$ ^el<det><def><f><sg>$ ^preservación<n><f><sg>$
+2338 	 ^biodiversidad<n><f><sg>$ ^y<cnjcoo>$ ^en<pr>$
+2339 	 ^en<pr>$ ^el<det><def><f><sg>$ ^protección<n><f><sg>$
+2340 	 ^biodiversidad<n><f><sg>$ ^y<cnjcoo>$ ^en<pr>$ ^el<det><def><f><sg>$ ^protección<n><f><sg>$
+2341 	 ^política<n><f><sg>$ ^agrícola<adj><mf><sg>$
+2342 	 ^uno<det><ind><f><sg>$ ^política<n><f><sg>$ ^agrícola<adj><mf><sg>$
+2343 	 ^de<pr>$ ^uno<det><ind><f><sg>$ ^política<n><f><sg>$
+2344 	 ^política<n><f><sg>$ ^agrícola<adj><mf><sg>$ ^y<cnjcoo>$
+2345 	 ^de<pr>$ ^uno<det><ind><f><sg>$ ^política<n><f><sg>$ ^agrícola<adj><mf><sg>$ ^y<cnjcoo>$
+2346 	 ^rural<adj><mf><pl>$ ^,<cm>$ ^en<pr>$
+2347 	 ^en<pr>$ ^el<det><def><m><pl>$ ^albor<n><m><pl>$
+2348 	 ^rural<adj><mf><pl>$ ^,<cm>$ ^en<pr>$ ^el<det><def><m><pl>$ ^albor<n><m><pl>$
+2349 	 ^albor<n><m><pl>$ ^de<pr>$
+2350 	 ^albor<n><m><pl>$ ^de<pr>$ ^el<det><def><m><sg>$
+2351 	 ^el<det><def><m><pl>$ ^albor<n><m><pl>$ ^de<pr>$
+2352 	 ^de<pr>$ ^el<det><def><m><sg>$ ^siglo XXI<n><m><sg>$
+2353 	 ^el<det><def><m><pl>$ ^albor<n><m><pl>$ ^de<pr>$ ^el<det><def><m><sg>$ ^siglo XXI<n><m><sg>$
+2354 	 ^diversidad<n><f><sg>$ ^de<pr>$
+2355 	 ^de<pr>$ ^actividad<n><f><pl>$
+2356 	 ^diversidad<n><f><sg>$ ^de<pr>$ ^actividad<n><f><pl>$
+2357 	 ^el<det><def><f><sg>$ ^diversidad<n><f><sg>$ ^de<pr>$
+2358 	 ^de<pr>$ ^actividad<n><f><pl>$ ^no<adv>$
+2359 	 ^el<det><def><f><sg>$ ^diversidad<n><f><sg>$ ^de<pr>$ ^actividad<n><f><pl>$ ^no<adv>$
+2360 	 ^de<pr>$ ^agricultura<n><f><sg>$
+2361 	 ^comisión<n><f><sg>$ ^de<pr>$ ^agricultura<n><f><sg>$
+2362 	 ^de<pr>$ ^agricultura<n><f><sg>$ ^y<cnjcoo>$
+2363 	 ^el<det><def><f><sg>$ ^comisión<n><f><sg>$ ^de<pr>$ ^agricultura<n><f><sg>$ ^y<cnjcoo>$
+2364 	 ^llegar<vblex><pp><m><sg>$ ^en<pr>$
+2365 	 ^en<pr>$ ^cinco<num><mf><sp>$
+2366 	 ^llegar<vblex><pp><m><sg>$ ^en<pr>$ ^cinco<num><mf><sp>$
+2367 	 ^haber<vbhaver><pri><p3><sg>$ ^llegar<vblex><pp><m><sg>$ ^en<pr>$
+2368 	 ^en<pr>$ ^cinco<num><mf><sp>$ ^aspecto<n><m><pl>$
+2369 	 ^haber<vbhaver><pri><p3><sg>$ ^llegar<vblex><pp><m><sg>$ ^en<pr>$ ^cinco<num><mf><sp>$ ^aspecto<n><m><pl>$
+2370 	 ^en parte<adv>$ ^por<pr>$
+2371 	 ^en parte<adv>$ ^por<pr>$ ^el<det><def><f><sg>$
+2372 	 ^solamente<adv>$ ^en parte<adv>$ ^por<pr>$
+2373 	 ^solamente<adv>$ ^en parte<adv>$ ^por<pr>$ ^el<det><def><f><sg>$ ^comisión<n><f><sg>$
+2374 	 ^,<cm>$ ^política<n><f><sg>$
+2375 	 ^,<cm>$ ^política<n><f><sg>$ ^regional<adj><mf><sg>$
+2376 	 ^transporte<n><m><pl>$ ^,<cm>$ ^política<n><f><sg>$
+2377 	 ^transporte<n><m><pl>$ ^,<cm>$ ^política<n><f><sg>$ ^regional<adj><mf><sg>$ ^y<cnjcoo>$
+2378 	 ^turismo<n><m><sg>$ ^en<pr>$
+2379 	 ^turismo<n><m><sg>$ ^en<pr>$ ^suyo<det><pos><mf><pl>$
+2380 	 ^y<cnjcoo>$ ^turismo<n><m><sg>$ ^en<pr>$
+2381 	 ^en<pr>$ ^suyo<det><pos><mf><pl>$ ^punto<n><m><pl>$
+2382 	 ^y<cnjcoo>$ ^turismo<n><m><sg>$ ^en<pr>$ ^suyo<det><pos><mf><pl>$ ^punto<n><m><pl>$
+2383 	 ^conclusión<n><f><pl>$ ^de<pr>$
+2384 	 ^conclusión<n><f><pl>$ ^de<pr>$ ^el<det><def><m><pl>$
+2385 	 ^el<det><def><f><pl>$ ^conclusión<n><f><pl>$ ^de<pr>$
+2386 	 ^de<pr>$ ^el<det><def><m><pl>$ ^cuatro<num><mf><sp>$
+2387 	 ^el<det><def><f><pl>$ ^conclusión<n><f><pl>$ ^de<pr>$ ^el<det><def><m><pl>$ ^cuatro<num><mf><sp>$
+2388 	 ^población<n><f><sg>$ ^en<pr>$ ^el<det><def><m><sg>$
+2389 	 ^en<pr>$ ^el<det><def><m><sg>$ ^medio<adj><m><sg>$
+2390 	 ^el<det><def><f><sg>$ ^población<n><f><sg>$ ^en<pr>$ ^el<det><def><m><sg>$ ^medio<adj><m><sg>$
+2391 	 ^ser<vbser><inf>$ ^uno<prn><tn><m><sg>$ ^de<pr>$
+2392 	 ^ser<vbser><inf>$ ^uno<prn><tn><m><sg>$ ^de<pr>$ ^el<det><def><m><pl>$ ^objetivo<n><m><pl>$
+2393 	 ^trabajo<n><m><sg>$ ^que<rel><an><mf><sp>$
+2394 	 ^el<det><def><m><sg>$ ^trabajo<n><m><sg>$ ^que<rel><an><mf><sp>$
+2395 	 ^agradecer<vblex><ger>$ ^el<det><def><m><sg>$ ^trabajo<n><m><sg>$
+2396 	 ^trabajo<n><m><sg>$ ^que<rel><an><mf><sp>$ ^haber<vbhaver><pri><p3><sg>$
+2397 	 ^agradecer<vblex><ger>$ ^el<det><def><m><sg>$ ^trabajo<n><m><sg>$ ^que<rel><an><mf><sp>$ ^haber<vbhaver><pri><p3><sg>$
+2398 	 ^uno<det><ind><m><sg>$ ^trabajo<n><m><sg>$
+2399 	 ^trabajo<n><m><sg>$ ^muy<preadv>$
+2400 	 ^uno<det><ind><m><sg>$ ^trabajo<n><m><sg>$ ^muy<preadv>$
+2401 	 ^ser<vbser><pri><p3><sg>$ ^uno<det><ind><m><sg>$ ^trabajo<n><m><sg>$
+2402 	 ^trabajo<n><m><sg>$ ^muy<preadv>$ ^bien<preadv>$
+2403 	 ^ser<vbser><pri><p3><sg>$ ^uno<det><ind><m><sg>$ ^trabajo<n><m><sg>$ ^muy<preadv>$ ^bien<preadv>$
+2404 	 ^voluntad<n><f><sg>$ ^de<pr>$
+2405 	 ^de<pr>$ ^diálogo<n><m><sg>$
+2406 	 ^voluntad<n><f><sg>$ ^de<pr>$ ^diálogo<n><m><sg>$
+2407 	 ^suyo<det><pos><mf><sg>$ ^voluntad<n><f><sg>$ ^de<pr>$
+2408 	 ^de<pr>$ ^diálogo<n><m><sg>$ ^con<pr>$
+2409 	 ^suyo<det><pos><mf><sg>$ ^voluntad<n><f><sg>$ ^de<pr>$ ^diálogo<n><m><sg>$ ^con<pr>$
+2410 	 ^informe<n><m><sg>$ ^de<pr>$
+2411 	 ^informe<n><m><sg>$ ^de<pr>$ ^el<det><def><m><sg>$
+2412 	 ^el<det><def><m><sg>$ ^informe<n><m><sg>$ ^de<pr>$
+2413 	 ^de<pr>$ ^el<det><def><m><sg>$ ^que<rel><an><mf><sp>$
+2414 	 ^el<det><def><m><sg>$ ^informe<n><m><sg>$ ^de<pr>$ ^el<det><def><m><sg>$ ^que<rel><an><mf><sp>$
+2415 	 ^se<prn><pro><ref><p3><mf><sp>$ ^aprobar<vblex><prs><p3><pl>$
+2416 	 ^aprobar<vblex><prs><p3><pl>$ ^en<pr>$
+2417 	 ^se<prn><pro><ref><p3><mf><sp>$ ^aprobar<vblex><prs><p3><pl>$ ^en<pr>$
+2418 	 ^que<rel><an><mf><sp>$ ^se<prn><pro><ref><p3><mf><sp>$ ^aprobar<vblex><prs><p3><pl>$
+2419 	 ^aprobar<vblex><prs><p3><pl>$ ^en<pr>$ ^este<det><dem><m><sg>$
+2420 	 ^que<rel><an><mf><sp>$ ^se<prn><pro><ref><p3><mf><sp>$ ^aprobar<vblex><prs><p3><pl>$ ^en<pr>$ ^este<det><dem><m><sg>$
+2421 	 ^tener# en cuenta<vblex><pp><f><pl>$ ^por<pr>$
+2422 	 ^tener# en cuenta<vblex><pp><f><pl>$ ^por<pr>$ ^el<det><def><f><sg>$
+2423 	 ^ser<vbser><prs><p3><pl>$ ^tener# en cuenta<vblex><pp><f><pl>$ ^por<pr>$
+2424 	 ^ser<vbser><prs><p3><pl>$ ^tener# en cuenta<vblex><pp><f><pl>$ ^por<pr>$ ^el<det><def><f><sg>$ ^comisión<n><f><sg>$
+2425 	 ^mínimo<n><m><sg>$ ^en<pr>$
+2426 	 ^mínimo<n><m><sg>$ ^en<pr>$ ^suyo<det><pos><mf><sg>$
+2427 	 ^como<pr>$ ^mínimo<n><m><sg>$ ^en<pr>$
+2428 	 ^en<pr>$ ^suyo<det><pos><mf><sg>$ ^espíritu<n><m><sg>$
+2429 	 ^como<pr>$ ^mínimo<n><m><sg>$ ^en<pr>$ ^suyo<det><pos><mf><sg>$ ^espíritu<n><m><sg>$
+2430 	 ^en<pr>$ ^nuestro<det><pos><f><pl>$
+2431 	 ^en<pr>$ ^nuestro<det><pos><f><pl>$ ^enmienda<n><f><pl>$
+2432 	 ^sinergia<n><f><pl>$ ^entre<pr>$
+2433 	 ^sinergia<n><f><pl>$ ^entre<pr>$ ^el<det><def><m><pl>$
+2434 	 ^necesario<adj><f><pl>$ ^sinergia<n><f><pl>$ ^entre<pr>$
+2435 	 ^entre<pr>$ ^el<det><def><m><pl>$ ^fondo<n><m><pl>$
+2436 	 ^necesario<adj><f><pl>$ ^sinergia<n><f><pl>$ ^entre<pr>$ ^el<det><def><m><pl>$ ^fondo<n><m><pl>$
+2437 	 ^entre<pr>$ ^el<det><def><m><pl>$ ^fondo<n><m><pl>$ ^estructural<adj><mf><pl>$ ^,<cm>$
+2438 	 ^rentable<adj><mf><sg>$ ^,<cm>$ ^en<pr>$
+2439 	 ^en<pr>$ ^el<det><def><f><sg>$ ^progresivo<adj><f><sg>$
+2440 	 ^rentable<adj><mf><sg>$ ^,<cm>$ ^en<pr>$ ^el<det><def><f><sg>$ ^progresivo<adj><f><sg>$
+2441 	 ^desigualdad<n><f><pl>$ ^entre<pr>$
+2442 	 ^entre<pr>$ ^región<n><f><pl>$
+2443 	 ^desigualdad<n><f><pl>$ ^entre<pr>$ ^región<n><f><pl>$
+2444 	 ^de<pr>$ ^desigualdad<n><f><pl>$ ^entre<pr>$
+2445 	 ^entre<pr>$ ^región<n><f><pl>$ ^y<cnjcoo>$
+2446 	 ^de<pr>$ ^desigualdad<n><f><pl>$ ^entre<pr>$ ^región<n><f><pl>$ ^y<cnjcoo>$
+2447 	 ^de<pr>$ ^puesto<n><m><pl>$
+2448 	 ^creación<n><f><sg>$ ^de<pr>$ ^puesto<n><m><pl>$
+2449 	 ^de<pr>$ ^puesto<n><m><pl>$ ^de<pr>$
+2450 	 ^el<det><def><f><sg>$ ^creación<n><f><sg>$ ^de<pr>$ ^puesto<n><m><pl>$ ^de<pr>$
+2451 	 ^fondo<n><m><pl>$ ^de<pr>$
+2452 	 ^el<det><def><m><pl>$ ^fondo<n><m><pl>$ ^de<pr>$
+2453 	 ^fondo<n><m><pl>$ ^de<pr>$ ^el que<rel><nn><m><pl>$
+2454 	 ^de<pr>$ ^el<det><def><m><pl>$ ^fondo<n><m><pl>$ ^de<pr>$ ^el que<rel><nn><m><pl>$
+2455 	 ^empleo<n><m><sg>$ ^,<cm>$
+2456 	 ^de<pr>$ ^empleo<n><m><sg>$ ^,<cm>$
+2457 	 ^generador<n><m><pl>$ ^de<pr>$ ^empleo<n><m><sg>$
+2458 	 ^empleo<n><m><sg>$ ^,<cm>$ ^el<det><def><m><pl>$
+2459 	 ^generador<n><m><pl>$ ^de<pr>$ ^empleo<n><m><sg>$ ^,<cm>$ ^el<det><def><m><pl>$
+2460 	 ^nuevo<adj><f><pl>$ ^fuente<n><f><pl>$
+2461 	 ^nuevo<adj><f><pl>$ ^fuente<n><f><pl>$ ^de<pr>$
+2462 	 ^el<det><def><f><pl>$ ^nuevo<adj><f><pl>$ ^fuente<n><f><pl>$
+2463 	 ^fuente<n><f><pl>$ ^de<pr>$ ^empleo<n><m><sg>$
+2464 	 ^el<det><def><f><pl>$ ^nuevo<adj><f><pl>$ ^fuente<n><f><pl>$ ^de<pr>$ ^empleo<n><m><sg>$
+2465 	 ^participar<vblex><inf>$ ^en<pr>$
+2466 	 ^participar<vblex><inf>$ ^en<pr>$ ^el<det><def><f><sg>$
+2467 	 ^tener# que<vbmod><pri><p3><pl>$ ^participar<vblex><inf>$ ^en<pr>$
+2468 	 ^en<pr>$ ^el<det><def><f><sg>$ ^distribución<n><f><sg>$
+2469 	 ^tener# que<vbmod><pri><p3><pl>$ ^participar<vblex><inf>$ ^en<pr>$ ^el<det><def><f><sg>$ ^distribución<n><f><sg>$
+2470 	 ^distribución<n><f><sg>$ ^de<pr>$
+2471 	 ^de<pr>$ ^este<det><dem><m><pl>$
+2472 	 ^distribución<n><f><sg>$ ^de<pr>$ ^este<det><dem><m><pl>$
+2473 	 ^el<det><def><f><sg>$ ^distribución<n><f><sg>$ ^de<pr>$
+2474 	 ^de<pr>$ ^este<det><dem><m><pl>$ ^fondo<n><m><pl>$
+2475 	 ^el<det><def><f><sg>$ ^distribución<n><f><sg>$ ^de<pr>$ ^este<det><dem><m><pl>$ ^fondo<n><m><pl>$
+2476 	 ^este<det><dem><m><pl>$ ^fondo<n><m><pl>$
+2477 	 ^fondo<n><m><pl>$ ^.<sent>$
+2478 	 ^este<det><dem><m><pl>$ ^fondo<n><m><pl>$ ^.<sent>$
+2479 	 ^de<pr>$ ^este<det><dem><m><pl>$ ^fondo<n><m><pl>$ ^.<sent>$
+2480 	 ^poder<vbmod><pri><p3><pl>$ ^participar<vblex><inf>$
+2481 	 ^participar<vblex><inf>$ ^,<cm>$
+2482 	 ^poder<vbmod><pri><p3><pl>$ ^participar<vblex><inf>$ ^,<cm>$
+2483 	 ^no<adv>$ ^poder<vbmod><pri><p3><pl>$ ^participar<vblex><inf>$
+2484 	 ^participar<vblex><inf>$ ^,<cm>$ ^no<adv>$
+2485 	 ^no<adv>$ ^poder<vbmod><pri><p3><pl>$ ^participar<vblex><inf>$ ^,<cm>$ ^no<adv>$
+2486 	 ^solamente<adv>$ ^en<pr>$
+2487 	 ^solamente<adv>$ ^en<pr>$ ^el<det><def><f><sg>$
+2488 	 ^ya<adv>$ ^solamente<adv>$ ^en<pr>$
+2489 	 ^en<pr>$ ^el<det><def><f><sg>$ ^gestión<n><f><sg>$
+2490 	 ^ya<adv>$ ^solamente<adv>$ ^en<pr>$ ^el<det><def><f><sg>$ ^gestión<n><f><sg>$
+2491 	 ^sino<cnjcoo>$ ^en<pr>$
+2492 	 ^sino<cnjcoo>$ ^en<pr>$ ^el<det><def><f><sg>$
+2493 	 ^,<cm>$ ^sino<cnjcoo>$ ^en<pr>$
+2494 	 ^en<pr>$ ^el<det><def><f><sg>$ ^recepción<n><f><sg>$
+2495 	 ^,<cm>$ ^sino<cnjcoo>$ ^en<pr>$ ^el<det><def><f><sg>$ ^recepción<n><f><sg>$
+2496 	 ^este<det><dem><m><pl>$ ^fondo<n><m><pl>$ ^,<cm>$
+2497 	 ^fondo<n><m><pl>$ ^,<cm>$ ^haber<vbhaver><fti><p1><pl>$
+2498 	 ^de<pr>$ ^este<det><dem><m><pl>$ ^fondo<n><m><pl>$ ^,<cm>$ ^haber<vbhaver><fti><p1><pl>$
+2499 	 ^haber<vbhaver><fti><p1><pl>$ ^perder<vblex><pp><m><sg>$
+2500 	 ^perder<vblex><pp><m><sg>$ ^uno<det><ind><f><sg>$
+2501 	 ^haber<vbhaver><fti><p1><pl>$ ^perder<vblex><pp><m><sg>$ ^uno<det><ind><f><sg>$
+2502 	 ^,<cm>$ ^haber<vbhaver><fti><p1><pl>$ ^perder<vblex><pp><m><sg>$
+2503 	 ^perder<vblex><pp><m><sg>$ ^uno<det><ind><f><sg>$ ^oportunidad<n><f><sg>$
+2504 	 ^,<cm>$ ^haber<vbhaver><fti><p1><pl>$ ^perder<vblex><pp><m><sg>$ ^uno<det><ind><f><sg>$ ^oportunidad<n><f><sg>$
+2505 	 ^para<pr>$ ^conseguir<vblex><inf>$
+2506 	 ^conseguir<vblex><inf>$ ^superar<vblex><inf>$
+2507 	 ^para<pr>$ ^conseguir<vblex><inf>$ ^superar<vblex><inf>$
+2508 	 ^,<cm>$ ^para<pr>$ ^conseguir<vblex><inf>$
+2509 	 ^conseguir<vblex><inf>$ ^superar<vblex><inf>$ ^el<det><def><f><pl>$
+2510 	 ^,<cm>$ ^para<pr>$ ^conseguir<vblex><inf>$ ^superar<vblex><inf>$ ^el<det><def><f><pl>$
+2511 	 ^el<det><def><f><pl>$ ^desigualdad<n><f><pl>$ ^entre<pr>$
+2512 	 ^el<det><def><f><pl>$ ^desigualdad<n><f><pl>$ ^entre<pr>$ ^región<n><f><pl>$ ^y<cnjcoo>$
+2513 	 ^buscar<vblex><inf>$ ^fuente<n><f><pl>$
+2514 	 ^buscar<vblex><inf>$ ^fuente<n><f><pl>$ ^de<pr>$
+2515 	 ^y<cnjcoo>$ ^buscar<vblex><inf>$ ^fuente<n><f><pl>$
+2516 	 ^y<cnjcoo>$ ^buscar<vblex><inf>$ ^fuente<n><f><pl>$ ^de<pr>$ ^empleo<n><m><sg>$
+2517 	 ^de<pr>$ ^empleo<n><m><sg>$ ^ser<vbser><pri><p3><sg>$
+2518 	 ^buscar<vblex><inf>$ ^fuente<n><f><pl>$ ^de<pr>$ ^empleo<n><m><sg>$ ^ser<vbser><pri><p3><sg>$
+2519 	 ^empleo<n><m><sg>$ ^ser<vbser><pri><p3><sg>$
+2520 	 ^empleo<n><m><sg>$ ^ser<vbser><pri><p3><sg>$ ^importante<adj><mf><sg>$
+2521 	 ^fuente<n><f><pl>$ ^de<pr>$ ^empleo<n><m><sg>$ ^ser<vbser><pri><p3><sg>$ ^importante<adj><mf><sg>$
+2522 	 ^por<pr>$ ^el<det><def><f><pl>$ ^red<n><f><pl>$
+2523 	 ^red<n><f><pl>$ ^de<pr>$ ^transporte<n><m><pl>$
+2524 	 ^por<pr>$ ^el<det><def><f><pl>$ ^red<n><f><pl>$ ^de<pr>$ ^transporte<n><m><pl>$
+2525 	 ^participación<n><f><sg>$ ^de<pr>$
+2526 	 ^participación<n><f><sg>$ ^de<pr>$ ^el<det><def><f><sg>$
+2527 	 ^el<det><def><f><sg>$ ^participación<n><f><sg>$ ^de<pr>$
+2528 	 ^de<pr>$ ^el<det><def><f><sg>$ ^empresa<n><f><sg>$
+2529 	 ^el<det><def><f><sg>$ ^participación<n><f><sg>$ ^de<pr>$ ^el<det><def><f><sg>$ ^empresa<n><f><sg>$
+2530 	 ^suyo<det><pos><mf><pl>$ ^esfuerzo<n><m><pl>$
+2531 	 ^esfuerzo<n><m><pl>$ ^a<pr>$
+2532 	 ^suyo<det><pos><mf><pl>$ ^esfuerzo<n><m><pl>$ ^a<pr>$
+2533 	 ^unir<vblex><ger>$ ^suyo<det><pos><mf><pl>$ ^esfuerzo<n><m><pl>$
+2534 	 ^esfuerzo<n><m><pl>$ ^a<pr>$ ^el<det><def><m><sg>$
+2535 	 ^unir<vblex><ger>$ ^suyo<det><pos><mf><pl>$ ^esfuerzo<n><m><pl>$ ^a<pr>$ ^el<det><def><m><sg>$
+2536 	 ^presidente<n><m><sg>$ ^,<cm>$ ^ser<vbser><pri><p3><sg>$
+2537 	 ^colega<n><mf><sg>$ ^el<det><def><m><sg>$
+2538 	 ^mío<det><pos><mf><sg>$ ^colega<n><mf><sg>$ ^el<det><def><m><sg>$
+2539 	 ^a<pr>$ ^mío<det><pos><mf><sg>$ ^colega<n><mf><sg>$
+2540 	 ^colega<n><mf><sg>$ ^el<det><def><m><sg>$ ^Sr.<n><m><sg>$
+2541 	 ^a<pr>$ ^mío<det><pos><mf><sg>$ ^colega<n><mf><sg>$ ^el<det><def><m><sg>$ ^Sr.<n><m><sg>$
+2542 	 ^político<adj><f><pl>$ ^de<pr>$
+2543 	 ^político<adj><f><pl>$ ^de<pr>$ ^suyo<det><pos><mf><sg>$
+2544 	 ^desacreditar<vblex><pp><f><pl>$ ^político<adj><f><pl>$ ^de<pr>$
+2545 	 ^de<pr>$ ^suyo<det><pos><mf><sg>$ ^propio<adj><m><sg>$
+2546 	 ^desacreditar<vblex><pp><f><pl>$ ^político<adj><f><pl>$ ^de<pr>$ ^suyo<det><pos><mf><sg>$ ^propio<adj><m><sg>$
+2547 	 ^propio<adj><m><sg>$ ^partido<n><m><sg>$
+2548 	 ^partido<n><m><sg>$ ^conservador<adj><m><sg>$
+2549 	 ^propio<adj><m><sg>$ ^partido<n><m><sg>$ ^conservador<adj><m><sg>$
+2550 	 ^suyo<det><pos><mf><sg>$ ^propio<adj><m><sg>$ ^partido<n><m><sg>$
+2551 	 ^partido<n><m><sg>$ ^conservador<adj><m><sg>$ ^.<sent>$
+2552 	 ^suyo<det><pos><mf><sg>$ ^propio<adj><m><sg>$ ^partido<n><m><sg>$ ^conservador<adj><m><sg>$ ^.<sent>$
+2553 	 ^prpers<prn><enc><p1><mf><sg>$ ^recordar<vblex><inf>$
+2554 	 ^recordar<vblex><inf>$ ^prpers<prn><enc><p3><mf><sg>$
+2555 	 ^prpers<prn><enc><p1><mf><sg>$ ^recordar<vblex><inf>$ ^prpers<prn><enc><p3><mf><sg>$
+2556 	 ^dejar<vblex><imp><p3><pl>$ ^prpers<prn><enc><p1><mf><sg>$ ^recordar<vblex><inf>$
+2557 	 ^recordar<vblex><inf>$ ^prpers<prn><enc><p3><mf><sg>$ ^también<adv>$
+2558 	 ^dejar<vblex><imp><p3><pl>$ ^prpers<prn><enc><p1><mf><sg>$ ^recordar<vblex><inf>$ ^prpers<prn><enc><p3><mf><sg>$ ^también<adv>$
+2559 	 ^suyo<det><pos><mf><sg>$ ^partido<n><m><sg>$
+2560 	 ^partido<n><m><sg>$ ^,<cm>$
+2561 	 ^suyo<det><pos><mf><sg>$ ^partido<n><m><sg>$ ^,<cm>$
+2562 	 ^de<pr>$ ^suyo<det><pos><mf><sg>$ ^partido<n><m><sg>$
+2563 	 ^partido<n><m><sg>$ ^,<cm>$ ^el<det><def><m><sg>$
+2564 	 ^de<pr>$ ^suyo<det><pos><mf><sg>$ ^partido<n><m><sg>$ ^,<cm>$ ^el<det><def><m><sg>$
+2565 	 ^severo<adj><f><sg>$ ^carta<n><f><sg>$
+2566 	 ^carta<n><f><sg>$ ^de<pr>$
+2567 	 ^severo<adj><f><sg>$ ^carta<n><f><sg>$ ^de<pr>$
+2568 	 ^uno<det><ind><f><sg>$ ^severo<adj><f><sg>$ ^carta<n><f><sg>$
+2569 	 ^carta<n><f><sg>$ ^de<pr>$ ^el<det><def><m><sg>$
+2570 	 ^uno<det><ind><f><sg>$ ^severo<adj><f><sg>$ ^carta<n><f><sg>$ ^de<pr>$ ^el<det><def><m><sg>$
+2571 	 ^para<pr>$ ^apoyar<vblex><inf>$
+2572 	 ^apoyar<vblex><inf>$ ^y<cnjcoo>$
+2573 	 ^para<pr>$ ^apoyar<vblex><inf>$ ^y<cnjcoo>$
+2574 	 ^herramienta<n><f><sg>$ ^para<pr>$ ^apoyar<vblex><inf>$
+2575 	 ^apoyar<vblex><inf>$ ^y<cnjcoo>$ ^mejorar<vblex><inf>$
+2576 	 ^herramienta<n><f><sg>$ ^para<pr>$ ^apoyar<vblex><inf>$ ^y<cnjcoo>$ ^mejorar<vblex><inf>$
+2577 	 ^regeneración<n><f><sg>$ ^económico<adj><f><sg>$
+2578 	 ^económico<adj><f><sg>$ ^,<cm>$
+2579 	 ^regeneración<n><f><sg>$ ^económico<adj><f><sg>$ ^,<cm>$
+2580 	 ^el<det><def><f><sg>$ ^regeneración<n><f><sg>$ ^económico<adj><f><sg>$
+2581 	 ^económico<adj><f><sg>$ ^,<cm>$ ^para<pr>$
+2582 	 ^el<det><def><f><sg>$ ^regeneración<n><f><sg>$ ^económico<adj><f><sg>$ ^,<cm>$ ^para<pr>$
+2583 	 ^potencial<n><m><sg>$ ^de<pr>$
+2584 	 ^de<pr>$ ^nuestro<det><pos><f><pl>$
+2585 	 ^potencial<n><m><sg>$ ^de<pr>$ ^nuestro<det><pos><f><pl>$
+2586 	 ^el<det><def><m><sg>$ ^potencial<n><m><sg>$ ^de<pr>$
+2587 	 ^de<pr>$ ^nuestro<det><pos><f><pl>$ ^región<n><f><pl>$
+2588 	 ^el<det><def><m><sg>$ ^potencial<n><m><sg>$ ^de<pr>$ ^nuestro<det><pos><f><pl>$ ^región<n><f><pl>$
+2589 	 ^región<n><f><pl>$ ^en<pr>$
+2590 	 ^región<n><f><pl>$ ^en<pr>$ ^el<det><def><m><sg>$
+2591 	 ^nuestro<det><pos><f><pl>$ ^región<n><f><pl>$ ^en<pr>$
+2592 	 ^en<pr>$ ^el<det><def><m><sg>$ ^sector<n><m><sg>$
+2593 	 ^nuestro<det><pos><f><pl>$ ^región<n><f><pl>$ ^en<pr>$ ^el<det><def><m><sg>$ ^sector<n><m><sg>$
+2594 	 ^informe<n><m><pl>$ ^en<pr>$
+2595 	 ^informe<n><m><pl>$ ^en<pr>$ ^el<det><def><m><pl>$
+2596 	 ^el<det><def><m><pl>$ ^informe<n><m><pl>$ ^en<pr>$
+2597 	 ^en<pr>$ ^el<det><def><m><pl>$ ^medio<n><m><pl>$
+2598 	 ^el<det><def><m><pl>$ ^informe<n><m><pl>$ ^en<pr>$ ^el<det><def><m><pl>$ ^medio<n><m><pl>$
+2599 	 ^estar<vblex><pri><p3><sg>$ ^perder<vblex><ger>$
+2600 	 ^perder<vblex><ger>$ ^rápidamente<adv>$
+2601 	 ^estar<vblex><pri><p3><sg>$ ^perder<vblex><ger>$ ^rápidamente<adv>$
+2602 	 ^Europa<np><loc><f><sg>$ ^estar<vblex><pri><p3><sg>$ ^perder<vblex><ger>$
+2603 	 ^perder<vblex><ger>$ ^rápidamente<adv>$ ^terreno<n><m><sg>$
+2604 	 ^Europa<np><loc><f><sg>$ ^estar<vblex><pri><p3><sg>$ ^perder<vblex><ger>$ ^rápidamente<adv>$ ^terreno<n><m><sg>$
+2605 	 ^funcionamiento<n><m><sg>$ ^de<pr>$
+2606 	 ^funcionamiento<n><m><sg>$ ^de<pr>$ ^el<det><def><f><sg>$
+2607 	 ^el<det><def><m><sg>$ ^funcionamiento<n><m><sg>$ ^de<pr>$
+2608 	 ^de<pr>$ ^el<det><def><f><sg>$ ^ronda<n><f><sg>$
+2609 	 ^el<det><def><m><sg>$ ^funcionamiento<n><m><sg>$ ^de<pr>$ ^el<det><def><f><sg>$ ^ronda<n><f><sg>$
+2610 	 ^ronda<n><f><sg>$ ^anterior<adj><mf><sg>$
+2611 	 ^anterior<adj><mf><sg>$ ^de<pr>$
+2612 	 ^ronda<n><f><sg>$ ^anterior<adj><mf><sg>$ ^de<pr>$
+2613 	 ^el<det><def><f><sg>$ ^ronda<n><f><sg>$ ^anterior<adj><mf><sg>$
+2614 	 ^anterior<adj><mf><sg>$ ^de<pr>$ ^programa<n><m><pl>$
+2615 	 ^el<det><def><f><sg>$ ^ronda<n><f><sg>$ ^anterior<adj><mf><sg>$ ^de<pr>$ ^programa<n><m><pl>$
+2616 	 ^de<pr>$ ^programa<n><m><pl>$
+2617 	 ^de<pr>$ ^programa<n><m><pl>$ ^ser<vbser><pri><p3><sg>$
+2618 	 ^ronda<n><f><sg>$ ^anterior<adj><mf><sg>$ ^de<pr>$ ^programa<n><m><pl>$ ^ser<vbser><pri><p3><sg>$
+2619 	 ^capa<n><f><pl>$ ^de<pr>$
+2620 	 ^de<pr>$ ^burocracia<n><f><sg>$
+2621 	 ^capa<n><f><pl>$ ^de<pr>$ ^burocracia<n><f><sg>$
+2622 	 ^crear<vblex><inf>$ ^capa<n><f><pl>$ ^de<pr>$
+2623 	 ^de<pr>$ ^burocracia<n><f><sg>$ ^y<cnjcoo>$
+2624 	 ^crear<vblex><inf>$ ^capa<n><f><pl>$ ^de<pr>$ ^burocracia<n><f><sg>$ ^y<cnjcoo>$
+2625 	 ^luz<n><f><sg>$ ^de<pr>$ ^el<det><def><m><pl>$
+2626 	 ^de<pr>$ ^el<det><def><m><pl>$ ^nuevo<adj><m><pl>$
+2627 	 ^el<det><def><f><sg>$ ^luz<n><f><sg>$ ^de<pr>$ ^el<det><def><m><pl>$ ^nuevo<adj><m><pl>$
+2628 	 ^funcionamiento<n><m><sg>$ ^de<pr>$ ^el<det><def><f><pl>$
+2629 	 ^y<cnjcoo>$ ^funcionamiento<n><m><sg>$ ^de<pr>$
+2630 	 ^de<pr>$ ^el<det><def><f><pl>$ ^directriz<n><f><pl>$
+2631 	 ^y<cnjcoo>$ ^funcionamiento<n><m><sg>$ ^de<pr>$ ^el<det><def><f><pl>$ ^directriz<n><f><pl>$
+2632 	 ^poder<vbmod><pri><p3><sg>$ ^dejar<vblex><inf>$
+2633 	 ^dejar<vblex><inf>$ ^se<prn><enc><ref><p3><mf><sp>$
+2634 	 ^poder<vbmod><pri><p3><sg>$ ^dejar<vblex><inf>$ ^se<prn><enc><ref><p3><mf><sp>$
+2635 	 ^no<adv>$ ^poder<vbmod><pri><p3><sg>$ ^dejar<vblex><inf>$
+2636 	 ^dejar<vblex><inf>$ ^se<prn><enc><ref><p3><mf><sp>$ ^a<pr>$
+2637 	 ^no<adv>$ ^poder<vbmod><pri><p3><sg>$ ^dejar<vblex><inf>$ ^se<prn><enc><ref><p3><mf><sp>$ ^a<pr>$
+2638 	 ^el<det><def><f><sg>$ ^interpretación<n><f><sg>$
+2639 	 ^interpretación<n><f><sg>$ ^personal<adj><mf><sg>$
+2640 	 ^el<det><def><f><sg>$ ^interpretación<n><f><sg>$ ^personal<adj><mf><sg>$
+2641 	 ^a<pr>$ ^el<det><def><f><sg>$ ^interpretación<n><f><sg>$
+2642 	 ^interpretación<n><f><sg>$ ^personal<adj><mf><sg>$ ^de<pr>$
+2643 	 ^a<pr>$ ^el<det><def><f><sg>$ ^interpretación<n><f><sg>$ ^personal<adj><mf><sg>$ ^de<pr>$
+2644 	 ^personal<adj><mf><sg>$ ^de<pr>$
+2645 	 ^de<pr>$ ^uno<prn><tn><m><sg>$
+2646 	 ^personal<adj><mf><sg>$ ^de<pr>$ ^uno<prn><tn><m><sg>$
+2647 	 ^de<pr>$ ^uno<prn><tn><m><sg>$ ^o<cnjcoo>$
+2648 	 ^interpretación<n><f><sg>$ ^personal<adj><mf><sg>$ ^de<pr>$ ^uno<prn><tn><m><sg>$ ^o<cnjcoo>$
+2649 	 ^el<det><def><f><sg>$ ^dirección<n><f><sg>$
+2650 	 ^dirección<n><f><sg>$ ^de<pr>$
+2651 	 ^el<det><def><f><sg>$ ^dirección<n><f><sg>$ ^de<pr>$
+2652 	 ^en<pr>$ ^el<det><def><f><sg>$ ^dirección<n><f><sg>$
+2653 	 ^dirección<n><f><sg>$ ^de<pr>$ ^el<det><def><f><sg>$
+2654 	 ^en<pr>$ ^el<det><def><f><sg>$ ^dirección<n><f><sg>$ ^de<pr>$ ^el<det><def><f><sg>$
+2655 	 ^programa<n><m><pl>$ ^de<pr>$
+2656 	 ^programa<n><m><pl>$ ^de<pr>$ ^el<det><def><f><sg>$
+2657 	 ^el<det><def><m><pl>$ ^programa<n><m><pl>$ ^de<pr>$
+2658 	 ^el<det><def><m><pl>$ ^programa<n><m><pl>$ ^de<pr>$ ^el<det><def><f><sg>$ ^comisión<n><f><sg>$
+2659 	 ^nuevo<adj><m><pl>$ ^campo<n><m><pl>$
+2660 	 ^nuevo<adj><m><pl>$ ^campo<n><m><pl>$ ^de<pr>$
+2661 	 ^nuestro<det><pos><m><pl>$ ^nuevo<adj><m><pl>$ ^campo<n><m><pl>$
+2662 	 ^campo<n><m><pl>$ ^de<pr>$ ^regeneración<n><f><sg>$
+2663 	 ^nuestro<det><pos><m><pl>$ ^nuevo<adj><m><pl>$ ^campo<n><m><pl>$ ^de<pr>$ ^regeneración<n><f><sg>$
+2664 	 ^de<pr>$ ^regeneración<n><f><sg>$
+2665 	 ^de<pr>$ ^regeneración<n><f><sg>$ ^.<sent>$
+2666 	 ^nuevo<adj><m><pl>$ ^campo<n><m><pl>$ ^de<pr>$ ^regeneración<n><f><sg>$ ^.<sent>$
+2667 	 ^espíritu<n><m><sg>$ ^de<pr>$
+2668 	 ^de<pr>$ ^actividad<n><f><sg>$
+2669 	 ^espíritu<n><m><sg>$ ^de<pr>$ ^actividad<n><f><sg>$
+2670 	 ^uno<det><ind><m><sg>$ ^espíritu<n><m><sg>$ ^de<pr>$
+2671 	 ^de<pr>$ ^actividad<n><f><sg>$ ^empresarial<adj><mf><sg>$
+2672 	 ^uno<det><ind><m><sg>$ ^espíritu<n><m><sg>$ ^de<pr>$ ^actividad<n><f><sg>$ ^empresarial<adj><mf><sg>$
+2673 	 ^el<det><def><f><sg>$ ^confianza<n><f><sg>$
+2674 	 ^confianza<n><f><sg>$ ^de<pr>$
+2675 	 ^el<det><def><f><sg>$ ^confianza<n><f><sg>$ ^de<pr>$
+2676 	 ^atraer<vblex><inf>$ ^el<det><def><f><sg>$ ^confianza<n><f><sg>$
+2677 	 ^confianza<n><f><sg>$ ^de<pr>$ ^el<det><def><m><pl>$
+2678 	 ^atraer<vblex><inf>$ ^el<det><def><f><sg>$ ^confianza<n><f><sg>$ ^de<pr>$ ^el<det><def><m><pl>$
+2679 	 ^éxito<n><m><sg>$ ^de<pr>$
+2680 	 ^de<pr>$ ^ese<det><dem><f><pl>$
+2681 	 ^éxito<n><m><sg>$ ^de<pr>$ ^ese<det><dem><f><pl>$
+2682 	 ^el<det><def><m><sg>$ ^éxito<n><m><sg>$ ^de<pr>$
+2683 	 ^de<pr>$ ^ese<det><dem><f><pl>$ ^directriz<n><f><pl>$
+2684 	 ^el<det><def><m><sg>$ ^éxito<n><m><sg>$ ^de<pr>$ ^ese<det><dem><f><pl>$ ^directriz<n><f><pl>$
+2685 	 ^papel<n><m><sg>$ ^en<pr>$
+2686 	 ^papel<n><m><sg>$ ^en<pr>$ ^el<det><def><m><sg>$
+2687 	 ^suyo<det><pos><mf><sg>$ ^papel<n><m><sg>$ ^en<pr>$
+2688 	 ^en<pr>$ ^el<det><def><m><sg>$ ^crecimiento<n><m><sg>$
+2689 	 ^suyo<det><pos><mf><sg>$ ^papel<n><m><sg>$ ^en<pr>$ ^el<det><def><m><sg>$ ^crecimiento<n><m><sg>$
+2690 	 ^prosperidad<n><f><sg>$ ^de<pr>$
+2691 	 ^prosperidad<n><f><sg>$ ^de<pr>$ ^el<det><def><f><sg>$
+2692 	 ^el<det><def><f><sg>$ ^prosperidad<n><f><sg>$ ^de<pr>$
+2693 	 ^de<pr>$ ^el<det><def><f><sg>$ ^UE<n><acr><f><sg>$
+2694 	 ^el<det><def><f><sg>$ ^prosperidad<n><f><sg>$ ^de<pr>$ ^el<det><def><f><sg>$ ^UE<n><acr><f><sg>$
+2695 	 ^Sra.<n><f><sg>$ ^*Schroedter<>$ ^por<pr>$
+2696 	 ^por<pr>$ ^suyo<det><pos><mf><sg>$ ^buen<adj><m><sg>$
+2697 	 ^Sra.<n><f><sg>$ ^*Schroedter<>$ ^por<pr>$ ^suyo<det><pos><mf><sg>$ ^buen<adj><m><sg>$
+2698 	 ^bien<adv>$ ^en<pr>$
+2699 	 ^bien<adv>$ ^en<pr>$ ^cuenta<n><f><sg>$
+2700 	 ^muy<preadv>$ ^bien<adv>$ ^en<pr>$
+2701 	 ^en<pr>$ ^cuenta<n><f><sg>$ ^,<cm>$
+2702 	 ^muy<preadv>$ ^bien<adv>$ ^en<pr>$ ^cuenta<n><f><sg>$ ^,<cm>$
+2703 	 ^trabajo<n><m><sg>$ ^de<pr>$
+2704 	 ^trabajo<n><m><sg>$ ^de<pr>$ ^el<det><def><f><sg>$
+2705 	 ^el<det><def><m><sg>$ ^trabajo<n><m><sg>$ ^de<pr>$
+2706 	 ^el<det><def><m><sg>$ ^trabajo<n><m><sg>$ ^de<pr>$ ^el<det><def><f><sg>$ ^comisión<n><f><sg>$
+2707 	 ^tiempo<n><m><sg>$ ^en cuanto a<pr>$
+2708 	 ^a<pr>$ ^tiempo<n><m><sg>$ ^en cuanto a<pr>$
+2709 	 ^escuchar<vblex><pp><m><sg>$ ^a<pr>$ ^tiempo<n><m><sg>$
+2710 	 ^tiempo<n><m><sg>$ ^en cuanto a<pr>$ ^el<det><def><f><pl>$
+2711 	 ^escuchar<vblex><pp><m><sg>$ ^a<pr>$ ^tiempo<n><m><sg>$ ^en cuanto a<pr>$ ^el<det><def><f><pl>$
+2712 	 ^retrasar<vblex><pp><m><pl>$ ^en<pr>$
+2713 	 ^retrasar<vblex><pp><m><pl>$ ^en<pr>$ ^este<det><dem><f><sg>$
+2714 	 ^seriamente<adv>$ ^retrasar<vblex><pp><m><pl>$ ^en<pr>$
+2715 	 ^en<pr>$ ^este<det><dem><f><sg>$ ^cuestión<n><f><sg>$
+2716 	 ^seriamente<adv>$ ^retrasar<vblex><pp><m><pl>$ ^en<pr>$ ^este<det><dem><f><sg>$ ^cuestión<n><f><sg>$
+2717 	 ^periodo<n><m><sg>$ ^y<cnjcoo>$ ^en<pr>$
+2718 	 ^en<pr>$ ^el<det><def><f><sg>$ ^ejecución<n><f><sg>$
+2719 	 ^periodo<n><m><sg>$ ^y<cnjcoo>$ ^en<pr>$ ^el<det><def><f><sg>$ ^ejecución<n><f><sg>$
+2720 	 ^presente<adj><mf><pl>$ ^en<pr>$
+2721 	 ^en<pr>$ ^informe<n><m><pl>$
+2722 	 ^presente<adj><mf><pl>$ ^en<pr>$ ^informe<n><m><pl>$
+2723 	 ^ya<adv>$ ^presente<adj><mf><pl>$ ^en<pr>$
+2724 	 ^en<pr>$ ^informe<n><m><pl>$ ^anterior<adj><mf><pl>$
+2725 	 ^ya<adv>$ ^presente<adj><mf><pl>$ ^en<pr>$ ^informe<n><m><pl>$ ^anterior<adj><mf><pl>$
+2726 	 ^el<det><def><f><sg>$ ^política<n><f><sg>$ ^regional<adj><mf><sg>$
+2727 	 ^encauzar<vblex><inf>$ ^el<det><def><f><sg>$ ^política<n><f><sg>$
+2728 	 ^política<n><f><sg>$ ^regional<adj><mf><sg>$ ^de<pr>$
+2729 	 ^encauzar<vblex><inf>$ ^el<det><def><f><sg>$ ^política<n><f><sg>$ ^regional<adj><mf><sg>$ ^de<pr>$
+2730 	 ^destacar<vblex><pri><p3><sg>$ ^el<det><def><m><sg>$ ^principio<n><m><sg>$
+2731 	 ^principio<n><m><sg>$ ^de<pr>$ ^subsidiariedad<n><f><sg>$
+2732 	 ^destacar<vblex><pri><p3><sg>$ ^el<det><def><m><sg>$ ^principio<n><m><sg>$ ^de<pr>$ ^subsidiariedad<n><f><sg>$
+2733 	 ^responsabilidad<n><f><sg>$ ^de<pr>$
+2734 	 ^responsabilidad<n><f><sg>$ ^de<pr>$ ^el<det><def><m><pl>$
+2735 	 ^el<det><def><f><sg>$ ^responsabilidad<n><f><sg>$ ^de<pr>$
+2736 	 ^el<det><def><f><sg>$ ^responsabilidad<n><f><sg>$ ^de<pr>$ ^el<det><def><m><pl>$ ^estado<n><m><pl>$
+2737 	 ^importancia<n><f><sg>$ ^de<pr>$
+2738 	 ^importancia<n><f><sg>$ ^de<pr>$ ^el<det><def><m><pl>$
+2739 	 ^el<det><def><f><sg>$ ^importancia<n><f><sg>$ ^de<pr>$
+2740 	 ^de<pr>$ ^el<det><def><m><pl>$ ^agente<n><mf><pl>$
+2741 	 ^el<det><def><f><sg>$ ^importancia<n><f><sg>$ ^de<pr>$ ^el<det><def><m><pl>$ ^agente<n><mf><pl>$
+2742 	 ^local<adj><mf><pl>$ ^en<pr>$
+2743 	 ^local<adj><mf><pl>$ ^en<pr>$ ^el<det><def><f><sg>$
+2744 	 ^agente<n><mf><pl>$ ^local<adj><mf><pl>$ ^en<pr>$
+2745 	 ^en<pr>$ ^el<det><def><f><sg>$ ^elaboración<n><f><sg>$
+2746 	 ^agente<n><mf><pl>$ ^local<adj><mf><pl>$ ^en<pr>$ ^el<det><def><f><sg>$ ^elaboración<n><f><sg>$
+2747 	 ^pequeña y mediana empresa<n><f><pl>$ ^participar<vblex><prs><p3><pl>$
+2748 	 ^participar<vblex><prs><p3><pl>$ ^en<pr>$
+2749 	 ^pequeña y mediana empresa<n><f><pl>$ ^participar<vblex><prs><p3><pl>$ ^en<pr>$
+2750 	 ^el<det><def><f><pl>$ ^pequeña y mediana empresa<n><f><pl>$ ^participar<vblex><prs><p3><pl>$
+2751 	 ^participar<vblex><prs><p3><pl>$ ^en<pr>$ ^el<det><def><f><sg>$
+2752 	 ^el<det><def><f><pl>$ ^pequeña y mediana empresa<n><f><pl>$ ^participar<vblex><prs><p3><pl>$ ^en<pr>$ ^el<det><def><f><sg>$
+2753 	 ^pequeña y mediana empresa<n><f><pl>$ ^participar<vblex><prs><p3><pl>$ ^en<pr>$ ^el<det><def><f><sg>$ ^planificación<n><f><sg>$
+2754 	 ^realización<n><f><sg>$ ^de<pr>$
+2755 	 ^realización<n><f><sg>$ ^de<pr>$ ^el<det><def><m><pl>$
+2756 	 ^el<det><def><f><sg>$ ^realización<n><f><sg>$ ^de<pr>$
+2757 	 ^el<det><def><f><sg>$ ^realización<n><f><sg>$ ^de<pr>$ ^el<det><def><m><pl>$ ^programa<n><m><pl>$
+2758 	 ^también<adv>$ ^considerar<vblex><pri><p3><sg>$
+2759 	 ^considerar<vblex><pri><p3><sg>$ ^muy<preadv>$
+2760 	 ^también<adv>$ ^considerar<vblex><pri><p3><sg>$ ^muy<preadv>$
+2761 	 ^grupo<n><m><sg>$ ^también<adv>$ ^considerar<vblex><pri><p3><sg>$
+2762 	 ^considerar<vblex><pri><p3><sg>$ ^muy<preadv>$ ^importante<adj><mf><sg>$
+2763 	 ^grupo<n><m><sg>$ ^también<adv>$ ^considerar<vblex><pri><p3><sg>$ ^muy<preadv>$ ^importante<adj><mf><sg>$
+2764 	 ^territorio<n><m><pl>$ ^de<pr>$
+2765 	 ^de<pr>$ ^*ultramar<>$
+2766 	 ^territorio<n><m><pl>$ ^de<pr>$ ^*ultramar<>$
+2767 	 ^el<det><def><m><pl>$ ^territorio<n><m><pl>$ ^de<pr>$
+2768 	 ^de<pr>$ ^*ultramar<>$ ^y<cnjcoo>$
+2769 	 ^el<det><def><m><pl>$ ^territorio<n><m><pl>$ ^de<pr>$ ^*ultramar<>$ ^y<cnjcoo>$
+2770 	 ^interacción<n><f><sg>$ ^entre<pr>$
+2771 	 ^interacción<n><f><sg>$ ^entre<pr>$ ^el<det><def><f><pl>$
+2772 	 ^el<det><def><f><sg>$ ^interacción<n><f><sg>$ ^entre<pr>$
+2773 	 ^entre<pr>$ ^el<det><def><f><pl>$ ^ciudad<n><f><pl>$
+2774 	 ^el<det><def><f><sg>$ ^interacción<n><f><sg>$ ^entre<pr>$ ^el<det><def><f><pl>$ ^ciudad<n><f><pl>$
+2775 	 ^central<adj><mf><pl>$ ^de<pr>$
+2776 	 ^central<adj><mf><pl>$ ^de<pr>$ ^el<det><def><m><pl>$
+2777 	 ^administración<n><f><pl>$ ^central<adj><mf><pl>$ ^de<pr>$
+2778 	 ^administración<n><f><pl>$ ^central<adj><mf><pl>$ ^de<pr>$ ^el<det><def><m><pl>$ ^estado<n><m><pl>$
+2779 	 ^infiltrar<vblex><pp><m><sg>$ ^en<pr>$
+2780 	 ^infiltrar<vblex><pp><m><sg>$ ^en<pr>$ ^el<det><def><m><pl>$
+2781 	 ^haber<vbhaver><pri><p3><sg>$ ^infiltrar<vblex><pp><m><sg>$ ^en<pr>$
+2782 	 ^en<pr>$ ^el<det><def><m><pl>$ ^proceso<n><m><pl>$
+2783 	 ^haber<vbhaver><pri><p3><sg>$ ^infiltrar<vblex><pp><m><sg>$ ^en<pr>$ ^el<det><def><m><pl>$ ^proceso<n><m><pl>$
+2784 	 ^subvención<n><f><pl>$ ^de<pr>$
+2785 	 ^subvención<n><f><pl>$ ^de<pr>$ ^el<det><def><f><sg>$
+2786 	 ^con<pr>$ ^subvención<n><f><pl>$ ^de<pr>$
+2787 	 ^con<pr>$ ^subvención<n><f><pl>$ ^de<pr>$ ^el<det><def><f><sg>$ ^unión<n><f><sg>$
+2788 	 ^haber<vbhaver><pri><p3><pl>$ ^dejar<vblex><pp><m><sg>$
+2789 	 ^dejar<vblex><pp><m><sg>$ ^ninguno<det><ind><m><sg>$
+2790 	 ^haber<vbhaver><pri><p3><pl>$ ^dejar<vblex><pp><m><sg>$ ^ninguno<det><ind><m><sg>$
+2791 	 ^no<adv>$ ^haber<vbhaver><pri><p3><pl>$ ^dejar<vblex><pp><m><sg>$
+2792 	 ^dejar<vblex><pp><m><sg>$ ^ninguno<det><ind><m><sg>$ ^beneficio<n><m><sg>$
+2793 	 ^no<adv>$ ^haber<vbhaver><pri><p3><pl>$ ^dejar<vblex><pp><m><sg>$ ^ninguno<det><ind><m><sg>$ ^beneficio<n><m><sg>$
+2794 	 ^haber que<vbmod><pri><p3><sg>$ ^conseguir<vblex><inf>$
+2795 	 ^conseguir<vblex><inf>$ ^que<cnjsub>$
+2796 	 ^haber que<vbmod><pri><p3><sg>$ ^conseguir<vblex><inf>$ ^que<cnjsub>$
+2797 	 ^conseguir<vblex><inf>$ ^que<cnjsub>$ ^el<det><def><m><pl>$
+2798 	 ^sobre<pr>$ ^el<det><def><f><sg>$ ^política<n><f><sg>$
+2799 	 ^sobre<pr>$ ^el<det><def><f><sg>$ ^política<n><f><sg>$ ^regional<adj><mf><sg>$ ^de<pr>$
+2800 	 ^de<pr>$ ^mío<det><pos><mf><sg>$
+2801 	 ^informe<n><m><sg>$ ^de<pr>$ ^mío<det><pos><mf><sg>$
+2802 	 ^excelente<adj><mf><sg>$ ^informe<n><m><sg>$ ^de<pr>$
+2803 	 ^de<pr>$ ^mío<det><pos><mf><sg>$ ^colega<n><mf><sg>$
+2804 	 ^excelente<adj><mf><sg>$ ^informe<n><m><sg>$ ^de<pr>$ ^mío<det><pos><mf><sg>$ ^colega<n><mf><sg>$
+2805 	 ^colega<n><mf><sg>$ ^de<pr>$
+2806 	 ^mío<det><pos><mf><sg>$ ^colega<n><mf><sg>$ ^de<pr>$
+2807 	 ^colega<n><mf><sg>$ ^de<pr>$ ^grupo<n><m><sg>$
+2808 	 ^de<pr>$ ^mío<det><pos><mf><sg>$ ^colega<n><mf><sg>$ ^de<pr>$ ^grupo<n><m><sg>$
+2809 	 ^mes<n><m><pl>$ ^en<pr>$
+2810 	 ^mes<n><m><pl>$ ^en<pr>$ ^el<det><def><m><pl>$
+2811 	 ^varios<det><ind><m><pl>$ ^mes<n><m><pl>$ ^en<pr>$
+2812 	 ^en<pr>$ ^el<det><def><m><pl>$ ^gabinete<n><m><pl>$
+2813 	 ^varios<det><ind><m><pl>$ ^mes<n><m><pl>$ ^en<pr>$ ^el<det><def><m><pl>$ ^gabinete<n><m><pl>$
+2814 	 ^esto<prn><tn><m><sp>$ ^en<pr>$ ^cuenta<n><f><sg>$
+2815 	 ^todo<predet><nt><sp>$ ^esto<prn><tn><m><sp>$ ^en<pr>$ ^cuenta<n><f><sg>$ ^,<cm>$
+2816 	 ^debate<n><m><sg>$ ^en<pr>$
+2817 	 ^debate<n><m><sg>$ ^en<pr>$ ^este<det><dem><f><sg>$
+2818 	 ^a<pr>$ ^debate<n><m><sg>$ ^en<pr>$
+2819 	 ^en<pr>$ ^este<det><dem><f><sg>$ ^asamblea<n><f><sg>$
+2820 	 ^a<pr>$ ^debate<n><m><sg>$ ^en<pr>$ ^este<det><dem><f><sg>$ ^asamblea<n><f><sg>$
+2821 	 ^precisamente<adv>$ ^de<pr>$
+2822 	 ^precisamente<adv>$ ^de<pr>$ ^el<det><def><f><pl>$
+2823 	 ^luz<n><f><sg>$ ^precisamente<adv>$ ^de<pr>$
+2824 	 ^de<pr>$ ^el<det><def><f><pl>$ ^orientación<n><f><pl>$
+2825 	 ^luz<n><f><sg>$ ^precisamente<adv>$ ^de<pr>$ ^el<det><def><f><pl>$ ^orientación<n><f><pl>$
+2826 	 ^trabajo<n><m><sg>$ ^en<pr>$ ^el<det><def><m><pl>$
+2827 	 ^de<pr>$ ^trabajo<n><m><sg>$ ^en<pr>$
+2828 	 ^en<pr>$ ^el<det><def><m><pl>$ ^territorio<n><m><pl>$
+2829 	 ^de<pr>$ ^trabajo<n><m><sg>$ ^en<pr>$ ^el<det><def><m><pl>$ ^territorio<n><m><pl>$
+2830 	 ^existente<adj><mf><pl>$ ^en<pr>$
+2831 	 ^existente<adj><mf><pl>$ ^en<pr>$ ^el<det><def><f><sg>$
+2832 	 ^desigualdad<n><f><sg>$ ^existente<adj><mf><pl>$ ^en<pr>$
+2833 	 ^en<pr>$ ^el<det><def><f><sg>$ ^sociedad<n><f><sg>$
+2834 	 ^desigualdad<n><f><sg>$ ^existente<adj><mf><pl>$ ^en<pr>$ ^el<det><def><f><sg>$ ^sociedad<n><f><sg>$
+2835 	 ^y<cnjcoo>$ ^de<pr>$ ^suyo<det><pos><mf><sg>$
+2836 	 ^,<cm>$ ^y<cnjcoo>$ ^de<pr>$
+2837 	 ^de<pr>$ ^suyo<det><pos><mf><sg>$ ^coordinación<n><f><sg>$
+2838 	 ^,<cm>$ ^y<cnjcoo>$ ^de<pr>$ ^suyo<det><pos><mf><sg>$ ^coordinación<n><f><sg>$
+2839 	 ^ser<vbser><pri><p3><sg>$ ^conseguir<vblex><inf>$
+2840 	 ^conseguir<vblex><inf>$ ^el<det><def><f><sg>$
+2841 	 ^ser<vbser><pri><p3><sg>$ ^conseguir<vblex><inf>$ ^el<det><def><f><sg>$
+2842 	 ^,<cm>$ ^ser<vbser><pri><p3><sg>$ ^conseguir<vblex><inf>$
+2843 	 ^conseguir<vblex><inf>$ ^el<det><def><f><sg>$ ^cohesión<n><f><sg>$
+2844 	 ^,<cm>$ ^ser<vbser><pri><p3><sg>$ ^conseguir<vblex><inf>$ ^el<det><def><f><sg>$ ^cohesión<n><f><sg>$
+2845 	 ^cohesión<n><f><sg>$ ^económico<adj><f><sg>$
+2846 	 ^cohesión<n><f><sg>$ ^económico<adj><f><sg>$ ^y<cnjcoo>$
+2847 	 ^el<det><def><f><sg>$ ^cohesión<n><f><sg>$ ^económico<adj><f><sg>$
+2848 	 ^el<det><def><f><sg>$ ^cohesión<n><f><sg>$ ^económico<adj><f><sg>$ ^y<cnjcoo>$ ^social<adj><mf><sg>$
+2849 	 ^de<pr>$ ^participar<vblex><inf>$
+2850 	 ^de<pr>$ ^participar<vblex><inf>$ ^en<pr>$
+2851 	 ^obligación<n><f><sg>$ ^de<pr>$ ^participar<vblex><inf>$
+2852 	 ^obligación<n><f><sg>$ ^de<pr>$ ^participar<vblex><inf>$ ^en<pr>$ ^el<det><def><f><sg>$
+2853 	 ^de<pr>$ ^participar<vblex><inf>$ ^en<pr>$ ^el<det><def><f><sg>$ ^elaboración<n><f><sg>$
+2854 	 ^también<adv>$ ^en<pr>$ ^el<det><def><f><sg>$
+2855 	 ^en<pr>$ ^el<det><def><f><sg>$ ^evaluación<n><f><sg>$
+2856 	 ^y<cnjcoo>$ ^también<adv>$ ^en<pr>$ ^el<det><def><f><sg>$ ^evaluación<n><f><sg>$
+2857 	 ^Europa<np><loc><f><sg>$ ^de<pr>$
+2858 	 ^Europa<np><loc><f><sg>$ ^de<pr>$ ^el<det><def><m><pl>$
+2859 	 ^el<det><def><f><sg>$ ^Europa<np><loc><f><sg>$ ^de<pr>$
+2860 	 ^de<pr>$ ^el<det><def><m><pl>$ ^ciudadano<n><m><pl>$
+2861 	 ^el<det><def><f><sg>$ ^Europa<np><loc><f><sg>$ ^de<pr>$ ^el<det><def><m><pl>$ ^ciudadano<n><m><pl>$
+2862 	 ^sólo<adv>$ ^en<pr>$
+2863 	 ^sólo<adv>$ ^en<pr>$ ^uno<det><ind><f><sg>$
+2864 	 ^no<adv>$ ^sólo<adv>$ ^en<pr>$
+2865 	 ^en<pr>$ ^uno<det><ind><f><sg>$ ^Europa<np><loc><f><sg>$
+2866 	 ^no<adv>$ ^sólo<adv>$ ^en<pr>$ ^uno<det><ind><f><sg>$ ^Europa<np><loc><f><sg>$
+2867 	 ^fondo<n><m><pl>$ ^ser<vbser><pri><p3><pl>$
+2868 	 ^el<det><def><m><pl>$ ^fondo<n><m><pl>$ ^ser<vbser><pri><p3><pl>$
+2869 	 ^que<cnjsub>$ ^el<det><def><m><pl>$ ^fondo<n><m><pl>$
+2870 	 ^fondo<n><m><pl>$ ^ser<vbser><pri><p3><pl>$ ^uno<det><ind><f><sg>$
+2871 	 ^que<cnjsub>$ ^el<det><def><m><pl>$ ^fondo<n><m><pl>$ ^ser<vbser><pri><p3><pl>$ ^uno<det><ind><f><sg>$
+2872 	 ^para<pr>$ ^conseguir<vblex><inf>$ ^el<det><def><f><sg>$
+2873 	 ^suficiente<adj><mf><sg>$ ^para<pr>$ ^conseguir<vblex><inf>$
+2874 	 ^suficiente<adj><mf><sg>$ ^para<pr>$ ^conseguir<vblex><inf>$ ^el<det><def><f><sg>$ ^cohesión<n><f><sg>$
+2875 	 ^como<pr>$ ^único<adj><m><sg>$
+2876 	 ^único<adj><m><sg>$ ^indicador<n><m><sg>$
+2877 	 ^como<pr>$ ^único<adj><m><sg>$ ^indicador<n><m><sg>$
+2878 	 ^tomar<vblex><pri><p1><pl>$ ^como<pr>$ ^único<adj><m><sg>$
+2879 	 ^único<adj><m><sg>$ ^indicador<n><m><sg>$ ^el<det><def><m><sg>$
+2880 	 ^tomar<vblex><pri><p1><pl>$ ^como<pr>$ ^único<adj><m><sg>$ ^indicador<n><m><sg>$ ^el<det><def><m><sg>$
+2881 	 ^bruto<adj><m><sg>$ ^por<pr>$
+2882 	 ^por<pr>$ ^habitante<n><mf><sg>$
+2883 	 ^bruto<adj><m><sg>$ ^por<pr>$ ^habitante<n><mf><sg>$
+2884 	 ^interior<adj><mf><sg>$ ^bruto<adj><m><sg>$ ^por<pr>$
+2885 	 ^por<pr>$ ^habitante<n><mf><sg>$ ^,<cm>$
+2886 	 ^interior<adj><mf><sg>$ ^bruto<adj><m><sg>$ ^por<pr>$ ^habitante<n><mf><sg>$ ^,<cm>$
+2887 	 ^alguno<det><qnt><m><pl>$ ^colega<n><mf><pl>$
+2888 	 ^colega<n><mf><pl>$ ^haber<vbhaver><pri><p3><pl>$
+2889 	 ^alguno<det><qnt><m><pl>$ ^colega<n><mf><pl>$ ^haber<vbhaver><pri><p3><pl>$
+2890 	 ^ya<adv>$ ^alguno<det><qnt><m><pl>$ ^colega<n><mf><pl>$
+2891 	 ^colega<n><mf><pl>$ ^haber<vbhaver><pri><p3><pl>$ ^hablar<vblex><pp><m><sg>$
+2892 	 ^ya<adv>$ ^alguno<det><qnt><m><pl>$ ^colega<n><mf><pl>$ ^haber<vbhaver><pri><p3><pl>$ ^hablar<vblex><pp><m><sg>$
+2893 	 ^estar<vblex><pri><p3><pl>$ ^en<pr>$
+2894 	 ^en<pr>$ ^peor<adj><mf><sg>$
+2895 	 ^estar<vblex><pri><p3><pl>$ ^en<pr>$ ^peor<adj><mf><sg>$
+2896 	 ^que<rel><an><mf><sp>$ ^estar<vblex><pri><p3><pl>$ ^en<pr>$
+2897 	 ^en<pr>$ ^peor<adj><mf><sg>$ ^situación<n><f><sg>$
+2898 	 ^que<rel><an><mf><sp>$ ^estar<vblex><pri><p3><pl>$ ^en<pr>$ ^peor<adj><mf><sg>$ ^situación<n><f><sg>$
+2899 	 ^quedar<vblex><pri><p3><sg>$ ^claro<adj><m><sg>$
+2900 	 ^quedar<vblex><pri><p3><sg>$ ^claro<adj><m><sg>$ ^que<cnjsub>$
+2901 	 ^parlamento<n><m><sg>$ ^quedar<vblex><pri><p3><sg>$ ^claro<adj><m><sg>$
+2902 	 ^claro<adj><m><sg>$ ^que<cnjsub>$ ^el<det><def><f><pl>$
+2903 	 ^parlamento<n><m><sg>$ ^quedar<vblex><pri><p3><sg>$ ^claro<adj><m><sg>$ ^que<cnjsub>$ ^el<det><def><f><pl>$
+2904 	 ^más<preadv>$ ^próspero<adj><f><pl>$
+2905 	 ^próspero<adj><f><pl>$ ^tener<vblex><pri><p3><pl>$
+2906 	 ^más<preadv>$ ^próspero<adj><f><pl>$ ^tener<vblex><pri><p3><pl>$
+2907 	 ^europeo<adj><f><pl>$ ^más<preadv>$ ^próspero<adj><f><pl>$
+2908 	 ^próspero<adj><f><pl>$ ^tener<vblex><pri><p3><pl>$ ^cinco<num><mf><sp>$
+2909 	 ^europeo<adj><f><pl>$ ^más<preadv>$ ^próspero<adj><f><pl>$ ^tener<vblex><pri><p3><pl>$ ^cinco<num><mf><sp>$
+2910 	 ^menos<adv>$ ^próspero<adj><f><pl>$
+2911 	 ^próspero<adj><f><pl>$ ^.<sent>$
+2912 	 ^menos<adv>$ ^próspero<adj><f><pl>$ ^.<sent>$
+2913 	 ^región<n><f><pl>$ ^menos<adv>$ ^próspero<adj><f><pl>$
+2914 	 ^región<n><f><pl>$ ^menos<adv>$ ^próspero<adj><f><pl>$ ^.<sent>$
+2915 	 ^final<n><m><sg>$ ^de<pr>$
+2916 	 ^final<n><m><sg>$ ^de<pr>$ ^el<det><def><f><sg>$
+2917 	 ^el<det><def><m><sg>$ ^final<n><m><sg>$ ^de<pr>$
+2918 	 ^de<pr>$ ^el<det><def><f><sg>$ ^legislatura<n><f><sg>$
+2919 	 ^el<det><def><m><sg>$ ^final<n><m><sg>$ ^de<pr>$ ^el<det><def><f><sg>$ ^legislatura<n><f><sg>$
