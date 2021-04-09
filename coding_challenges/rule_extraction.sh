@@ -1,4 +1,4 @@
-CORPUS="europarl-v7"
+CORPUS="news-commentary-v8"
 PAIR="eng-spa"
 SL="eng"
 TL="spa"
