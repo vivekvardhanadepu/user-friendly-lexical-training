@@ -1,72 +1,71 @@
 1 	 ^reanudación<n><f><sg>$ ^de<pr>$
 2 	 ^de<pr>$ ^el<det><def><m><sg>$
 3 	 ^reanudación<n><f><sg>$ ^de<pr>$ ^el<det><def><m><sg>$
-4 	 
-5 	 ^de<pr>$ ^el<det><def><m><sg>$ ^periodo<n><m><sg>$
-6 	 ^periodo<n><m><sg>$ ^de<pr>$
-7 	 ^de<pr>$ ^sesión<n><f><pl>$
-8 	 ^periodo<n><m><sg>$ ^de<pr>$ ^sesión<n><f><pl>$
-9 	 ^el<det><def><m><sg>$ ^periodo<n><m><sg>$ ^de<pr>$
-10 	 ^de<pr>$ ^sesión<n><f><pl>$ ^de<pr>$
-11 	 ^el<det><def><m><sg>$ ^periodo<n><m><sg>$ ^de<pr>$ ^sesión<n><f><pl>$ ^de<pr>$
-12 	 ^mío<det><pos><mf><sg>$ ^deseo<n><m><sg>$
-13 	 ^deseo<n><m><sg>$ ^de que<cnjsub>$
-14 	 ^mío<det><pos><mf><sg>$ ^deseo<n><m><sg>$ ^de que<cnjsub>$
-15 	 ^*Señorías<>$ ^mío<det><pos><mf><sg>$ ^deseo<n><m><sg>$
-16 	 ^deseo<n><m><sg>$ ^de que<cnjsub>$ ^haber<vbhaver><prs><p3><pl>$
-17 	 ^*Señorías<>$ ^mío<det><pos><mf><sg>$ ^deseo<n><m><sg>$ ^de que<cnjsub>$ ^haber<vbhaver><prs><p3><pl>$
-18 	 ^vario<adj><m><pl>$ ^de<pr>$
-19 	 ^de<pr>$ ^nuestro<det><pos><m><pl>$
-20 	 ^vario<adj><m><pl>$ ^de<pr>$ ^nuestro<det><pos><m><pl>$
-21 	 ^de<pr>$ ^vario<adj><m><pl>$ ^de<pr>$
-22 	 ^de<pr>$ ^nuestro<det><pos><m><pl>$ ^país<n><m><pl>$
-23 	 ^de<pr>$ ^vario<adj><m><pl>$ ^de<pr>$ ^nuestro<det><pos><m><pl>$ ^país<n><m><pl>$
-24 	 ^curso<n><m><sg>$ ^de<pr>$
-25 	 ^de<pr>$ ^este<det><dem><m><sg>$
-26 	 ^curso<n><m><sg>$ ^de<pr>$ ^este<det><dem><m><sg>$
-27 	 ^el<det><def><m><sg>$ ^curso<n><m><sg>$ ^de<pr>$
-28 	 ^de<pr>$ ^este<det><dem><m><sg>$ ^periodo<n><m><sg>$
-29 	 ^el<det><def><m><sg>$ ^curso<n><m><sg>$ ^de<pr>$ ^este<det><dem><m><sg>$ ^periodo<n><m><sg>$
-30 	 ^minuto<n><m><sg>$ ^de<pr>$
-31 	 ^de<pr>$ ^silencio<n><m><sg>$
-32 	 ^minuto<n><m><sg>$ ^de<pr>$ ^silencio<n><m><sg>$
-33 	 ^uno<det><ind><m><sg>$ ^minuto<n><m><sg>$ ^de<pr>$
-34 	 ^de<pr>$ ^silencio<n><m><sg>$ ^en<pr>$
-35 	 ^uno<det><ind><m><sg>$ ^minuto<n><m><sg>$ ^de<pr>$ ^silencio<n><m><sg>$ ^en<pr>$
-36 	 ^,<cm>$ ^en<pr>$
-37 	 ^en<pr>$ ^el<det><def><m><pl>$
-38 	 ^,<cm>$ ^en<pr>$ ^el<det><def><m><pl>$
-39 	 ^tormenta<n><f><pl>$ ^,<cm>$ ^en<pr>$
-40 	 ^en<pr>$ ^el<det><def><m><pl>$ ^distinto<adj><m><pl>$
-41 	 ^tormenta<n><f><pl>$ ^,<cm>$ ^en<pr>$ ^el<det><def><m><pl>$ ^distinto<adj><m><pl>$
-42 	 ^señor<n><f><sg>$ ^presidente<n><f><sg>$
-43 	 ^presidente<n><f><sg>$ ^,<cm>$
-44 	 ^señor<n><f><sg>$ ^presidente<n><f><sg>$ ^,<cm>$
-45 	 ^presidente<n><f><sg>$ ^,<cm>$ ^uno<det><ind><f><sg>$
-46 	 ^cuestión<n><f><sg>$ ^de<pr>$
-47 	 ^de<pr>$ ^procedimiento<n><m><sg>$
-48 	 ^cuestión<n><f><sg>$ ^de<pr>$ ^procedimiento<n><m><sg>$
-49 	 ^uno<det><ind><f><sg>$ ^cuestión<n><f><sg>$ ^de<pr>$
-50 	 ^de<pr>$ ^procedimiento<n><m><sg>$ ^.<sent>$
-51 	 ^uno<det><ind><f><sg>$ ^cuestión<n><f><sg>$ ^de<pr>$ ^procedimiento<n><m><sg>$ ^.<sent>$
-52 	 ^de<pr>$ ^explosión<n><f><pl>$
-53 	 ^explosión<n><f><pl>$ ^y<cnjcoo>$
-54 	 ^de<pr>$ ^explosión<n><f><pl>$ ^y<cnjcoo>$
-55 	 ^serie<n><f><sg>$ ^de<pr>$ ^explosión<n><f><pl>$
-56 	 ^explosión<n><f><pl>$ ^y<cnjcoo>$ ^asesinato<n><m><pl>$
-57 	 ^serie<n><f><sg>$ ^de<pr>$ ^explosión<n><f><pl>$ ^y<cnjcoo>$ ^asesinato<n><m><pl>$
-58 	 ^asesinato<n><m><pl>$ ^en<pr>$
-59 	 ^en<pr>$ ^Sri Lanka<np><loc><m><sg>$
-60 	 ^asesinato<n><m><pl>$ ^en<pr>$ ^Sri Lanka<np><loc><m><sg>$
-61 	 ^y<cnjcoo>$ ^asesinato<n><m><pl>$ ^en<pr>$
-62 	 ^en<pr>$ ^Sri Lanka<np><loc><m><sg>$ ^.<sent>$
-63 	 ^y<cnjcoo>$ ^asesinato<n><m><pl>$ ^en<pr>$ ^Sri Lanka<np><loc><m><sg>$ ^.<sent>$
-64 	 ^uno<prn><tn><f><sg>$ ^de<pr>$
-65 	 ^de<pr>$ ^el<det><def><f><pl>$
-66 	 ^uno<prn><tn><f><sg>$ ^de<pr>$ ^el<det><def><f><pl>$
-67 	 ^de<pr>$ ^el<det><def><f><pl>$ ^persona<n><f><pl>$
-68 	 ^asesinar<vblex><pp><m><sg>$ ^en<pr>$
-69 	 ^asesinar<vblex><pp><m><sg>$ ^en<pr>$ ^Sri Lanka<np><loc><m><sg>$
-70 	 ^haber<vbhaver><pri><p3><pl>$ ^asesinar<vblex><pp><m><sg>$ ^en<pr>$
-71 	 ^en<pr>$ ^Sri Lanka<np><loc><m><sg>$ ^haber<vbhaver><pri><p3><sg>$
-72 	 ^haber<vbhaver><pri><p3><pl>$ ^asesinar<vblex><pp><m><sg>$ ^en<pr>$ ^Sri Lanka<np><loc><m><sg>$ ^haber<vbhaver><pri><p3><sg>$
+4 	 ^de<pr>$ ^el<det><def><m><sg>$ ^periodo<n><m><sg>$
+5 	 ^periodo<n><m><sg>$ ^de<pr>$
+6 	 ^de<pr>$ ^sesión<n><f><pl>$
+7 	 ^periodo<n><m><sg>$ ^de<pr>$ ^sesión<n><f><pl>$
+8 	 ^el<det><def><m><sg>$ ^periodo<n><m><sg>$ ^de<pr>$
+9 	 ^de<pr>$ ^sesión<n><f><pl>$ ^de<pr>$
+10 	 ^el<det><def><m><sg>$ ^periodo<n><m><sg>$ ^de<pr>$ ^sesión<n><f><pl>$ ^de<pr>$
+11 	 ^mío<det><pos><mf><sg>$ ^deseo<n><m><sg>$
+12 	 ^deseo<n><m><sg>$ ^de que<cnjsub>$
+13 	 ^mío<det><pos><mf><sg>$ ^deseo<n><m><sg>$ ^de que<cnjsub>$
+14 	 ^*Señorías<>$ ^mío<det><pos><mf><sg>$ ^deseo<n><m><sg>$
+15 	 ^deseo<n><m><sg>$ ^de que<cnjsub>$ ^haber<vbhaver><prs><p3><pl>$
+16 	 ^*Señorías<>$ ^mío<det><pos><mf><sg>$ ^deseo<n><m><sg>$ ^de que<cnjsub>$ ^haber<vbhaver><prs><p3><pl>$
+17 	 ^vario<adj><m><pl>$ ^de<pr>$
+18 	 ^de<pr>$ ^nuestro<det><pos><m><pl>$
+19 	 ^vario<adj><m><pl>$ ^de<pr>$ ^nuestro<det><pos><m><pl>$
+20 	 ^de<pr>$ ^vario<adj><m><pl>$ ^de<pr>$
+21 	 ^de<pr>$ ^nuestro<det><pos><m><pl>$ ^país<n><m><pl>$
+22 	 ^de<pr>$ ^vario<adj><m><pl>$ ^de<pr>$ ^nuestro<det><pos><m><pl>$ ^país<n><m><pl>$
+23 	 ^curso<n><m><sg>$ ^de<pr>$
+24 	 ^de<pr>$ ^este<det><dem><m><sg>$
+25 	 ^curso<n><m><sg>$ ^de<pr>$ ^este<det><dem><m><sg>$
+26 	 ^el<det><def><m><sg>$ ^curso<n><m><sg>$ ^de<pr>$
+27 	 ^de<pr>$ ^este<det><dem><m><sg>$ ^periodo<n><m><sg>$
+28 	 ^el<det><def><m><sg>$ ^curso<n><m><sg>$ ^de<pr>$ ^este<det><dem><m><sg>$ ^periodo<n><m><sg>$
+29 	 ^minuto<n><m><sg>$ ^de<pr>$
+30 	 ^de<pr>$ ^silencio<n><m><sg>$
+31 	 ^minuto<n><m><sg>$ ^de<pr>$ ^silencio<n><m><sg>$
+32 	 ^uno<det><ind><m><sg>$ ^minuto<n><m><sg>$ ^de<pr>$
+33 	 ^de<pr>$ ^silencio<n><m><sg>$ ^en<pr>$
+34 	 ^uno<det><ind><m><sg>$ ^minuto<n><m><sg>$ ^de<pr>$ ^silencio<n><m><sg>$ ^en<pr>$
+35 	 ^,<cm>$ ^en<pr>$
+36 	 ^en<pr>$ ^el<det><def><m><pl>$
+37 	 ^,<cm>$ ^en<pr>$ ^el<det><def><m><pl>$
+38 	 ^tormenta<n><f><pl>$ ^,<cm>$ ^en<pr>$
+39 	 ^en<pr>$ ^el<det><def><m><pl>$ ^distinto<adj><m><pl>$
+40 	 ^tormenta<n><f><pl>$ ^,<cm>$ ^en<pr>$ ^el<det><def><m><pl>$ ^distinto<adj><m><pl>$
+41 	 ^señor<n><f><sg>$ ^presidente<n><f><sg>$
+42 	 ^presidente<n><f><sg>$ ^,<cm>$
+43 	 ^señor<n><f><sg>$ ^presidente<n><f><sg>$ ^,<cm>$
+44 	 ^presidente<n><f><sg>$ ^,<cm>$ ^uno<det><ind><f><sg>$
+45 	 ^cuestión<n><f><sg>$ ^de<pr>$
+46 	 ^de<pr>$ ^procedimiento<n><m><sg>$
+47 	 ^cuestión<n><f><sg>$ ^de<pr>$ ^procedimiento<n><m><sg>$
+48 	 ^uno<det><ind><f><sg>$ ^cuestión<n><f><sg>$ ^de<pr>$
+49 	 ^de<pr>$ ^procedimiento<n><m><sg>$ ^.<sent>$
+50 	 ^uno<det><ind><f><sg>$ ^cuestión<n><f><sg>$ ^de<pr>$ ^procedimiento<n><m><sg>$ ^.<sent>$
+51 	 ^de<pr>$ ^explosión<n><f><pl>$
+52 	 ^explosión<n><f><pl>$ ^y<cnjcoo>$
+53 	 ^de<pr>$ ^explosión<n><f><pl>$ ^y<cnjcoo>$
+54 	 ^serie<n><f><sg>$ ^de<pr>$ ^explosión<n><f><pl>$
+55 	 ^explosión<n><f><pl>$ ^y<cnjcoo>$ ^asesinato<n><m><pl>$
+56 	 ^serie<n><f><sg>$ ^de<pr>$ ^explosión<n><f><pl>$ ^y<cnjcoo>$ ^asesinato<n><m><pl>$
+57 	 ^asesinato<n><m><pl>$ ^en<pr>$
+58 	 ^en<pr>$ ^Sri Lanka<np><loc><m><sg>$
+59 	 ^asesinato<n><m><pl>$ ^en<pr>$ ^Sri Lanka<np><loc><m><sg>$
+60 	 ^y<cnjcoo>$ ^asesinato<n><m><pl>$ ^en<pr>$
+61 	 ^en<pr>$ ^Sri Lanka<np><loc><m><sg>$ ^.<sent>$
+62 	 ^y<cnjcoo>$ ^asesinato<n><m><pl>$ ^en<pr>$ ^Sri Lanka<np><loc><m><sg>$ ^.<sent>$
+63 	 ^uno<prn><tn><f><sg>$ ^de<pr>$
+64 	 ^de<pr>$ ^el<det><def><f><pl>$
+65 	 ^uno<prn><tn><f><sg>$ ^de<pr>$ ^el<det><def><f><pl>$
+66 	 ^de<pr>$ ^el<det><def><f><pl>$ ^persona<n><f><pl>$
+67 	 ^asesinar<vblex><pp><m><sg>$ ^en<pr>$
+68 	 ^asesinar<vblex><pp><m><sg>$ ^en<pr>$ ^Sri Lanka<np><loc><m><sg>$
+69 	 ^haber<vbhaver><pri><p3><pl>$ ^asesinar<vblex><pp><m><sg>$ ^en<pr>$
+70 	 ^en<pr>$ ^Sri Lanka<np><loc><m><sg>$ ^haber<vbhaver><pri><p3><sg>$
+71 	 ^haber<vbhaver><pri><p3><pl>$ ^asesinar<vblex><pp><m><sg>$ ^en<pr>$ ^Sri Lanka<np><loc><m><sg>$ ^haber<vbhaver><pri><p3><sg>$
