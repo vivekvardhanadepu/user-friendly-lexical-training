@@ -1,77 +1,77 @@
-^de<pr>$ 	 inf 	 0 	 ^de<pr>$
-^de<pr>$ 	 inf 	 0 	 ^de<pr>$
-^de<pr>$ 	 inf 	 1 	 ^de<pr>$
-^de<pr>$ 	 nan 	 2 	 ^de<pr>$
-^de<pr>$ 	 inf 	 0 	 ^precio<n><m><sg>$
-^de<pr>$ 	 inf 	 0 	 ^precio<n><m><sg>$
-^de<pr>$ 	 inf 	 0 	 ^de<pr>$
-^de<pr>$ 	 inf 	 0 	 ^de<pr>$
-^de<pr>$ 	 inf 	 0 	 ^de<pr>$
-^de<pr>$ 	 inf 	 0 	 ^grado<n><m><sg>$
-^de<pr>$ 	 inf 	 0 	 ^de<pr>$
-^de<pr>$ 	 inf 	 0 	 ^muchos<prn><tn><f><pl>$
-^de<pr>$ 	 inf 	 0 	 ^de<pr>$
-^de<pr>$ 	 inf 	 0 	 ^de<pr>$
-^de<pr>$ 	 inf 	 0 	 ^de<pr>$
-^de<pr>$ 	 inf 	 0 	 ^de<pr>$
-^de<pr>$ 	 inf 	 0 	 ^comienzo<n><m><sg>$
-^de<pr>$ 	 inf 	 0 	 ^comienzo<n><m><sg>$
-^de<pr>$ 	 inf 	 0 	 ^el<det><def><m><sg>$
-^de<pr>$ 	 inf 	 0 	 ^de<pr>$
-^de<pr>$ 	 inf 	 0 	 ^de<pr>$
-^de<pr>$ 	 inf 	 0 	 ^de<pr>$
-^de<pr>$ 	 inf 	 0 	 ^de<pr>$
-^de<pr>$ 	 inf 	 0 	 ^la<prn><tn><f><sg>$
-^de<pr>$ 	 inf 	 0 	 ^de<pr>$
-^de<pr>$ 	 inf 	 0 	 ^caída<n><f><sg>$
-^de<pr>$ 	 inf 	 0 	 ^de<pr>$
-^de<pr>$ 	 inf 	 0 	 ^el<det><def><f><sg>$
-^de<pr>$ 	 inf 	 0 	 ^alguno<prn><tn><m><pl>$
-^de<pr>$ 	 inf 	 0 	 ^de<pr>$
-^de<pr>$ 	 inf 	 0 	 ^de<pr>$
-^de<pr>$ 	 inf 	 0 	 ^colapsar<vblex><pri><p1><sg>$
-^de<pr>$ 	 inf 	 0 	 ^el<det><def><m><sg>$
-^de<pr>$ 	 inf 	 0 	 ^proceso<n><m><sg>$
-^de<pr>$ 	 inf 	 0 	 ^proceso<n><m><sg>$
-^de<pr>$ 	 inf 	 0 	 ^el<det><def><m><sg>$
-^de<pr>$ 	 inf 	 0 	 ^de<pr>$
-^de<pr>$ 	 inf 	 0 	 ^el<det><def><m><sg>$
-^de<pr>$ 	 inf 	 0 	 ^conclusión<n><f><sg>$
-^de<pr>$ 	 inf 	 0 	 ^de<pr>$
-^de<pr>$ 	 inf 	 0 	 ^fin<n><m><sg>$
-^de<pr>$ 	 inf 	 0 	 ^fin<n><m><sg>$
-^de<pr>$ 	 inf 	 0 	 ^el<det><def><m><sg>$
-^de<pr>$ 	 inf 	 0 	 ^de<pr>$
-^en<pr>$ 	 2.33376e+142 	 0 	 ^en<pr>$
-^en<pr>$ 	 1.85503e+142 	 0 	 ^en<pr>$
-^en<pr>$ 	 1.7763e+109 	 1 	 ^en<pr>$
-^en<pr>$ 	 3.85417e+142 	 0 	 ^en<pr>$
-^en<pr>$ 	 1.5348e+142 	 0 	 ^en<pr>$
-^en<pr>$ 	 7.82315e+110 	 1 	 ^en<pr>$
-^en<pr>$ 	 3.83088e+142 	 0 	 ^crecimiento<n><m><sg>$
-^en<pr>$ 	 3.85417e+142 	 0 	 ^en<pr>$
-^en<pr>$ 	 3.85417e+142 	 0 	 ^en<pr>$
-^en<pr>$ 	 1.39298e+142 	 0 	 ^,<cm>$
-^en<pr>$ 	 3.85417e+142 	 0 	 ^en<pr>$
-^en<pr>$ 	 3.85417e+142 	 0 	 ^en<pr>$
-^en<pr>$ 	 3.85417e+142 	 0 	 ^en<pr>$
-^en<pr>$ 	 3.85417e+142 	 0 	 ^en<pr>$
-^en<pr>$ 	 4.50316e+87 	 2 	 ^en<pr>$
-^en<pr>$ 	 3.85417e+142 	 0 	 ^en<pr>$
-^en<pr>$ 	 3.85417e+142 	 0 	 ^en<pr>$
-^en<pr>$ 	 3.85417e+142 	 0 	 ^en<pr>$
-^en<pr>$ 	 3.80801e+142 	 0 	 ^en<pr>$
-^en<pr>$ 	 3.85417e+142 	 0 	 ^en<pr>$
-^en<pr>$ 	 3.85417e+142 	 0 	 ^en<pr>$
-^exterior<adj><mf><sg>$ 	 6.25484e+33 	 0 	 ^política<n><f><sg>$
-^por<pr>$ 	 4.55557e+77 	 0 	 ^por<pr>$
-^precio<n><m><pl>$ 	 2.29915 	 0 	 ^el<det><def><m><pl>$
-^precio<n><m><pl>$ 	 2.55414 	 0 	 ^precio<n><m><pl>$
-^precio<n><m><pl>$ 	 2.55414 	 0 	 ^el<det><def><m><pl>$
-^precio<n><m><pl>$ 	 2.55414 	 0 	 ^con<pr>$
-^precio<n><m><pl>$ 	 2.55414 	 0 	 ^precio<n><m><pl>$
-^precio<n><m><pl>$ 	 1.15802 	 1 	 ^el<det><def><m><pl>$
-^precio<n><m><pl>$ 	 2.55414 	 0 	 ^precio<n><m><pl>$
-^precio<n><m><pl>$ 	 2.55414 	 0 	 ^que<cnjsub>$
-^precio<n><m><pl>$ 	 2.55414 	 0 	 ^precio<n><m><pl>$
-^precio<n><m><pl>$ 	 2.04556 	 1 	 ^precio<n><m><pl>$
+^de<pr>$ 	 inf 	 0 	  ^de<pr>$ ^el<det><def><m><sg>$
+^de<pr>$ 	 inf 	 0 	  ^de<pr>$ ^el<det><def><m><sg>$ ^oro<n><m><sg>$
+^de<pr>$ 	 inf 	 1 	  ^de<pr>$ ^el<det><def><m><sg>$
+^de<pr>$ 	 nan 	 2 	  ^de<pr>$ ^el<det><def><m><sg>$
+^de<pr>$ 	 inf 	 0 	  ^precio<n><m><sg>$ ^de<pr>$
+^de<pr>$ 	 inf 	 0 	  ^precio<n><m><sg>$ ^de<pr>$ ^el<det><def><m><sg>$
+^de<pr>$ 	 inf 	 0 	  ^de<pr>$ ^el<det><def><m><pl>$
+^de<pr>$ 	 inf 	 0 	  ^de<pr>$ ^el<det><def><m><pl>$ ^año<n><m><pl>$
+^de<pr>$ 	 inf 	 0 	  ^de<pr>$ ^nuevo<adj><m><pl>$
+^de<pr>$ 	 inf 	 0 	  ^grado<n><m><sg>$ ^de<pr>$
+^de<pr>$ 	 inf 	 0 	  ^de<pr>$ ^estado<n><m><pl>$
+^de<pr>$ 	 inf 	 0 	  ^muchos<prn><tn><f><pl>$ ^de<pr>$
+^de<pr>$ 	 inf 	 0 	  ^de<pr>$ ^suyo<det><pos><mf><pl>$
+^de<pr>$ 	 inf 	 0 	  ^de<pr>$ ^el<det><def><f><sg>$
+^de<pr>$ 	 inf 	 0 	  ^de<pr>$ ^suyo<det><pos><mf><sg>$
+^de<pr>$ 	 inf 	 0 	  ^de<pr>$ ^el<det><def><f><sg>$ ^unión<n><f><sg>$
+^de<pr>$ 	 inf 	 0 	  ^comienzo<n><m><sg>$ ^de<pr>$
+^de<pr>$ 	 inf 	 0 	  ^comienzo<n><m><sg>$ ^de<pr>$ ^el<det><def><f><sg>$
+^de<pr>$ 	 inf 	 0 	  ^el<det><def><m><sg>$ ^comienzo<n><m><sg>$ ^de<pr>$
+^de<pr>$ 	 inf 	 0 	  ^de<pr>$ ^uno<det><ind><f><sg>$
+^de<pr>$ 	 inf 	 0 	  ^de<pr>$ ^uno<det><ind><f><sg>$ ^democracia<n><f><sg>$
+^de<pr>$ 	 inf 	 0 	  ^de<pr>$ ^uno<det><ind><m><sg>$
+^de<pr>$ 	 inf 	 0 	  ^de<pr>$ ^el<det><def><f><pl>$
+^de<pr>$ 	 inf 	 0 	  ^la<prn><tn><f><sg>$ ^de<pr>$
+^de<pr>$ 	 inf 	 0 	  ^de<pr>$ ^el<det><def><f><sg>$ ^sociedad<n><f><sg>$
+^de<pr>$ 	 inf 	 0 	  ^caída<n><f><sg>$ ^de<pr>$
+^de<pr>$ 	 inf 	 0 	  ^de<pr>$ ^Saddam<np><ant><m><sg>$
+^de<pr>$ 	 inf 	 0 	  ^el<det><def><f><sg>$ ^caída<n><f><sg>$ ^de<pr>$
+^de<pr>$ 	 inf 	 0 	  ^alguno<prn><tn><m><pl>$ ^de<pr>$
+^de<pr>$ 	 inf 	 0 	  ^de<pr>$ ^prpers<prn><tn><p3><m><pl>$
+^de<pr>$ 	 inf 	 0 	  ^de<pr>$ ^convergencia<n><f><sg>$
+^de<pr>$ 	 inf 	 0 	  ^colapsar<vblex><pri><p1><sg>$ ^de<pr>$
+^de<pr>$ 	 inf 	 0 	  ^el<det><def><m><sg>$ ^colapsar<vblex><pri><p1><sg>$ ^de<pr>$
+^de<pr>$ 	 inf 	 0 	  ^proceso<n><m><sg>$ ^de<pr>$
+^de<pr>$ 	 inf 	 0 	  ^proceso<n><m><sg>$ ^de<pr>$ ^convergencia<n><f><sg>$
+^de<pr>$ 	 inf 	 0 	  ^el<det><def><m><sg>$ ^proceso<n><m><sg>$ ^de<pr>$
+^de<pr>$ 	 inf 	 0 	  ^de<pr>$ ^convergencia<n><f><sg>$ ^real<adj><mf><sg>$
+^de<pr>$ 	 inf 	 0 	  ^el<det><def><m><sg>$ ^proceso<n><m><sg>$ ^de<pr>$ ^convergencia<n><f><sg>$ ^real<adj><mf><sg>$
+^de<pr>$ 	 inf 	 0 	  ^conclusión<n><f><sg>$ ^de<pr>$
+^de<pr>$ 	 inf 	 0 	  ^de<pr>$ ^el<det><def><f><sg>$ ^crisis<n><f><sp>$
+^de<pr>$ 	 inf 	 0 	  ^fin<n><m><sg>$ ^de<pr>$
+^de<pr>$ 	 inf 	 0 	  ^fin<n><m><sg>$ ^de<pr>$ ^el<det><def><f><sg>$
+^de<pr>$ 	 inf 	 0 	  ^el<det><def><m><sg>$ ^fin<n><m><sg>$ ^de<pr>$
+^de<pr>$ 	 inf 	 0 	  ^de<pr>$ ^1989<num>$
+^en<pr>$ 	 2.33376e+142 	 0 	  ^en<pr>$ ^el<det><def><m><pl>$
+^en<pr>$ 	 1.85503e+142 	 0 	  ^en<pr>$ ^el<det><def><f><sg>$
+^en<pr>$ 	 1.7763e+109 	 1 	  ^en<pr>$ ^el<det><def><f><sg>$
+^en<pr>$ 	 3.85417e+142 	 0 	  ^en<pr>$ ^uno<det><ind><m><sg>$
+^en<pr>$ 	 1.5348e+142 	 0 	  ^en<pr>$ ^el<det><def><m><sg>$
+^en<pr>$ 	 7.82315e+110 	 1 	  ^en<pr>$ ^el<det><def><m><sg>$
+^en<pr>$ 	 3.83088e+142 	 0 	  ^crecimiento<n><m><sg>$ ^en<pr>$
+^en<pr>$ 	 3.85417e+142 	 0 	  ^en<pr>$ ^economía<n><f><pl>$
+^en<pr>$ 	 3.85417e+142 	 0 	  ^en<pr>$ ^economía<n><f><pl>$ ^con<pr>$
+^en<pr>$ 	 1.39298e+142 	 0 	  ^,<cm>$ ^en<pr>$
+^en<pr>$ 	 3.85417e+142 	 0 	  ^en<pr>$ ^suyo<det><pos><mf><sg>$
+^en<pr>$ 	 3.85417e+142 	 0 	  ^en<pr>$ ^Irak<np><loc><m><sg>$
+^en<pr>$ 	 3.85417e+142 	 0 	  ^en<pr>$ ^Irak<np><loc><m><sg>$ ^,<cm>$
+^en<pr>$ 	 3.85417e+142 	 0 	  ^en<pr>$ ^occidente<n><m><sg>$
+^en<pr>$ 	 4.50316e+87 	 2 	  ^en<pr>$ ^suyo<det><pos><mf><pl>$
+^en<pr>$ 	 3.85417e+142 	 0 	  ^en<pr>$ ^el<det><def><m><pl>$ ^país<n><m><pl>$
+^en<pr>$ 	 3.85417e+142 	 0 	  ^en<pr>$ ^1989<num>$
+^en<pr>$ 	 3.85417e+142 	 0 	  ^en<pr>$ ^1989<num>$ ^,<cm>$
+^en<pr>$ 	 3.80801e+142 	 0 	  ^en<pr>$ ^el<det><def><f><sg>$ ^ciudad<n><f><sg>$
+^en<pr>$ 	 3.85417e+142 	 0 	  ^en<pr>$ ^2005<num>$
+^en<pr>$ 	 3.85417e+142 	 0 	  ^en<pr>$ ^2005<num>$ ^,<cm>$
+^exterior<adj><mf><sg>$ 	 6.25484e+33 	 0 	  ^política<n><f><sg>$ ^exterior<adj><mf><sg>$
+^por<pr>$ 	 4.55557e+77 	 0 	  ^por<pr>$ ^el<det><def><f><sg>$
+^precio<n><m><pl>$ 	 2.29915 	 0 	  ^el<det><def><m><pl>$ ^precio<n><m><pl>$
+^precio<n><m><pl>$ 	 2.55414 	 0 	  ^precio<n><m><pl>$ ^de<pr>$
+^precio<n><m><pl>$ 	 2.55414 	 0 	  ^el<det><def><m><pl>$ ^precio<n><m><pl>$ ^de<pr>$
+^precio<n><m><pl>$ 	 2.55414 	 0 	  ^con<pr>$ ^el<det><def><m><pl>$ ^precio<n><m><pl>$
+^precio<n><m><pl>$ 	 2.55414 	 0 	  ^precio<n><m><pl>$ ^de<pr>$ ^el<det><def><m><sg>$
+^precio<n><m><pl>$ 	 1.15802 	 1 	  ^el<det><def><m><pl>$ ^precio<n><m><pl>$
+^precio<n><m><pl>$ 	 2.55414 	 0 	  ^precio<n><m><pl>$ ^más<preadv>$
+^precio<n><m><pl>$ 	 2.55414 	 0 	  ^que<cnjsub>$ ^el<det><def><m><pl>$ ^precio<n><m><pl>$
+^precio<n><m><pl>$ 	 2.55414 	 0 	  ^precio<n><m><pl>$ ^más<preadv>$ ^alto<adj><m><pl>$
+^precio<n><m><pl>$ 	 2.04556 	 1 	  ^precio<n><m><pl>$ ^,<cm>$
