@@ -7,7 +7,7 @@ DATA="/home/vivek/Documents/FOSS/apertium/user-friendly-lexical-training/coding_
 LEX_TOOLS="/home/vivek/Documents/FOSS/apertium/apertium-lex-tools"
 SCRIPTS="$LEX_TOOLS/scripts"
 # MOSESDECODER="/home/vivek/Documents/FOSS/apertium/mosesdecoder/scripts/training"
-TRAINING_LINES=300
+TRAINING_LINES=10
 
 
 if [ ! -d data-$SL-$TL ]; then 
@@ -15,13 +15,13 @@ if [ ! -d data-$SL-$TL ]; then
 fi
 
 # TAG CORPUS
-cat "$CORPUS.$PAIR.$SL" | head -n $TRAINING_LINES | apertium -d "$DATA" $SL-$TL-tagger \
+cat "$CORPUS.$SL-$TL.$SL" | head -n $TRAINING_LINES | apertium -d "$DATA" $SL-$TL-tagger \
 	| apertium-pretransfer > data-$SL-$TL/$CORPUS.tagged.$SL;
 
-cat "$CORPUS.$PAIR.$TL" | head -n $TRAINING_LINES | apertium -d "$DATA" $TL-$SL-tagger \
+cat "$CORPUS.$SL-$TL.$TL" | head -n $TRAINING_LINES | apertium -d "$DATA" $TL-$SL-tagger \
 	| apertium-pretransfer > data-$SL-$TL/$CORPUS.tagged.$TL;
 
-N=`wc -l $CORPUS.$PAIR.$SL | cut -d ' ' -f 1`
+N=`wc -l $CORPUS.$SL-$TL.$SL | cut -d ' ' -f 1`
 
 
 # REMOVE LINES WITH NO ANALYSES
