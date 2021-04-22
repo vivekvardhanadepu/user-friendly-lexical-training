@@ -3,465 +3,150 @@ ARG=d
 ARG=o
 ARG=v
 INITIAL PASS 
-expected target length = source length * 1.10905
+expected target length = source length * 1.08726
 ITERATION 1
-  log_e likelihood: -162325
-  log_2 likelihood: -234186
+  log_e likelihood: -4165.38
+  log_2 likelihood: -6009.37
      cross entropy: 29.8974
         perplexity: 1e+09
       posterior p0: 0.08
- posterior al-feat: -0.166388
-       size counts: 220
+ posterior al-feat: -0.169159
+       size counts: 10
 ITERATION 2
-  log_e likelihood: -60488.5
-  log_2 likelihood: -87266.5
-     cross entropy: 11.1409
-        perplexity: 2258.08
-      posterior p0: 0.115142
- posterior al-feat: -0.0949602
-       size counts: 220
-  1  model al-feat: -0.155262 (tension=4)
-  2  model al-feat: -0.131671 (tension=5.20604)
-  3  model al-feat: -0.119985 (tension=5.94026)
-  4  model al-feat: -0.112991 (tension=6.44076)
-  5  model al-feat: -0.10838 (tension=6.80137)
-  6  model al-feat: -0.105161 (tension=7.06977)
-  7  model al-feat: -0.102828 (tension=7.2738)
-  8  model al-feat: -0.101091 (tension=7.43114)
-     final tension: 7.55376
+  log_e likelihood: -1573.48
+  log_2 likelihood: -2270.05
+     cross entropy: 11.2938
+        perplexity: 2510.56
+      posterior p0: 0.112833
+ posterior al-feat: -0.0692034
+       size counts: 10
+  1  model al-feat: -0.150821 (tension=4)
+  2  model al-feat: -0.121285 (tension=5.63236)
+  3  model al-feat: -0.107041 (tension=6.67399)
+  4  model al-feat: -0.0984243 (tension=7.43074)
+  5  model al-feat: -0.0925884 (tension=8.01516)
+  6  model al-feat: -0.0883596 (tension=8.48286)
+  7  model al-feat: -0.0851552 (tension=8.86598)
+  8  model al-feat: -0.082649 (tension=9.18502)
+     final tension: 9.45393
 ITERATION 3
-  log_e likelihood: -31174.3
-  log_2 likelihood: -44974.9
-     cross entropy: 5.74173
-        perplexity: 53.5096
-      posterior p0: 0.0814234
- posterior al-feat: -0.071149
-       size counts: 220
-  1  model al-feat: -0.0997742 (tension=7.55376)
-  2  model al-feat: -0.0940218 (tension=8.12626)
-  3  model al-feat: -0.0898505 (tension=8.58372)
-  4  model al-feat: -0.0866893 (tension=8.95775)
-  5  model al-feat: -0.0842177 (tension=9.26855)
-  6  model al-feat: -0.0822402 (tension=9.52992)
-  7  model al-feat: -0.0806298 (tension=9.75175)
-  8  model al-feat: -0.0793001 (tension=9.94136)
-     final tension: 10.1044
+  log_e likelihood: -607.107
+  log_2 likelihood: -875.87
+     cross entropy: 4.35756
+        perplexity: 20.5002
+      posterior p0: 0.0989891
+ posterior al-feat: -0.0535643
+       size counts: 10
+  1  model al-feat: -0.0806423 (tension=9.45393)
+  2  model al-feat: -0.0768695 (tension=9.99549)
+  3  model al-feat: -0.0738825 (tension=10.4616)
+  4  model al-feat: -0.0714545 (tension=10.868)
+  5  model al-feat: -0.0694406 (tension=11.2258)
+  6  model al-feat: -0.0677432 (tension=11.5433)
+  7  model al-feat: -0.0662939 (tension=11.8269)
+  8  model al-feat: -0.0650431 (tension=12.0815)
+     final tension: 12.311
 ITERATION 4
-  log_e likelihood: -27463.3
-  log_2 likelihood: -39621.2
-     cross entropy: 5.05824
-        perplexity: 33.3183
-      posterior p0: 0.0788708
- posterior al-feat: -0.0636627
-       size counts: 220
-  1  model al-feat: -0.0781898 (tension=10.1044)
-  2  model al-feat: -0.076283 (tension=10.3949)
-  3  model al-feat: -0.0746973 (tension=10.6473)
-  4  model al-feat: -0.0733618 (tension=10.868)
-  5  model al-feat: -0.0722252 (tension=11.062)
-  6  model al-feat: -0.0712496 (tension=11.2333)
-  7  model al-feat: -0.0704061 (tension=11.385)
-  8  model al-feat: -0.0696724 (tension=11.5199)
-     final tension: 11.6401
+  log_e likelihood: -494.152
+  log_2 likelihood: -712.911
+     cross entropy: 3.54682
+        perplexity: 11.6869
+      posterior p0: 0.098804
+ posterior al-feat: -0.051271
+       size counts: 10
+  1  model al-feat: -0.063954 (tension=12.311)
+  2  model al-feat: -0.0627912 (tension=12.5647)
+  3  model al-feat: -0.0617704 (tension=12.7951)
+  4  model al-feat: -0.0608678 (tension=13.0051)
+  5  model al-feat: -0.0600652 (tension=13.197)
+  6  model al-feat: -0.0593478 (tension=13.3729)
+  7  model al-feat: -0.0587036 (tension=13.5344)
+  8  model al-feat: -0.0581228 (tension=13.6831)
+     final tension: 13.8201
 ITERATION 5 (FINAL)
-  log_e likelihood: -26452.4
-  log_2 likelihood: -38162.7
-     cross entropy: 4.87205
-        perplexity: 29.2841
+  log_e likelihood: -467.886
+  log_2 likelihood: -675.018
+     cross entropy: 3.3583
+        perplexity: 10.2553
       posterior p0: 0
  posterior al-feat: 0
-       size counts: 220
+       size counts: 10
 ARG=i
 ARG=d
 ARG=o
 ARG=v
 ARG=r
 INITIAL PASS 
-expected target length = source length * 0.919913
+expected target length = source length * 0.942552
 ITERATION 1
-  log_e likelihood: -146907
-  log_2 likelihood: -211942
+  log_e likelihood: -3688.74
+  log_2 likelihood: -5321.73
      cross entropy: 29.8974
         perplexity: 1e+09
       posterior p0: 0.08
- posterior al-feat: -0.166902
-       size counts: 220
+ posterior al-feat: -0.170142
+       size counts: 10
 ITERATION 2
-  log_e likelihood: -57288.2
-  log_2 likelihood: -82649.4
-     cross entropy: 11.6588
-        perplexity: 3233.37
-      posterior p0: 0.119215
- posterior al-feat: -0.0978066
-       size counts: 220
-  1  model al-feat: -0.189683 (tension=4)
-  2  model al-feat: -0.147314 (tension=5.83753)
-  3  model al-feat: -0.13077 (tension=6.82767)
-  4  model al-feat: -0.121531 (tension=7.48694)
-  5  model al-feat: -0.115604 (tension=7.96142)
-  6  model al-feat: -0.111505 (tension=8.31737)
-  7  model al-feat: -0.108534 (tension=8.59135)
-  8  model al-feat: -0.106311 (tension=8.8059)
-     final tension: 8.976
+  log_e likelihood: -1547.64
+  log_2 likelihood: -2232.78
+     cross entropy: 12.5437
+        perplexity: 5970.77
+      posterior p0: 0.0988525
+ posterior al-feat: -0.0870821
+       size counts: 10
+  1  model al-feat: -0.193032 (tension=4)
+  2  model al-feat: -0.144731 (tension=6.11899)
+  3  model al-feat: -0.126542 (tension=7.27196)
+  4  model al-feat: -0.116357 (tension=8.06116)
+  5  model al-feat: -0.109748 (tension=8.64667)
+  6  model al-feat: -0.105101 (tension=9.09998)
+  7  model al-feat: -0.101668 (tension=9.46037)
+  8  model al-feat: -0.0990425 (tension=9.75209)
+     final tension: 9.99129
 ITERATION 3
-  log_e likelihood: -28669.7
-  log_2 likelihood: -41361.6
-     cross entropy: 5.83461
-        perplexity: 57.0681
-      posterior p0: 0.0704579
- posterior al-feat: -0.0710496
-       size counts: 220
-  1  model al-feat: -0.10461 (tension=8.976)
-  2  model al-feat: -0.0983795 (tension=9.64721)
-  3  model al-feat: -0.0938131 (tension=10.1938)
-  4  model al-feat: -0.090313 (tension=10.6491)
-  5  model al-feat: -0.0875442 (tension=11.0343)
-  6  model al-feat: -0.085302 (tension=11.3642)
-  7  model al-feat: -0.0834532 (tension=11.6493)
-  8  model al-feat: -0.081907 (tension=11.8974)
-     final tension: 12.1145
+  log_e likelihood: -588.852
+  log_2 likelihood: -849.535
+     cross entropy: 4.77267
+        perplexity: 27.3348
+      posterior p0: 0.0524184
+ posterior al-feat: -0.0716951
+       size counts: 10
+  1  model al-feat: -0.0969852 (tension=9.99129)
+  2  model al-feat: -0.0928957 (tension=10.4971)
+  3  model al-feat: -0.0897164 (tension=10.9211)
+  4  model al-feat: -0.0871755 (tension=11.2815)
+  5  model al-feat: -0.0851021 (tension=11.5911)
+  6  model al-feat: -0.0833826 (tension=11.8593)
+  7  model al-feat: -0.0819379 (tension=12.093)
+  8  model al-feat: -0.0807114 (tension=12.2979)
+     final tension: 12.4782
 ITERATION 4
-  log_e likelihood: -25001
-  log_2 likelihood: -36068.8
-     cross entropy: 5.08799
-        perplexity: 34.0124
-      posterior p0: 0.0663022
- posterior al-feat: -0.0649813
-       size counts: 220
-  1  model al-feat: -0.080599 (tension=12.1145)
-  2  model al-feat: -0.0787878 (tension=12.4269)
-  3  model al-feat: -0.0772521 (tension=12.703)
-  4  model al-feat: -0.0759358 (tension=12.9484)
-  5  model al-feat: -0.0747974 (tension=13.1675)
-  6  model al-feat: -0.0738055 (tension=13.3638)
-  7  model al-feat: -0.0729358 (tension=13.5403)
-  8  model al-feat: -0.0721689 (tension=13.6994)
-     final tension: 13.8431
+  log_e likelihood: -469.097
+  log_2 likelihood: -676.763
+     cross entropy: 3.80204
+        perplexity: 13.9485
+      posterior p0: 0.0433478
+ posterior al-feat: -0.0698301
+       size counts: 10
+  1  model al-feat: -0.0796611 (tension=12.4782)
+  2  model al-feat: -0.078546 (tension=12.6748)
+  3  model al-feat: -0.0775826 (tension=12.8492)
+  4  model al-feat: -0.0767449 (tension=13.0042)
+  5  model al-feat: -0.0760126 (tension=13.1425)
+  6  model al-feat: -0.0753693 (tension=13.2662)
+  7  model al-feat: -0.074802 (tension=13.3769)
+  8  model al-feat: -0.0742998 (tension=13.4764)
+     final tension: 13.5658
 ITERATION 5 (FINAL)
-  log_e likelihood: -24178.6
-  log_2 likelihood: -34882.4
-     cross entropy: 4.92064
-        perplexity: 30.2872
+  log_e likelihood: -441.358
+  log_2 likelihood: -636.745
+     cross entropy: 3.57722
+        perplexity: 11.9357
       posterior p0: 0
  posterior al-feat: 0
-       size counts: 220
-error in line 6
-error in line 7
-error in line 11
-error in line 14
-error in line 16
-not ambiguous: 4 20 38 59 68 69 70 72 75 82
-not ambiguous: 100 103 125 129 132 135 149 158 164 173
-not ambiguous: 186 194 195 204 209 218 232 237 243 278
-total: 301
-valid: 262 (87.04318936877077%)
-errors: 5 (1.6611295681063125%)
-error: de<pr> != gen
-error: de<pr> != guio
-error: de<pr> != det
-error: de<pr> != adj
-error: de<pr> != prn
-error: de<pr> != adj
-error: de<pr> != adj
-error: de<pr> != prn
-error: de<pr> != adv
-error: de<pr> != n
-error: de<pr> != adv
-error: de<pr> != adj
-error: de<pr> != adj
-error: de<pr> != adv
-error: de<pr> != vblex
-error: de<pr> != vblex
-error: de<pr> != adj
-error: de<pr> != n
-error: de<pr> != adj
-error: de<pr> != n
-error: de<pr> != n
-error: de<pr> != adv
-error: de<pr> != vbdo
-error: de<pr> != n
-error: de<pr> != n
-error: de<pr> != adv
-error: de<pr> != det
-error: de<pr> != n
-error: de<pr> != vblex
-error: de<pr> != adv
-error: de<pr> != vbhaver
-error: de<pr> != vblex
-error: tl word unknown *Thawte<>
-error: de<pr> != adj
-error: tl word unknown *XCOR<>
-error: de<pr> != vblex
-error: tl word unknown *Intel<>
-error: de<pr> != n
-error: de<pr> != adj
-error: tl word unknown *Greason<>
-error: de<pr> != n
-error: de<pr> != adj
-error: de<pr> != n
-error: de<pr> != n
-error: tl word unknown *Bezos<>
-error: de<pr> != num
-error: de<pr> != vblex
-error: tl word unknown *PayPal<>
-error: de<pr> != n
-error: tl word unknown *Elon<>
-error: de<pr> != adv
-error: de<pr> != n
-error: de<pr> != vblex
-error: de<pr> != n
-error: de<pr> != det
-error: de<pr> != vblex
-error: de<pr> != adv
-error: de<pr> != vblex
-error: de<pr> != n
-error: de<pr> != n
-error: de<pr> != np
-error: de<pr> != n
-error: de<pr> != n
-error: de<pr> != n
-error: de<pr> != n
-error: de<pr> != n
-error: de<pr> != adj
-error: de<pr> != n
-error: de<pr> != n
-error: de<pr> != adj
-error: de<pr> != n
-error: de<pr> != adj
-error: de<pr> != n
-error: de<pr> != vblex
-error: de<pr> != n
-error: de<pr> != adj
-error: de<pr> != vblex
-error: de<pr> != n
-error: de<pr> != vblex
-error: de<pr> != vblex
-error: de<pr> != n
-error: de<pr> != n
-error: de<pr> != det
-error: de<pr> != n
-error: de<pr> != n
-error: de<pr> != num
-error: de<pr> != n
-error: de<pr> != adj
-error: de<pr> != n
-error: de<pr> != n
-error: de<pr> != vblex
-error: de<pr> != vblex
-error: de<pr> != adj
-error: de<pr> != n
-error: de<pr> != adj
-error: de<pr> != vblex
-error: de<pr> != vblex
-error: de<pr> != adj
-error: de<pr> != num
-error: de<pr> != vblex
-error: de<pr> != n
-error: de<pr> != n
-error: tl word unknown *subdued<>
-error: de<pr> != n
-error: de<pr> != n
-error: de<pr> != n
-error: tl word unknown *reorientation<>
-error: de<pr> != vblex
-error: de<pr> != vblex
-error: tl word unknown *COMECON<>
-error: de<pr> != n
-error: de<pr> != n
-error: tl word unknown *policymakers<>
-error: de<pr> != adj
-error: de<pr> != guio
-error: de<pr> != n
-error: de<pr> != n
-error: de<pr> != n
-error: de<pr> != n
-error: de<pr> != n
-error: de<pr> != n
-error: tl word unknown *presumed<>
-error: de<pr> != n
-error: de<pr> != adv
-error: de<pr> != adj
-error: de<pr> != det
-error: de<pr> != det
-error: de<pr> != adj
-error: de<pr> != n
-error: de<pr> != vblex
-error: tl word unknown *exceptionalism<>
-error: de<pr> != n
-error: de<pr> != vblex
-error: tl word unknown *patriarchal<>
-error: de<pr> != n
-error: de<pr> != vblex
-error: de<pr> != n
-error: de<pr> != n
-error: de<pr> != adj
-error: de<pr> != vblex
-error: de<pr> != n
-error: de<pr> != adj
-error: de<pr> != n
-error: de<pr> != n
-error: de<pr> != n
-error: tl word unknown *warlordism<>
-error: tl word unknown *rampant<>
-error: de<pr> != adj
-error: de<pr> != adj
-error: de<pr> != n
-error: de<pr> != n
-error: de<pr> != vblex
-error: tl word unknown *EIB<>
-error: de<pr> != n
-error: de<pr> != n
-error: de<pr> != np
-error: de<pr> != n
-error: de<pr> != adv
-error: de<pr> != vblex
-error: de<pr> != n
-error: de<pr> != num
-error: de<pr> != vblex
-error: de<pr> != n
-error: de<pr> != n
-error: de<pr> != n
-error: de<pr> != n
-error: de<pr> != sent
-error: de<pr> != vblex
-error: de<pr> != vblex
-error: de<pr> != adj
-error: de<pr> != n
-error: de<pr> != vbdo
-error: de<pr> != adj
-error: de<pr> != adv
-error: de<pr> != adv
-error: de<pr> != n
-error: tl word unknown *corrective<>
-error: precio<n><m><pl> != adj
-error: colega<n><mf><pl> != np
-error: precio<n><m><sg> != adv
-error: precio<n><m><sg> != pr
-error: aumentar<vblex><ifi><p3><sg> != adj
-error: aumentar<vblex><ifi><p3><sg> != pr
-error: por<pr> != guio
-error: por<pr> != vblex
-error: por<pr> != n
-error: tl word unknown *languished<>
-error: parecer<vblex><pri><p3><sg> != prn
-error: tl word unknown *arguably<>
-error: respuesta<n><f><sg> != vblex
-error: respuesta<n><f><sg> != prn
-error: tl word unknown *soaring<>
-error: compromiso<n><m><pl> != adv
-error: en<pr> != det
-error: en<pr> != adv
-error: en<pr> != det
-error: en<pr> != adv
-error: en<pr> != cnjcoo
-error: en<pr> != prn
-error: en<pr> != adj
-error: en<pr> != cm
-error: en<pr> != det
-error: en<pr> != adj
-error: en<pr> != np
-error: en<pr> != vblex
-error: en<pr> != adj
-error: tl word unknown *BC<>
-error: en<pr> != n
-error: en<pr> != np
-error: en<pr> != n
-error: en<pr> != adv
-error: tl word unknown *jeopardize<>
-error: en<pr> != adv
-error: en<pr> != adv
-error: en<pr> != n
-error: en<pr> != num
-error: en<pr> != n
-error: en<pr> != n
-error: en<pr> != vbser
-error: en<pr> != n
-error: historia<n><f><sg> != adj
-error: pasar<vblex><inf> != vaux
-error: marcha<n><f><sg> != adj
-error: ascendente<adj><mf><sg> != n
-error: considerar<vblex><pri><p1><pl> != prn
-error: ganar<vblex><pri><p3><pl> != n
-error: aumentar<vblex><pri><p3><sg> != n
-error: tasa<n><f><pl> != adj
-error: tasa<n><f><pl> != vblex
-error: económico<adj><f><sg> != n
-error: plazo<n><m><sg> != guio
-error: anterior<adj><mf><pl> != cnjadv
-error: decir<vblex><pri><p1><sg> != prn
-error: adhesión<n><f><sg> != vblex
-error: relación<n><f><pl> != vblex
-error: tl word unknown *sulkily<>
-error: concreto<adj><m><sg> != n
-error: participación<n><f><sg> != vblex
-error: aspirar<vblex><pri><p3><pl> != n
-error: moneda<n><f><sg> != adv
-error: esperar<vblex><prs><p1><pl> != n
-error: al respecto<cnjadv> != n
-error: mantener<vblex><pri><p3><sg> != adj
-error: mantener<vblex><pri><p3><sg> != adj
-error: enfrentar<vblex><pri><p3><sg> != vbser
-error: agudo<adj><f><sg> != pr
-error: tl word unknown *highs<>
-error: tl word unknown *resumes<>
-error: aumentar<vblex><ger> != n
-error: aumentar<vblex><ger> != n
-error: gasto<n><m><sg> != vblex
-error: fomentar<vblex><inf> != adv
-error: tl word unknown *permitting<>
-error: hora<n><f><pl> != adj
-error: hora<n><f><pl> != vblex
-error: tl word unknown *shakeout<>
-error: empleo<n><m><pl> != adj
-error: aumentar<vblex><cni><p3><sg> != adv
-error: resumen<n><m><sg> != adj
-error: tl word unknown *Netherlands<>
-error: mantener<vblex><inf> != n
-error: mantener<vblex><inf> != cnjadv
-error: real<adj><mf><sg> != vblex
-error: esfuerzo<n><m><pl> != vblex
-error: llevar<vblex><pri><p3><sg> != prn
-error: bajo<adj><f><pl> != num
-error: bajo<adj><f><pl> != adv
-error: encabezar<vblex><pp><f><sg> != np
-error: régimen<n><m><sg> != np
-error: escenario<n><m><sg> != np
-error: escenario<n><m><sg> != adj
-error: escenario<n><m><sg> != vblex
-error: escenario<n><m><sg> != np
-error: escenario<n><m><sg> != vblex
-error: escenario<n><m><sg> != vblex
-error: parecer<vblex><pri><p3><pl> != pr
-error: campo<n><m><sg> != adj
-error: campo<n><m><sg> != vblex
-error: tl word unknown *athism<>
-error: retroceder<vblex><ifi><p3><sg> != n
-error: salida<n><f><sg> != adj
-error: salida<n><f><sg> != adj
-error: tl word unknown *bogus<>
-error: perder<vblex><ifi><p3><sg> != rel
-error: considerar<vblex><prs><p3><sg> != n
-error: inestimable<adj><mf><sg> != n
-error: consecuencia<n><f><sg> != adj
-error: materia<n><f><sg> != vblex
-error: exterior<adj><mf><sg> != n
-error: tl word unknown *doorways<>
-error: motivo<n><m><sg> != det
-error: molesto<adj><m><sg> != n
-error: progreso<n><m><sg> != pr
-error: estudio<n><m><pl> != adj
-error: alto<adj><f><sg> != adv
-error: estimar<vblex><pri><p3><sg> != adj
-error: temer<vblex><pri><p3><pl> != n
-error: estimar<vblex><pri><p3><pl> != n
-error: menor<adj><mf><pl> != n
-error: ampliamente<adv> != n
-error: época<n><f><sg> != det
-error: bloque<n><m><sg> != adj
-error: salir<vblex><inf> != n
-error: superar<vblex><prs><p3><sg> != n
-error: superar<vblex><prs><p3><sg> != adv
-error: entrenar<vblex><ger> != np
-error: pasar<vblex><pis><p3><sg> != n
-error: pasar<vblex><pis><p3><sg> != pr
-error: tarde<n><f><sg> != num
+       size counts: 10
+error in line 6 :  string index out of range
+error in line 7 :  string index out of range
+total: 11
+valid: 5 (45.45454545454545%)
+errors: 2 (18.181818181818183%)

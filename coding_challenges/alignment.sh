@@ -3,12 +3,11 @@ PAIR="eng-spa"
 SL="eng"
 TL="spa"
 
+PROJ_HOME="/home/vivek/Documents/FOSS/apertium/user-friendly-lexical-training/coding_challenges"
 LEX_TOOLS="/home/vivek/Documents/FOSS/apertium/apertium-lex-tools"
 SCRIPTS="$LEX_TOOLS/scripts"
-PROJ_HOME="/home/vivek/Documents/FOSS/apertium/user-friendly-lexical-training/coding_challenges"
 FAST_ALIGN="$PROJ_HOME/fast_align/build"
 DATA="$PROJ_HOME/apertium-$PAIR"
-# TRAINING_LINES=100
 
 # MOSESDECODER="/home/vivek/Documents/FOSS/apertium/mosesdecoder/scripts/training"
 # BIN_DIR="/home/vivek/Documents/FOSS/apertium/GIZA++/bin"
