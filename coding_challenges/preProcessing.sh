@@ -7,7 +7,7 @@ DATA="/home/vivek/Documents/FOSS/apertium/user-friendly-lexical-training/coding_
 LEX_TOOLS="/home/vivek/Documents/FOSS/apertium/apertium-lex-tools"
 SCRIPTS="$LEX_TOOLS/scripts"
 # MOSESDECODER="/home/vivek/Documents/FOSS/apertium/mosesdecoder/scripts/training"
-TRAINING_LINES=10
+TRAINING_LINES=100
 
 
 if [ ! -d data-$SL-$TL ]; then 

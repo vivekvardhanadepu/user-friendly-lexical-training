@@ -1,229 +1,29 @@
-\^camino<n><m><sg>\$
-1 1 1
-I: 25 F: 6
-1 1 1
-I: 1 F: 0
-I': 0
-0. pp: 0.408248 er: 0.5 erx: 0.5 ppx: 0.408248
-1. pp: 0.408248 er: 0.5 erx: 0.5 ppx: 0.408248
-\^conferencia<n><f><sg>\$
-1 1 1
-I: 37 F: 6
-1 1 1
-I: 1 F: 0
-I': 0
-0. pp: 0.19245 er: 0.5 erx: 0.5 ppx: 0.19245
-1. pp: 0.19245 er: 0.5 erx: 0.5 ppx: 0.19245
-\^de<pr>\$
-1 1 1
-I: 4719 F: 6
-1 1 1
-I: 45 F: 6
-0. pp: 0.126271 er: 1 erx: 1 ppx: 0.126271
-1. pp: 0.216549 er: 1 erx: 1 ppx: 0.216549
-2. pp: 0.153824 er: 1 erx: 1 ppx: 0.153824
-3. pp: 2.23013e-06 er: 1 erx: 1 ppx: 2.23013e-06
-4. pp: 0 er: 0.976923 erx: 0.976923 ppx: -nan
-\^en<pr>\$
-1 1 1
-I: 1949 F: 6
-1 1 1
-I: 22 F: 2
-0. pp: 0.219179 er: 0.989691 erx: 0.989691 ppx: 0.219179
-1. pp: 0.453081 er: 0.989691 erx: 0.989691 ppx: 0.453081
-2. pp: 0.133291 er: 0.989691 erx: 0.989691 ppx: 0.133291
-3. pp: 0.000411827 er: 0.989691 erx: 0.989691 ppx: 0.000411827
-4. pp: 5.55352e-14 er: 0.989691 erx: 0.989691 ppx: 5.55352e-14
-\^exterior<adj><mf><sg>\$
-1 1 1
-I: 23 F: 6
-1 1 1
-I: 2 F: 1
-0. pp: 0.43679 er: 0.666667 erx: 0.666667 ppx: 0.43679
-1. pp: 0.480687 er: 0.666667 erx: 0.666667 ppx: 0.480687
-2. pp: 0.260074 er: 0.666667 erx: 0.666667 ppx: 0.260074
-3. pp: 0.0486796 er: 0.666667 erx: 0.666667 ppx: 0.0486796
-4. pp: 0.00164344 er: 0.666667 erx: 0.666667 ppx: 0.00164344
-5. pp: 1.87269e-06 er: 0.666667 erx: 0.666667 ppx: 1.87269e-06
-\^interpretación<n><f><sg>\$
-1 1 1
-I: 13 F: 6
-1 1 1
-I: 1 F: 0
-I': 0
-0. pp: 0.333333 er: 0 erx: 0 ppx: 0.333333
-1. pp: 0.333333 er: 0 erx: 0 ppx: 0.333333
-\^mayor<adj><mf><sg>\$
-1 1 1
-I: 49 F: 6
-1 1 1
-I: 1 F: 0
-I': 0
-0. pp: 0.408248 er: 0.5 erx: 0.5 ppx: 0.408248
-1. pp: 0.408248 er: 0.5 erx: 0.5 ppx: 0.408248
-\^mejorar<vblex><inf>\$
-1 1 1
-I: 21 F: 6
-1 1 1
-I: 1 F: 0
-I': 0
-0. pp: 0.408248 er: 0.5 erx: 0.5 ppx: 0.408248
-1. pp: 0.408248 er: 0.5 erx: 0.5 ppx: 0.408248
-\^permisible<adj><mf><sg>\$
-1 1 1
-I: 13 F: 6
-1 1 1
-I: 1 F: 0
-I': 0
-0. pp: 0.333333 er: 0 erx: 0 ppx: 0.333333
-1. pp: 0.333333 er: 0 erx: 0 ppx: 0.333333
-\^plazo<n><m><sg>\$
-1 1 1
-I: 23 F: 6
-1 1 1
-I: 1 F: 0
-I': 0
-0. pp: 0.408248 er: 0.5 erx: 0.5 ppx: 0.408248
-1. pp: 0.408248 er: 0.5 erx: 0.5 ppx: 0.408248
-\^por<pr>\$
-1 1 1
-I: 274 F: 6
-1 1 1
-I: 2 F: 1
-0. pp: 0.247691 er: 0.875 erx: 0.875 ppx: 0.247691
-1. pp: 0.235612 er: 0.875 erx: 0.875 ppx: 0.235612
-2. pp: 0.0237249 er: 0.875 erx: 0.875 ppx: 0.0237249
-3. pp: 1.24785e-05 er: 0.875 erx: 0.875 ppx: 1.24785e-05
-4. pp: 1.80249e-15 er: 0.875 erx: 0.875 ppx: 1.80249e-15
-\^precio<n><m><pl>\$
-1 1 1
-I: 157 F: 6
-1 1 1
-I: 11 F: 5
-0. pp: 0.290883 er: 1 erx: 1 ppx: 0.290883
-1. pp: 0.287581 er: 1 erx: 1 ppx: 0.287581
-^de<pr>$ 0 ^of<pr>$
-^de<pr>$ 1 ^from<pr>$
-^de<pr>$ 2 ^in<pr>$
-^de<pr>$ 3 ^to<pr>$
-^de<pr>$ 4 ^as a result of<pr>$
-^de<pr>$ 5 ^at<pr>$
-^de<pr>$ 6 ^under<pr>$
-^precio<n><m><pl>$ 0 ^price<n><pl>$
-^precio<n><m><pl>$ 1 ^price<n><sg>$
-^precio<n><m><pl>$ 2 ^swing<n><pl>$
-^precio<n><m><sg>$ 0 ^price<n><sg>$
-^aumentar<vblex><ifi><p3><sg>$ 0 ^move<vblex><pp>$
-^por<pr>$ 0 ^by<pr>$
-^por<pr>$ 1 ^for<pr>$
-^por<pr>$ 2 ^of<pr>$
-^índice<n><m><sg>$ 0 ^index<n><sg>$
-^marca<n><f><sg>$ 0 ^mark<n><sg>$
-^parecer<vblex><pri><p3><sg>$ 0 ^seem<vblex><pri><p3><sg>$
-^déficit<n><m><pl>$ 0 ^deficit<n><sg>$
-^política<n><f><sg>$ 0 ^policy<n><sg>$
-^compromiso<n><m><pl>$ 0 ^commitment<n><pl>$
-^en<pr>$ 0 ^in<pr>$
-^en<pr>$ 1 ^on<pr>$
-^en<pr>$ 2 ^into<pr>$
-^en<pr>$ 3 ^from<pr>$
-^historia<n><f><sg>$ 0 ^history<n><sg>$
-^pasar<vblex><inf>$ 0 ^spend<vblex><inf>$
-^decir<vblex><pp><m><sg>$ 0 ^argue<vblex><pp>$
-^ascendente<adj><mf><sg>$ 0 ^upward<adj>$
-^considerar<vblex><pri><p1><pl>$ 0 ^find<vblex><pres>$
-^considerar<vblex><pri><p1><pl>$ 1 ^consider<vblex><inf>$
-^tasa<n><f><pl>$ 0 ^rate<n><pl>$
-^invertir<vblex><inf>$ 0 ^invest<vblex><ger>$
-^real<adj><mf><pl>$ 0 ^real<adj>$
-^investigación<n><f><sg>$ 0 ^research<n><sg>$
-^económico<adj><f><sg>$ 0 ^economic<adj>$
-^plazo<n><m><sg>$ 0 ^term<n><sg>$
-^plazo<n><m><sg>$ 1 ^trend<n><pl>$
-^reunir<vblex><ifi><p3><pl>$ 0 ^meet<vblex><past>$
-^vacío<adj><f><sg>$ 0 ^empty<adj><sint>$
-^dirección<n><f><sg>$ 0 ^direction<n><sg>$
-^decir<vblex><pri><p1><sg>$ 0 ^say<vblex><pres>$
-^partido<n><m><sg>$ 0 ^party<n><sg>$
-^relación<n><f><pl>$ 0 ^relation<n><pl>$
-^echar<vblex><inf>$ 0 ^adopt<vblex><inf>$
-^único<adj><f><sg>$ 0 ^single<adj>$
-^política<n><f><pl>$ 0 ^policy<n><pl>$
-^fomentar<vblex><pri><p3><sg>$ 0 ^encourage<vblex><pri><p3><sg>$
-^quedar<vblex><prs><p3><sg>$ 0 ^fall<vblex><inf>$
-^carta<n><f><sg>$ 0 ^agreement<n><sg>$
-^mayor<adj><mf><sg>$ 0 ^great<adj><sint><comp>$
-^mayor<adj><mf><sg>$ 1 ^far<adj><sint><comp>$
-^liberar<vblex><inf>$ 0 ^break<vblex><inf>$
-^tirar<vblex><imp><p2><sg>$ 0 ^institutionalise<vblex><pp>$
-^destino<n><m><sg>$ 0 ^destination<n><sg>$
-^alcanzar<vblex><inf>$ 0 ^reach<vblex><inf>$
-^dejar<vblex><inf>$ 0 ^stop<vblex><inf>$
-^intentar<vblex><inf>$ 0 ^try<vblex><ger>$
-^disposición<n><f><pl>$ 0 ^content<n><pl>$
-^entre<pr>$ 0 ^between<pr>$
-^libertad<n><f><pl>$ 0 ^liberty<n><pl>$
-^mandato<n><m><sg>$ 0 ^liberty<n><pl>$
-^empleo<n><m><sg>$ 0 ^job<n><pl>$
-^reconocer<vblex><pri><p3><pl>$ 0 ^recognise<vblex><inf>$
-^claro<adj><f><sg>$ 0 ^clear<adj><sint>$
-^falta<n><f><sg>$ 0 ^unemployment<n><sg>$
-^golpear<vblex><fti><p3><sg>$ 0 ^hit<vblex><inf>$
-^atroz<adj><mf><sg>$ 0 ^vicious<adj>$
-^llevar<vblex><fti><p3><sg>$ 0 ^take<vblex><inf>$
-^mantener<vblex><inf>$ 0 ^support<vblex><inf>$
-^real<adj><mf><sg>$ 0 ^real<adj>$
-^mejorar<vblex><inf>$ 0 ^become<vblex><inf>$
-^mejorar<vblex><inf>$ 1 ^improve<vblex><ger>$
-^presidente<n><m><sg>$ 0 ^president<n><sg>$
-^aumentar<vblex><inf>$ 0 ^increase<vblex><ger>$
-^mayor<adj><mf><pl>$ 0 ^high<adj><sint><comp>$
-^tasa<n><f><sg>$ 0 ^exchange rate<n><sg>$
-^salario<n><m><pl>$ 0 ^wage<n><pl>$
-^llevar<vblex><pri><p3><sg>$ 0 ^bring<vblex><pri><p3><sg>$
-^escenario<n><m><sg>$ 0 ^scenario<n><sg>$
-^escenario<n><m><pl>$ 0 ^scenario<n><pl>$
-^perspectiva<n><f><sg>$ 0 ^prospect<n><sg>$
-^estilo<n><m><sg>$ 0 ^style<n><sg>$
-^apoyar<vblex><pp><m><sg>$ 0 ^inform<vblex><pp>$
-^único<adj><m><pl>$ 0 ^sole<adj>$
-^interpretación<n><f><sg>$ 0 ^interpretation<n><sg>$
-^interpretación<n><f><sg>$ 1 ^analysis<n><sg>$
-^camino<n><m><sg>$ 0 ^road<n><sg>$
-^camino<n><m><sg>$ 1 ^path<n><sg>$
-^ocupación<n><f><sg>$ 0 ^force<n><pl>$
-^medio<n><m><pl>$ 0 ^media<n><sg>$
-^exposición<n><f><sg>$ 0 ^presentation<n><sg>$
-^perder<vblex><pp><f><sg>$ 0 ^lose<vblex><pp>$
-^conjunto<n><m><sg>$ 0 ^make-up<n><sg>$
-^gestión<n><f><pl>$ 0 ^effort<n><pl>$
-^exterior<adj><mf><sg>$ 0 ^foreign<adj>$
-^exterior<adj><mf><sg>$ 1 ^turkish<adj>$
-^esperar<vblex><ger>$ 0 ^wait<vblex><ger>$
-^entrada<n><f><sg>$ 0 ^entry<n><sg>$
-^permisible<adj><mf><sg>$ 0 ^permissible<adj>$
-^permisible<adj><mf><sg>$ 1 ^short<adj><sint><sup>$
-^realizar<vblex><pri><p3><pl>$ 0 ^send<vblex><inf>$
-^progreso<n><m><sg>$ 0 ^progress<n><sg>$
-^impresionante<adj><mf><sg>$ 0 ^impressive<adj>$
-^tiempo<n><m><sg>$ 0 ^time<n><sg>$
-^considerar<vblex><inf>$ 0 ^view<vblex><pp>$
-^económico<adj><m><sg>$ 0 ^economic<adj>$
-^comparar<vblex><ifi><p3><pl>$ 0 ^liken<vblex><past>$
-^marcar<vblex><pri><p3><pl>$ 0 ^refer<vblex><inf>$
-^ánimo<n><m><pl>$ 0 ^mood<n><sg>$
-^frente<n><mf><pl>$ 0 ^front<n><pl>$
-^consecuencia<n><f><pl>$ 0 ^consequence<n><pl>$
-^principio<n><m><pl>$ 0 ^principle<n><pl>$
-^partidario<n><m><pl>$ 0 ^supporter<n><pl>$
-^directamente<adv>$ 0 ^outright<adv>$
-^terminar<vblex><ifi><p3><pl>$ 0 ^end# up<vblex><past>$
-^esperar<vblex><inf>$ 0 ^hope<vblex><pres>$
-^experto<n><f><sg>$ 0 ^technology<n><sg>$
-^invertir<vblex><pri><p3><sg>$ 0 ^invest<vblex><pri><p3><sg>$
-^participar<vblex><pii><p3><sg>$ 0 ^involve<vblex><pp>$
-^conferencia<n><f><sg>$ 0 ^conference<n><sg>$
-^conferencia<n><f><sg>$ 1 ^forum<n><sg>$
-^conferencia<n><f><sg>$ 2 ^PC<n><acr><sg>$
-^tarde<n><f><sg>$ 0 ^evening<n><sg>$
-^invertir<vblex><ifi><p1><sg>$ 0 ^invest<vblex><past>$
+rm: cannot remove 'tmp.*': No such file or directory
+Traceback (most recent call last):
+  File "/home/vivek/Documents/FOSS/apertium/apertium-lex-tools/scripts/merge-ngrams-lambdas.py", line 25, in <module>
+    ngid = int(row[0].strip());
+ValueError: invalid literal for int() with base 10: 'Traceback (most recent call last):'
+^move<vblex><pp>$ 0 ^aumentar<vblex><ifi><p3><sg>$
+^mark<n><sg>$ 0 ^índice<n><m><sg>$
+^for<pr>$ 0 ^para<pr>$
+^policy<n><sg>$ 0 ^política<n><f><sg>$
+^printing<n><sg>$ 0 ^administración<n><f><sg>$
+^argue<vblex><inf>$ 0 ^decir<vblex><inf>$
+^bug<n><pl>$ 0 ^analista<n><mf><pl>$
+^as<cnjadv>$ 0 ^mientras<cnjadv>$
+^make<vblex><inf>$ 0 ^fabricar<vblex><inf>$
+^argue<vblex><pp>$ 0 ^decir<vblex><pp><m><sg>$
+^Latin America<np><loc><sg>$ 0 ^Asia<np><loc><f><sg>$
+^appeal<n><sg>$ 0 ^atractivo<n><m><sg>$
+^rate<n><pl>$ 0 ^tasa<n><f><pl>$
+^short<adj><sint>$ 0 ^corto<adj><m><sg>$
+^bank<n><sg>$ 0 ^banco<n><m><sg>$
+^union<n><sg>$ 0 ^duda<n><f><sg>$
+^take<vblex><past>$ 0 ^llevar# a cabo<vblex><ifi><p3><sg>$
+^work<vblex><past>$ 0 ^colaborar<vblex><ifi><p3><sg>$
+^capital<n><sg>$ 0 ^bien<n><m><pl>$
+^area<n><pl>$ 0 ^sector<n><m><pl>$
+^chance<n><sg>$ 0 ^miembro<n><mf><pl>$
+^law<n><sg>$ 0 ^legislación<n><f><sg>$
+^promote<vblex><pp>$ 0 ^promover<vblex><inf>$
+^question<n><sg>$ 0 ^pregunta<n><f><sg>$

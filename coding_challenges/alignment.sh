@@ -42,13 +42,13 @@ cat data-$SL-$TL/$CORPUS.phrasetable.$SL-$TL | sed 's/ ||| /\t/g' | cut -f 3 > t
 # 	| sed 's/~/ /g' | multitrans -b -t $DATA/$TL-$SL.autobil.bin > data-$SL-$TL/$CORPUS.clean-biltrans.$PAIR
 # sed -i -e '1,2d' data-$SL-$TL/$CORPUS.clean-biltrans.$PAIR
 cat data-$SL-$TL/$CORPUS.phrasetable.$SL-$TL | sed 's/ ||| /\t/g' | cut -f 2 \
-	| sed 's/~/ /g' | lt-proc -b $DATA/$SL-$TL.autobil.bin > data-$SL-$TL/$CORPUS.clean-biltrans.$PAIR
+	| sed 's/~/ /g' | lt-proc -b $DATA/$SL-$TL.autobil.bin > data-$SL-$TL/$CORPUS.clean-biltrans.$SL-$TL
 
 paste tmp1 tmp2 tmp3 | sed 's/\t/ ||| /g' > data-$SL-$TL/$CORPUS.phrasetable.$SL-$TL
 rm tmp1 tmp2 tmp3
 
 # SENTENCES
-python3 $SCRIPTS/extract-sentences.py data-$SL-$TL/$CORPUS.phrasetable.$SL-$TL data-$SL-$TL/$CORPUS.clean-biltrans.$PAIR \
+python3 $SCRIPTS/extract-sentences.py data-$SL-$TL/$CORPUS.phrasetable.$SL-$TL data-$SL-$TL/$CORPUS.clean-biltrans.$SL-$TL \
                 > data-$SL-$TL/$CORPUS.candidates.$SL-$TL
 
 # FREQUENCY LEXICON
