@@ -1,0 +1,97 @@
+<rules>
+  <rule c="1 2: 1" weight="1.53212">
+    <match lemma="el" tags="det.def.m.pl"/>
+    <match lemma="precio" tags="n.m.pl"><select lemma="price" tags="n.pl"/></match>
+  </rule>
+  <rule c="2 6: 1" weight="1.68728">
+    <match lemma="precio" tags="n.m.pl"><select lemma="price" tags="n.pl"/></match>
+    <match lemma="de" tags="pr"/>
+  </rule>
+  <rule c="3 10: 1" weight="1.68728">
+    <match lemma="el" tags="det.def.m.pl"/>
+    <match lemma="precio" tags="n.m.pl"><select lemma="price" tags="n.pl"/></match>
+    <match lemma="de" tags="pr"/>
+  </rule>
+  <rule c="4 15: 1" weight="1.68728">
+    <match lemma="con" tags="pr"/>
+    <match lemma="el" tags="det.def.m.pl"/>
+    <match lemma="precio" tags="n.m.pl"><select lemma="price" tags="n.pl"/></match>
+  </rule>
+  <rule c="5 20: 1" weight="1.68728">
+    <match lemma="precio" tags="n.m.pl"><select lemma="price" tags="n.pl"/></match>
+    <match lemma="de" tags="pr"/>
+    <match lemma="el" tags="det.def.m.sg"/>
+  </rule>
+  <rule c="6 25: 1" weight="0.774724">
+    <match lemma="el" tags="det.def.m.pl"/>
+    <match lemma="precio" tags="n.m.pl"><select lemma="price" tags="n.sg"/></match>
+  </rule>
+  <rule c="7 29: 1" weight="1.68728">
+    <match lemma="que" tags="cnjsub"/>
+    <match lemma="el" tags="det.def.m.pl"/>
+    <match lemma="precio" tags="n.m.pl"><select lemma="price" tags="n.pl"/></match>
+  </rule>
+  <rule c="8 34: 1" weight="1.68728">
+    <match lemma="precio" tags="n.m.pl"><select lemma="price" tags="n.pl"/></match>
+    <match lemma="de" tags="pr"/>
+    <match lemma="el" tags="det.def.f.pl"/>
+  </rule>
+  <rule c="9 39: 1" weight="1.68728">
+    <match lemma="precio" tags="n.m.pl"><select lemma="price" tags="n.pl"/></match>
+    <match lemma="más" tags="preadv"/>
+  </rule>
+  <rule c="10 43: 1" weight="1.68728">
+    <match lemma="precio" tags="n.m.pl"><select lemma="price" tags="n.pl"/></match>
+    <match lemma="más" tags="preadv"/>
+    <match lemma="alto" tags="adj.m.pl"/>
+  </rule>
+  <rule c="11 48: 1" weight="1.41664">
+    <match lemma="de" tags="pr"/>
+    <match lemma="precio" tags="n.m.pl"><select lemma="price" tags="n.sg"/></match>
+  </rule>
+  <rule c="12 52: 1" weight="1.3784">
+    <match lemma="el" tags="det.def.f.pl"/>
+    <match lemma="tasa" tags="n.f.pl"><select lemma="rate" tags="n.pl"/></match>
+  </rule>
+  <rule c="13 56: 1" weight="1.3784">
+    <match lemma="tasa" tags="n.f.pl"><select lemma="rate" tags="n.pl"/></match>
+    <match lemma="de" tags="pr"/>
+  </rule>
+  <rule c="14 60: 1" weight="1.25831">
+    <match lemma="el" tags="det.def.f.pl"/>
+    <match lemma="tasa" tags="n.f.pl"><select lemma="rate" tags="n.pl"/></match>
+    <match lemma="de" tags="pr"/>
+  </rule>
+  <rule c="15 65: 1" weight="1.3784">
+    <match lemma="tasa" tags="n.f.pl"><select lemma="rate" tags="n.pl"/></match>
+    <match lemma="de" tags="pr"/>
+    <match lemma="interés" tags="n.m.sg"/>
+  </rule>
+  <rule c="16 70: 1" weight="0.918937">
+    <match lemma="el" tags="det.def.f.pl"/>
+    <match lemma="tasa" tags="n.f.pl"><select lemma="interest" tags="n.sg"/></match>
+  </rule>
+  <rule c="17 74: 1" weight="0.918937">
+    <match lemma="tasa" tags="n.f.pl"><select lemma="interest" tags="n.sg"/></match>
+    <match lemma="de" tags="pr"/>
+  </rule>
+  <rule c="18 78: 1" weight="1.0274">
+    <match lemma="el" tags="det.def.f.pl"/>
+    <match lemma="tasa" tags="n.f.pl"><select lemma="interest" tags="n.sg"/></match>
+    <match lemma="de" tags="pr"/>
+  </rule>
+  <rule c="19 83: 1" weight="0.918937">
+    <match lemma="tasa" tags="n.f.pl"><select lemma="interest" tags="n.sg"/></match>
+    <match lemma="de" tags="pr"/>
+    <match lemma="interés" tags="n.m.sg"/>
+  </rule>
+  <rule c="20 88: 1" weight="1.77951">
+    <match lemma="a" tags="pr"/>
+    <match lemma="tasa" tags="n.f.pl"><select lemma="rate" tags="n.pl"/></match>
+  </rule>
+  <rule c="21 92: 1" weight="1.77951">
+    <match lemma="*endeudarse" tags="."/>
+    <match lemma="a" tags="pr"/>
+    <match lemma="tasa" tags="n.f.pl"><select lemma="rate" tags="n.pl"/></match>
+  </rule>
+</rules>
