@@ -3,350 +3,340 @@ ARG=d
 ARG=o
 ARG=v
 INITIAL PASS 
-expected target length = source length * 0.909061
+expected target length = source length * 1.10905
 ITERATION 1
-  log_e likelihood: -41923.2
-  log_2 likelihood: -60482.3
+  log_e likelihood: -162325
+  log_2 likelihood: -234186
      cross entropy: 29.8974
         perplexity: 1e+09
       posterior p0: 0.08
- posterior al-feat: -0.168332
-       size counts: 87
+ posterior al-feat: -0.166388
+       size counts: 220
 ITERATION 2
-  log_e likelihood: -16330.5
-  log_2 likelihood: -23560
-     cross entropy: 11.646
-        perplexity: 3204.87
-      posterior p0: 0.122598
- posterior al-feat: -0.0927417
-       size counts: 87
-  1  model al-feat: -0.190815 (tension=4)
-  2  model al-feat: -0.145897 (tension=5.96147)
-  3  model al-feat: -0.128607 (tension=7.02458)
-  4  model al-feat: -0.118932 (tension=7.74188)
-  5  model al-feat: -0.112689 (tension=8.26568)
-  6  model al-feat: -0.108335 (tension=8.66462)
-  7  model al-feat: -0.105149 (tension=8.97649)
-  8  model al-feat: -0.10274 (tension=9.22464)
-     final tension: 9.4246
+  log_e likelihood: -60488.1
+  log_2 likelihood: -87265.9
+     cross entropy: 11.1408
+        perplexity: 2257.96
+      posterior p0: 0.115138
+ posterior al-feat: -0.0949622
+       size counts: 220
+  1  model al-feat: -0.155262 (tension=4)
+  2  model al-feat: -0.131672 (tension=5.206)
+  3  model al-feat: -0.119986 (tension=5.94019)
+  4  model al-feat: -0.112992 (tension=6.44067)
+  5  model al-feat: -0.108382 (tension=6.80127)
+  6  model al-feat: -0.105163 (tension=7.06966)
+  7  model al-feat: -0.102829 (tension=7.27367)
+  8  model al-feat: -0.101092 (tension=7.431)
+     final tension: 7.55361
 ITERATION 3
-  log_e likelihood: -7601.16
-  log_2 likelihood: -10966.2
-     cross entropy: 5.42074
-        perplexity: 42.8355
-      posterior p0: 0.076305
- posterior al-feat: -0.0718181
-       size counts: 87
-  1  model al-feat: -0.100874 (tension=9.4246)
-  2  model al-feat: -0.0958036 (tension=10.0057)
-  3  model al-feat: -0.0919755 (tension=10.4854)
-  4  model al-feat: -0.0889807 (tension=10.8886)
-  5  model al-feat: -0.0865763 (tension=11.2318)
-  6  model al-feat: -0.0846078 (tension=11.527)
-  7  model al-feat: -0.0829711 (tension=11.7828)
-  8  model al-feat: -0.0815935 (tension=12.0058)
-     final tension: 12.2014
+  log_e likelihood: -31175.1
+  log_2 likelihood: -44976.2
+     cross entropy: 5.74188
+        perplexity: 53.5155
+      posterior p0: 0.0814186
+ posterior al-feat: -0.0711527
+       size counts: 220
+  1  model al-feat: -0.0997758 (tension=7.55361)
+  2  model al-feat: -0.0940236 (tension=8.12607)
+  3  model al-feat: -0.0898525 (tension=8.58349)
+  4  model al-feat: -0.0866914 (tension=8.95748)
+  5  model al-feat: -0.08422 (tension=9.26826)
+  6  model al-feat: -0.0822426 (tension=9.5296)
+  7  model al-feat: -0.0806323 (tension=9.7514)
+  8  model al-feat: -0.0793026 (tension=9.94099)
+     final tension: 10.104
 ITERATION 4
-  log_e likelihood: -6534.76
-  log_2 likelihood: -9427.67
-     cross entropy: 4.66024
-        perplexity: 25.2856
-      posterior p0: 0.0675556
- posterior al-feat: -0.0683716
-       size counts: 87
-  1  model al-feat: -0.0804223 (tension=12.2014)
-  2  model al-feat: -0.079023 (tension=12.4424)
-  3  model al-feat: -0.0778252 (tension=12.6554)
-  4  model al-feat: -0.0767915 (tension=12.8445)
-  5  model al-feat: -0.0758932 (tension=13.0129)
-  6  model al-feat: -0.075108 (tension=13.1633)
-  7  model al-feat: -0.0744182 (tension=13.298)
-  8  model al-feat: -0.0738095 (tension=13.419)
-     final tension: 13.5277
+  log_e likelihood: -27463.8
+  log_2 likelihood: -39621.9
+     cross entropy: 5.05833
+        perplexity: 33.3203
+      posterior p0: 0.0788631
+ posterior al-feat: -0.0636652
+       size counts: 220
+  1  model al-feat: -0.0781925 (tension=10.104)
+  2  model al-feat: -0.0762855 (tension=10.3945)
+  3  model al-feat: -0.0746997 (tension=10.6469)
+  4  model al-feat: -0.0733641 (tension=10.8676)
+  5  model al-feat: -0.0722275 (tension=11.0616)
+  6  model al-feat: -0.0712519 (tension=11.2329)
+  7  model al-feat: -0.0704084 (tension=11.3846)
+  8  model al-feat: -0.0696746 (tension=11.5195)
+     final tension: 11.6396
 ITERATION 5 (FINAL)
-  log_e likelihood: -6276.51
-  log_2 likelihood: -9055.09
-     cross entropy: 4.47607
-        perplexity: 22.2552
+  log_e likelihood: -26452.8
+  log_2 likelihood: -38163.3
+     cross entropy: 4.87212
+        perplexity: 29.2855
       posterior p0: 0
  posterior al-feat: 0
-       size counts: 87
+       size counts: 220
 ARG=i
+ARG=r
 ARG=d
 ARG=o
 ARG=v
-ARG=r
 INITIAL PASS 
-expected target length = source length * 1.12362
+expected target length = source length * 0.919913
 ITERATION 1
-  log_e likelihood: -46585.9
-  log_2 likelihood: -67209.2
+  log_e likelihood: -146907
+  log_2 likelihood: -211942
      cross entropy: 29.8974
         perplexity: 1e+09
       posterior p0: 0.08
- posterior al-feat: -0.167613
-       size counts: 87
+ posterior al-feat: -0.166902
+       size counts: 220
 ITERATION 2
-  log_e likelihood: -17125.1
-  log_2 likelihood: -24706.4
-     cross entropy: 10.9904
-        perplexity: 2034.39
-      posterior p0: 0.11863
- posterior al-feat: -0.0893538
-       size counts: 87
-  1  model al-feat: -0.154003 (tension=4)
-  2  model al-feat: -0.129113 (tension=5.29298)
-  3  model al-feat: -0.116849 (tension=6.08817)
-  4  model al-feat: -0.109482 (tension=6.63807)
-  5  model al-feat: -0.10459 (tension=7.04063)
-  6  model al-feat: -0.101141 (tension=7.34536)
-  7  model al-feat: -0.0986103 (tension=7.58109)
-  8  model al-feat: -0.0967028 (tension=7.76622)
-     final tension: 7.9132
+  log_e likelihood: -57288.4
+  log_2 likelihood: -82649.8
+     cross entropy: 11.6589
+        perplexity: 3233.48
+      posterior p0: 0.119224
+ posterior al-feat: -0.0978044
+       size counts: 220
+  1  model al-feat: -0.189683 (tension=4)
+  2  model al-feat: -0.147313 (tension=5.83757)
+  3  model al-feat: -0.130769 (tension=6.82774)
+  4  model al-feat: -0.12153 (tension=7.48703)
+  5  model al-feat: -0.115603 (tension=7.96153)
+  6  model al-feat: -0.111504 (tension=8.3175)
+  7  model al-feat: -0.108533 (tension=8.59149)
+  8  model al-feat: -0.10631 (tension=8.80606)
+     final tension: 8.97617
 ITERATION 3
-  log_e likelihood: -8299.41
-  log_2 likelihood: -11973.5
-     cross entropy: 5.3263
-        perplexity: 40.1213
-      posterior p0: 0.0858249
- posterior al-feat: -0.0702806
-       size counts: 87
-  1  model al-feat: -0.0952358 (tension=7.9132)
-  2  model al-feat: -0.0905472 (tension=8.4123)
-  3  model al-feat: -0.0870444 (tension=8.81764)
-  4  model al-feat: -0.0843333 (tension=9.15291)
-  5  model al-feat: -0.0821802 (tension=9.43396)
-  6  model al-feat: -0.0804365 (tension=9.67195)
-  7  model al-feat: -0.0790028 (tension=9.87507)
-  8  model al-feat: -0.0778096 (tension=10.0495)
-     final tension: 10.2001
+  log_e likelihood: -28669.3
+  log_2 likelihood: -41361.1
+     cross entropy: 5.83455
+        perplexity: 57.0655
+      posterior p0: 0.0704535
+ posterior al-feat: -0.0710493
+       size counts: 220
+  1  model al-feat: -0.104608 (tension=8.97617)
+  2  model al-feat: -0.0983783 (tension=9.64735)
+  3  model al-feat: -0.0938121 (tension=10.1939)
+  4  model al-feat: -0.0903122 (tension=10.6492)
+  5  model al-feat: -0.0875435 (tension=11.0344)
+  6  model al-feat: -0.0853014 (tension=11.3643)
+  7  model al-feat: -0.0834527 (tension=11.6494)
+  8  model al-feat: -0.0819065 (tension=11.8974)
+     final tension: 12.1146
 ITERATION 4
-  log_e likelihood: -7151.62
-  log_2 likelihood: -10317.6
-     cross entropy: 4.58968
-        perplexity: 24.0787
-      posterior p0: 0.079609
- posterior al-feat: -0.0652617
-       size counts: 87
-  1  model al-feat: -0.0768068 (tension=10.2001)
-  2  model al-feat: -0.0753161 (tension=10.431)
-  3  model al-feat: -0.074062 (tension=10.6321)
-  4  model al-feat: -0.0729966 (tension=10.8081)
-  5  model al-feat: -0.0720841 (tension=10.9628)
-  6  model al-feat: -0.0712971 (tension=11.0992)
-  7  model al-feat: -0.0706146 (tension=11.2199)
-  8  model al-feat: -0.0700196 (tension=11.327)
-     final tension: 11.4222
+  log_e likelihood: -25001
+  log_2 likelihood: -36068.8
+     cross entropy: 5.08799
+        perplexity: 34.0125
+      posterior p0: 0.0662979
+ posterior al-feat: -0.0649819
+       size counts: 220
+  1  model al-feat: -0.0805985 (tension=12.1146)
+  2  model al-feat: -0.0787875 (tension=12.4269)
+  3  model al-feat: -0.0772519 (tension=12.703)
+  4  model al-feat: -0.0759356 (tension=12.9484)
+  5  model al-feat: -0.0747974 (tension=13.1675)
+  6  model al-feat: -0.0738056 (tension=13.3638)
+  7  model al-feat: -0.0729358 (tension=13.5403)
+  8  model al-feat: -0.072169 (tension=13.6994)
+     final tension: 13.8431
 ITERATION 5 (FINAL)
-  log_e likelihood: -6842
-  log_2 likelihood: -9870.91
-     cross entropy: 4.39098
-        perplexity: 20.9805
+  log_e likelihood: -24178.7
+  log_2 likelihood: -34882.5
+     cross entropy: 4.92065
+        perplexity: 30.2874
       posterior p0: 0
  posterior al-feat: 0
-       size counts: 87
+       size counts: 220
 error in line 6 :  string index out of range
 error in line 7 :  string index out of range
 error in line 11 :  string index out of range
 error in line 14 :  string index out of range
 error in line 16 :  string index out of range
 not ambiguous: 4 20 38 59 68 69 70 72 75 82
-total: 101
-valid: 84 (83.16831683168317%)
-errors: 5 (4.9504950495049505%)
-alignment out of range 34 not in len( ['just<adv>', 'last<det><ord><sp>', 'December<n><sg>', ',<cm>', 'fellow<adj>', 'economist<n><pl>', 'Martin<np><ant><m><sg>', '*Feldstein<>', 'and<cnjcoo>', '*Nouriel<>', '*Roubini<>', 'each<det><ind><sg>', '*penned<>', '*op<>', '-<guio>', '*eds<>', 'bravely<adv>', 'question<vblex><ger>', '*bullish<>', 'market<n><sg>', '*sentiment<>', ',<cm>', '*sensibly<>', 'point<vblex><ger>', 'out<adv>', 'gold<n><sg>', "'s<gen>", 'risk<n><pl>', '.<sent>'] )
-alignment out of range 37 not in len( ['just<adv>', 'last<det><ord><sp>', 'December<n><sg>', ',<cm>', 'fellow<adj>', 'economist<n><pl>', 'Martin<np><ant><m><sg>', '*Feldstein<>', 'and<cnjcoo>', '*Nouriel<>', '*Roubini<>', 'each<det><ind><sg>', '*penned<>', '*op<>', '-<guio>', '*eds<>', 'bravely<adv>', 'question<vblex><ger>', '*bullish<>', 'market<n><sg>', '*sentiment<>', ',<cm>', '*sensibly<>', 'point<vblex><ger>', 'out<adv>', 'gold<n><sg>', "'s<gen>", 'risk<n><pl>', '.<sent>'] )
-alignment out of range 20 not in len( ['now<adv>', ',<cm>', '*emboldened<>', 'by<pr>', 'continue<vblex><ger>', 'appreciation<n><sg>', ',<cm>', 'some<prn><tn><mf><pl>', 'be<vbser><pres>', 'suggest<vblex><ger>', 'that<cnjsub>', 'gold<n><sg>', 'can<vaux><past>', 'be<vbser><inf>', 'head<vblex><pp>', 'even<adv>', 'high<adj><sint><comp>', 'than<cnjcoo>', 'that<prn><tn><mf><sg>', '.<sent>'] )
-alignment out of range 21 not in len( ['after<cnjadv>', 'adjust<vblex><ger>', 'for<pr>', 'inflation<n><sg>', ',<cm>', 'today<adv>', "'s<gen>", 'price<n><sg>', 'be<vbser><pri><p3><sg>', 'nowhere<adv>', 'near<vblex><inf>', 'the<det><def><sp>', 'all<prn><tn><mf><sp>', '-<guio>', 'time<vblex><inf>', 'high<adv>', 'of<pr>', 'January<n><sg>', '1980<num>', '.<sent>'] )
-alignment out of range 16 not in len( ['so<preadv>', 'what<prn><itg><m><sp>', 'can<vaux><past>', 'justify<vblex><inf>', 'another<det><ind><sg>', 'huge<adj>', 'increase<n><sg>', 'in<pr>', 'gold<n><sg>', 'price<n><pl>', 'from here<adv>', '?<sent>'] )
-alignment out of range 51 not in len( ['in fact<adv>', ',<cm>', 'as<cnjadv>', 'Carmen<np><ant><f><sg>', '*Reinhart<>', 'and<cnjcoo>', 'prpers<prn><subj><p1><mf><sg>', 'discuss<vblex><pres>', 'in<pr>', 'our<det><pos><sp>', 'recent<adj>', 'book<n><sg>', 'on<pr>', 'the<det><def><sp>', 'history<n><sg>', 'of<pr>', 'financial<adj>', 'crisis<n><pl>', ',<cm>', 'this<det><dem><sg>', 'time<n><sg>', 'be<vbser><pri><p3><sg>', 'different<adj>', ',<cm>', 'cash<n><sg>', '-<guio>', 'strap<vblex><past>', 'government<n><pl>', 'will<vaux><inf>', 'often<adv>', '*forcibly<>', 'convert<vblex><inf>', '*indexed<>', 'debt<n><sg>', 'to<pr>', 'non<adv>', '-<guio>', '*indexed<>', 'debt<n><sg>', ',<cm>', 'precisely<adv>', 'so that<cnjadv>', 'its<det><pos><sp>', 'value<n><sg>', 'might<vaux><inf>', 'be<vbser><inf>', 'inflate<vblex><pp>', 'away<adv>', '.<sent>'] )
-alignment out of range 17 not in len( ['even<adv>', 'the<det><def><sp>', 'United States<np><loc><pl>', 'abrogate<vblex><past>', '*indexation<>', 'clause<n><pl>', 'in<pr>', 'bond<n><sg>', 'contract<n><pl>', 'during<pr>', 'the<det><def><sp>', 'Great Depression<np><al><sg>', 'of<pr>', 'the<det><def><sp>', '1930<num>', 'be<vbser><pri><p3><sg>', '.<sent>'] )
-alignment out of range 22 not in len( ['after all<adv>', ',<cm>', 'medieval<adj>', 'alchemist<n><pl>', 'engage<vblex><past>', 'in<pr>', 'what<det><itg><sp>', 'prpers<prn><subj><p1><mf><pl>', 'now<adv>', 'consider<vblex><inf>', 'a<det><ind><sg>', 'absurd<adj>', 'search# for<vblex><inf>', 'way<n><pl>', 'to<pr>', 'transform<vblex><inf>', 'base<n><sg>', 'metal<n><pl>', 'into<pr>', 'gold<n><sg>', '.<sent>'] )
-alignment out of range 20 not in len( ['as<cnjadv>', 'legion<n><pl>', 'of<pr>', 'new<adj><sint>', 'consumer<n><pl>', 'gain<n><sg>', 'purchasing power<n><sg>', ',<cm>', 'demand<n><sg>', 'inevitably<adv>', 'rise<n><pl>', ',<cm>', 'drive<vblex><ger>', 'up<pr>', 'the<det><def><sp>', 'price<n><sg>', 'of<pr>', 'scarce<adj>', 'commodity<n><pl>', '.<sent>'] )
-alignment out of range 22 not in len( ['as<cnjadv>', 'legion<n><pl>', 'of<pr>', 'new<adj><sint>', 'consumer<n><pl>', 'gain<n><sg>', 'purchasing power<n><sg>', ',<cm>', 'demand<n><sg>', 'inevitably<adv>', 'rise<n><pl>', ',<cm>', 'drive<vblex><ger>', 'up<pr>', 'the<det><def><sp>', 'price<n><sg>', 'of<pr>', 'scarce<adj>', 'commodity<n><pl>', '.<sent>'] )
-alignment out of range 30 not in len( ['at the same time<adv>', ',<cm>', 'emerge<vblex><ger>', '-<guio>', 'market<n><sg>', 'central<adj>', 'bank<n><pl>', 'need<n><sg>', 'to<pr>', 'accumulate<vblex><inf>', 'gold<n><sg>', 'reserve<n><pl>', ',<cm>', 'which<prn><itg><m><sp>', 'prpers<prn><subj><p3><mf><pl>', 'still<adv>', 'hold<n><sg>', 'in<pr>', 'far<adj><sint>', 'low<adj><sint><comp>', 'proportion<n><sg>', 'than<cnjcoo>', 'do<vbdo><pres>', 'rich<adj><sint>', '-<guio>', 'country<n><sg>', 'central<adj>', 'bank<n><pl>', '.<sent>'] )
-alignment out of range 37 not in len( ['so<preadv>', ',<cm>', 'yes<adv>', ',<cm>', 'there<adv>', 'be<vbser><pres>', 'solid<adj><sint>', '*fundamentals<>', 'that<cnjsub>', '*arguably<>', 'support<n><sg>', 'today<adv>', "'s<gen>", 'high<adj><sint><comp>', 'gold<n><sg>', 'price<n><sg>', ',<cm>', 'although<cnjadv>', 'prpers<prn><subj><p3><nt><sg>', 'be<vbser><pri><p3><sg>', 'far<adv>', 'more<preadv>', 'debatable<adj>', 'whether<cnjadv>', 'and<cnjcoo>', 'to<pr>', 'what<det><itg><sp>', 'extent<n><sg>', 'prpers<prn><subj><p3><mf><pl>', 'will<vaux><inf>', 'continue<vblex><inf>', 'to<pr>', 'support<vblex><inf>', 'high<adj><sint><comp>', 'price<n><pl>', 'in the future<adv>', '.<sent>'] )
-alignment out of range 40 not in len( ['so<preadv>', ',<cm>', 'yes<adv>', ',<cm>', 'there<adv>', 'be<vbser><pres>', 'solid<adj><sint>', '*fundamentals<>', 'that<cnjsub>', '*arguably<>', 'support<n><sg>', 'today<adv>', "'s<gen>", 'high<adj><sint><comp>', 'gold<n><sg>', 'price<n><sg>', ',<cm>', 'although<cnjadv>', 'prpers<prn><subj><p3><nt><sg>', 'be<vbser><pri><p3><sg>', 'far<adv>', 'more<preadv>', 'debatable<adj>', 'whether<cnjadv>', 'and<cnjcoo>', 'to<pr>', 'what<det><itg><sp>', 'extent<n><sg>', 'prpers<prn><subj><p3><mf><pl>', 'will<vaux><inf>', 'continue<vblex><inf>', 'to<pr>', 'support<vblex><inf>', 'high<adj><sint><comp>', 'price<n><pl>', 'in the future<adv>', '.<sent>'] )
-alignment out of range 17 not in len( ['gold<n><sg>', 'price<n><pl>', 'be<vbser><pres>', 'extremely<adv>', 'sensitive<adj>', 'to<pr>', 'global<adj>', 'interest<n><sg>', '-<guio>', 'rate<n><sg>', 'movement<n><pl>', '.<sent>'] )
-alignment out of range 31 not in len( ['most<det><qnt><sp>', 'economic<adj>', 'research<n><sg>', 'suggest<vblex><pri><p3><sg>', 'that<cnjsub>', 'gold<n><sg>', 'price<n><pl>', 'be<vbser><pres>', 'very<preadv>', 'difficult<adj>', 'to<pr>', 'predict<vblex><inf>', 'over<pr>', 'the<det><def><sp>', 'short<adj><sint>', 'to<pr>', 'medium<n><sg>', 'term<n><sg>', ',<cm>', 'with<pr>', 'the<det><def><sp>', '*odds<>', 'of<pr>', 'gain<n><pl>', 'and<cnjcoo>', 'loss<n><pl>', 'be<vbser><ger>', 'roughly<adv>', 'in<pr>', 'balance<n><sg>', '.<sent>'] )
-alignment out of range 34 not in len( ['most<det><qnt><sp>', 'economic<adj>', 'research<n><sg>', 'suggest<vblex><pri><p3><sg>', 'that<cnjsub>', 'gold<n><sg>', 'price<n><pl>', 'be<vbser><pres>', 'very<preadv>', 'difficult<adj>', 'to<pr>', 'predict<vblex><inf>', 'over<pr>', 'the<det><def><sp>', 'short<adj><sint>', 'to<pr>', 'medium<n><sg>', 'term<n><sg>', ',<cm>', 'with<pr>', 'the<det><def><sp>', '*odds<>', 'of<pr>', 'gain<n><pl>', 'and<cnjcoo>', 'loss<n><pl>', 'be<vbser><ger>', 'roughly<adv>', 'in<pr>', 'balance<n><sg>', '.<sent>'] )
-alignment out of range 13 not in len( ['of course<adv>', ',<cm>', 'such<det><ind><sp>', 'consideration<n><pl>', 'might<vaux><inf>', 'have<vblex><inf>', 'little<det><qnt><sg>', 'influence<n><sg>', 'on<pr>', 'price<n><pl>', '.<sent>'] )
-alignment out of range 14 not in len( ['last<det><ord><sp>', 'week<n><sg>', 'Tony Blair<np><ant><m><sg>', ',<cm>', 'Jacques<np><ant><m><sg>', 'Chirac<np><cog><sg>', ',<cm>', 'and<cnjcoo>', 'Gerhard<np><ant><m><sg>', '*Schroeder<>', 'meet<vblex><past>', 'in<pr>', 'Berlin<np><loc><sg>', '.<sent>'] )
-alignment out of range 15 not in len( ['last<det><ord><sp>', 'week<n><sg>', 'Tony Blair<np><ant><m><sg>', ',<cm>', 'Jacques<np><ant><m><sg>', 'Chirac<np><cog><sg>', ',<cm>', 'and<cnjcoo>', 'Gerhard<np><ant><m><sg>', '*Schroeder<>', 'meet<vblex><past>', 'in<pr>', 'Berlin<np><loc><sg>', '.<sent>'] )
-alignment out of range 8 not in len( ['prpers<prn><subj><p1><mf><pl>', 'have<vbhaver><pres>', 'hear<vblex><pp>', 'that<cnjsub>', 'empty<adj><sint>', 'promise<n><sg>', 'before<cnjadv>', '.<sent>'] )
-alignment out of range 16 not in len( ['prpers<prn><subj><p3><nt><sg>', 'be<vbser><past><p3><sg>', 'a<det><ind><sg>', 'conservative<adj>', 'government<n><sg>', 'that<cnjsub>', 'first<adv>', 'apply# for<vblex><pp>', 'membership<n><sg>', 'in<pr>', 'the<det><def><sp>', 'early<adj><sint>', '1960<num>', 'be<vbser><pri><p3><sg>', '.<sent>'] )
-alignment out of range 15 not in len( ['a<det><ind><sg>', 'conservative<adj>', 'government<n><sg>', 'take<vblex><past>', 'the<det><def><sp>', 'United Kingdom<np><loc><sg>', 'into<pr>', 'the<det><def><sp>', 'european<adj>', 'economic<adj>', 'community<n><sg>', 'in<pr>', '1973<num>', '.<sent>'] )
-alignment out of range 16 not in len( ['Margaret<np><ant><f><sg>', 'Thatcher<np><cog><sg>', 'work<vblex><past>', 'with<pr>', 'Jacques<np><ant><m><sg>', '*Delors<>', 'to<pr>', 'forge<vblex><inf>', 'the<det><def><sp>', 'single market<n><sg>', 'in<pr>', '1986<num>', '.<sent>'] )
-alignment out of range 35 not in len( ['face<vblex><pp>', 'with<pr>', 'a<det><ind><sg>', 'new<adj><sint>', 'EU<n><acr><sg>', 'initiative<n><sg>', ',<cm>', 'our<det><pos><sp>', 'traditional<adj>', 'response<n><sg>', 'have<vbhaver><pri><p3><sg>', 'often<adv>', 'be<vbser><pp>', 'to<pr>', '*oppose<>', 'prpers<prn><obj><p3><nt><sg>', ',<cm>', 'vote<n><sg>', 'against<adv>', 'prpers<prn><obj><p3><nt><sg>', ',<cm>', 'lose<vblex><inf>', 'the<det><def><sp>', 'vote<n><sg>', ',<cm>', 'then<adv>', '*sulkily<>', 'to<pr>', 'adopt<vblex><inf>', 'prpers<prn><obj><p3><nt><sg>', 'while<cnjadv>', 'blame<vblex><ger>', 'everyone<prn><tn><m><sg>', 'else<adv>', '.<sent>'] )
-alignment out of range 39 not in len( ['face<vblex><pp>', 'with<pr>', 'a<det><ind><sg>', 'new<adj><sint>', 'EU<n><acr><sg>', 'initiative<n><sg>', ',<cm>', 'our<det><pos><sp>', 'traditional<adj>', 'response<n><sg>', 'have<vbhaver><pri><p3><sg>', 'often<adv>', 'be<vbser><pp>', 'to<pr>', '*oppose<>', 'prpers<prn><obj><p3><nt><sg>', ',<cm>', 'vote<n><sg>', 'against<adv>', 'prpers<prn><obj><p3><nt><sg>', ',<cm>', 'lose<vblex><inf>', 'the<det><def><sp>', 'vote<n><sg>', ',<cm>', 'then<adv>', '*sulkily<>', 'to<pr>', 'adopt<vblex><inf>', 'prpers<prn><obj><p3><nt><sg>', 'while<cnjadv>', 'blame<vblex><ger>', 'everyone<prn><tn><m><sg>', 'else<adv>', '.<sent>'] )
-alignment out of range 13 not in len( ['allow<vblex><ger>', 'country<n><pl>', 'to<pr>', 'pursue<vblex><inf>', 'their<det><pos><sp>', 'own<adj>', 'policy<n><pl>', 'in<pr>', 'this<det><dem><pl>', 'area<n><pl>', 'encourage<vblex><pri><p3><sg>', 'competitiveness<n><sg>', '.<sent>'] )
-alignment out of range 26 not in len( ['instead of<pr>', 'individual<adj>', 'member<n><sg>', 'state<n><pl>', 'have<vbhaver><ger>', '*fraught<>', 'negotiation<n><pl>', 'to<pr>', 'opt<vblex><inf>', 'out of<pr>', 'a<det><ind><sg>', 'new<adj><sint>', 'initiative<n><sg>', ',<cm>', 'those that<rel><nn><mf><pl>', 'support<vblex><inf>', 'prpers<prn><obj><p3><nt><sg>', 'can<vaux><pres>', 'simply<adv>', 'opt<vblex><inf>', 'in<pr>', '.<sent>'] )
-alignment out of range 20 not in len( ['in this way<adv>', 'prpers<prn><subj><p1><mf><pl>', 'can<vaux><pres>', 'break<vblex><inf>', 'free<adj><sint>', 'of<pr>', 'the<det><def><sp>', 'institutionalise<vblex><pp>', 'tug<n><sg>', 'of<pr>', 'war<n><sg>', 'that<prn><tn><mf><sg>', 'have<vbhaver><pri><p3><sg>', 'characterise<vblex><pp>', 'EU<n><acr><sg>', 'relation<n><pl>', '.<sent>'] )
-alignment out of range 26 not in len( ['prpers<prn><subj><p3><nt><sg>', 'should<vaux><inf>', 'give<vblex><inf>', 'member<n><sg>', 'state<vblex><pri><p3><sg>', 'the<det><def><sp>', 'chance<n><sg>', 'to<pr>', 'develop<vblex><inf>', 'a<det><ind><sg>', 'approach<n><sg>', 'to<pr>', 'Europe<np><loc><sg>', 'that<cnjsub>', 'suit<n><pl>', 'their<det><pos><sp>', 'national<adj>', 'tradition<n><pl>', ',<cm>', 'within<pr>', 'the<det><def><sp>', 'EU<n><acr><sg>', 'framework<n><sg>', '.<sent>'] )
-alignment out of range 22 not in len( ['prpers<prn><subj><p1><mf><pl>', 'disagree<vblex><pres>', 'with<pr>', 'many<prn><tn><mf><pl>', 'of<pr>', 'its<det><pos><sp>', 'content<n><pl>', ',<cm>', 'of course<adv>', ',<cm>', 'but<cnjcoo>', 'also<adv>', '*oppose<>', 'the<det><def><sp>', 'idea<n><sg>', 'of<pr>', 'have<vbhaver><ger>', 'a<det><ind><sg>', 'EU<n><acr><sg>', 'constitution<n><sg>', 'at all<adv>', '.<sent>'] )
-alignment out of range 15 not in len( ['that<prn><tn><mf><sg>', 'be<vbser><pri><p3><sg>', 'a<det><ind><sg>', 'radical<adj>', 'change<n><sg>', ',<cm>', 'not<adv>', 'the<det><def><sp>', 'mere<adj>', '*tidying<>', 'up<adv>', 'exercise<vblex><inf>', 'some<prn><tn><mf><pl>', 'suggest<vblex><pres>', '.<sent>'] )
-alignment out of range 8 not in len( ['elected<n><sg>', 'parliament<n><pl>', 'do<vbdo><pres>', 'not<adv>', 'own<vblex><inf>', 'our<det><pos><sp>', 'liberty<n><pl>', '.<sent>'] )
-alignment out of range 24 not in len( ['any<det><ind><sp>', 'proposal<n><sg>', 'for<pr>', 'a<det><ind><sg>', 'new<adj><sint>', 'constitution<n><sg>', 'must<vaux><inf>', 'be<vbser><inf>', 'put<vblex><pp>', 'to<pr>', 'the<det><def><sp>', 'british<adj>', 'person<n><pl>', 'and<cnjcoo>', 'to<pr>', 'the<det><def><sp>', 'person<n><pl>', 'in<pr>', 'each<det><ind><sg>', 'EU<n><acr><sg>', 'member<n><sg>', 'state<n><sg>', '.<sent>'] )
-alignment out of range 18 not in len( ['Brussels<np><loc><sg>', '–<guio>', 'austerity<n><sg>', 'alone<adv>', 'can<vaux><pres>', 'not<adv>', 'solve<vblex><inf>', 'Europe<np><loc><sg>', "'s<gen>", 'economic<adj>', 'and<cnjcoo>', 'financial<adj>', 'crisis<n><sg>', '.<sent>'] )
-alignment out of range 28 not in len( ['european<adj>', 'union<n><sg>', 'leader<n><pl>', 'now<adv>', 'recognise<vblex><inf>', 'this<prn><tn><mf><sg>', ':<sent>', 'kick<n><sg>', '-<guio>', 'start<vblex><ger>', 'growth<n><sg>', 'in<pr>', '2012<num>', 'be<vbser><past><p3><sg>', 'high<adv>', 'on<pr>', 'the<det><def><sp>', 'agenda<n><sg>', 'at<pr>', 'the<det><def><sp>', 'european<adj>', 'council<n><sg>', "'s<gen>", 'meeting<n><sg>', 'on<adv>', 'January<n><sg>', '30<num>', '.<sent>'] )
-alignment out of range 28 not in len( ['european<adj>', 'union<n><sg>', 'leader<n><pl>', 'now<adv>', 'recognise<vblex><inf>', 'this<prn><tn><mf><sg>', ':<sent>', 'kick<n><sg>', '-<guio>', 'start<vblex><ger>', 'growth<n><sg>', 'in<pr>', '2012<num>', 'be<vbser><past><p3><sg>', 'high<adv>', 'on<pr>', 'the<det><def><sp>', 'agenda<n><sg>', 'at<pr>', 'the<det><def><sp>', 'european<adj>', 'council<n><sg>', "'s<gen>", 'meeting<n><sg>', 'on<adv>', 'January<n><sg>', '30<num>', '.<sent>'] )
-alignment out of range 31 not in len( ['european<adj>', 'union<n><sg>', 'leader<n><pl>', 'now<adv>', 'recognise<vblex><inf>', 'this<prn><tn><mf><sg>', ':<sent>', 'kick<n><sg>', '-<guio>', 'start<vblex><ger>', 'growth<n><sg>', 'in<pr>', '2012<num>', 'be<vbser><past><p3><sg>', 'high<adv>', 'on<pr>', 'the<det><def><sp>', 'agenda<n><sg>', 'at<pr>', 'the<det><def><sp>', 'european<adj>', 'council<n><sg>', "'s<gen>", 'meeting<n><sg>', 'on<adv>', 'January<n><sg>', '30<num>', '.<sent>'] )
-error: de<pr> != sent
-error: de<pr> != det
-error: de<pr> != det
-error: de<pr> != cnjsub
-error: de<pr> != vbser
+not ambiguous: 100 103 125 129 132 135 149 158 164 173
+not ambiguous: 186 194 195 204 209 218 232 237 243 278
+total: 301
+valid: 262 (87.04318936877077%)
+errors: 5 (1.6611295681063125%)
 error: de<pr> != gen
-error: de<pr> != cm
-error: de<pr> != adj
-error: de<pr> != vbser
-error: de<pr> != cnjcoo
-error: de<pr> != adv
-error: de<pr> != adv
-error: de<pr> != vbser
-error: de<pr> != adv
-error: de<pr> != adj
-error: de<pr> != vblex
-error: de<pr> != n
-error: de<pr> != det
-error: de<pr> != n
-error: de<pr> != n
-error: de<pr> != prn
-error: de<pr> != vblex
-error: de<pr> != prn
-error: de<pr> != vblex
-error: de<pr> != prn
-error: tl word unknown *Schengen<>
-error: de<pr> != cnjadv
-error: de<pr> != vblex
-error: de<pr> != adj
-error: de<pr> != prn
-error: de<pr> != adv
-error: de<pr> != adj
-error: de<pr> != preadv
-error: de<pr> != det
-error: de<pr> != vblex
-error: de<pr> != vblex
-error: de<pr> != adv
-error: tl word unknown *odds<>
-error: de<pr> != vblex
-error: de<pr> != adv
-error: de<pr> != det
-error: de<pr> != vblex
-error: de<pr> != n
-error: de<pr> != n
-error: de<pr> != n
-error: de<pr> != adj
-error: de<pr> != adj
-error: de<pr> != n
-error: de<pr> != np
-error: de<pr> != n
 error: de<pr> != guio
-error: de<pr> != sent
+error: de<pr> != det
+error: de<pr> != det
+error: de<pr> != n
 error: de<pr> != n
 error: de<pr> != adj
+error: de<pr> != det
 error: de<pr> != n
-error: precio<n><m><pl> != vblex
-error: precio<n><m><pl> != adv
-error: precio<n><m><pl> != sent
-error: precio<n><m><pl> != pr
-error: precio<n><m><pl> != sent
-error: en<pr> != sent
-error: en<pr> != gen
+error: de<pr> != n
+error: de<pr> != adv
+error: de<pr> != adj
+error: de<pr> != n
+error: de<pr> != adj
+error: de<pr> != vblex
+error: de<pr> != adj
+error: de<pr> != guio
+error: de<pr> != vbser
+error: de<pr> != n
+error: de<pr> != n
+error: de<pr> != adj
+error: de<pr> != adv
+error: de<pr> != n
+error: de<pr> != n
+error: de<pr> != n
+error: de<pr> != adj
+error: de<pr> != det
+error: de<pr> != vbser
+error: en<pr> != det
+error: en<pr> != det
 error: en<pr> != det
 error: en<pr> != prn
-error: en<pr> != preadv
-error: en<pr> != vblex
-error: en<pr> != prn
-error: en<pr> != adj
-error: en<pr> != adj
-error: en<pr> != vbser
-error: en<pr> != adj
-error: en<pr> != vbdo
-error: en<pr> != prn
-error: en<pr> != adj
-error: en<pr> != prn
-error: tl word unknown *anywhere<>
-error: en<pr> != vbser
+error: en<pr> != det
 error: en<pr> != n
-error: en<pr> != cm
-error: tl word unknown *op<>
-error: por<pr> != det
-error: por<pr> != gen
+error: en<pr> != n
+error: en<pr> != vaux
+error: colega<n><mf><pl> != np
+error: aumentar<vblex><ifi><p3><sg> != adj
 error: por<pr> != guio
-error: por<pr> != cm
-error: superar<vblex><inf> != sent
-error: perder<vblex><ifi><p3><pl> != pr
-error: índice<n><m><sg> != pr
-error: marca<n><f><sg> != pr
-error: decir<vblex><inf> != cnjsub
-error: decir<vblex><inf> != n
-error: respuesta<n><f><sg> != vbhaver
+error: por<pr> != n
+error: superar<vblex><inf> != rel
+error: superar<vblex><inf> != adj
+error: perder<vblex><ifi><p3><pl> != det
+error: parecer<vblex><pri><p3><sg> != prn
+error: tl word unknown *arguably<>
+error: respuesta<n><f><sg> != cm
 error: respuesta<n><f><sg> != vblex
 error: tl word unknown *soaring<>
 error: política<n><f><sg> != adj
-error: política<n><f><sg> != adj
-error: política<n><f><sg> != cm
-error: falta<n><f><sg> != cnjadv
-error: fondo<n><m><pl> != cnjadv
+error: compromiso<n><m><pl> != adv
+error: tl word unknown *indexed<>
 error: pasar<vblex><inf> != vaux
 error: alto<adj><f><sg> != adv
-error: alto<adj><m><pl> != n
-error: alto<adj><m><pl> != sent
+error: alto<adj><f><sg> != n
+error: decir<vblex><pri><p1><pl> != adj
 error: alto<adj><m><pl> != n
 error: marcha<n><f><sg> != adj
-error: considerar<vblex><pri><p1><pl> != adj
 error: ganar<vblex><pri><p3><pl> != n
-error: materia<n><f><pl> != sent
-error: acumular<vblex><inf> != prn
+error: aumentar<vblex><pri><p3><sg> != n
+error: materia<n><f><pl> != adj
 error: tasa<n><f><pl> != vblex
-error: tasa<n><f><pl> != vblex
-error: invertir<vblex><inf> != n
-error: real<adj><mf><pl> != vaux
-error: aumentar<vblex><pri><p3><pl> != prn
-error: tl word unknown *co<>
-error: mayor<adj><mf><sg> != n
-error: investigación<n><f><sg> != det
-error: económico<adj><f><sg> != sent
-error: económico<adj><f><sg> != pr
-error: plazo<n><m><sg> != guio
-error: plazo<n><m><sg> != sent
-error: económico<adj><m><sg> != det
+error: económico<adj><f><sg> != n
+error: económico<adj><m><sg> != cm
 error: fondo<n><m><sg> != det
-error: reunir<vblex><ifi><p3><pl> != sent
-error: vacío<adj><f><sg> != sent
-error: partido<n><m><sg> != pr
-error: adhesión<n><f><sg> != adj
-error: adhesión<n><f><sg> != det
-error: perder<vblex><inf> != n
-error: ganar<vblex><pri><p3><sg> != sent
-error: echar<vblex><inf> != sent
-error: libertad<n><f><pl> != sent
-error: único<adj><m><sg> != adv
+error: anterior<adj><mf><pl> != cnjadv
+error: compromiso<n><m><sg> != np
+error: adhesión<n><f><sg> != vblex
+error: adhesión<n><f><sg> != vblex
 error: único<adj><m><sg> != n
-error: único<adj><f><sg> != cm
-error: política<n><f><pl> != cnjsub
-error: política<n><f><pl> != sent
-error: quedar<vblex><prs><p3><sg> != n
-error: administrar<vblex><inf> != n
-error: tl word unknown *Schengen<>
-error: participación<n><f><sg> != adv
-error: arrastrar<vblex><inf> != prn
-error: liberar<vblex><inf> != pr
-error: tirar<vblex><imp><p2><sg> != n
-error: relación<n><f><pl> != sent
-error: destino<n><m><sg> != vblex
-error: destino<n><m><sg> != pr
-error: alcanzar<vblex><inf> != adv
-error: aspirar<vblex><pri><p3><pl> != prn
-error: decir<vblex><pri><p3><pl> != prn
-error: estrechamente<adv> != pr
-error: medio<adj><m><sg> != prn
-error: esperar<vblex><prs><p1><pl> != pr
-error: disposición<n><f><pl> != adv
-error: entre<pr> != det
-error: al respecto<cnjadv> != det
-error: empleo<n><m><sg> != pr
-error: reconocer<vblex><pri><p3><pl> != n
-error: reunión<n><f><sg> != sent
-error: consejo<n><m><sg> != sent
+error: relación<n><f><pl> != vblex
+error: perder<vblex><inf> != n
+error: tl word unknown *sulkily<>
+error: echar<vblex><inf> != prn
+error: bien<n><m><pl> != cm
+error: único<adj><f><sg> != adv
+error: política<n><f><pl> != cm
+error: mayor<adj><mf><sg> != vblex
+error: participación<n><f><sg> != vblex
+error: apoyar<vblex><pri><p3><pl> != adv
+error: obligar<vblex><pp><m><pl> != vbser
+error: aspirar<vblex><pri><p3><pl> != n
+error: medio<adj><m><sg> != det
+error: moneda<n><f><sg> != adv
+error: esperar<vblex><prs><p1><pl> != n
+error: entre<pr> != n
+error: entre<pr> != vblex
+error: mandato<n><m><sg> != adj
+error: al respecto<cnjadv> != n
+error: reunión<n><f><sg> != det
+error: mantener<vblex><pri><p3><sg> != adj
+error: mantener<vblex><pri><p3><sg> != adj
+error: enfrentar<vblex><pri><p3><sg> != np
+error: agudo<adj><f><sg> != n
+error: tl word unknown *highs<>
+error: tl word unknown *headwinds<>
+error: alto<adj><f><pl> != cm
+error: tl word unknown *resumes<>
+error: aumentar<vblex><ger> != n
+error: gasto<n><m><sg> != vblex
+error: fomentar<vblex><inf> != pr
+error: fomentar<vblex><inf> != adv
+error: tl word unknown *permitting<>
+error: hora<n><f><pl> != adj
+error: tl word unknown *shakeout<>
+error: empleo<n><m><pl> != adj
+error: aumentar<vblex><cni><p3><sg> != adv
+error: resumen<n><m><sg> != adj
+error: tl word unknown *Netherlands<>
+error: mantener<vblex><inf> != n
+error: mantener<vblex><inf> != adj
+error: esfuerzo<n><m><pl> != pr
+error: aumentar<vblex><inf> != cm
+error: salario<n><m><pl> != vblex
+error: superar<vblex><pri><p3><sg> != n
+error: bajo<adj><f><pl> != vblex
+error: bajo<adj><f><pl> != adv
+error: encabezar<vblex><pp><f><sg> != np
+error: régimen<n><m><sg> != np
+error: representación<n><f><sg> != vblex
+error: parecer<vblex><pri><p3><pl> != pr
+error: apuntar<vblex><inf> != pr
+error: derecho<n><m><pl> != pr
+error: partidario<n><m><pl> != pr
+error: campo<n><m><sg> != adj
+error: camino<n><m><sg> != det
+error: tl word unknown *athism<>
+error: retroceder<vblex><ifi><p3><sg> != n
+error: salida<n><f><sg> != adj
+error: tl word unknown *bogus<>
+error: obsesionarse# con<vblex><pron><pp><m><pl> != n
+error: perder<vblex><ifi><p3><sg> != rel
+error: extremo<n><m><sg> != preadv
+error: tl word unknown *AKP<>
+error: extremo<n><m><pl> != vblex
+error: considerar<vblex><prs><p3><sg> != det
+error: quedar<vblex><pri><p3><sg> != det
+error: inestimable<adj><mf><sg> != n
+error: tiempo<n><m><sg> != vblex
+error: consecuencia<n><f><sg> != adj
+error: materia<n><f><sg> != vblex
+error: injusticia<n><f><sg> != det
+error: tl word unknown *doorways<>
+error: motivo<n><m><sg> != det
+error: molesto<adj><m><sg> != n
+error: alto<adj><m><sg> != det
+error: alto<adj><m><sg> != n
+error: apoyar<vblex><pp><f><sg> != guio
+error: realizar<vblex><pp><f><pl> != np
+error: bajo<adj><m><sg> != cnjcoo
+error: estudio<n><m><pl> != adj
+error: tl word unknown *tradable<>
+error: menor<adj><mf><sg> != n
+error: estimar<vblex><pri><p3><sg> != adj
+error: preparado<adj><f><sg> != vblex
+error: temer<vblex><pri><p3><pl> != n
+error: quedar<vblex><inf> != n
+error: estimar<vblex><pri><p3><pl> != n
+error: menor<adj><mf><pl> != n
+error: ampliamente<adv> != n
+error: evitar<vblex><inf> != n
+error: tl word unknown *indestructible<>
+error: época<n><f><sg> != det
+error: triunfo<n><m><sg> != pr
+error: principio<n><m><pl> != pr
+error: carrera<n><f><sg> != det
+error: llevar<vblex><ifi><p3><sg> != det
+error: parecer<vblex><pii><p3><pl> != guio
+error: claro<adj><m><pl> != guio
+error: esperar<vblex><pp><m><sg> != cm
+error: salir<vblex><inf> != n
+error: superar<vblex><prs><p3><sg> != adv
+error: enfrentar<vblex><prs><p3><sg> != n
+error: pasar<vblex><fti><p3><sg> != pr
+error: tl word unknown *xenophobia<>
+error: terminar<vblex><prs><p3><pl> != adj
+error: entrenar<vblex><ger> != np
+error: pasar<vblex><pis><p3><sg> != n
+error: decir<vblex><prs><p1><pl> != cm
+error: nave<n><f><pl> != np
+error: espacial<adj><mf><pl> != np
+error: invertir<vblex><pp><m><sg> != n
+error: acabar<vblex><pii><p3><sg> != vbhaver
+error: sol<n><m><sg> != num
+error: seguro<adj><f><sg> != adv

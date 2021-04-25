@@ -1,4 +1,0 @@
-Traceback (most recent call last):
-  File "/home/vivek/Documents/FOSS/apertium/apertium-lex-tools/scripts/ngram-count-patterns-maxent2.py", line 111, in <module>
-    tlword = wrap(cur_tl_row[al_tl].lower());
-IndexError: list index out of range

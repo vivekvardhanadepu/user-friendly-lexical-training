@@ -7,7 +7,7 @@ DATA="/home/vivek/Documents/FOSS/apertium/user-friendly-lexical-training/coding_
 LEX_TOOLS="/home/vivek/Documents/FOSS/apertium/apertium-lex-tools"
 SCRIPTS="$LEX_TOOLS/scripts"
 # MOSESDECODER="/home/vivek/Documents/FOSS/apertium/mosesdecoder/scripts/training"
-TRAINING_LINES=100
+TRAINING_LINES=300
 
 
 if [ ! -d data-$SL-$TL ]; then 
@@ -39,7 +39,7 @@ cat data-$SL-$TL/$CORPUS.tagged.$TL.new \
 	| sed 's/ /~/g' | sed 's/\$[^\^]*/$ /g' > data-$SL-$TL/$CORPUS.tagged.$TL
 rm data-$SL-$TL/*.new
 
-</dev/null paste -d '||| ' data-$SL-$TL/$CORPUS.tagged.$SL - - - data-$SL-$TL/$CORPUS.tagged.$TL \
+</dev/null paste -d '||| ' data-$SL-$TL/$CORPUS.tagged.$TL - - - data-$SL-$TL/$CORPUS.tagged.$SL \
 							> data-$SL-$TL/$CORPUS.tagged-merged.$SL-$TL
 # cat "$CORPUS.$PAIR.$SL" | head -n $TRAINING_LINES | apertium -d "$DATA" $SL-$TL-biltrans \
 # 							> data-$SL-$TL/$CORPUS.biltrans.$SL-$TL
