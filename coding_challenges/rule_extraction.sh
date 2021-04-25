@@ -1,7 +1,7 @@
 CORPUS="news-commentary-v8"
 PAIR="eng-spa"
-SL="eng"
-TL="spa"
+SL="spa"
+TL="eng"
 
 MIN=1
 LEX_TOOLS="/home/vivek/Documents/FOSS/apertium/apertium-lex-tools"

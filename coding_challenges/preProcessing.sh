@@ -1,7 +1,7 @@
 CORPUS="news-commentary-v8"
 PAIR="eng-spa"
-SL="eng"
-TL="spa"
+SL="spa"
+TL="eng"
 DATA="/home/vivek/Documents/FOSS/apertium/user-friendly-lexical-training/coding_challenges/apertium-$PAIR"
 
 LEX_TOOLS="/home/vivek/Documents/FOSS/apertium/apertium-lex-tools"
@@ -15,13 +15,13 @@ if [ ! -d data-$SL-$TL ]; then
 fi
 
 # TAG CORPUS
-cat "$CORPUS.$SL-$TL.$SL" | head -n $TRAINING_LINES | apertium -d "$DATA" $SL-$TL-tagger \
+cat "$CORPUS.$PAIR.$SL" | head -n $TRAINING_LINES | apertium -d "$DATA" $SL-$TL-tagger \
 	| apertium-pretransfer > data-$SL-$TL/$CORPUS.tagged.$SL;
 
-cat "$CORPUS.$SL-$TL.$TL" | head -n $TRAINING_LINES | apertium -d "$DATA" $TL-$SL-tagger \
+cat "$CORPUS.$PAIR.$TL" | head -n $TRAINING_LINES | apertium -d "$DATA" $TL-$SL-tagger \
 	| apertium-pretransfer > data-$SL-$TL/$CORPUS.tagged.$TL;
 
-N=`wc -l $CORPUS.$SL-$TL.$SL | cut -d ' ' -f 1`
+N=`wc -l $CORPUS.$PAIR.$SL | cut -d ' ' -f 1`
 
 
 # REMOVE LINES WITH NO ANALYSES

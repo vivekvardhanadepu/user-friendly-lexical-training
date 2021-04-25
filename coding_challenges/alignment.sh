@@ -1,7 +1,7 @@
 CORPUS="news-commentary-v8"
 PAIR="eng-spa"
-SL="eng"
-TL="spa"
+SL="spa"
+TL="eng"
 
 PROJ_HOME="/home/vivek/Documents/FOSS/apertium/user-friendly-lexical-training/coding_challenges"
 LEX_TOOLS="/home/vivek/Documents/FOSS/apertium/apertium-lex-tools"
@@ -26,7 +26,7 @@ $FAST_ALIGN/atools -i data-$SL-$TL/$CORPUS.forward-align.$SL-$TL -j data-$SL-$TL
 # paste tmp1 tmp2 tmp3 | sed 's/\t/ ||| /g' > data-$SL-$TL/$CORPUS.phrasetable.$SL-$TL
 # rm tmp1 tmp2 tmp3
 
-paste data-$SL-$TL/$CORPUS.tagged.$TL data-$SL-$TL/$CORPUS.tagged.$SL data-$SL-$TL/$CORPUS.symm-align.$SL-$TL \
+paste data-$SL-$TL/$CORPUS.tagged.$TL data-$SL-$TL/$CORPUS.tagged.$SL data-$SL-$TL/$CORPUS.forward-align.$SL-$TL \
 	| sed 's/\t/ ||| /g' > data-$SL-$TL/$CORPUS.phrasetable.$SL-$TL
 
 # TRIM TAGS
