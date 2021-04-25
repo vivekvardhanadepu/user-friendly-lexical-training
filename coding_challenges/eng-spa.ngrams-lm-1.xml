@@ -1,2 +1,28 @@
 <rules>
+  <rule c="1 2: 1" weight="3.97892e+53">
+    <match lemma="central" tags="adj"/>
+    <match lemma="bank" tags="n.sg"><select lemma="banco" tags="n.m.sg"/></match>
+  </rule>
+  <rule c="2 6: 1" weight="1.80278">
+    <match lemma="fiscal" tags="adj"/>
+    <match lemma="policy" tags="n.sg"><select lemma="política" tags="n.f.sg"/></match>
+  </rule>
+  <rule c="3 10: 1" weight="1.80278">
+    <match lemma="neighbourhood" tags="n.sg"/>
+    <match lemma="policy" tags="n.sg"><select lemma="política" tags="n.f.sg"/></match>
+  </rule>
+  <rule c="4 14: 1" weight="1.80278">
+    <match lemma="policy" tags="n.sg"><select lemma="política" tags="n.f.sg"/></match>
+    <match lemma="be" tags="vbser.pri.p3.sg"/>
+  </rule>
+  <rule c="5 18: 1" weight="1.80278">
+    <match lemma="neighbourhood" tags="n.sg"/>
+    <match lemma="policy" tags="n.sg"><select lemma="política" tags="n.f.sg"/></match>
+    <match lemma="be" tags="vbser.pri.p3.sg"/>
+  </rule>
+  <rule c="6 23: 1" weight="1.80278">
+    <match lemma="'s" tags="gen"/>
+    <match lemma="neighbourhood" tags="n.sg"/>
+    <match lemma="policy" tags="n.sg"><select lemma="política" tags="n.f.sg"/></match>
+  </rule>
 </rules>

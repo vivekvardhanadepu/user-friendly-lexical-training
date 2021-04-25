@@ -3,80 +3,6 @@ ARG=d
 ARG=o
 ARG=v
 INITIAL PASS 
-expected target length = source length * 1.10905
-ITERATION 1
-  log_e likelihood: -162325
-  log_2 likelihood: -234186
-     cross entropy: 29.8974
-        perplexity: 1e+09
-      posterior p0: 0.08
- posterior al-feat: -0.166388
-       size counts: 220
-ITERATION 2
-  log_e likelihood: -60488.1
-  log_2 likelihood: -87265.9
-     cross entropy: 11.1408
-        perplexity: 2257.96
-      posterior p0: 0.115138
- posterior al-feat: -0.0949622
-       size counts: 220
-  1  model al-feat: -0.155262 (tension=4)
-  2  model al-feat: -0.131672 (tension=5.206)
-  3  model al-feat: -0.119986 (tension=5.94019)
-  4  model al-feat: -0.112992 (tension=6.44067)
-  5  model al-feat: -0.108382 (tension=6.80127)
-  6  model al-feat: -0.105163 (tension=7.06966)
-  7  model al-feat: -0.102829 (tension=7.27367)
-  8  model al-feat: -0.101092 (tension=7.431)
-     final tension: 7.55361
-ITERATION 3
-  log_e likelihood: -31175.1
-  log_2 likelihood: -44976.2
-     cross entropy: 5.74188
-        perplexity: 53.5155
-      posterior p0: 0.0814186
- posterior al-feat: -0.0711527
-       size counts: 220
-  1  model al-feat: -0.0997758 (tension=7.55361)
-  2  model al-feat: -0.0940236 (tension=8.12607)
-  3  model al-feat: -0.0898525 (tension=8.58349)
-  4  model al-feat: -0.0866914 (tension=8.95748)
-  5  model al-feat: -0.08422 (tension=9.26826)
-  6  model al-feat: -0.0822426 (tension=9.5296)
-  7  model al-feat: -0.0806323 (tension=9.7514)
-  8  model al-feat: -0.0793026 (tension=9.94099)
-     final tension: 10.104
-ITERATION 4
-  log_e likelihood: -27463.8
-  log_2 likelihood: -39621.9
-     cross entropy: 5.05833
-        perplexity: 33.3203
-      posterior p0: 0.0788631
- posterior al-feat: -0.0636652
-       size counts: 220
-  1  model al-feat: -0.0781925 (tension=10.104)
-  2  model al-feat: -0.0762855 (tension=10.3945)
-  3  model al-feat: -0.0746997 (tension=10.6469)
-  4  model al-feat: -0.0733641 (tension=10.8676)
-  5  model al-feat: -0.0722275 (tension=11.0616)
-  6  model al-feat: -0.0712519 (tension=11.2329)
-  7  model al-feat: -0.0704084 (tension=11.3846)
-  8  model al-feat: -0.0696746 (tension=11.5195)
-     final tension: 11.6396
-ITERATION 5 (FINAL)
-  log_e likelihood: -26452.8
-  log_2 likelihood: -38163.3
-     cross entropy: 4.87212
-        perplexity: 29.2855
-      posterior p0: 0
- posterior al-feat: 0
-       size counts: 220
-ARG=i
-ARG=r
-ARG=d
-ARG=o
-ARG=v
-INITIAL PASS 
 expected target length = source length * 0.919913
 ITERATION 1
   log_e likelihood: -146907
@@ -87,61 +13,135 @@ ITERATION 1
  posterior al-feat: -0.166902
        size counts: 220
 ITERATION 2
-  log_e likelihood: -57288.4
-  log_2 likelihood: -82649.8
-     cross entropy: 11.6589
-        perplexity: 3233.48
-      posterior p0: 0.119224
- posterior al-feat: -0.0978044
+  log_e likelihood: -57288.2
+  log_2 likelihood: -82649.5
+     cross entropy: 11.6588
+        perplexity: 3233.39
+      posterior p0: 0.119221
+ posterior al-feat: -0.0978069
        size counts: 220
   1  model al-feat: -0.189683 (tension=4)
-  2  model al-feat: -0.147313 (tension=5.83757)
-  3  model al-feat: -0.130769 (tension=6.82774)
-  4  model al-feat: -0.12153 (tension=7.48703)
-  5  model al-feat: -0.115603 (tension=7.96153)
-  6  model al-feat: -0.111504 (tension=8.3175)
-  7  model al-feat: -0.108533 (tension=8.59149)
-  8  model al-feat: -0.10631 (tension=8.80606)
-     final tension: 8.97617
+  2  model al-feat: -0.147314 (tension=5.83752)
+  3  model al-feat: -0.13077 (tension=6.82766)
+  4  model al-feat: -0.121531 (tension=7.48692)
+  5  model al-feat: -0.115604 (tension=7.96141)
+  6  model al-feat: -0.111506 (tension=8.31736)
+  7  model al-feat: -0.108535 (tension=8.59133)
+  8  model al-feat: -0.106312 (tension=8.80588)
+     final tension: 8.97598
 ITERATION 3
-  log_e likelihood: -28669.3
-  log_2 likelihood: -41361.1
-     cross entropy: 5.83455
-        perplexity: 57.0655
-      posterior p0: 0.0704535
- posterior al-feat: -0.0710493
+  log_e likelihood: -28669.5
+  log_2 likelihood: -41361.4
+     cross entropy: 5.83458
+        perplexity: 57.0669
+      posterior p0: 0.0704569
+ posterior al-feat: -0.0710498
        size counts: 220
-  1  model al-feat: -0.104608 (tension=8.97617)
-  2  model al-feat: -0.0983783 (tension=9.64735)
-  3  model al-feat: -0.0938121 (tension=10.1939)
-  4  model al-feat: -0.0903122 (tension=10.6492)
-  5  model al-feat: -0.0875435 (tension=11.0344)
-  6  model al-feat: -0.0853014 (tension=11.3643)
-  7  model al-feat: -0.0834527 (tension=11.6494)
-  8  model al-feat: -0.0819065 (tension=11.8974)
-     final tension: 12.1146
+  1  model al-feat: -0.10461 (tension=8.97598)
+  2  model al-feat: -0.0983797 (tension=9.64719)
+  3  model al-feat: -0.0938132 (tension=10.1938)
+  4  model al-feat: -0.0903132 (tension=10.6491)
+  5  model al-feat: -0.0875444 (tension=11.0343)
+  6  model al-feat: -0.0853022 (tension=11.3642)
+  7  model al-feat: -0.0834534 (tension=11.6493)
+  8  model al-feat: -0.0819072 (tension=11.8973)
+     final tension: 12.1145
 ITERATION 4
-  log_e likelihood: -25001
-  log_2 likelihood: -36068.8
-     cross entropy: 5.08799
-        perplexity: 34.0125
-      posterior p0: 0.0662979
- posterior al-feat: -0.0649819
+  log_e likelihood: -25000.9
+  log_2 likelihood: -36068.6
+     cross entropy: 5.08797
+        perplexity: 34.0119
+      posterior p0: 0.0663003
+ posterior al-feat: -0.0649816
        size counts: 220
-  1  model al-feat: -0.0805985 (tension=12.1146)
-  2  model al-feat: -0.0787875 (tension=12.4269)
-  3  model al-feat: -0.0772519 (tension=12.703)
-  4  model al-feat: -0.0759356 (tension=12.9484)
-  5  model al-feat: -0.0747974 (tension=13.1675)
-  6  model al-feat: -0.0738056 (tension=13.3638)
-  7  model al-feat: -0.0729358 (tension=13.5403)
-  8  model al-feat: -0.072169 (tension=13.6994)
+  1  model al-feat: -0.0805992 (tension=12.1145)
+  2  model al-feat: -0.078788 (tension=12.4268)
+  3  model al-feat: -0.0772522 (tension=12.703)
+  4  model al-feat: -0.0759359 (tension=12.9484)
+  5  model al-feat: -0.0747976 (tension=13.1675)
+  6  model al-feat: -0.0738057 (tension=13.3638)
+  7  model al-feat: -0.0729359 (tension=13.5403)
+  8  model al-feat: -0.0721691 (tension=13.6994)
      final tension: 13.8431
 ITERATION 5 (FINAL)
-  log_e likelihood: -24178.7
-  log_2 likelihood: -34882.5
-     cross entropy: 4.92065
-        perplexity: 30.2874
+  log_e likelihood: -24178.6
+  log_2 likelihood: -34882.3
+     cross entropy: 4.92062
+        perplexity: 30.2869
+      posterior p0: 0
+ posterior al-feat: 0
+       size counts: 220
+ARG=i
+ARG=r
+ARG=d
+ARG=o
+ARG=v
+INITIAL PASS 
+expected target length = source length * 1.10905
+ITERATION 1
+  log_e likelihood: -162325
+  log_2 likelihood: -234186
+     cross entropy: 29.8974
+        perplexity: 1e+09
+      posterior p0: 0.08
+ posterior al-feat: -0.166388
+       size counts: 220
+ITERATION 2
+  log_e likelihood: -60487.8
+  log_2 likelihood: -87265.4
+     cross entropy: 11.1407
+        perplexity: 2257.86
+      posterior p0: 0.115133
+ posterior al-feat: -0.0949594
+       size counts: 220
+  1  model al-feat: -0.155262 (tension=4)
+  2  model al-feat: -0.131671 (tension=5.20605)
+  3  model al-feat: -0.119985 (tension=5.94029)
+  4  model al-feat: -0.11299 (tension=6.44079)
+  5  model al-feat: -0.10838 (tension=6.80141)
+  6  model al-feat: -0.105161 (tension=7.06982)
+  7  model al-feat: -0.102827 (tension=7.27385)
+  8  model al-feat: -0.10109 (tension=7.4312)
+     final tension: 7.55381
+ITERATION 3
+  log_e likelihood: -31174.3
+  log_2 likelihood: -44975
+     cross entropy: 5.74173
+        perplexity: 53.5099
+      posterior p0: 0.0814271
+ posterior al-feat: -0.0711484
+       size counts: 220
+  1  model al-feat: -0.0997735 (tension=7.55381)
+  2  model al-feat: -0.0940212 (tension=8.12632)
+  3  model al-feat: -0.08985 (tension=8.58377)
+  4  model al-feat: -0.0866888 (tension=8.95781)
+  5  model al-feat: -0.0842172 (tension=9.26861)
+  6  model al-feat: -0.0822397 (tension=9.52999)
+  7  model al-feat: -0.0806293 (tension=9.75182)
+  8  model al-feat: -0.0792996 (tension=9.94143)
+     final tension: 10.1045
+ITERATION 4
+  log_e likelihood: -27463.5
+  log_2 likelihood: -39621.5
+     cross entropy: 5.05827
+        perplexity: 33.319
+      posterior p0: 0.0788623
+ posterior al-feat: -0.0636636
+       size counts: 220
+  1  model al-feat: -0.0781893 (tension=10.1045)
+  2  model al-feat: -0.0762827 (tension=10.395)
+  3  model al-feat: -0.0746972 (tension=10.6474)
+  4  model al-feat: -0.0733618 (tension=10.868)
+  5  model al-feat: -0.0722254 (tension=11.062)
+  6  model al-feat: -0.0712498 (tension=11.2332)
+  7  model al-feat: -0.0704064 (tension=11.3849)
+  8  model al-feat: -0.0696728 (tension=11.5198)
+     final tension: 11.64
+ITERATION 5 (FINAL)
+  log_e likelihood: -26452.5
+  log_2 likelihood: -38162.9
+     cross entropy: 4.87206
+        perplexity: 29.2845
       posterior p0: 0
  posterior al-feat: 0
        size counts: 220
@@ -150,193 +150,171 @@ error in line 7 :  string index out of range
 error in line 11 :  string index out of range
 error in line 14 :  string index out of range
 error in line 16 :  string index out of range
-not ambiguous: 4 20 38 59 68 69 70 72 75 82
-not ambiguous: 100 103 125 129 132 135 149 158 164 173
-not ambiguous: 186 194 195 204 209 218 232 237 243 278
+not ambiguous: 1 8 10 15 17 18 20 24 25 29
+not ambiguous: 36 38 39 46 49 50 53 58 59 69
+not ambiguous: 71 72 74 75 76 83 87 88 92 94
+not ambiguous: 95 97 102 105 106 107 109 135 139 140
+not ambiguous: 149 153 154 155 159 164 169 174 175 176
+not ambiguous: 187 189 193 195 196 200 203 208 214 215
+not ambiguous: 218 221 222 223 226 229 232 234 246 249
 total: 301
-valid: 262 (87.04318936877077%)
+valid: 216 (71.76079734219269%)
 errors: 5 (1.6611295681063125%)
-error: de<pr> != gen
-error: de<pr> != guio
-error: de<pr> != det
-error: de<pr> != det
-error: de<pr> != n
-error: de<pr> != n
-error: de<pr> != adj
-error: de<pr> != det
-error: de<pr> != n
-error: de<pr> != n
-error: de<pr> != adv
-error: de<pr> != adj
-error: de<pr> != n
-error: de<pr> != adj
-error: de<pr> != vblex
-error: de<pr> != adj
-error: de<pr> != guio
-error: de<pr> != vbser
-error: de<pr> != n
-error: de<pr> != n
-error: de<pr> != adj
-error: de<pr> != adv
-error: de<pr> != n
-error: de<pr> != n
-error: de<pr> != n
-error: de<pr> != adj
-error: de<pr> != det
-error: de<pr> != vbser
-error: en<pr> != det
-error: en<pr> != det
-error: en<pr> != det
-error: en<pr> != prn
-error: en<pr> != det
-error: en<pr> != n
-error: en<pr> != n
-error: en<pr> != vaux
-error: colega<n><mf><pl> != np
-error: aumentar<vblex><ifi><p3><sg> != adj
-error: por<pr> != guio
-error: por<pr> != n
-error: superar<vblex><inf> != rel
-error: superar<vblex><inf> != adj
-error: perder<vblex><ifi><p3><pl> != det
-error: parecer<vblex><pri><p3><sg> != prn
-error: tl word unknown *arguably<>
-error: respuesta<n><f><sg> != cm
-error: respuesta<n><f><sg> != vblex
-error: tl word unknown *soaring<>
-error: política<n><f><sg> != adj
-error: compromiso<n><m><pl> != adv
-error: tl word unknown *indexed<>
-error: pasar<vblex><inf> != vaux
-error: alto<adj><f><sg> != adv
-error: alto<adj><f><sg> != n
-error: decir<vblex><pri><p1><pl> != adj
-error: alto<adj><m><pl> != n
-error: marcha<n><f><sg> != adj
-error: ganar<vblex><pri><p3><pl> != n
-error: aumentar<vblex><pri><p3><sg> != n
-error: materia<n><f><pl> != adj
-error: tasa<n><f><pl> != vblex
-error: económico<adj><f><sg> != n
-error: económico<adj><m><sg> != cm
-error: fondo<n><m><sg> != det
-error: anterior<adj><mf><pl> != cnjadv
-error: compromiso<n><m><sg> != np
-error: adhesión<n><f><sg> != vblex
-error: adhesión<n><f><sg> != vblex
-error: único<adj><m><sg> != n
-error: relación<n><f><pl> != vblex
-error: perder<vblex><inf> != n
-error: tl word unknown *sulkily<>
-error: echar<vblex><inf> != prn
-error: bien<n><m><pl> != cm
-error: único<adj><f><sg> != adv
-error: política<n><f><pl> != cm
-error: mayor<adj><mf><sg> != vblex
-error: participación<n><f><sg> != vblex
-error: apoyar<vblex><pri><p3><pl> != adv
-error: obligar<vblex><pp><m><pl> != vbser
-error: aspirar<vblex><pri><p3><pl> != n
-error: medio<adj><m><sg> != det
-error: moneda<n><f><sg> != adv
-error: esperar<vblex><prs><p1><pl> != n
-error: entre<pr> != n
-error: entre<pr> != vblex
-error: mandato<n><m><sg> != adj
-error: al respecto<cnjadv> != n
-error: reunión<n><f><sg> != det
-error: mantener<vblex><pri><p3><sg> != adj
-error: mantener<vblex><pri><p3><sg> != adj
-error: enfrentar<vblex><pri><p3><sg> != np
-error: agudo<adj><f><sg> != n
-error: tl word unknown *highs<>
-error: tl word unknown *headwinds<>
-error: alto<adj><f><pl> != cm
-error: tl word unknown *resumes<>
-error: aumentar<vblex><ger> != n
-error: gasto<n><m><sg> != vblex
-error: fomentar<vblex><inf> != pr
-error: fomentar<vblex><inf> != adv
-error: tl word unknown *permitting<>
-error: hora<n><f><pl> != adj
-error: tl word unknown *shakeout<>
-error: empleo<n><m><pl> != adj
-error: aumentar<vblex><cni><p3><sg> != adv
-error: resumen<n><m><sg> != adj
-error: tl word unknown *Netherlands<>
-error: mantener<vblex><inf> != n
-error: mantener<vblex><inf> != adj
-error: esfuerzo<n><m><pl> != pr
-error: aumentar<vblex><inf> != cm
-error: salario<n><m><pl> != vblex
-error: superar<vblex><pri><p3><sg> != n
-error: bajo<adj><f><pl> != vblex
-error: bajo<adj><f><pl> != adv
-error: encabezar<vblex><pp><f><sg> != np
-error: régimen<n><m><sg> != np
-error: representación<n><f><sg> != vblex
-error: parecer<vblex><pri><p3><pl> != pr
-error: apuntar<vblex><inf> != pr
-error: derecho<n><m><pl> != pr
-error: partidario<n><m><pl> != pr
-error: campo<n><m><sg> != adj
-error: camino<n><m><sg> != det
-error: tl word unknown *athism<>
-error: retroceder<vblex><ifi><p3><sg> != n
-error: salida<n><f><sg> != adj
-error: tl word unknown *bogus<>
-error: obsesionarse# con<vblex><pron><pp><m><pl> != n
-error: perder<vblex><ifi><p3><sg> != rel
-error: extremo<n><m><sg> != preadv
-error: tl word unknown *AKP<>
-error: extremo<n><m><pl> != vblex
-error: considerar<vblex><prs><p3><sg> != det
-error: quedar<vblex><pri><p3><sg> != det
-error: inestimable<adj><mf><sg> != n
-error: tiempo<n><m><sg> != vblex
-error: consecuencia<n><f><sg> != adj
-error: materia<n><f><sg> != vblex
-error: injusticia<n><f><sg> != det
-error: tl word unknown *doorways<>
-error: motivo<n><m><sg> != det
-error: molesto<adj><m><sg> != n
-error: alto<adj><m><sg> != det
-error: alto<adj><m><sg> != n
-error: apoyar<vblex><pp><f><sg> != guio
-error: realizar<vblex><pp><f><pl> != np
-error: bajo<adj><m><sg> != cnjcoo
-error: estudio<n><m><pl> != adj
-error: tl word unknown *tradable<>
-error: menor<adj><mf><sg> != n
-error: estimar<vblex><pri><p3><sg> != adj
-error: preparado<adj><f><sg> != vblex
-error: temer<vblex><pri><p3><pl> != n
-error: quedar<vblex><inf> != n
-error: estimar<vblex><pri><p3><pl> != n
-error: menor<adj><mf><pl> != n
-error: ampliamente<adv> != n
-error: evitar<vblex><inf> != n
-error: tl word unknown *indestructible<>
-error: época<n><f><sg> != det
-error: triunfo<n><m><sg> != pr
-error: principio<n><m><pl> != pr
-error: carrera<n><f><sg> != det
-error: llevar<vblex><ifi><p3><sg> != det
-error: parecer<vblex><pii><p3><pl> != guio
-error: claro<adj><m><pl> != guio
-error: esperar<vblex><pp><m><sg> != cm
-error: salir<vblex><inf> != n
-error: superar<vblex><prs><p3><sg> != adv
-error: enfrentar<vblex><prs><p3><sg> != n
-error: pasar<vblex><fti><p3><sg> != pr
-error: tl word unknown *xenophobia<>
-error: terminar<vblex><prs><p3><pl> != adj
-error: entrenar<vblex><ger> != np
-error: pasar<vblex><pis><p3><sg> != n
-error: decir<vblex><prs><p1><pl> != cm
-error: nave<n><f><pl> != np
-error: espacial<adj><mf><pl> != np
-error: invertir<vblex><pp><m><sg> != n
-error: acabar<vblex><pii><p3><sg> != vbhaver
-error: sol<n><m><sg> != num
-error: seguro<adj><f><sg> != adv
+error: over<pr> != vblex
+error: over<pr> != preadv
+error: just<adv> != cm
+error: just<adv> != vblex
+error: market<n><sg> != det
+error: market<n><sg> != pr
+error: article<n><pl> != vblex
+error: appear<vblex><past> != det
+error: appear<vblex><past> != n
+error: move<vblex><pp> != det
+error: for<pr> != det
+error: for<pr> != n
+error: for<pr> != vblex
+error: get<vblex><ger> != adj
+error: policy<n><sg> != pr
+error: tl word unknown *vecindad<>
+error: tl word unknown *indexados<>
+error: bug<n><pl> != adv
+error: make<vblex><inf> != vbser
+error: make<vblex><inf> != n
+error: argue<vblex><ger> != n
+error: make<vblex><pres> != adj
+error: powerful<adj> != det
+error: emergence<n><sg> != adj
+error: as<cnjadv> != pr
+error: as<cnjadv> != cm
+error: as<cnjadv> != rel
+error: as<cnjadv> != n
+error: bank<n><pl> != det
+error: look<vblex><ger> != det
+error: tl word unknown *apetecible<>
+error: support<n><sg> != cm
+error: extent<n><sg> != cm
+error: rate<n><sg> != pr
+error: rise<vblex><pres> != adv
+error: short<adj><sint> != pr
+error: short<adj><sint> != n
+error: short<adj><sint> != det
+error: short<adj><sint> != n
+error: term<n><sg> != adj
+error: term<n><sg> != pr
+error: balance<n><sg> != vblex
+error: great<adj><sint> != vblex
+error: make<vblex><pri><p3><sg> != adv
+error: event<n><pl> != adj
+error: reason<n><sg> != prn
+error: union<n><sg> != adj
+error: party<n><sg> != pr
+error: vote<n><sg> != vblex
+error: vote<n><sg> != adv
+error: free<adj><sint> != prn
+error: capital<n><sg> != pr
+error: policy<n><pl> != pr
+error: standard<n><pl> != det
+error: pool<n><sg> != vbmod
+error: command<n><sg> != adj
+error: move<vblex><inf> != vbhaver
+error: operation<n><sg> != guio
+error: area<n><sg> != adj
+error: involve<vblex><ger> != n
+error: tug<n><sg> != vblex
+error: reach<vblex><inf> != pr
+error: partner<n><pl> != vblex
+error: part<n><sg> != vblex
+error: part<n><sg> != rel
+error: take<vblex><pp> != n
+error: keep<vblex><ger> != n
+error: tl word unknown *fracase<>
+error: state<vblex><pri><p3><sg> != n
+error: suit<n><pl> != vblex
+error: bind<vblex><past> != guio
+error: form<n><sg> != pr
+error: kick<n><sg> != det
+error: question<n><sg> != det
+error: hit<vblex><inf> != det
+error: sheet<n><pl> != vblex
+error: cut<n><pl> != adj
+error: spend<vblex><ger> != n
+error: raise<vblex><inf> != cm
+error: tl word unknown *escasea<>
+error: tl word unknown *endeudarse<>
+error: capital<adj> != n
+error: tl word unknown *financiamiento<>
+error: boost<vblex><inf> != n
+error: lift<n><sg> != pr
+error: introduce<vblex><inf> != pr
+error: encourage<vblex><inf> != n
+error: encourage<vblex><inf> != pr
+error: speech<n><sg> != pr
+error: wave<n><sg> != pr
+error: become<vblex><inf> != n
+error: tl word unknown *PBI<>
+error: tl word unknown *impositivo<>
+error: case<n><sg> != pr
+error: post<n><sg> != np
+error: line<n><pl> != adj
+error: somewhere<adv> != n
+error: tl word unknown *feudos<>
+error: appear<vblex><pri><p3><sg> != vbmod
+error: appear<vblex><pri><p3><sg> != cm
+error: right<n><pl> != pr
+error: obstacle<n><sg> != det
+error: leave<vblex><inf> != n
+error: shift<n><sg> != adj
+error: ability<n><sg> != pr
+error: tl word unknown *yace<>
+error: reflection<n><sg> != cm
+error: give<vblex><pp> != n
+error: right<adj> != n
+error: core<n><sg> != det
+error: settle<vblex><ger> != n
+error: criticism<n><sg> != adj
+error: carefully<adv> != adj
+error: passage<n><sg> != cnjadv
+error: shift<vblex><ger> != n
+error: assume<vblex><pri><p3><sg> != adj
+error: push<vblex><ger> != det
+error: throughout<pr> != det
+error: boost<vblex><pri><p3><sg> != adj
+error: keep<vblex><pri><p3><sg> != pr
+error: prepare<vblex><pp> != adj
+error: length<n><sg> != adj
+error: equally<adv> != adj
+error: work<n><sg> != adj
+error: band<n><sg> != pr
+error: side<n><sg> != pr
+error: keep<vblex><inf> != adv
+error: output<n><sg> != vblex
+error: rightly<adv> != n
+error: reference<n><pl> != vblex
+error: ideal<adj> != vblex
+error: tl word unknown *Lehman<>
+error: division<n><pl> != adj
+error: unfold<vblex><ger> != rel
+error: divide<vblex><inf> != n
+error: result<n><pl> != pr
+error: race<n><sg> != cm
+error: push<vblex><past> != det
+error: pass<n><pl> != vblex
+error: make<vblex><ger> != n
+error: spread<vblex><ger> != adj
+error: work<vblex><ger> != pr
+error: return<vblex><inf> != pr
+error: oil<n><sg> != adj
+error: tl word unknown *cosmonauta<>
+error: know<vblex><past> != pr
+error: company<n><sg> != vblex
+error: origin<n><sg> != pr
+error: manager<n><sg> != pr
+error: dark<adj><sint> != vblex
+error: show<vblex><past> != vbhaver
+error: love<vblex><past> != n
+error: tour<n><sg> != det
+error: watch<vblex><inf> != det
+error: launch<n><sg> != det
+error: foundation<n><sg> != cm
+error: web<n><sg> != cm
+error: site<n><sg> != cm

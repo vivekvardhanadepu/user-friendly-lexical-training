@@ -1,7 +1,7 @@
 CORPUS="news-commentary-v8"
 PAIR="eng-spa"
-SL="spa"
-TL="eng"
+SL="eng"
+TL="spa"
 
 PROJ_HOME="/home/vivek/Documents/FOSS/apertium/user-friendly-lexical-training/coding_challenges"
 LEX_TOOLS="/home/vivek/Documents/FOSS/apertium/apertium-lex-tools"
