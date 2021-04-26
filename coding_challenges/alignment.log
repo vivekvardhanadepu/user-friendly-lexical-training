@@ -3,318 +3,1903 @@ ARG=d
 ARG=o
 ARG=v
 INITIAL PASS 
-expected target length = source length * 0.919913
+....
+expected target length = source length * 1.03399
 ITERATION 1
-  log_e likelihood: -146907
-  log_2 likelihood: -211942
+....
+  log_e likelihood: -2.62423e+06
+  log_2 likelihood: -3.78596e+06
      cross entropy: 29.8974
         perplexity: 1e+09
       posterior p0: 0.08
- posterior al-feat: -0.166902
-       size counts: 220
+ posterior al-feat: -0.166222
+       size counts: 1211
 ITERATION 2
-  log_e likelihood: -57288.2
-  log_2 likelihood: -82649.5
-     cross entropy: 11.6588
-        perplexity: 3233.39
-      posterior p0: 0.119221
- posterior al-feat: -0.0978069
-       size counts: 220
-  1  model al-feat: -0.189683 (tension=4)
-  2  model al-feat: -0.147314 (tension=5.83752)
-  3  model al-feat: -0.13077 (tension=6.82766)
-  4  model al-feat: -0.121531 (tension=7.48692)
-  5  model al-feat: -0.115604 (tension=7.96141)
-  6  model al-feat: -0.111506 (tension=8.31736)
-  7  model al-feat: -0.108535 (tension=8.59133)
-  8  model al-feat: -0.106312 (tension=8.80588)
-     final tension: 8.97598
+....
+  log_e likelihood: -848671
+  log_2 likelihood: -1.22437e+06
+     cross entropy: 9.66875
+        perplexity: 813.923
+      posterior p0: 0.102548
+ posterior al-feat: -0.11851
+       size counts: 1211
+  1  model al-feat: -0.167337 (tension=4)
+  2  model al-feat: -0.145965 (tension=4.97655)
+  3  model al-feat: -0.135803 (tension=5.52565)
+  4  model al-feat: -0.129997 (tension=5.87151)
+  5  model al-feat: -0.126373 (tension=6.10125)
+  6  model al-feat: -0.123992 (tension=6.25851)
+  7  model al-feat: -0.122379 (tension=6.36815)
+  8  model al-feat: -0.121262 (tension=6.44553)
+     final tension: 6.50058
 ITERATION 3
-  log_e likelihood: -28669.5
-  log_2 likelihood: -41361.4
-     cross entropy: 5.83458
-        perplexity: 57.0669
-      posterior p0: 0.0704569
- posterior al-feat: -0.0710498
-       size counts: 220
-  1  model al-feat: -0.10461 (tension=8.97598)
-  2  model al-feat: -0.0983797 (tension=9.64719)
-  3  model al-feat: -0.0938132 (tension=10.1938)
-  4  model al-feat: -0.0903132 (tension=10.6491)
-  5  model al-feat: -0.0875444 (tension=11.0343)
-  6  model al-feat: -0.0853022 (tension=11.3642)
-  7  model al-feat: -0.0834534 (tension=11.6493)
-  8  model al-feat: -0.0819072 (tension=11.8973)
-     final tension: 12.1145
+....
+  log_e likelihood: -593243
+  log_2 likelihood: -855868
+     cross entropy: 6.75871
+        perplexity: 108.286
+      posterior p0: 0.0721116
+ posterior al-feat: -0.0927005
+       size counts: 1211
+  1  model al-feat: -0.120479 (tension=6.50058)
+  2  model al-feat: -0.113056 (tension=7.05615)
+  3  model al-feat: -0.108126 (tension=7.46325)
+  4  model al-feat: -0.104646 (tension=7.77175)
+  5  model al-feat: -0.102092 (tension=8.01067)
+  6  model al-feat: -0.100164 (tension=8.1985)
+  7  model al-feat: -0.0986802 (tension=8.34777)
+  8  model al-feat: -0.0975209 (tension=8.46736)
+     final tension: 8.56377
 ITERATION 4
-  log_e likelihood: -25000.9
-  log_2 likelihood: -36068.6
-     cross entropy: 5.08797
-        perplexity: 34.0119
-      posterior p0: 0.0663003
- posterior al-feat: -0.0649816
-       size counts: 220
-  1  model al-feat: -0.0805992 (tension=12.1145)
-  2  model al-feat: -0.078788 (tension=12.4268)
-  3  model al-feat: -0.0772522 (tension=12.703)
-  4  model al-feat: -0.0759359 (tension=12.9484)
-  5  model al-feat: -0.0747976 (tension=13.1675)
-  6  model al-feat: -0.0738057 (tension=13.3638)
-  7  model al-feat: -0.0729359 (tension=13.5403)
-  8  model al-feat: -0.0721691 (tension=13.6994)
-     final tension: 13.8431
+....
+  log_e likelihood: -551072
+  log_2 likelihood: -795029
+     cross entropy: 6.27827
+        perplexity: 77.6151
+      posterior p0: 0.0704351
+ posterior al-feat: -0.0819096
+       size counts: 1211
+  1  model al-feat: -0.0966049 (tension=8.56377)
+  2  model al-feat: -0.0939103 (tension=8.85768)
+  3  model al-feat: -0.0918136 (tension=9.09769)
+  4  model al-feat: -0.0901493 (tension=9.29577)
+  5  model al-feat: -0.088808 (tension=9.46057)
+  6  model al-feat: -0.0877141 (tension=9.59854)
+  7  model al-feat: -0.0868135 (tension=9.71463)
+  8  model al-feat: -0.0860664 (tension=9.81271)
+     final tension: 9.89584
 ITERATION 5 (FINAL)
-  log_e likelihood: -24178.6
-  log_2 likelihood: -34882.3
-     cross entropy: 4.92062
-        perplexity: 30.2869
+....
+  log_e likelihood: -538189
+  log_2 likelihood: -776443
+     cross entropy: 6.13149
+        perplexity: 70.1073
       posterior p0: 0
  posterior al-feat: 0
-       size counts: 220
+       size counts: 1211
 ARG=i
 ARG=r
 ARG=d
 ARG=o
 ARG=v
 INITIAL PASS 
-expected target length = source length * 1.10905
+....
+expected target length = source length * 1.00291
 ITERATION 1
-  log_e likelihood: -162325
-  log_2 likelihood: -234186
+....
+  log_e likelihood: -2.55325e+06
+  log_2 likelihood: -3.68356e+06
      cross entropy: 29.8974
         perplexity: 1e+09
       posterior p0: 0.08
- posterior al-feat: -0.166388
-       size counts: 220
+ posterior al-feat: -0.166333
+       size counts: 1211
 ITERATION 2
-  log_e likelihood: -60487.8
-  log_2 likelihood: -87265.4
-     cross entropy: 11.1407
-        perplexity: 2257.86
-      posterior p0: 0.115133
- posterior al-feat: -0.0949594
-       size counts: 220
-  1  model al-feat: -0.155262 (tension=4)
-  2  model al-feat: -0.131671 (tension=5.20605)
-  3  model al-feat: -0.119985 (tension=5.94029)
-  4  model al-feat: -0.11299 (tension=6.44079)
-  5  model al-feat: -0.10838 (tension=6.80141)
-  6  model al-feat: -0.105161 (tension=7.06982)
-  7  model al-feat: -0.102827 (tension=7.27385)
-  8  model al-feat: -0.10109 (tension=7.4312)
-     final tension: 7.55381
+....
+  log_e likelihood: -816741
+  log_2 likelihood: -1.17831e+06
+     cross entropy: 9.56364
+        perplexity: 756.734
+      posterior p0: 0.103295
+ posterior al-feat: -0.118706
+       size counts: 1211
+  1  model al-feat: -0.176726 (tension=4)
+  2  model al-feat: -0.150186 (tension=5.16041)
+  3  model al-feat: -0.138421 (tension=5.79002)
+  4  model al-feat: -0.131842 (tension=6.18431)
+  5  model al-feat: -0.12776 (tension=6.44703)
+  6  model al-feat: -0.125078 (tension=6.62812)
+  7  model al-feat: -0.123251 (tension=6.75556)
+  8  model al-feat: -0.121978 (tension=6.84647)
+     final tension: 6.9119
 ITERATION 3
-  log_e likelihood: -31174.3
-  log_2 likelihood: -44975
-     cross entropy: 5.74173
-        perplexity: 53.5099
-      posterior p0: 0.0814271
- posterior al-feat: -0.0711484
-       size counts: 220
-  1  model al-feat: -0.0997735 (tension=7.55381)
-  2  model al-feat: -0.0940212 (tension=8.12632)
-  3  model al-feat: -0.08985 (tension=8.58377)
-  4  model al-feat: -0.0866888 (tension=8.95781)
-  5  model al-feat: -0.0842172 (tension=9.26861)
-  6  model al-feat: -0.0822397 (tension=9.52999)
-  7  model al-feat: -0.0806293 (tension=9.75182)
-  8  model al-feat: -0.0792996 (tension=9.94143)
-     final tension: 10.1045
+....
+  log_e likelihood: -577435
+  log_2 likelihood: -833063
+     cross entropy: 6.76149
+        perplexity: 108.495
+      posterior p0: 0.0723192
+ posterior al-feat: -0.0889289
+       size counts: 1211
+  1  model al-feat: -0.121076 (tension=6.9119)
+  2  model al-feat: -0.112835 (tension=7.55484)
+  3  model al-feat: -0.107366 (tension=8.03297)
+  4  model al-feat: -0.103486 (tension=8.40172)
+  5  model al-feat: -0.100611 (tension=8.69286)
+  6  model al-feat: -0.0984168 (tension=8.92651)
+  7  model al-feat: -0.0967039 (tension=9.11627)
+  8  model al-feat: -0.0953447 (tension=9.27177)
+     final tension: 9.40009
 ITERATION 4
-  log_e likelihood: -27463.5
-  log_2 likelihood: -39621.5
-     cross entropy: 5.05827
-        perplexity: 33.319
-      posterior p0: 0.0788623
- posterior al-feat: -0.0636636
-       size counts: 220
-  1  model al-feat: -0.0781893 (tension=10.1045)
-  2  model al-feat: -0.0762827 (tension=10.395)
-  3  model al-feat: -0.0746972 (tension=10.6474)
-  4  model al-feat: -0.0733618 (tension=10.868)
-  5  model al-feat: -0.0722254 (tension=11.062)
-  6  model al-feat: -0.0712498 (tension=11.2332)
-  7  model al-feat: -0.0704064 (tension=11.3849)
-  8  model al-feat: -0.0696728 (tension=11.5198)
-     final tension: 11.64
+....
+  log_e likelihood: -534832
+  log_2 likelihood: -771600
+     cross entropy: 6.26263
+        perplexity: 76.7785
+      posterior p0: 0.0698538
+ posterior al-feat: -0.077581
+       size counts: 1211
+  1  model al-feat: -0.0942522 (tension=9.40009)
+  2  model al-feat: -0.0915308 (tension=9.73351)
+  3  model al-feat: -0.0893774 (tension=10.0125)
+  4  model al-feat: -0.0876395 (tension=10.2484)
+  5  model al-feat: -0.086215 (tension=10.4496)
+  6  model al-feat: -0.0850329 (tension=10.6223)
+  7  model al-feat: -0.084042 (tension=10.7713)
+  8  model al-feat: -0.0832042 (tension=10.9005)
+     final tension: 11.013
 ITERATION 5 (FINAL)
-  log_e likelihood: -26452.5
-  log_2 likelihood: -38162.9
-     cross entropy: 4.87206
-        perplexity: 29.2845
+....
+  log_e likelihood: -522266
+  log_2 likelihood: -753471
+     cross entropy: 6.11549
+        perplexity: 69.334
       posterior p0: 0
  posterior al-feat: 0
-       size counts: 220
-error in line 6 :  string index out of range
-error in line 7 :  string index out of range
-error in line 11 :  string index out of range
-error in line 14 :  string index out of range
-error in line 16 :  string index out of range
-not ambiguous: 1 8 10 15 17 18 20 24 25 29
-not ambiguous: 36 38 39 46 49 50 53 58 59 69
-not ambiguous: 71 72 74 75 76 83 87 88 92 94
-not ambiguous: 95 97 102 105 106 107 109 135 139 140
-not ambiguous: 149 153 154 155 159 164 169 174 175 176
-not ambiguous: 187 189 193 195 196 200 203 208 214 215
-not ambiguous: 218 221 222 223 226 229 232 234 246 249
-total: 301
-valid: 216 (71.76079734219269%)
-errors: 5 (1.6611295681063125%)
-error: over<pr> != vblex
-error: over<pr> != preadv
-error: just<adv> != cm
-error: just<adv> != vblex
-error: market<n><sg> != det
-error: market<n><sg> != pr
-error: article<n><pl> != vblex
-error: appear<vblex><past> != det
-error: appear<vblex><past> != n
-error: move<vblex><pp> != det
-error: for<pr> != det
-error: for<pr> != n
-error: for<pr> != vblex
-error: get<vblex><ger> != adj
-error: policy<n><sg> != pr
-error: tl word unknown *vecindad<>
-error: tl word unknown *indexados<>
-error: bug<n><pl> != adv
-error: make<vblex><inf> != vbser
-error: make<vblex><inf> != n
-error: argue<vblex><ger> != n
-error: make<vblex><pres> != adj
-error: powerful<adj> != det
-error: emergence<n><sg> != adj
-error: as<cnjadv> != pr
-error: as<cnjadv> != cm
-error: as<cnjadv> != rel
-error: as<cnjadv> != n
-error: bank<n><pl> != det
-error: look<vblex><ger> != det
-error: tl word unknown *apetecible<>
-error: support<n><sg> != cm
-error: extent<n><sg> != cm
-error: rate<n><sg> != pr
-error: rise<vblex><pres> != adv
-error: short<adj><sint> != pr
-error: short<adj><sint> != n
-error: short<adj><sint> != det
-error: short<adj><sint> != n
-error: term<n><sg> != adj
-error: term<n><sg> != pr
-error: balance<n><sg> != vblex
-error: great<adj><sint> != vblex
-error: make<vblex><pri><p3><sg> != adv
-error: event<n><pl> != adj
-error: reason<n><sg> != prn
-error: union<n><sg> != adj
-error: party<n><sg> != pr
-error: vote<n><sg> != vblex
-error: vote<n><sg> != adv
-error: free<adj><sint> != prn
-error: capital<n><sg> != pr
-error: policy<n><pl> != pr
-error: standard<n><pl> != det
-error: pool<n><sg> != vbmod
-error: command<n><sg> != adj
-error: move<vblex><inf> != vbhaver
-error: operation<n><sg> != guio
-error: area<n><sg> != adj
-error: involve<vblex><ger> != n
-error: tug<n><sg> != vblex
-error: reach<vblex><inf> != pr
-error: partner<n><pl> != vblex
-error: part<n><sg> != vblex
-error: part<n><sg> != rel
-error: take<vblex><pp> != n
-error: keep<vblex><ger> != n
-error: tl word unknown *fracase<>
-error: state<vblex><pri><p3><sg> != n
-error: suit<n><pl> != vblex
-error: bind<vblex><past> != guio
-error: form<n><sg> != pr
-error: kick<n><sg> != det
-error: question<n><sg> != det
-error: hit<vblex><inf> != det
-error: sheet<n><pl> != vblex
-error: cut<n><pl> != adj
-error: spend<vblex><ger> != n
-error: raise<vblex><inf> != cm
-error: tl word unknown *escasea<>
-error: tl word unknown *endeudarse<>
-error: capital<adj> != n
-error: tl word unknown *financiamiento<>
-error: boost<vblex><inf> != n
-error: lift<n><sg> != pr
-error: introduce<vblex><inf> != pr
-error: encourage<vblex><inf> != n
-error: encourage<vblex><inf> != pr
-error: speech<n><sg> != pr
-error: wave<n><sg> != pr
-error: become<vblex><inf> != n
-error: tl word unknown *PBI<>
-error: tl word unknown *impositivo<>
-error: case<n><sg> != pr
-error: post<n><sg> != np
-error: line<n><pl> != adj
-error: somewhere<adv> != n
-error: tl word unknown *feudos<>
-error: appear<vblex><pri><p3><sg> != vbmod
-error: appear<vblex><pri><p3><sg> != cm
-error: right<n><pl> != pr
-error: obstacle<n><sg> != det
-error: leave<vblex><inf> != n
-error: shift<n><sg> != adj
-error: ability<n><sg> != pr
-error: tl word unknown *yace<>
-error: reflection<n><sg> != cm
-error: give<vblex><pp> != n
-error: right<adj> != n
-error: core<n><sg> != det
-error: settle<vblex><ger> != n
-error: criticism<n><sg> != adj
-error: carefully<adv> != adj
-error: passage<n><sg> != cnjadv
-error: shift<vblex><ger> != n
-error: assume<vblex><pri><p3><sg> != adj
-error: push<vblex><ger> != det
-error: throughout<pr> != det
-error: boost<vblex><pri><p3><sg> != adj
-error: keep<vblex><pri><p3><sg> != pr
-error: prepare<vblex><pp> != adj
-error: length<n><sg> != adj
-error: equally<adv> != adj
-error: work<n><sg> != adj
-error: band<n><sg> != pr
-error: side<n><sg> != pr
-error: keep<vblex><inf> != adv
-error: output<n><sg> != vblex
-error: rightly<adv> != n
-error: reference<n><pl> != vblex
-error: ideal<adj> != vblex
-error: tl word unknown *Lehman<>
-error: division<n><pl> != adj
-error: unfold<vblex><ger> != rel
-error: divide<vblex><inf> != n
-error: result<n><pl> != pr
-error: race<n><sg> != cm
-error: push<vblex><past> != det
-error: pass<n><pl> != vblex
-error: make<vblex><ger> != n
-error: spread<vblex><ger> != adj
-error: work<vblex><ger> != pr
-error: return<vblex><inf> != pr
-error: oil<n><sg> != adj
-error: tl word unknown *cosmonauta<>
-error: know<vblex><past> != pr
-error: company<n><sg> != vblex
-error: origin<n><sg> != pr
-error: manager<n><sg> != pr
-error: dark<adj><sint> != vblex
-error: show<vblex><past> != vbhaver
-error: love<vblex><past> != n
-error: tour<n><sg> != det
-error: watch<vblex><inf> != det
-error: launch<n><sg> != det
-error: foundation<n><sg> != cm
-error: web<n><sg> != cm
-error: site<n><sg> != cm
+       size counts: 1211
+not ambiguous: 15 30 52 54 63 68 69 72 100 102
+not ambiguous: 105 107 112 114 116 118 120 123 125 128
+not ambiguous: 133 177 180 182 189 192 256 258 259 266
+not ambiguous: 269 276 291 305 358 400 404 405 446 514
+not ambiguous: 548 555 574 576 581 593 602 625 635 641
+not ambiguous: 643 653 656 661 669 681 689 701 723 731
+not ambiguous: 741 749 788 800 810 819 828 841 850 893
+not ambiguous: 898 901 903 913 917 940 954 966 969 999
+not ambiguous: 1007 1010 1011 1073 1077 1083 1103 1115 1142 1146
+not ambiguous: 1194 1198 1211 1214 1222 1225 1235 1249 1254 1255
+not ambiguous: 1272 1277 1279 1280 1284 1289 1324 1343 1348 1356
+not ambiguous: 1375 1376 1377 1378 1413 1420 1437 1445 1450 1453
+not ambiguous: 1454 1458 1467 1468 1488 1489 1495 1498 1508 1511
+not ambiguous: 1530 1533 1536 1537 1548 1554 1563 1570 1589 1591
+not ambiguous: 1593 1600 1601 1608 1630 1639 1641 1646 1654 1658
+not ambiguous: 1670 1675 1685 1687 1705 1707 1740 1742 1748 1770
+not ambiguous: 1771 1779 1792 1798 1817 1820 1823 1828 1835 1859
+not ambiguous: 1869 1888 1891 1896 1904 1915 1919 1923 1928 1930
+not ambiguous: 1931 1938 1941 1944 1961 1964 1966 1976 1980 1985
+not ambiguous: 1994 1998 2006 2013 2024 2033 2035 2037 2039 2042
+not ambiguous: 2050 2054 2056 2057 2070 2071 2083 2096 2104 2105
+not ambiguous: 2107 2114 2127 2137 2148 2170 2172 2180 2204 2205
+not ambiguous: 2217 2230 2231 2237 2248 2259 2276 2283 2286 2290
+not ambiguous: 2340 2377 2392 2408 2416 2421 2423 2427 2430 2478
+not ambiguous: 2482 2483 2487 2489 2494 2519 2525 2531 2551 2552
+not ambiguous: 2555 2557 2558 2559 2563 2564 2566 2608 2613 2616
+not ambiguous: 2621 2637 2638 2649 2655 2660 2688 2695 2698 2702
+not ambiguous: 2705 2711 2712 2716 2737 2747 2755 2758 2785 2789
+not ambiguous: 2790 2800 2818 2828 2842 2861 2863 2864 2882 2888
+not ambiguous: 2899 2915 2927 2930 2938 2952 2955 3024 3027 3060
+not ambiguous: 3066 3073 3090 3092 3094 3099 3113 3124 3133 3143
+not ambiguous: 3144 3147 3169 3170 3173 3175 3177 3183 3184 3186
+not ambiguous: 3188 3199 3216 3234 3267 3295 3307 3309 3321 3322
+not ambiguous: 3353 3373 3381 3384 3389 3404 3417 3425 3427 3429
+not ambiguous: 3431 3447 3451 3454 3497 3504 3509 3523 3530 3540
+not ambiguous: 3556 3559 3567 3569 3570 3571 3572 3597 3606 3645
+not ambiguous: 3649 3684 3690 3758 3768 3785 3813 3822 3833 3863
+not ambiguous: 3868 3871 3877 3882 3908 3921 3925 3956 3957 3966
+not ambiguous: 3987 3994 4034 4066 4115 4122 4141 4170 4180 4213
+not ambiguous: 4216 4220 4224 4226 4258 4280 4296 4338 4339 4342
+total: 4501
+valid: 4093 (90.93534770051099%)
+errors: 0 (0.0%)
+....error: de<pr> != det
+error: de<pr> != apos
+error: tl word unknown *s<>
+error: de<pr> != det
+error: de<pr> != gen
+error: de<pr> != guio
+error: de<pr> != cnjcoo
+error: de<pr> != vblex
+error: de<pr> != adv
+error: de<pr> != n
+error: de<pr> != n
+error: de<pr> != vbser
+error: de<pr> != det
+error: de<pr> != n
+error: de<pr> != num
+error: de<pr> != vbser
+error: de<pr> != n
+error: de<pr> != adj
+error: de<pr> != vblex
+error: de<pr> != adv
+error: de<pr> != cm
+error: de<pr> != n
+error: de<pr> != adv
+error: de<pr> != vblex
+error: de<pr> != vblex
+error: de<pr> != adv
+error: de<pr> != n
+error: de<pr> != adv
+error: de<pr> != n
+error: de<pr> != vblex
+error: de<pr> != n
+error: de<pr> != n
+error: de<pr> != vblex
+error: de<pr> != vblex
+error: de<pr> != n
+error: de<pr> != n
+error: de<pr> != n
+error: de<pr> != vblex
+error: de<pr> != n
+error: de<pr> != vblex
+error: de<pr> != vblex
+error: de<pr> != n
+error: de<pr> != vblex
+error: de<pr> != n
+error: de<pr> != vbhaver
+error: de<pr> != vblex
+error: de<pr> != n
+error: de<pr> != adj
+error: de<pr> != n
+error: de<pr> != vblex
+error: de<pr> != vblex
+error: de<pr> != vaux
+error: de<pr> != adv
+error: de<pr> != adj
+error: tl word unknown *comply<>
+error: de<pr> != vblex
+error: de<pr> != n
+error: de<pr> != n
+error: de<pr> != vblex
+error: de<pr> != n
+error: de<pr> != adj
+error: de<pr> != n
+error: de<pr> != n
+error: de<pr> != adv
+error: de<pr> != vblex
+error: de<pr> != vblex
+error: de<pr> != vbser
+error: de<pr> != n
+error: de<pr> != vblex
+error: de<pr> != n
+error: de<pr> != vblex
+error: de<pr> != vblex
+error: de<pr> != vblex
+error: de<pr> != n
+error: de<pr> != n
+error: de<pr> != n
+error: de<pr> != vblex
+error: de<pr> != adv
+error: de<pr> != n
+error: de<pr> != n
+error: de<pr> != num
+error: de<pr> != n
+error: de<pr> != adj
+error: de<pr> != n
+error: de<pr> != n
+error: de<pr> != n
+error: de<pr> != adj
+error: de<pr> != n
+error: de<pr> != n
+error: de<pr> != prn
+error: de<pr> != adj
+error: de<pr> != vblex
+error: de<pr> != vbser
+error: de<pr> != n
+error: de<pr> != n
+error: de<pr> != vblex
+error: de<pr> != adj
+error: de<pr> != vblex
+error: de<pr> != vblex
+error: de<pr> != n
+error: de<pr> != det
+error: de<pr> != n
+error: tl word unknown *departmental<>
+error: de<pr> != adj
+error: de<pr> != adv
+error: de<pr> != adv
+error: de<pr> != n
+error: de<pr> != det
+error: de<pr> != vblex
+error: de<pr> != adj
+error: de<pr> != vbhaver
+error: de<pr> != n
+error: de<pr> != n
+error: de<pr> != n
+error: de<pr> != n
+error: de<pr> != vblex
+error: de<pr> != vbser
+error: de<pr> != vblex
+error: de<pr> != adv
+error: de<pr> != n
+error: de<pr> != n
+error: de<pr> != adj
+error: de<pr> != vblex
+error: de<pr> != n
+error: de<pr> != n
+error: de<pr> != n
+error: de<pr> != n
+error: de<pr> != adv
+error: de<pr> != adv
+error: de<pr> != vbser
+error: de<pr> != n
+error: de<pr> != vblex
+error: de<pr> != n
+error: de<pr> != n
+error: de<pr> != adj
+error: de<pr> != vblex
+error: de<pr> != num
+error: de<pr> != n
+error: de<pr> != n
+error: de<pr> != n
+error: de<pr> != adj
+error: de<pr> != vblex
+error: de<pr> != n
+error: de<pr> != n
+error: de<pr> != prn
+error: de<pr> != vblex
+error: de<pr> != n
+error: tl word unknown *pre<>
+error: de<pr> != prn
+error: de<pr> != vblex
+error: de<pr> != n
+error: de<pr> != n
+error: de<pr> != vblex
+error: de<pr> != prn
+error: de<pr> != vblex
+error: de<pr> != n
+error: de<pr> != adv
+error: de<pr> != cnjcoo
+error: de<pr> != vaux
+error: de<pr> != n
+error: de<pr> != adv
+error: de<pr> != n
+error: de<pr> != n
+error: de<pr> != n
+error: de<pr> != np
+error: de<pr> != sent
+error: de<pr> != adv
+error: de<pr> != det
+error: de<pr> != vblex
+error: de<pr> != vblex
+error: de<pr> != adj
+error: de<pr> != n
+error: de<pr> != n
+error: de<pr> != prn
+error: de<pr> != prn
+error: de<pr> != det
+error: de<pr> != n
+error: de<pr> != adj
+error: de<pr> != adj
+error: de<pr> != n
+error: tl word unknown *competence<>
+error: de<pr> != vbser
+error: de<pr> != adj
+error: de<pr> != adj
+error: de<pr> != vblex
+error: de<pr> != n
+error: de<pr> != det
+error: de<pr> != n
+error: de<pr> != n
+error: de<pr> != vblex
+error: de<pr> != adj
+error: de<pr> != vblex
+error: de<pr> != vblex
+error: de<pr> != n
+error: de<pr> != n
+error: de<pr> != n
+error: de<pr> != n
+error: de<pr> != n
+error: de<pr> != n
+error: de<pr> != adv
+error: de<pr> != n
+error: de<pr> != adj
+error: de<pr> != n
+error: de<pr> != n
+error: de<pr> != n
+error: de<pr> != n
+error: de<pr> != adj
+error: de<pr> != n
+error: de<pr> != preadv
+error: de<pr> != n
+error: de<pr> != det
+error: de<pr> != n
+error: de<pr> != preadv
+error: de<pr> != n
+error: de<pr> != adj
+error: de<pr> != det
+error: de<pr> != adj
+error: de<pr> != n
+error: de<pr> != adj
+error: de<pr> != n
+error: de<pr> != vblex
+error: de<pr> != adj
+error: de<pr> != cnjsub
+error: de<pr> != n
+error: de<pr> != n
+error: de<pr> != det
+error: de<pr> != cnjadv
+error: de<pr> != adj
+error: de<pr> != n
+error: de<pr> != det
+error: de<pr> != cnjadv
+error: de<pr> != adj
+error: de<pr> != adj
+error: de<pr> != n
+error: de<pr> != num
+error: de<pr> != n
+error: de<pr> != vblex
+error: de<pr> != n
+error: de<pr> != n
+error: de<pr> != n
+error: de<pr> != n
+error: de<pr> != n
+error: de<pr> != n
+error: tl word unknown *tankers<>
+error: de<pr> != adj
+error: de<pr> != n
+error: tl word unknown *Tampere<>
+error: de<pr> != prn
+error: tl word unknown *investigative<>
+error: de<pr> != adj
+error: de<pr> != num
+error: de<pr> != prn
+error: de<pr> != adv
+error: de<pr> != n
+error: de<pr> != n
+error: de<pr> != n
+error: de<pr> != n
+error: de<pr> != prn
+error: de<pr> != n
+error: de<pr> != preadv
+error: de<pr> != det
+error: tl word unknown *subsidiarity<>
+error: de<pr> != n
+error: de<pr> != n
+error: de<pr> != prn
+error: de<pr> != n
+error: de<pr> != preadv
+error: de<pr> != adj
+error: de<pr> != adv
+error: de<pr> != vblex
+error: de<pr> != n
+error: de<pr> != n
+error: de<pr> != n
+error: de<pr> != vbhaver
+error: de<pr> != n
+error: de<pr> != n
+error: reiterar<vblex><pri><p1><sg> != adv
+error: en<pr> != det
+error: en<pr> != rel
+error: en<pr> != cm
+error: en<pr> != adv
+error: en<pr> != det
+error: en<pr> != adv
+error: en<pr> != n
+error: en<pr> != cnjsub
+error: en<pr> != prn
+error: en<pr> != prn
+error: en<pr> != adv
+error: en<pr> != vaux
+error: en<pr> != vbser
+error: en<pr> != vblex
+error: en<pr> != adv
+error: en<pr> != adv
+error: en<pr> != det
+error: en<pr> != adv
+error: en<pr> != adv
+error: tl word unknown *Thirdly<>
+error: en<pr> != vblex
+error: en<pr> != vblex
+error: en<pr> != n
+error: en<pr> != adj
+error: en<pr> != vbser
+error: en<pr> != vblex
+error: en<pr> != vblex
+error: en<pr> != n
+error: en<pr> != n
+error: en<pr> != adv
+error: en<pr> != np
+error: en<pr> != cnjadv
+error: en<pr> != adv
+error: en<pr> != vblex
+error: en<pr> != vblex
+error: en<pr> != det
+error: en<pr> != guio
+error: en<pr> != vblex
+error: en<pr> != det
+error: en<pr> != adv
+error: en<pr> != prn
+error: en<pr> != vblex
+error: en<pr> != vblex
+error: en<pr> != det
+error: en<pr> != vblex
+error: tl word unknown *overarching<>
+error: en<pr> != prn
+error: en<pr> != n
+error: en<pr> != n
+error: en<pr> != np
+error: en<pr> != np
+error: en<pr> != n
+error: en<pr> != np
+error: en<pr> != vbser
+error: en<pr> != sent
+error: tl word unknown *Fourthly<>
+error: en<pr> != vblex
+error: en<pr> != det
+error: en<pr> != vbser
+error: tl word unknown *Otherwise<>
+error: en<pr> != det
+error: en<pr> != n
+error: en<pr> != vblex
+error: en<pr> != np
+error: en<pr> != adv
+error: en<pr> != n
+error: en<pr> != adj
+error: en<pr> != vblex
+error: en<pr> != vbhaver
+error: en<pr> != n
+error: en<pr> != vblex
+error: en<pr> != cnjadv
+error: en<pr> != det
+error: en<pr> != vblex
+error: en<pr> != apos
+error: en<pr> != np
+error: en<pr> != n
+error: en<pr> != n
+error: en<pr> != n
+error: en<pr> != vblex
+error: en<pr> != vbser
+error: en<pr> != n
+error: en<pr> != adj
+error: en<pr> != adv
+error: en<pr> != adv
+error: en<pr> != n
+error: en<pr> != adv
+error: en<pr> != n
+error: en<pr> != vbser
+error: en<pr> != vblex
+error: en<pr> != vblex
+error: en<pr> != adv
+error: en<pr> != vblex
+error: en<pr> != vblex
+error: en<pr> != n
+error: en<pr> != n
+error: en<pr> != np
+error: en<pr> != adv
+error: en<pr> != cnjcoo
+error: en<pr> != adj
+error: en<pr> != det
+error: en<pr> != preadv
+error: en<pr> != adj
+error: en<pr> != adv
+error: tl word unknown *MEPs<>
+error: colega<n><mf><pl> != sent
+error: colega<n><mf><pl> != prn
+error: tl word unknown *Madam<>
+error: presidente<n><f><sg> != cm
+error: presidente<n><f><sg> != prn
+error: por<pr> != cm
+error: por<pr> != adv
+error: por<pr> != det
+error: por<pr> != n
+error: por<pr> != n
+error: por<pr> != vbser
+error: por<pr> != vbser
+error: por<pr> != vblex
+error: por<pr> != n
+error: por<pr> != vblex
+error: por<pr> != adj
+error: por<pr> != adv
+error: por<pr> != adj
+error: por<pr> != det
+error: por<pr> != prn
+error: por<pr> != det
+error: por<pr> != vbser
+error: por<pr> != n
+error: por<pr> != prn
+error: por<pr> != vaux
+error: por<pr> != n
+error: por<pr> != det
+error: por<pr> != n
+error: por<pr> != prn
+error: por<pr> != adv
+error: por<pr> != np
+error: por<pr> != n
+error: por<pr> != cnjcoo
+error: por<pr> != vblex
+error: por<pr> != vblex
+error: por<pr> != n
+error: por<pr> != guio
+error: por<pr> != vbhaver
+error: tl word unknown *s<>
+error: por<pr> != cnjadv
+error: por<pr> != prn
+error: por<pr> != det
+error: por<pr> != adv
+error: por<pr> != vbser
+error: presidente<n><m><sg> != cm
+error: acabar<vblex><pri><p3><sg> != adv
+error: acabar<vblex><pri><p3><sg> != det
+error: acabar<vblex><pri><p3><sg> != vbhaver
+error: acabar<vblex><pri><p3><sg> != np
+error: acabar<vblex><pri><p3><sg> != prn
+error: acabar<vblex><pri><p3><sg> != np
+error: principio<n><m><sg> != det
+error: principio<n><m><sg> != adv
+error: tl word unknown *juncture<>
+error: fijar<vblex><pp><m><sg> != det
+error: fijar<vblex><pp><m><sg> != n
+error: firmante<n><mf><pl> != cm
+error: contar<vblex><pri><p1><sg> != prn
+error: suspender<vblex><inf> != cm
+error: principio<n><m><pl> != vblex
+error: apoyar<vblex><pp><m><sg> != adv
+error: tl word unknown *aided<>
+error: tl word unknown *upheld<>
+error: tl word unknown *pervades<>
+error: decir<vblex><inf> != cnjsub
+error: decir<vblex><inf> != prn
+error: decir<vblex><inf> != prn
+error: decir<vblex><inf> != pr
+error: decir<vblex><inf> != prn
+error: decir<vblex><inf> != vaux
+error: decir<vblex><inf> != det
+error: decir<vblex><inf> != cm
+error: reunión<n><f><sg> != vblex
+error: reunión<n><f><sg> != vblex
+error: tl word unknown *Quaestors<>
+error: esperar<vblex><pri><p1><sg> != prn
+error: esperar<vblex><pri><p1><sg> != n
+error: esperar<vblex><pri><p1><sg> != num
+error: por qué<adv><itg> != vblex
+error: tl word unknown *rationale<>
+error: aprobar<vblex><pp><m><sg> != det
+error: aprobar<vblex><pp><m><sg> != vbser
+error: aprobar<vblex><pp><m><sg> != n
+error: prueba<n><f><sg> != det
+error: prueba<n><f><sg> != vblex
+error: prueba<n><f><sg> != vblex
+error: prueba<n><f><sg> != vblex
+error: prueba<n><f><sg> != vblex
+error: edificio<n><m><pl> != cm
+error: edificio<n><m><pl> != prn
+error: mejorar<vblex><pp><m><sg> != vbser
+error: mejorar<vblex><pp><m><sg> != n
+error: seguro<adj><f><sg> != vbser
+error: anterior<adj><mf><sg> != n
+error: anterior<adj><mf><sg> != det
+error: anterior<adj><mf><sg> != vblex
+error: parecer<vblex><pri><p3><pl> != pr
+error: parecer<vblex><pri><p3><pl> != prn
+error: revisar<vblex><inf> != pr
+error: revisar<vblex><inf> != vbser
+error: revisar<vblex><inf> != det
+error: emitir<vblex><fti><p3><sg> != adv
+error: emitir<vblex><fti><p3><sg> != vaux
+error: claro<adj><m><sg> != prn
+error: claro<adj><m><sg> != adv
+error: claro<adj><m><sg> != vblex
+error: claro<adj><m><sg> != vbser
+error: claro<adj><m><sg> != vblex
+error: claro<adj><m><sg> != cm
+error: claro<adj><m><sg> != vblex
+error: claro<adj><m><sg> != prn
+error: considerar<vblex><ger> != prn
+error: apoyar<vblex><ifi><p3><sg> != np
+error: deseo<n><m><sg> != vblex
+error: deseo<n><m><sg> != prn
+error: deseo<n><m><sg> != cnjsub
+error: deseo<n><m><sg> != adj
+error: deseo<n><m><sg> != cm
+error: deseo<n><m><sg> != vbmod
+error: decir<vblex><pp><m><sg> != det
+error: decir<vblex><pp><m><sg> != det
+error: decir<vblex><pp><m><sg> != cnjadv
+error: decir<vblex><pp><m><sg> != prn
+error: tl word unknown *Seixas<>
+error: decir<vblex><pp><m><sg> != adj
+error: decir<vblex><pp><m><sg> != prn
+error: decir<vblex><pp><m><sg> != cm
+error: decir<vblex><pp><m><sg> != n
+error: tl word unknown *wreck<>
+error: golpe<n><m><sg> != adj
+error: entre<pr> != n
+error: entre<pr> != cnjcoo
+error: entre<pr> != det
+error: entre<pr> != n
+error: entre<pr> != n
+error: tl word unknown *permeate<>
+error: entre<pr> != det
+error: entre<pr> != prn
+error: entre<pr> != n
+error: entre<pr> != adv
+error: entre<pr> != n
+error: entre<pr> != n
+error: trabajo<n><m><pl> != vblex
+error: tl word unknown *Intergovernmental<>
+error: presidente<n><m><pl> != pr
+error: partido<n><m><sg> != pr
+error: parecer<vblex><pri><p3><sg> != prn
+error: parecer<vblex><pri><p3><sg> != det
+error: parecer<vblex><pri><p3><sg> != prn
+error: parecer<vblex><pri><p3><sg> != prn
+error: parecer<vblex><pri><p3><sg> != vaux
+error: parecer<vblex><pri><p3><sg> != prn
+error: parecer<vblex><pri><p3><sg> != pr
+error: parecer<vblex><pri><p3><sg> != vbser
+error: parecer<vblex><pri><p3><sg> != n
+error: parecer<vblex><pri><p3><sg> != adj
+error: parecer<vblex><pri><p3><sg> != cm
+error: tl word unknown *compromise<>
+error: compromiso<n><m><sg> != det
+error: confianza<n><f><sg> != vblex
+error: confianza<n><f><sg> != adv
+error: confianza<n><f><sg> != adj
+error: confianza<n><f><sg> != pr
+error: tiempo<n><m><sg> != det
+error: tiempo<n><m><sg> != vblex
+error: tiempo<n><m><sg> != cnjsub
+error: tiempo<n><m><sg> != adv
+error: tiempo<n><m><sg> != pr
+error: tiempo<n><m><sg> != adj
+error: sentido<n><m><sg> != det
+error: sentido<n><m><sg> != cm
+error: sentido<n><m><sg> != cnjadv
+error: sentido<n><m><sg> != cnjadv
+error: sentido<n><m><sg> != preadv
+error: sentido<n><m><sg> != prn
+error: sentido<n><m><sg> != adv
+error: sentido<n><m><sg> != adv
+error: sentido<n><m><sg> != vblex
+error: sentido<n><m><sg> != prn
+error: sentido<n><m><sg> != prn
+error: sentido<n><m><sg> != det
+error: tl word unknown *Fruteau<>
+error: recordar<vblex><pri><p1><sg> != adv
+error: plazo<n><m><sg> != pr
+error: plazo<n><m><sg> != adj
+error: plazo<n><m><sg> != cnjsub
+error: plazo<n><m><sg> != cm
+error: tl word unknown *allotted<>
+error: plazo<n><m><sg> != adj
+error: derecho<n><m><sg> != adj
+error: derecho<n><m><sg> != pr
+error: derecho<n><m><sg> != adj
+error: derecho<n><m><sg> != det
+error: tl word unknown *codecision<>
+error: derecho<n><m><sg> != adj
+error: derecho<n><m><sg> != pr
+error: dejar<vblex><inf> != pr
+error: dejar<vblex><inf> != adv
+error: dejar<vblex><inf> != prn
+error: tl word unknown *rapporteur<>
+error: recordar<vblex><pp><m><sg> != cm
+error: recordar<vblex><pp><m><sg> != np
+error: preparado<adj><m><pl> != pr
+error: reiterar<vblex><inf> != prn
+error: trabajo<n><m><sg> != adj
+error: trabajo<n><m><sg> != pr
+error: trabajo<n><m><sg> != vblex
+error: trabajo<n><m><sg> != adj
+error: trabajo<n><m><sg> != vblex
+error: tl word unknown *Schroedter<>
+error: trabajo<n><m><sg> != sent
+error: falta<n><f><sg> != cm
+error: falta<n><f><sg> != det
+error: falta<n><f><sg> != adv
+error: falta<n><f><sg> != pr
+error: falta<n><f><sg> != pr
+error: recordar<vblex><fti><p3><pl> != vaux
+error: querer<vblex><pp><m><pl> != prn
+error: querer<vblex><pp><m><pl> != n
+error: al respecto<cnjadv> != det
+error: al respecto<cnjadv> != adv
+error: al respecto<cnjadv> != sent
+error: al respecto<cnjadv> != pr
+error: al respecto<cnjadv> != pr
+error: al respecto<cnjadv> != n
+error: al respecto<cnjadv> != prn
+error: al respecto<cnjadv> != adv
+error: al respecto<cnjadv> != adj
+error: tl word unknown *EDD<>
+error: al respecto<cnjadv> != n
+error: al respecto<cnjadv> != pr
+error: al respecto<cnjadv> != vblex
+error: al respecto<cnjadv> != n
+error: consejo<n><m><sg> != pr
+error: consejo<n><m><sg> != pr
+error: mantener<vblex><inf> != pr
+error: mantener<vblex><inf> != vbser
+error: retirar<vblex><inf> != pr
+error: realizar<vblex><pp><m><sg> != n
+error: realizar<vblex><pp><m><sg> != adv
+error: realizar<vblex><pp><m><sg> != cnjcoo
+error: realizar<vblex><pp><m><sg> != adv
+error: realizar<vblex><pp><m><sg> != vbhaver
+error: realizar<vblex><pp><m><sg> != n
+error: realizar<vblex><pp><m><sg> != cm
+error: cierre<n><m><sg> != pr
+error: claro<adj><f><pl> != n
+error: claro<adj><f><pl> != adv
+error: claro<adj><f><pl> != vbser
+error: llevar<vblex><cni><p3><pl> != n
+error: registro<n><m><sg> != det
+error: correctamente<adv> != cnjsub
+error: mínimo<adj><m><pl> != n
+error: mínimo<adj><m><pl> != det
+error: política<n><f><sg> != pr
+error: política<n><f><sg> != adj
+error: estimar<vblex><pp><m><pl> != n
+error: estimar<vblex><pp><m><pl> != n
+error: estimar<vblex><pp><m><pl> != adv
+error: formación<n><f><sg> != vblex
+error: formación<n><f><sg> != cnjcoo
+error: tl word unknown *trainees<>
+error: formación<n><f><sg> != adj
+error: alto<adj><m><sg> != vblex
+error: alto<adj><m><sg> != adv
+error: alto<adj><m><sg> != n
+error: alto<adj><m><sg> != n
+error: alto<adj><m><sg> != vaux
+error: alto<adj><m><sg> != det
+error: considerar<vblex><pri><p1><sg> != prn
+error: considerar<vblex><pri><p1><sg> != det
+error: considerar<vblex><pri><p1><sg> != pr
+error: considerar<vblex><pri><p1><sg> != pr
+error: considerar<vblex><pri><p1><sg> != cm
+error: considerar<vblex><pri><p1><sg> != n
+error: bloque<n><m><pl> != sent
+error: aprobar<vblex><pp><f><sg> != det
+error: entrada<n><f><sg> != vblex
+error: daño<n><m><pl> != vblex
+error: respuesta<n><f><sg> != vblex
+error: tl word unknown *unanswered<>
+error: respuesta<n><f><sg> != cm
+error: respuesta<n><f><sg> != vblex
+error: mayor<adj><mf><sg> != preadv
+error: mayor<adj><mf><sg> != pr
+error: mayor<adj><mf><sg> != vblex
+error: tl word unknown *utter<>
+error: mayor<adj><mf><sg> != n
+error: mayor<adj><mf><sg> != det
+error: mayor<adj><mf><sg> != n
+error: mayor<adj><mf><sg> != n
+error: tl word unknown *dramatised<>
+error: llevar<vblex><pp><m><pl> != adv
+error: ámbito<n><m><sg> != pr
+error: ámbito<n><m><sg> != pr
+error: ámbito<n><m><sg> != pr
+error: ámbito<n><m><sg> != det
+error: ámbito<n><m><sg> != pr
+error: ámbito<n><m><sg> != sent
+error: ámbito<n><m><sg> != guio
+error: ámbito<n><m><sg> != det
+error: ámbito<n><m><sg> != rel
+error: tl word unknown *lament<>
+error: red<n><f><sg> != det
+error: materia<n><f><sg> != pr
+error: materia<n><f><sg> != pr
+error: materia<n><f><sg> != pr
+error: materia<n><f><sg> != pr
+error: materia<n><f><sg> != adv
+error: materia<n><f><sg> != pr
+error: tl word unknown *communautaire<>
+error: quedar<vblex><pri><p3><sg> != vbser
+error: quedar<vblex><pri><p3><sg> != adv
+error: quedar<vblex><pri><p3><sg> != pr
+error: tl word unknown *unclear<>
+error: quedar<vblex><pri><p3><sg> != vbser
+error: mejorar<vblex><inf> != pr
+error: mejorar<vblex><inf> != cnjcoo
+error: mejorar<vblex><inf> != pr
+error: tarea<n><f><sg> != det
+error: tarea<n><f><sg> != np
+error: apoyar<vblex><inf> != n
+error: apoyar<vblex><inf> != pr
+error: lucha<n><f><sg> != vblex
+error: tl word unknown *anti<>
+error: lucha<n><f><sg> != vblex
+error: apoyar<vblex><fti><p3><sg> != adv
+error: aumentar<vblex><prs><p3><pl> != n
+error: pena<n><f><sg> != cm
+error: motivo<n><m><pl> != adv
+error: dedicar<vblex><inf> != pr
+error: dedicar<vblex><inf> != cm
+error: tl word unknown *Netherlands<>
+error: bajo<adj><m><pl> != det
+error: tl word unknown *transpired<>
+error: investigación<n><f><pl> != vblex
+error: investigación<n><f><pl> != np
+error: investigación<n><f><pl> != cm
+error: realizar<vblex><pp><f><pl> != det
+error: realizar<vblex><pp><f><pl> != adv
+error: puerto<n><m><pl> != adv
+error: entregar<vblex><pri><p3><pl> != prn
+error: tl word unknown *shipment<>
+error: contar<vblex><inf> != adv
+error: contar<vblex><inf> != vbser
+error: decir<vblex><pp><m><pl> != pr
+error: decir<vblex><pp><m><pl> != n
+error: decir<vblex><pp><m><pl> != det
+error: medio<adj><m><sg> != n
+error: medio<adj><m><sg> != pr
+error: medio<adj><m><sg> != cm
+error: participar<vblex><fti><p3><pl> != num
+error: creciente<adj><mf><pl> != n
+error: alto<adj><m><pl> != adv
+error: alto<adj><m><pl> != vblex
+error: tl word unknown *stringent<>
+error: tl word unknown *Gomes<>
+error: colega<n><mf><sg> != det
+error: tl word unknown *Fischler<>
+error: seguro<adj><m><sg> != adv
+error: seguro<adj><m><sg> != vbser
+error: dedicar<vblex><prs><p3><sg> != pr
+error: ámbito<n><m><pl> != pr
+error: real<adj><mf><sg> != det
+error: emprender<vblex><inf> != vaux
+error: emprender<vblex><inf> != n
+error: llevar<vblex><pri><p1><pl> != adv
+error: llevar<vblex><pri><p1><pl> != prn
+error: mejorar<vblex><ger> != n
+error: esfuerzo<n><m><pl> != det
+error: esfuerzo<n><m><pl> != pr
+error: decir<vblex><fti><p1><sg> != vaux
+error: decir<vblex><fti><p1><sg> != n
+error: decir<vblex><fti><p1><sg> != prn
+error: esperar<vblex><pri><p1><pl> != prn
+error: esperar<vblex><pri><p1><pl> != det
+error: esperar<vblex><pri><p1><pl> != pr
+error: hora<n><f><pl> != adv
+error: hora<n><f><pl> != num
+error: disposición<n><f><pl> != vblex
+error: disposición<n><f><pl> != adj
+error: disposición<n><f><pl> != pr
+error: disposición<n><f><pl> != det
+error: hora<n><f><sg> != pr
+error: anexo<n><m><pl> != vblex
+error: concreto<adj><m><sg> != det
+error: experto<n><m><pl> != adj
+error: experto<n><m><pl> != adj
+error: consecuencia<n><f><sg> != adv
+error: consecuencia<n><f><sg> != pr
+error: consecuencia<n><f><sg> != vbser
+error: consecuencia<n><f><sg> != cm
+error: aprobar<vblex><pp><f><pl> != pr
+error: asegurar<vblex><inf> != cnjsub
+error: asegurar<vblex><inf> != adv
+error: asegurar<vblex><inf> != det
+error: asegurar<vblex><inf> != prn
+error: fijar<vblex><prs><p3><sg> != det
+error: bajo<adj><m><sg> != adv
+error: tl word unknown *ºC<>
+error: bajo<adj><m><sg> != n
+error: autorizar<vblex><ger> != n
+error: obligar<vblex><pp><m><pl> != pr
+error: obligar<vblex><pp><m><pl> != cm
+error: obligar<vblex><pp><m><pl> != n
+error: aumentar<vblex><cni><p3><sg> != np
+error: aumentar<vblex><cni><p3><sg> != vaux
+error: bajo<adj><f><pl> != n
+error: tl word unknown *tankers<>
+error: apoyar<vblex><pri><p3><sg> != det
+error: apoyar<vblex><pri><p3><sg> != adv
+error: mantener<vblex><prs><p3><sg> != prn
+error: esperar<vblex><inf> != vaux
+error: esperar<vblex><inf> != n
+error: obligar<vblex><pri><p3><pl> != pr
+error: obligar<vblex><pri><p3><pl> != adj
+error: relación<n><f><sg> != pr
+error: relación<n><f><sg> != pr
+error: relación<n><f><sg> != cm
+error: relación<n><f><sg> != pr
+error: seno<n><m><sg> != pr
+error: concreto<adj><f><pl> != n
+error: concreto<adj><m><pl> != n
+error: concreto<adj><m><pl> != vblex
+error: concreto<adj><m><pl> != vblex
+error: fondo<n><m><pl> != det
+error: fondo<n><m><pl> != adj
+error: fondo<n><m><pl> != pr
+error: tocar<vblex><prs><p3><sg> != pr
+error: considerar<vblex><pp><m><sg> != det
+error: considerar<vblex><pp><m><sg> != adj
+error: mejorar<vblex><prs><p3><sg> != adj
+error: conjunto<n><m><sg> != pr
+error: conjunto<n><m><sg> != adj
+error: económico<adj><f><sg> != pr
+error: plano<n><m><sg> != det
+error: plano<n><m><sg> != pr
+error: plano<n><m><sg> != cnjcoo
+error: tl word unknown *forefront<>
+error: gasto<n><m><sg> != vblex
+error: investigación<n><f><sg> != cnjcoo
+error: tl word unknown *investigative<>
+error: investigación<n><f><sg> != vblex
+error: considerar<vblex><pri><p1><pl> != prn
+error: económico<adj><f><pl> != n
+error: económico<adj><f><pl> != n
+error: tl word unknown *livelihood<>
+error: empleo<n><m><sg> != cnjcoo
+error: empleo<n><m><sg> != pr
+error: acordar<vblex><pp><f><pl> != prn
+error: financiación<n><f><sg> != vblex
+error: financiación<n><f><sg> != pr
+error: tl word unknown *resourcing<>
+error: financiación<n><f><sg> != cnjcoo
+error: pasar<vblex><pp><m><sg> != n
+error: pasar<vblex><pp><m><sg> != n
+error: pasar<vblex><pp><m><sg> != n
+error: emplear<vblex><pri><p1><sg> != det
+error: poderoso<adj><f><pl> != vblex
+error: campo<n><m><pl> != pr
+error: fondo<n><m><sg> != det
+error: llevar<vblex><fti><p3><sg> != vaux
+error: mandato<n><m><sg> != det
+error: mandato<n><m><sg> != cm
+error: fuente<n><f><pl> != adj
+error: a lo sumo<adv> != cm
+error: consecuencia<n><f><pl> != det
+error: consecuencia<n><f><pl> != adv
+error: trascendental<adj><mf><pl> != cm
+error: fijar<vblex><inf> != cm
+error: evitar<vblex><inf> != pr
+error: marcar<vblex><pp><m><sg> != det
+error: esperar<vblex><pii><p3><pl> != pr
+error: parecer<vblex><inf> != vbser
+error: parecer<vblex><inf> != n
+error: aplicación<n><f><sg> != vblex
+error: aplicación<n><f><sg> != adv
+error: aplicación<n><f><sg> != vblex
+error: aplicación<n><f><sg> != vbser
+error: aplicación<n><f><sg> != vblex
+error: aplicación<n><f><sg> != vaux
+error: aplicación<n><f><sg> != adj
+error: aplicación<n><f><sg> != pr
+error: aplicación<n><f><sg> != det
+error: aplicación<n><f><sg> != vblex
+error: conseguir<vblex><inf> != pr
+error: conseguir<vblex><inf> != pr
+error: conseguir<vblex><inf> != vbser
+error: participar<vblex><prs><p3><pl> != det
+error: participar<vblex><inf> != pr
+error: decir<vblex><pri><p1><sg> != prn
+error: decir<vblex><pri><p1><sg> != cm
+error: perder<vblex><pp><m><sg> != vbhaver
+error: perder<vblex><pp><m><sg> != prn
+error: alcanzar<vblex><inf> != vaux
+error: alcanzar<vblex><inf> != n
+error: alcanzar<vblex><inf> != n
+error: superar<vblex><inf> != vbser
+error: participación<n><f><sg> != pr
+error: recordar<vblex><inf> != pr
+error: recordar<vblex><inf> != vaux
+error: recordar<vblex><inf> != prn
+error: recordar<vblex><inf> != n
+error: violar<vblex><ifi><p3><sg> != cm
+error: querer<vblex><pri><p1><sg> != vbmod
+error: querer<vblex><pri><p1><sg> != prn
+error: camino<n><m><sg> != det
+error: camino<n><m><sg> != vaux
+error: alto<adj><f><sg> != n
+error: alto<adj><f><sg> != ij
+error: alto<adj><f><sg> != det
+error: política<n><f><pl> != cnjcoo
+error: gasto<n><m><pl> != adv
+error: gasto<n><m><pl> != cnjcoo
+error: interpretación<n><f><sg> != vblex
+error: interpretación<n><f><sg> != det
+error: interpretación<n><f><sg> != num
+error: anterior<adj><mf><pl> != n
+error: tl word unknown *bygones<>
+error: anterior<adj><mf><pl> != vblex
+error: anterior<adj><mf><pl> != cm
+error: considerar<vblex><pri><p3><sg> != det
+error: dejar<vblex><pp><m><sg> != det
+error: participar<vblex><pii><p1><pl> != vbser
+error: llevar<vblex><pri><p3><pl> != vbser
+error: evaluación<n><f><sg> != det
+error: evaluación<n><f><sg> != vblex
+error: único<adj><m><sg> != n
+error: único<adj><m><sg> != vbser
+error: único<adj><m><sg> != det
+error: único<adj><m><sg> != np
+error: único<adj><m><sg> != adv
+error: aparentemente<adv> != preadv
+error: aparentemente<adv> != n
+error: relación<n><f><pl> != pr
+error: relación<n><f><pl> != pr
+error: progreso<n><m><sg> != vblex
+error: progreso<n><m><sg> != cm
+error: asegurar<vblex><fti><p3><sg> != det
+error: alcance<n><m><sg> != adj
+error: alcance<n><m><sg> != cnjcoo
+error: alcance<n><m><sg> != vblex
+error: alcance<n><m><sg> != pr
+error: animar<vblex><pri><p3><sg> != n
+error: animar<vblex><pri><p3><sg> != prn
+error: apartar<vblex><pri><p3><pl> != n
+error: previsión<n><f><sg> != cm
+error: integral<adj><mf><sg> != pr
+error: concreto<adj><f><sg> != cm
+error: concreto<adj><f><sg> != n
+error: ampliación<n><f><sg> != vblex
+error: ampliación<n><f><sg> != det
+error: económico<adj><m><pl> != n
+error: económico<adj><m><pl> != cnjcoo
+error: económico<adj><m><pl> != pr
+error: terminar<vblex><pri><p1><sg> != cm
+error: terminar<vblex><pri><p1><sg> != prn
+error: decir<vblex><ger> != det
+error: directamente<adv> != pr
+error: directamente<adv> != cm
+error: terminar<vblex><inf> != adv
+error: terminar<vblex><inf> != cm
+error: terminar<vblex><inf> != prn
+error: terminar<vblex><inf> != vaux
+error: cargar<vblex><inf> != n
+error: cargar<vblex><inf> != cm
+error: disminuir<vblex><fti><p3><pl> != det
+error: alcanzar<vblex><fti><p3><pl> != det
+error: apoyar<vblex><prs><p3><sg> != n
+error: tl word unknown *pro<>
+error: mantener<vblex><pri><p3><pl> != n
+error: mantener<vblex><pri><p3><pl> != cm
+error: decir<vblex><cni><p3><sg> != cm
+error: decir<vblex><cni><p3><sg> != adj
+error: tl word unknown *wrangling<>
+error: enfrentar<vblex><pri><p3><pl> != pr
+error: enfrentar<vblex><pri><p3><pl> != det
+error: llegada<n><f><sg> != adj
+error: atenuar<vblex><pri><p3><sg> != n
+error: aumentar<vblex><pri><p3><pl> != n
+error: mínimo<adj><f><sg> != cm
+error: mínimo<adj><f><sg> != det
+error: perspectiva<n><f><sg> != det
+error: perspectiva<n><f><sg> != pr
+error: ánimo<n><m><sg> != adj
+error: esperar<vblex><pri><p3><sg> != adv
+error: esperar<vblex><pri><p3><sg> != det
+error: esperar<vblex><pri><p3><sg> != n
+error: amable<adj><mf><sg> != adv
+error: tl word unknown *Directorate<>
+error: tl word unknown *steering<>
+error: fomentar<vblex><inf> != pr
+error: fomentar<vblex><inf> != cnjcoo
+error: mantener<vblex><ifi><p1><pl> != adv
+error: mantener<vblex><ifi><p1><pl> != prn
+error: persistir<vblex><pri><p3><sg> != n
+error: asignación<n><f><sg> != det
+error: asignación<n><f><sg> != vblex
+error: realizar<vblex><pp><m><pl> != n
+error: realizar<vblex><pp><m><pl> != n
+error: realizar<vblex><pp><m><pl> != adj
+error: campo<n><m><sg> != det
+error: aparición<n><f><sg> != det
+error: único<adj><f><sg> != cm
+error: esfuerzo<n><m><sg> != vblex
+error: esfuerzo<n><m><sg> != det
+error: esfuerzo<n><m><sg> != det
+error: próspero<adj><m><pl> != n
+error: nórdico<n><f><sg> != adj
+error: calor<n><m><sg> != preadv
+error: suelo<n><m><sg> != adj
+error: conseguir<vblex><pri><p1><sg> != pr
+error: aumentar<vblex><ger> != pr
+error: considerar<vblex><inf> != vaux
+error: considerar<vblex><inf> != vbser
+error: considerar<vblex><inf> != adv
+error: considerar<vblex><inf> != n
+error: considerar<vblex><inf> != adj
+error: conseguir<vblex><pp><m><sg> != pr
+error: conseguir<vblex><pp><m><sg> != vbhaver
+error: aprobar<vblex><pri><p3><sg> != n
+error: deducir<vblex><inf> != adj
+error: planear<vblex><pp><m><sg> != adj
+error: tasa<n><f><sg> != np
+error: reconocer<vblex><inf> != cnjsub
+error: reconocer<vblex><inf> != prn
+error: decir<vblex><fti><p3><pl> != n
+error: quitar<vblex><pri><p1><sg> != n
+error: descubrir<vblex><prs><p1><pl> != n
+error: claro<adj><f><sg> != adv
+error: claro<adj><f><sg> != n
+error: claro<adj><f><sg> != vblex
+error: emprender<vblex><pri><p3><pl> != adj
+error: sumo<adj><f><sg> != cm
+error: juicio<n><m><sg> != cm
+error: tl word unknown *Berend<>
+error: juicio<n><m><sg> != vblex
+error: utilidad<n><f><sg> != vblex
+error: mantener<vblex><fti><p1><sg> != pr
+error: decir<vblex><fti><p3><sg> != n
+error: tl word unknown *mismanagement<>
+error: gestión<n><f><sg> != num
+error: intercambio<n><m><sg> != pr
+error: intercambio<n><m><sg> != pr
+error: sumergir<vblex><pp><f><sg> != adj
+error: asegurar<vblex><pri><p1><sg> != prn
+error: decir<vblex><prs><p3><sg> != cm
+error: valorar<vblex><prs><p3><pl> != cm
+error: disposición<n><f><sg> != adj
+error: disposición<n><f><sg> != vblex
+error: responsable<adj><mf><sg> != pr
+error: responsable<adj><mf><sg> != n
+error: acabar<vblex><pri><p1><pl> != adv
+error: acabar<vblex><pri><p1><pl> != prn
+error: emitir<vblex><pp><m><sg> != adv
+error: exposición<n><f><sg> != prn
+error: exposición<n><f><sg> != det
+error: deseo<n><m><pl> != vblex
+error: deseo<n><m><pl> != sent
+error: prueba<n><f><pl> != adj
+error: tl word unknown *commendable<>
+error: comentario<n><m><pl> != vblex
+error: presupuesto<n><m><pl> != adv
+error: retirar<vblex><pri><p3><sg> != adv
+error: sacar<vblex><inf> != n
+error: mantener<vblex><pp><m><sg> != cm
+error: consulta<n><f><sg> != pr
+error: abarcar<vblex><pp><m><sg> != cm
+error: equivalente<n><m><sg> != vblex
+error: equivalente<n><m><sg> != cm
+error: encabezar<vblex><pri><p3><pl> != n
+error: tl word unknown *uphold<>
+error: velar# por<vblex><inf> != cnjsub
+error: acceder<vblex><inf> != adj
+error: realizar<vblex><inf> != vaux
+error: realizar<vblex><inf> != n
+error: evitar<vblex><pp><m><sg> != n
+error: evitar<vblex><pp><m><sg> != det
+error: contar<vblex><pri><p3><sg> != det
+error: contar<vblex><pri><p3><sg> != n
+error: reconocer<vblex><pp><f><pl> != cm
+error: único<adj><f><pl> != vblex
+error: único<adj><f><pl> != cm
+error: autorizar<vblex><inf> != pr
+error: decir<vblex><pp><f><sg> != det
+error: autorizar<vblex><pp><f><pl> != pr
+error: llevar<vblex><prs><p3><sg> != cm
+error: estimar<vblex><pp><f><pl> != n
+error: estimar<vblex><pp><f><pl> != adv
+error: mantener<vblex><pp><f><sg> != adj
+error: alcanzar<vblex><pp><m><sg> != adj
+error: alcanzar<vblex><pp><m><sg> != vbhaver
+error: abordar<vblex><pri><p3><sg> != n
+error: sello<n><m><sg> != vblex
+error: tl word unknown *Gütesiegel<>
+error: fuerte<adj><mf><sg> != det
+error: tl word unknown *Fort<>
+error: acabar<vblex><inf> != pr
+error: acabar<vblex><inf> != vbser
+error: perseguir<vblex><pis><p3><sg> != det
+error: tiempo<n><m><pl> != vbhaver
+error: tiempo<n><m><pl> != cm
+error: fuerza<n><f><sg> != cnjcoo
+error: perseguir<vblex><inf> != det
+error: defensor<n><m><pl> != det
+error: defensor<n><m><pl> != vblex
+error: querer<vblex><pri><p1><pl> != prn
+error: estimar<vblex><pp><m><sg> != n
+error: estimar<vblex><pp><m><sg> != vbser
+error: fuente<n><f><sg> != vblex
+error: aguardar<vblex><pri><p1><sg> != n
+error: vista<n><f><sg> != det
+error: régimen<n><m><sg> != pr
+error: régimen<n><m><sg> != pr
+error: régimen<n><m><sg> != det
+error: régimen<n><m><sg> != adv
+error: reconocer<vblex><pri><p1><pl> != prn
+error: derecho<n><m><pl> != cm
+error: ejercer<vblex><pri><p3><sg> != predet
+error: medio<n><m><pl> != cm
+error: medio<n><m><pl> != vblex
+error: medio<n><m><pl> != vblex
+error: atar<vblex><pri><p3><sg> != adj
+error: marcar<vblex><inf> != pr
+error: sobrecargar<vblex><prs><p3><sg> != cm
+error: mantener<vblex><pri><p3><sg> != cm
+error: mantener<vblex><fti><p1><pl> != cm
+error: llevar<vblex><inf> != pr
+error: llevar<vblex><inf> != n
+error: llevar<vblex><inf> != pr
+error: libertad<n><f><sg> != cnjcoo
+error: sobrecargar<vblex><fti><p3><sg> != vaux
+error: disminuir<vblex><fti><p3><sg> != n
+error: respuesta<n><f><pl> != adv
+error: respuesta<n><f><pl> != vblex
+error: respuesta<n><f><pl> != cnjcoo
+error: camino<n><m><pl> != num
+error: decir<vblex><pri><p3><sg> != prn
+error: decir<vblex><pri><p3><sg> != n
+error: decir<vblex><pri><p3><sg> != cnjsub
+error: decir<vblex><pp><f><pl> != det
+error: decir<vblex><pp><f><pl> != det
+error: investigar<vblex><pp><m><sg> != det
+error: perder<vblex><inf> != adj
+error: juego<n><m><sg> != adj
+error: juego<n><m><sg> != cm
+error: entrenar<vblex><ger> != cnjadv
+error: recordar<vblex><ifi><p1><sg> != prn
+error: realizar<vblex><pri><p3><sg> != det
+error: realizar<vblex><pri><p3><sg> != n
+error: fijar<vblex><pis><p3><sg> != vbdo
+error: reconocer<vblex><pis><p3><pl> != det
+error: adecuadamente<adv> != adj
+error: adecuadamente<adv> != adj
+error: crítica<n><f><pl> != adj
+error: apoyar<vblex><pri><p1><pl> != adv
+error: notar<vblex><pri><p1><pl> != adj
+error: dominante<adj><mf><pl> != vblex
+error: persecución<n><f><sg> != cm
+error: aprobar<vblex><pri><p3><pl> != cm
+error: considerar<vblex><cni><p1><pl> != cm
+error: quedar<vblex><cni><p3><sg> != cm
+error: retroceder<vblex><pp><m><sg> != adv
+error: reconocer<vblex><pp><m><sg> != det
+error: echar<vblex><pri><p1><sg> != n
+error: echar<vblex><pri><p1><sg> != prn
+error: conveniencia<n><f><sg> != pr
+error: conveniencia<n><f><sg> != vblex
+error: tl word unknown *businesspeople<>
+error: época<n><f><sg> != pr
+error: época<n><f><sg> != vblex
+error: época<n><f><sg> != adj
+error: motivo<n><m><sg> != adv
+error: llevar<vblex><pri><p1><sg> != prn
+error: llevar<vblex><pri><p1><sg> != vbhaver
+error: tl word unknown *thorn<>
+error: abordar<vblex><inf> != pr
+error: abordar<vblex><inf> != n
+error: abordar<vblex><inf> != det
+error: abordar<vblex><inf> != n
+error: decir<vblex><ifi><p3><sg> != cm
+error: historia<n><f><pl> != cm
+error: tarea<n><f><pl> != vblex
+error: quedar<vblex><inf> != vbser
+error: quedar<vblex><inf> != n
+error: marca<n><f><sg> != vblex
+error: marca<n><f><sg> != vblex
+error: tl word unknown *opposed<>
+error: fomentar<vblex><pp><m><sg> != n
+error: tl word unknown *overwork<>
+error: discutible<adj><mf><sg> != cm
+error: tl word unknown *unleashed<>
+error: tl word unknown *amounted<>
+error: tl word unknown *EUR<>
+error: criticar<vblex><ger> != det
+error: quedar<vblex><pri><p3><pl> != cm
+error: impresión<n><f><sg> != vblex
+error: acertadamente<adv> != det
+error: acertadamente<adv> != vbser
+error: quedar<vblex><pp><m><sg> != cm
+error: quedar<vblex><pp><m><sg> != num
+error: quedar<vblex><pp><m><sg> != num
+error: tl word unknown *deviate<>
+error: pasar<vblex><inf> != vbser
+error: pasar<vblex><inf> != n
+error: pasar<vblex><inf> != cm
+error: ordenamiento<n><m><sg> != adj
+error: ordenamiento<n><m><sg> != vblex
+error: desaparecer<vblex><pri><p3><sg> != n
+error: retorno<n><m><sg> != adj
+error: conseguir<vblex><ifi><p3><sg> != n
+error: reconocer<vblex><ifi><p3><sg> != n
+error: fuerte<adj><mf><pl> != adv
+error: fuerte<adj><mf><pl> != n
+error: fuerte<adj><mf><pl> != n
+error: fuerte<adj><mf><pl> != n
+error: plazo<n><m><pl> != adj
+error: autorizar<vblex><pp><m><sg> != det
+error: disminuir<vblex><pp><m><sg> != adv
+error: tl word unknown *decreased<>
+error: director<n><m><sg> != det
+error: apuntar<vblex><pri><p3><sg> != det
+error: acabar<vblex><fti><p3><pl> != cm
+error: acabar<vblex><fti><p3><pl> != n
+error: clase<n><f><pl> != det
+error: automóvil<n><m><sg> != adj
+error: aumentar<vblex><ifi><p3><pl> != n
+error: reconocer<vblex><pri><p3><sg> != det
+error: reconocer<vblex><pri><p3><sg> != np
+error: reconocer<vblex><pri><p3><sg> != n
+error: abandonar<vblex><ger> != vbser
+error: abordar<vblex><pri><p1><pl> != det
+error: bastante<adv> != cm
+error: bastante<adv> != preadv
+error: diseño<n><m><sg> != cm
+error: tl word unknown *Eurojust<>
+error: diseño<n><m><sg> != vblex
+error: tl word unknown *vacuums<>
+error: vigilar<vblex><inf> != n
+error: revisar<vblex><prs><p3><pl> != cm
+error: casa<n><f><sg> != pr
+error: casa<n><f><sg> != adj
+error: casa<n><f><sg> != vblex
+error: tl word unknown *self<>
+error: asignar<vblex><prs><p3><sg> != adj
+error: firme<adj><mf><sg> != pr
+error: firme<adj><mf><sg> != vblex
+error: firme<adj><mf><sg> != cnjadv
+error: tl word unknown *soundly<>
+error: alcanzar<vblex><fti><p3><sg> != adv
+error: valorar<vblex><pri><p1><sg> != adv
+error: tejido<n><m><sg> != vblex
+error: tejido<n><m><sg> != adj
+error: estimar<vblex><pri><p1><sg> != preadv
+error: tl word unknown *ought<>
+error: exterior<adj><mf><sg> != det
+error: enfrentar<vblex><pri><p3><sg> != n
+error: enfrentar<vblex><pri><p3><sg> != adj
+error: acumular<vblex><inf> != adj
+error: aviso<n><m><pl> != cm
+error: puerto<n><m><sg> != adj
+error: puerto<n><m><sg> != predet
+error: puerto<n><m><sg> != pr
+error: puerto<n><m><sg> != vblex
+error: mejorar<vblex><pp><f><sg> != pr
+error: construcción<n><f><sg> != adj
+error: construcción<n><f><sg> != cm
+error: acercarse<vblex><pron><inf> != adj
+error: quedar<vblex><prs><p3><pl> != n
+error: participar<vblex><pri><p3><pl> != vbser
+error: resultante<adj><mf><sg> != cm
+error: considerar<vblex><prs><p3><sg> != adj
+error: valorar<vblex><inf> != det
+error: abarcar<vblex><pri><p3><sg> != det
+error: decir<vblex><pii><p3><sg> != cnjadv
+error: tl word unknown *Roth<>
+error: alimentar<vblex><pri><p3><sg> != vbser
+error: tl word unknown *uncovered<>
+error: descubrir<vblex><pp><m><pl> != det
+error: descubrir<vblex><pp><m><pl> != adj
+error: libertad<n><f><pl> != cnjcoo
+error: desprender<vblex><pri><p3><pl> != n
+error: ejercer<vblex><prs><p3><sg> != det
+error: firme<adj><mf><pl> != prn
+error: firme<adj><mf><pl> != vblex
+error: firme<adj><mf><pl> != vbser
+error: decir<vblex><pri><p3><pl> != prn
+error: decir<vblex><pri><p3><pl> != prn
+error: acordar<vblex><ifi><p3><sg> != num
+error: participar<vblex><pp><m><sg> != pr
+error: participar<vblex><pp><m><sg> != n
+error: partidario<n><m><sg> != adv
+error: salir<vblex><ifi><p3><sg> != vbhaver
+error: salir<vblex><ifi><p3><sg> != prn
+error: decir<vblex><imp><p1><pl> != cm
+error: decir<vblex><imp><p1><pl> != prn
+error: decir<vblex><prs><p1><pl> != prn
+error: velar# por<vblex><pri><p3><pl> != cnjsub
+error: dedicar<vblex><prs><p3><pl> != pr
+error: aumentar<vblex><prs><p3><sg> != cnjsub
+error: alcanzar<vblex><pri><p3><pl> != adj
+error: vigilar<vblex><pp><m><sg> != adj
+error: incapacidad<n><f><sg> != det
+error: formación<n><f><pl> != cm
+error: perder<vblex><pp><m><pl> != num
+error: pasar<vblex><pp><m><pl> != adj
+error: pasar<vblex><pp><m><pl> != n
+error: perseguir<vblex><pri><p3><sg> != cm
+error: limpiar<vblex><inf> != n
+error: limpiar<vblex><inf> != pr
+error: seguro<adj><f><pl> != n
+error: seguro<adj><f><pl> != adv
+error: seguro<adj><f><pl> != vblex
+error: autorizar<vblex><pp><f><sg> != cm
+error: tl word unknown *curbed<>
+error: abordar<vblex><pri><p3><pl> != det
+error: colocar<vblex><pri><p3><sg> != adj
+error: colocar<vblex><pri><p3><sg> != n
+error: espectador<n><m><sg> != pr
+error: considerar<vblex><pri><p3><pl> != vbser
+error: considerar<vblex><pri><p3><pl> != n
+error: saltar<vblex><pri><p3><sg> != n
+error: acabar<vblex><pp><m><sg> != cm
+error: tl word unknown *disorderly<>
+error: aumentar<vblex><pri><p3><sg> != det
+error: firma<n><f><sg> != cm
+error: superar<vblex><pri><p3><pl> != cm
+error: reafirmar<vblex><pri><p3><sg> != det
+error: considerar<vblex><pp><f><sg> != prn
+error: estimar<vblex><pri><p1><pl> != prn
+error: recuperar<vblex><inf> != n
+error: tl word unknown *re<>
+error: recuperar<vblex><inf> != adv
+error: ejercer<vblex><inf> != det
+error: vacío<adj><m><sg> != n
+error: tl word unknown *loophole<>
+error: tl word unknown *Heaton<>
+error: pasar<vblex><pri><p3><pl> != adv
+error: fijar<vblex><pri><p3><pl> != pr
+error: decir<vblex><ifi><p1><sg> != num
+error: resumen<n><m><sg> != adv
+error: menor<adj><mf><sg> != adv
+error: menor<adj><mf><sg> != preadv
+error: menor<adj><mf><sg> != det
+error: menor<adj><mf><sg> != n
+error: menor<adj><mf><sg> != adv
+error: equipo<n><m><pl> != adj
+error: dedicar<vblex><pri><p3><sg> != adv
+error: quedar<vblex><prs><p3><sg> != vbser
+error: quedar<vblex><prs><p3><sg> != det
+error: apoyar<vblex><fti><p1><sg> != vaux
+error: único<adj><m><pl> != cm
+error: apoyar<vblex><pri><p1><sg> != n
+error: apoyar<vblex><pri><p1><sg> != adv
+error: tl word unknown *coreboard<>
+error: participar<vblex><prs><p3><sg> != adj
+error: participar<vblex><prs><p3><sg> != det
+error: tl word unknown *apparatchiks<>
+error: aparato<n><m><sg> != det
+error: emprender<vblex><pis><p3><sg> != n
+error: emprender<vblex><pis><p3><sg> != pr
+error: dejar<vblex><ger> != adj
+error: sustitución<n><f><sg> != cm
+error: aprobar<vblex><ifi><p3><pl> != cm
+error: valorar<vblex><pp><f><sg> != det
+error: dieta<n><f><sg> != cm
+error: dieta<n><f><sg> != vblex
+error: aprobar<vblex><pp><m><pl> != n
+error: despreciable<adj><mf><sg> != cm
+error: perder<vblex><fti><p3><sg> != det
+error: anunciar<vblex><pp><m><sg> != adv
+error: tl word unknown *Patten<>
+error: mayor<adj><mf><pl> != adv
+error: mayor<adj><mf><pl> != vbser
+error: recordar<vblex><pri><p3><sg> != det
+error: temer<vblex><pri><p3><pl> != pr
+error: dejar<vblex><pri><p3><sg> != cm
+error: aprobar<vblex><inf> != n
+error: aprobar<vblex><inf> != n
+error: aprobar<vblex><inf> != adv
+error: tl word unknown *upheaval<>
+error: tl word unknown *layoffs<>
+error: miseria<n><f><sg> != vblex
+error: hábil<adj><mf><sg> != n
+error: reconocer<vblex><pii><p3><sg> != preadv
+error: daño<n><m><sg> != vblex
+error: daño<n><m><sg> != vblex
+error: denominar<vblex><pp><m><sg> != cnjsub
+error: contaminación<n><f><sg> != vblex
+error: reconocer<vblex><pri><p1><sg> != n
+error: salir<vblex><pri><p3><pl> != det
+error: cubo<n><m><pl> != vblex
+error: dejar<vblex><ifi><p3><pl> != n
+error: temer<vblex><pri><p1><sg> != cnjsub
+error: temer<vblex><pri><p1><sg> != n
+error: pesado<adj><m><sg> != n
+error: retirar<vblex><pri><p3><pl> != n
+error: generoso<adj><f><sg> != n
+error: generoso<adj><f><sg> != det
+error: echar<vblex><inf> != n
+error: fortalecimiento<n><m><sg> != det
+error: considerar<vblex><pp><m><pl> != n
+error: real<adj><mf><pl> != vblex
+error: reparación<n><f><pl> != vblex
+error: claro<adj><m><pl> != vbser
+error: esperar<vblex><pri><p3><pl> != det
+error: esperar<vblex><pri><p3><pl> != n
+error: esperar<vblex><pri><p3><pl> != vbser
+error: reparar<vblex><prs><p3><pl> != pr
+error: dedicar<vblex><pp><f><sg> != det
+error: dedicar<vblex><pp><f><sg> != vbser
+error: tocar<vblex><pri><p3><sg> != n
+error: tocar<vblex><pri><p3><sg> != adv
+error: autorizar<vblex><pri><p3><pl> != det
+error: ambulante<adj><mf><sg> != det
+error: fallo<n><m><sg> != np
+error: anunciar<vblex><inf> != adj
+error: mantener<vblex><prs><p1><pl> != adv
+error: mirada<n><f><sg> != vblex
+error: alto<n><m><pl> != adv
+error: navegar<vblex><pri><p3><sg> != n
+error: tl word unknown *Eurosceptics<>
+error: nave<n><f><pl> != adj
+error: reparación<n><f><sg> != pr
+error: reconocer<vblex><pri><p3><pl> != det
+error: apuntar<vblex><pp><m><sg> != n
+error: llevar<vblex><prs><p3><pl> != adj
+error: soportar<vblex><pri><p3><pl> != vbmod
+error: tl word unknown *bilges<>
+error: arbitrar<vblex><imp><p3><sg> != det
+error: sensibilidad<n><f><sg> != adv
+error: desprender<vblex><prs><p3><pl> != cm
+error: marcar<vblex><prs><p3><sg> != cm
+error: acabar<vblex><prs><p3><sg> != cm
+error: estimar<vblex><pp><f><sg> != adv
+error: navegar<vblex><pri><p3><pl> != n
+error: navegar<vblex><pri><p3><pl> != n
+error: dedicar<vblex><pp><m><sg> != adj
+error: dedicar<vblex><pp><m><sg> != pr
+error: tl word unknown *B5<>
+error: turno<n><m><sg> != vblex
+error: limpiar<vblex><pp><m><sg> != det
+error: abordar<vblex><prs><p3><sg> != det
+error: velar# por<vblex><ger> != n
+error: guardia<n><mf><sg> != adv
+error: nórdico<adj><f><sg> != det
+error: terminar<vblex><prs><p3><sg> != n
+error: terminar<vblex><prs><p3><sg> != np
+error: sacar<vblex><ifi><p3><pl> != cm
+error: enfrentar<vblex><inf> != adj
+error: enfrentar<vblex><inf> != pr
+error: alto<adj><sup><m><sg> != vblex
+error: índice<n><m><sg> != cm
+error: obligar<vblex><inf> != cm
+error: obligatorio<adj><m><pl> != vbmod
+error: terminar<vblex><fti><p3><pl> != adv
+error: reajuste<n><m><sg> != pr
+error: bosque<n><m><sg> != vblex
+error: bosque<n><m><sg> != adj
+error: disminuir<vblex><inf> != n
+error: metro<n><m><pl> != adj
+error: notar<vblex><pri><p3><sg> != cm
+error: tl word unknown *reforestation<>
+error: bosque<n><m><pl> != det
+error: anunciar<vblex><pp><f><pl> != n
+error: contaminación<n><f><pl> != pr
+error: tl word unknown *windfalls<>
+error: tl word unknown *safeguarding<>
+error: compromiso<n><m><pl> != pr
+error: emisión<n><f><pl> != adj
+error: dejar<vblex><ifi><p3><sg> != n
+error: derribar<vblex><ifi><p3><sg> != n
+error: apoyar<vblex><pri><p3><pl> != n
+error: intentar<vblex><ger> != cm
+error: asignar<vblex><ifi><p3><sg> != prn
+error: esperar<vblex><ger> != pr
+error: aplazar<vblex><pp><m><sg> != det
+error: menor<adj><mf><pl> != n
+error: apuntar<vblex><pii><p3><pl> != n
+error: tl word unknown *timber<>
+error: potable<adj><mf><sg> != n
+error: quedar<vblex><ifi><p3><pl> != vbser
+error: recordar<vblex><prs><p3><sg> != np
+error: invertir<vblex><pri><p3><pl> != n
+error: descubrir<vblex><inf> != pr
+error: régimen<n><m><pl> != pr
+error: ausente<adj><mf><sg> != adv
+error: experto<adj><m><pl> != n
+error: tl word unknown *competence<>
+error: intentar<vblex><inf> != pr
+error: aumentar<vblex><fti><p3><pl> != det
+error: conseguir<vblex><pri><p3><sg> != vbser
+error: participar<vblex><pri><p1><pl> != det
+error: redacción<n><f><sg> != vblex
+error: redacción<n><f><sg> != det
+error: medio<adj><f><sg> != n
+error: evitar<vblex><prs><p3><pl> != n
+error: audiencia<n><f><pl> != det
+error: abordar<vblex><fti><p3><sg> != vaux
+error: extremo<n><m><pl> != vblex
+error: medio<adj><m><pl> != n
+error: tl word unknown *overturned<>
+error: estrechamente<adv> != pr
+error: limpieza<n><f><sg> != adj
+error: limpieza<n><f><sg> != adj
+error: limpieza<n><f><sg> != adj
+error: dialogar<vblex><inf> != det
+error: tarde<n><f><pl> != adv
+error: comercial<adj><mf><pl> != det
+error: acabar<vblex><fti><p3><sg> != prn
+error: tl word unknown *Ombudsman<>
+error: aprobar<vblex><fti><p3><sg> != vaux
+error: huelga<n><f><sg> != vblex
+error: querer<vblex><pis><p3><sg> != n
+error: tocar<vblex><pri><p3><pl> != n
+error: realizar<vblex><cni><p3><sg> != adv
+error: abordar<vblex><pp><f><sg> != adv
+error: apartar<vblex><imp><p3><sg> != adv
+error: abordar<vblex><pp><m><pl> != pr
+error: jefe<n><m><pl> != adj
+error: pasar<vblex><fti><p3><sg> != prn
+error: jefe<n><m><sg> != det
+error: tl word unknown *millennia<>
+error: esperar<vblex><cni><p3><sg> != vaux
+error: dedicar<vblex><pp><m><pl> != det
+error: esperar<vblex><fti><p3><sg> != n
+error: perder<vblex><pri><p3><pl> != cm
+error: reorganización<n><f><sg> != cm
+error: activar<vblex><inf> != det
+error: emplear<vblex><inf> != adv
+error: emplear<vblex><inf> != adj
+error: trazado<n><m><sg> != vblex
+error: reunión<n><f><pl> != det
+error: desprender<vblex><ifi><p3><sg> != vbser
+error: abarcar<vblex><fti><p3><sg> != adj
+error: ascender<vblex><fti><p3><sg> != num
+error: ejercer<vblex><pp><m><sg> != adj
+error: ejercer<vblex><pp><m><sg> != n
+error: apoyar<vblex><prs><p3><pl> != pr
+error: previsión<n><f><pl> != adj
+error: marcar<vblex><pri><p1><sg> != n
+error: listo<adj><m><sg> != vblex
+error: tl word unknown *posting<>
+error: vencer<vblex><pp><m><sg> != n
+error: obligatorio<adj><f><pl> != det
+error: acordar<vblex><pp><m><pl> != cm
+error: desplazamiento<n><m><pl> != det
+error: asignar<vblex><pp><m><sg> != pr
+error: pasar<vblex><pri><p1><pl> != det
+error: aplazar<vblex><ifi><p3><sg> != n
+error: tl word unknown *waive<>
+error: carrera<n><f><sg> != det
+error: tl word unknown *detract<>
+error: asegurar<vblex><ger> != prn
+error: defecto<n><m><pl> != adj
+error: llevar<vblex><pp><f><pl> != prn
+error: decir<vblex><pis><p3><pl> != rel
+error: tl word unknown *piled<>
+error: alto<adj><f><pl> != pr
+error: consejo<n><m><pl> != cm
+error: fallo<n><m><pl> != vblex
+error: fallo<n><m><pl> != det
+error: colegial<adj><mf><sg> != cm
+error: acordar<vblex><pri><p3><sg> != n
+error: pronto<adv> != vaux
+error: limpiar<vblex><pri><p1><pl> != adj
+error: irritar<vblex><pri><p3><pl> != adj
+error: apuntar<vblex><pri><p3><pl> != adv
+error: ilimitado<adj><m><sg> != vblex
+error: tl word unknown *Santer<>
+error: bien<n><m><pl> != pr
+error: bien<n><m><pl> != cm
+error: reconocer<vblex><prs><p3><sg> != pr
+error: salario<n><m><pl> != cnjcoo
+error: retroceder<vblex><inf> != adj
+error: saludar<vblex><inf> != n
+error: recuperar<vblex><prs><p3><sg> != adj
+error: quedar<vblex><ifi><p3><sg> != vbser
+error: tl word unknown *spouting<>
+error: tl word unknown *upheavals<>
+error: tl word unknown *upheavals<>
+error: pasar<vblex><prs><p3><sg> != pr
+error: tl word unknown *buck<>
+error: parecer<vblex><imp><p2><sg> != pr
+error: prestación<n><f><sg> != prn
+error: prestación<n><f><sg> != vblex
+error: tl word unknown *glasshouses<>
+error: tl word unknown *glasshouses<>
+error: limpiar<vblex><pri><p1><sg> != adj
+error: alcanzar<vblex><prs><p1><pl> != adj
+error: investigar<vblex><prs><p3><pl> != adv
+error: tl word unknown *Directorates<>
+error: tocar<vblex><pp><m><sg> != vbser
+error: tocar<vblex><pp><m><sg> != adv
+error: dejar<vblex><fti><p3><pl> != n
+error: entregar<vblex><pp><m><sg> != n
+error: tl word unknown *channelled<>
+error: disminuir<vblex><prs><p3><sg> != det
+error: esperar<vblex><pp><f><pl> != n
+error: contar<vblex><prs><p3><sg> != adv
+error: pasar<vblex><ger> != n
+error: tl word unknown *Directorate<>
+error: invertir<vblex><pii><p3><sg> != pr
+error: realizar<vblex><fti><p1><pl> != n
+error: salir<vblex><pri><p1><pl> != cm
+error: ganar<vblex><prs><p3><sg> != adj
+error: dimitir<vblex><pp><m><sg> != pr
+error: valiente<adj><mf><sg> != prn
+error: valiente<adj><mf><sg> != n
+error: animar<vblex><pri><p1><pl> != cm
+error: valiente<adj><mf><pl> != vblex
+error: frente<n><mf><pl> != prn
+error: director<n><m><pl> != adj
+error: tl word unknown *obsolescent<>
+error: tl word unknown *smear<>
+error: abandonar<vblex><ifi><p3><pl> != adj
+error: mantener<vblex><imp><p3><sg> != n
+error: empleado<n><m><pl> != adv
+error: empleado<n><m><pl> != vblex
+error: gastado<adj><m><pl> != vblex
+error: desaparecer<vblex><ger> != n
+error: desaparecer<vblex><ger> != cm
+error: apagar<vblex><inf> != pr
+error: decir<vblex><imp><p3><pl> != prn
+error: anular<vblex><inf> != n
+error: vacío<adj><f><sg> != cm
+error: apartar<vblex><inf> != adj
+error: tl word unknown *scorched<>
+error: salir<vblex><pp><m><sg> != det
+error: manifestación<n><f><pl> != det
+error: manifestación<n><f><pl> != adv
+error: manifestación<n><f><pl> != adj
+error: querer<vblex><pri><p3><sg> != vbser
+error: tl word unknown *Pomes<>
+error: acometer<vblex><inf> != pr
+error: vagar<vblex><pri><p1><sg> != adj
+error: desplegar<vblex><pp><m><sg> != det
+error: tl word unknown *untimely<>
+error: llevar<vblex><pp><m><sg> != det
+error: aguardar<vblex><ger> != pr
+error: probar<vblex><pp><f><pl> != n
+error: impresión<n><f><pl> != pr
+error: seguro<adj><m><pl> != adv
+error: abandonar<vblex><inf> != adj
+error: perspicaz<adj><mf><pl> != n
+error: abandonar<vblex><pp><m><sg> != prn
+error: mediar<vblex><pp><m><pl> != n
+error: participar<vblex><pri><p3><sg> != adv
+error: reunir<vblex><pri><p3><pl> != n
+error: desenterrar<vblex><pri><p1><sg> != cnjcoo
+error: fomentar<vblex><ger> != n
+error: girar<vblex><pri><p3><sg> != n
+error: entrega<n><f><sg> != det
+error: entrega<n><f><sg> != vblex
+error: aplazar<vblex><inf> != cm
+error: impedimento<n><m><pl> != adj
+error: interrumpir<vblex><pp><m><sg> != n
+error: alcanzar<vblex><fti><p1><pl> != cm
+error: acercarse<vblex><pron><pri><p3><sg> != n
+error: regreso<n><m><sg> != vblex
+error: reconocer<vblex><pp><m><pl> != cnjcoo
+error: ocupación<n><f><sg> != cm
+error: suspender<vblex><pp><m><sg> != n
+error: interrumpir<vblex><fti><p3><pl> != adv
+error: retrato<n><m><sg> != adv
+error: retirar<vblex><ger> != adv
+error: reconocer<vblex><ger> != det
+error: tl word unknown *resumed<>
+error: fijar<vblex><pp><f><pl> != n
+error: suspender<vblex><pp><f><sg> != pr
+error: exposición<n><f><pl> != cm
+error: decir<vblex><pis><p3><sg> != n
+error: financiación<n><f><pl> != vblex
+error: marcar<vblex><pri><p3><pl> != n
+error: comercial<adj><mf><sg> != vblex
+error: obligar<vblex><pp><m><sg> != prn
+error: acumular<vblex><ifi><p1><sg> != cm
+error: marcar<vblex><ifi><p3><pl> != cnjsub
+error: reunir<vblex><pri><p1><pl> != det
+error: estimar<vblex><prs><p3><sg> != cm
+error: entregar<vblex><fti><p1><pl> != adv
+error: marcar<vblex><pp><f><sg> != pr
+error: realizar<vblex><ifi><p3><sg> != cnjadv
+error: intentar<vblex><fti><p1><sg> != pr
+error: exterior<adj><mf><pl> != n
+error: tl word unknown *EUR<>
+error: abarcar<vblex><pri><p3><pl> != num
+error: alcanzar<vblex><ifi><p3><sg> != n
+error: conseguir<vblex><prs><p1><pl> != det
+error: evitar<vblex><prs><p1><pl> != prn
+error: realizar<vblex><prs><p3><sg> != vbser
+error: sacar<vblex><prs><p3><pl> != adv
+error: parecer<vblex><pii><p3><sg> != cnjadv
+error: cita<n><f><sg> != det
+error: claro<adj><sup><m><pl> != preadv
+error: reconocer<vblex><prs><p3><pl> != cm
+error: estudiante<n><mf><sg> != cm
+error: tl word unknown *slum<>
+error: asesinar<vblex><pp><f><pl> != adj
+error: tl word unknown *totalled<>
+error: meter<vblex><prs><p2><sg> != cm
+error: aprobar<vblex><ger> != adj
+error: violar<vblex><pp><m><pl> != det
+error: tl word unknown *parliamentarians<>
+error: aficionado<n><m><sg> != vblex
+error: tl word unknown *timescales<>
+error: presagiar<vblex><inf> != pr
+error: mejorar<vblex><pri><p3><pl> != n
+error: emplear<vblex><prs><p3><sg> != cm
+error: dejar<vblex><fti><p3><sg> != vaux
+error: accesible<adj><mf><pl> != det
+error: considerar<vblex><ifi><p3><pl> != cm
+error: fijar<vblex><ifi><p3><sg> != num
+error: tl word unknown *TAC<>
+error: barbaridad<n><f><sg> != cm
+error: violar<vblex><pp><m><sg> != adj
+error: mantener<vblex><pii><p3><sg> != vbhaver
+error: violar<vblex><pri><p3><sg> != det
+error: comparar<vblex><pri><p1><pl> != adv
+error: tl word unknown *Kouchner<>
+error: gestión<n><f><pl> != vblex
