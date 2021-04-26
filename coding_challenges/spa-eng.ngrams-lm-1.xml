@@ -2725,3049 +2725,3058 @@
     <match lemma="catástrofe" tags="n.f.sg"/>
     <match lemma="económico" tags="adj.f.sg"><select lemma="economic" tags="adj"/></match>
   </rule>
-  <rule c="588 2728: 1" weight="3202460.0">
+  <rule c="588 2728: 1" weight="4492130.0">
     <match lemma="económico" tags="adj.m.pl"><select lemma="monetary" tags="adj"/></match>
     <match lemma="y" tags="cnjcoo"/>
   </rule>
-  <rule c="589 2732: 1" weight="515.507">
+  <rule c="589 2732: 1" weight="2229.56">
     <match lemma="agente" tags="n.mf.pl"/>
     <match lemma="económico" tags="adj.m.pl"><select lemma="economic" tags="adj"/></match>
   </rule>
-  <rule c="590 2736: 1" weight="0.365702">
+  <rule c="590 2736: 1" weight="0.305843">
     <match lemma="económico" tags="adj.m.pl"><select lemma="economic" tags="adj"/></match>
     <match lemma="y" tags="cnjcoo"/>
   </rule>
-  <rule c="591 2740: 1" weight="515.507">
+  <rule c="591 2740: 1" weight="2229.56">
     <match lemma="el" tags="det.def.m.pl"/>
     <match lemma="agente" tags="n.mf.pl"/>
     <match lemma="económico" tags="adj.m.pl"><select lemma="economic" tags="adj"/></match>
   </rule>
-  <rule c="592 2745: 1" weight="16.5511">
+  <rule c="592 2745: 1" weight="50.6132">
     <match lemma="económico" tags="adj.m.pl"><select lemma="economic" tags="adj"/></match>
     <match lemma="y" tags="cnjcoo"/>
     <match lemma="social" tags="adj.mf.pl"/>
   </rule>
-  <rule c="593 2750: 1" weight="3857470.0">
+  <rule c="593 2750: 1" weight="5480930.0">
     <match lemma="asunto" tags="n.m.pl"/>
     <match lemma="económico" tags="adj.m.pl"><select lemma="monetary" tags="adj"/></match>
   </rule>
-  <rule c="594 2754: 1" weight="4198340.0">
+  <rule c="594 2754: 1" weight="5920780.0">
     <match lemma="asunto" tags="n.m.pl"/>
     <match lemma="económico" tags="adj.m.pl"><select lemma="monetary" tags="adj"/></match>
     <match lemma="y" tags="cnjcoo"/>
   </rule>
-  <rule c="595 2759: 1" weight="3836470.0">
+  <rule c="595 2759: 1" weight="5424460.0">
     <match lemma="de" tags="pr"/>
     <match lemma="asunto" tags="n.m.pl"/>
     <match lemma="económico" tags="adj.m.pl"><select lemma="monetary" tags="adj"/></match>
   </rule>
-  <rule c="596 2764: 1" weight="4198340.0">
+  <rule c="596 2764: 1" weight="5920780.0">
     <match lemma="económico" tags="adj.m.pl"><select lemma="monetary" tags="adj"/></match>
     <match lemma="y" tags="cnjcoo"/>
     <match lemma="monetario" tags="adj.m.pl"/>
   </rule>
-  <rule c="597 2769: 1" weight="4198340.0">
+  <rule c="597 2769: 1" weight="5886980.0">
     <match lemma="de" tags="pr"/>
     <match lemma="asunto" tags="n.m.pl"/>
     <match lemma="económico" tags="adj.m.pl"><select lemma="monetary" tags="adj"/></match>
     <match lemma="y" tags="cnjcoo"/>
     <match lemma="monetario" tags="adj.m.pl"/>
   </rule>
-  <rule c="598 2776: 1" weight="10725.5">
+  <rule c="598 2776: 1" weight="0.123671">
+    <match lemma="asunto" tags="n.m.pl"/>
+    <match lemma="económico" tags="adj.m.pl"><select lemma="economic" tags="adj"/></match>
+  </rule>
+  <rule c="599 2780: 1" weight="0.130314">
+    <match lemma="de" tags="pr"/>
+    <match lemma="asunto" tags="n.m.pl"/>
+    <match lemma="económico" tags="adj.m.pl"><select lemma="economic" tags="adj"/></match>
+  </rule>
+  <rule c="600 2785: 1" weight="20598.0">
     <match lemma="y" tags="cnjcoo"/>
     <match lemma="económico" tags="adj.m.pl"><select lemma="economic" tags="adj"/></match>
   </rule>
-  <rule c="599 2780: 1" weight="10725.5">
+  <rule c="601 2789: 1" weight="20598.0">
     <match lemma="social" tags="adj.mf.pl"/>
     <match lemma="y" tags="cnjcoo"/>
     <match lemma="económico" tags="adj.m.pl"><select lemma="economic" tags="adj"/></match>
   </rule>
-  <rule c="600 2785: 1" weight="2.10442">
+  <rule c="602 2794: 1" weight="2.10442">
     <match lemma="este" tags="det.dem.m.sg"/>
     <match lemma="edificio" tags="n.m.sg"><select lemma="building" tags="n.sg"/></match>
   </rule>
-  <rule c="601 2789: 1" weight="2.10442">
+  <rule c="603 2798: 1" weight="2.10442">
     <match lemma="de" tags="pr"/>
     <match lemma="este" tags="det.dem.m.sg"/>
     <match lemma="edificio" tags="n.m.sg"><select lemma="building" tags="n.sg"/></match>
   </rule>
-  <rule c="602 2794: 1" weight="1.94309">
+  <rule c="604 2803: 1" weight="1.94309">
     <match lemma="de" tags="pr"/>
     <match lemma="empleo" tags="n.m.sg"><select lemma="employment" tags="n.sg"/></match>
   </rule>
-  <rule c="603 2798: 1" weight="2.00638">
+  <rule c="605 2807: 1" weight="2.00638">
     <match lemma="empleo" tags="n.m.sg"><select lemma="employment" tags="n.sg"/></match>
     <match lemma="y" tags="cnjcoo"/>
   </rule>
-  <rule c="604 2802: 1" weight="1.96922">
+  <rule c="606 2811: 1" weight="1.96922">
     <match lemma="de" tags="pr"/>
     <match lemma="empleo" tags="n.m.sg"><select lemma="employment" tags="n.sg"/></match>
     <match lemma="y" tags="cnjcoo"/>
   </rule>
-  <rule c="605 2807: 1" weight="2.12128">
+  <rule c="607 2816: 1" weight="2.12128">
     <match lemma="comisión" tags="n.f.sg"/>
     <match lemma="de" tags="pr"/>
     <match lemma="empleo" tags="n.m.sg"><select lemma="employment" tags="n.sg"/></match>
   </rule>
-  <rule c="606 2812: 1" weight="2.12128">
+  <rule c="608 2821: 1" weight="2.12128">
     <match lemma="empleo" tags="n.m.sg"><select lemma="employment" tags="n.sg"/></match>
     <match lemma="y" tags="cnjcoo"/>
     <match lemma="asuntos sociales" tags="np.al.m.pl"/>
   </rule>
-  <rule c="607 2817: 1" weight="2.12128">
+  <rule c="609 2826: 1" weight="2.12128">
     <match lemma="comisión" tags="n.f.sg"/>
     <match lemma="de" tags="pr"/>
     <match lemma="empleo" tags="n.m.sg"><select lemma="employment" tags="n.sg"/></match>
     <match lemma="y" tags="cnjcoo"/>
     <match lemma="asuntos sociales" tags="np.al.m.pl"/>
   </rule>
-  <rule c="608 2824: 1" weight="0.993162">
+  <rule c="610 2833: 1" weight="0.993162">
     <match lemma="de" tags="pr"/>
     <match lemma="empleo" tags="n.m.sg"><select lemma="job" tags="n.pl"/></match>
   </rule>
-  <rule c="609 2828: 1" weight="0.566048">
+  <rule c="611 2837: 1" weight="0.566048">
     <match lemma="de" tags="pr"/>
     <match lemma="empleo" tags="n.m.sg"><select lemma="job" tags="n.sg"/></match>
   </rule>
-  <rule c="610 2832: 1" weight="2.12128">
+  <rule c="612 2841: 1" weight="2.12128">
     <match lemma="oportunidad" tags="n.f.pl"/>
     <match lemma="de" tags="pr"/>
     <match lemma="empleo" tags="n.m.sg"><select lemma="employment" tags="n.sg"/></match>
   </rule>
-  <rule c="611 2837: 1" weight="2.07884">
+  <rule c="613 2846: 1" weight="2.07884">
     <match lemma="el" tags="det.def.m.sg"/>
     <match lemma="empleo" tags="n.m.sg"><select lemma="employment" tags="n.sg"/></match>
   </rule>
-  <rule c="612 2841: 1" weight="2.12128">
+  <rule c="614 2850: 1" weight="2.12128">
     <match lemma="el" tags="det.def.m.sg"/>
     <match lemma="empleo" tags="n.m.sg"><select lemma="employment" tags="n.sg"/></match>
     <match lemma="y" tags="cnjcoo"/>
   </rule>
-  <rule c="613 2846: 1" weight="2.06543">
+  <rule c="615 2855: 1" weight="2.06543">
     <match lemma="de" tags="pr"/>
     <match lemma="el" tags="det.def.m.sg"/>
     <match lemma="empleo" tags="n.m.sg"><select lemma="employment" tags="n.sg"/></match>
   </rule>
-  <rule c="614 2851: 1" weight="2.12128">
+  <rule c="616 2860: 1" weight="2.12128">
     <match lemma="empleo" tags="n.m.sg"><select lemma="employment" tags="n.sg"/></match>
     <match lemma="y" tags="cnjcoo"/>
     <match lemma="a" tags="pr"/>
   </rule>
-  <rule c="615 2856: 1" weight="2.01503">
+  <rule c="617 2865: 1" weight="2.01503">
     <match lemma="empleo" tags="n.m.sg"><select lemma="employment" tags="n.sg"/></match>
     <match lemma="de" tags="pr"/>
   </rule>
-  <rule c="616 2860: 1" weight="1.92731">
+  <rule c="618 2869: 1" weight="1.92731">
     <match lemma="de" tags="pr"/>
     <match lemma="empleo" tags="n.m.sg"><select lemma="employment" tags="n.sg"/></match>
     <match lemma="de" tags="pr"/>
   </rule>
-  <rule c="617 2865: 1" weight="2.12128">
+  <rule c="619 2874: 1" weight="2.12128">
     <match lemma="el" tags="det.def.m.sg"/>
     <match lemma="empleo" tags="n.m.sg"><select lemma="employment" tags="n.sg"/></match>
     <match lemma="de" tags="pr"/>
   </rule>
-  <rule c="618 2870: 1" weight="2.12128">
+  <rule c="620 2879: 1" weight="2.12128">
     <match lemma="fuente" tags="n.f.pl"/>
     <match lemma="de" tags="pr"/>
     <match lemma="empleo" tags="n.m.sg"><select lemma="employment" tags="n.sg"/></match>
   </rule>
-  <rule c="619 2875: 1" weight="2.12128">
+  <rule c="621 2884: 1" weight="2.12128">
     <match lemma="empleo" tags="n.m.sg"><select lemma="employment" tags="n.sg"/></match>
     <match lemma="rural" tags="adj.mf.sg"/>
   </rule>
-  <rule c="620 2879: 1" weight="2.12128">
+  <rule c="622 2888: 1" weight="2.12128">
     <match lemma="el" tags="det.def.m.sg"/>
     <match lemma="empleo" tags="n.m.sg"><select lemma="employment" tags="n.sg"/></match>
     <match lemma="rural" tags="adj.mf.sg"/>
   </rule>
-  <rule c="621 2884: 1" weight="2.12128">
+  <rule c="623 2893: 1" weight="2.12128">
     <match lemma="para" tags="pr"/>
     <match lemma="el" tags="det.def.m.sg"/>
     <match lemma="empleo" tags="n.m.sg"><select lemma="employment" tags="n.sg"/></match>
   </rule>
-  <rule c="622 2889: 1" weight="1.54983">
+  <rule c="624 2898: 1" weight="1.54983">
     <match lemma="empleo" tags="n.m.sg"><select lemma="job" tags="n.pl"/></match>
     <match lemma="para" tags="pr"/>
   </rule>
-  <rule c="623 2893: 1" weight="1.76692">
+  <rule c="625 2902: 1" weight="1.76692">
     <match lemma="de" tags="pr"/>
     <match lemma="empleo" tags="n.m.sg"><select lemma="job" tags="n.pl"/></match>
     <match lemma="para" tags="pr"/>
   </rule>
-  <rule c="624 2898: 1" weight="2.12128">
+  <rule c="626 2907: 1" weight="2.12128">
     <match lemma="empleo" tags="n.m.sg"><select lemma="employment" tags="n.sg"/></match>
     <match lemma="en" tags="pr"/>
   </rule>
-  <rule c="625 2902: 1" weight="2.12128">
+  <rule c="627 2911: 1" weight="2.12128">
     <match lemma="nivel" tags="n.m.pl"/>
     <match lemma="de" tags="pr"/>
     <match lemma="empleo" tags="n.m.sg"><select lemma="employment" tags="n.sg"/></match>
   </rule>
-  <rule c="626 2907: 1" weight="2.12128">
+  <rule c="628 2916: 1" weight="2.12128">
     <match lemma="empleo" tags="n.m.sg"><select lemma="employment" tags="n.sg"/></match>
     <match lemma="de" tags="pr"/>
     <match lemma="el" tags="det.def.m.sg"/>
   </rule>
-  <rule c="627 2912: 1" weight="2.12128">
+  <rule c="629 2921: 1" weight="2.12128">
     <match lemma="y" tags="cnjcoo"/>
     <match lemma="empleo" tags="n.m.sg"><select lemma="employment" tags="n.sg"/></match>
   </rule>
-  <rule c="628 2916: 1" weight="2.12128">
+  <rule c="630 2925: 1" weight="2.12128">
     <match lemma="riqueza" tags="n.f.sg"/>
     <match lemma="y" tags="cnjcoo"/>
     <match lemma="empleo" tags="n.m.sg"><select lemma="employment" tags="n.sg"/></match>
   </rule>
-  <rule c="629 2921: 1" weight="1.78915">
+  <rule c="631 2930: 1" weight="1.78915">
     <match lemma="pérdida" tags="n.f.sg"/>
     <match lemma="de" tags="pr"/>
     <match lemma="empleo" tags="n.m.sg"><select lemma="job" tags="n.pl"/></match>
   </rule>
-  <rule c="630 2926: 1" weight="2.12128">
+  <rule c="632 2935: 1" weight="2.12128">
     <match lemma="sobre" tags="pr"/>
     <match lemma="el" tags="det.def.m.sg"/>
     <match lemma="empleo" tags="n.m.sg"><select lemma="employment" tags="n.sg"/></match>
   </rule>
-  <rule c="631 2931: 1" weight="2.12128">
+  <rule c="633 2940: 1" weight="2.12128">
     <match lemma="política" tags="n.f.pl"/>
     <match lemma="de" tags="pr"/>
     <match lemma="empleo" tags="n.m.sg"><select lemma="employment" tags="n.sg"/></match>
   </rule>
-  <rule c="632 2936: 1" weight="2.12128">
+  <rule c="634 2945: 1" weight="2.12128">
     <match lemma="en" tags="pr"/>
     <match lemma="el" tags="det.def.m.sg"/>
     <match lemma="empleo" tags="n.m.sg"><select lemma="employment" tags="n.sg"/></match>
   </rule>
-  <rule c="633 2941: 1" weight="2.12128">
+  <rule c="635 2950: 1" weight="2.12128">
     <match lemma="empleo" tags="n.m.sg"><select lemma="employment" tags="n.sg"/></match>
     <match lemma="de" tags="pr"/>
     <match lemma="el" tags="det.def.f.pl"/>
   </rule>
-  <rule c="634 2946: 1" weight="1.67245">
+  <rule c="636 2955: 1" weight="1.67245">
     <match lemma="esfuerzo" tags="n.m.pl"><select lemma="effort" tags="n.pl"/></match>
     <match lemma="para" tags="pr"/>
   </rule>
-  <rule c="635 2950: 1" weight="0.965592">
+  <rule c="637 2959: 1" weight="0.965592">
     <match lemma="esfuerzo" tags="n.m.pl"><select lemma="effort" tags="n.sg"/></match>
     <match lemma="para" tags="pr"/>
   </rule>
-  <rule c="636 2954: 1" weight="2.04833">
+  <rule c="638 2963: 1" weight="2.04833">
     <match lemma="el" tags="det.def.m.pl"/>
     <match lemma="esfuerzo" tags="n.m.pl"><select lemma="effort" tags="n.pl"/></match>
-  </rule>
-  <rule c="637 2958: 1" weight="2.04833">
-    <match lemma="esfuerzo" tags="n.m.pl"><select lemma="effort" tags="n.pl"/></match>
-    <match lemma="de" tags="pr"/>
-  </rule>
-  <rule c="638 2962: 1" weight="2.04833">
-    <match lemma="el" tags="det.def.m.pl"/>
-    <match lemma="esfuerzo" tags="n.m.pl"><select lemma="effort" tags="n.pl"/></match>
-    <match lemma="de" tags="pr"/>
   </rule>
   <rule c="639 2967: 1" weight="2.04833">
     <match lemma="esfuerzo" tags="n.m.pl"><select lemma="effort" tags="n.pl"/></match>
     <match lemma="de" tags="pr"/>
-    <match lemma="armonización" tags="n.f.sg"/>
   </rule>
-  <rule c="640 2972: 1" weight="2.04833">
-    <match lemma="suyo" tags="det.pos.mf.pl"/>
+  <rule c="640 2971: 1" weight="2.04833">
+    <match lemma="el" tags="det.def.m.pl"/>
     <match lemma="esfuerzo" tags="n.m.pl"><select lemma="effort" tags="n.pl"/></match>
+    <match lemma="de" tags="pr"/>
   </rule>
   <rule c="641 2976: 1" weight="2.04833">
     <match lemma="esfuerzo" tags="n.m.pl"><select lemma="effort" tags="n.pl"/></match>
+    <match lemma="de" tags="pr"/>
+    <match lemma="armonización" tags="n.f.sg"/>
+  </rule>
+  <rule c="642 2981: 1" weight="2.04833">
+    <match lemma="suyo" tags="det.pos.mf.pl"/>
+    <match lemma="esfuerzo" tags="n.m.pl"><select lemma="effort" tags="n.pl"/></match>
+  </rule>
+  <rule c="643 2985: 1" weight="2.04833">
+    <match lemma="esfuerzo" tags="n.m.pl"><select lemma="effort" tags="n.pl"/></match>
     <match lemma="realizar" tags="vblex.pp.m.pl"/>
   </rule>
-  <rule c="642 2980: 1" weight="2.04833">
+  <rule c="644 2989: 1" weight="2.04833">
     <match lemma="el" tags="det.def.m.pl"/>
     <match lemma="esfuerzo" tags="n.m.pl"><select lemma="effort" tags="n.pl"/></match>
     <match lemma="realizar" tags="vblex.pp.m.pl"/>
   </rule>
-  <rule c="643 2985: 1" weight="2.04833">
+  <rule c="645 2994: 1" weight="2.04833">
     <match lemma="todo" tags="predet.m.pl"/>
     <match lemma="el" tags="det.def.m.pl"/>
     <match lemma="esfuerzo" tags="n.m.pl"><select lemma="effort" tags="n.pl"/></match>
   </rule>
-  <rule c="644 2990: 1" weight="2.04833">
+  <rule c="646 2999: 1" weight="2.04833">
     <match lemma="esfuerzo" tags="n.m.pl"><select lemma="effort" tags="n.pl"/></match>
     <match lemma="que" tags="rel.an.mf.sp"/>
   </rule>
-  <rule c="645 2994: 1" weight="2.04833">
+  <rule c="647 3003: 1" weight="2.04833">
     <match lemma="el" tags="det.def.m.pl"/>
     <match lemma="esfuerzo" tags="n.m.pl"><select lemma="effort" tags="n.pl"/></match>
     <match lemma="que" tags="rel.an.mf.sp"/>
   </rule>
-  <rule c="646 2999: 1" weight="2.04833">
+  <rule c="648 3008: 1" weight="2.04833">
     <match lemma="de" tags="pr"/>
     <match lemma="el" tags="det.def.m.pl"/>
     <match lemma="esfuerzo" tags="n.m.pl"><select lemma="effort" tags="n.pl"/></match>
   </rule>
-  <rule c="647 3004: 1" weight="2.04833">
+  <rule c="649 3013: 1" weight="2.04833">
     <match lemma="a" tags="pr"/>
     <match lemma="el" tags="det.def.m.pl"/>
     <match lemma="esfuerzo" tags="n.m.pl"><select lemma="effort" tags="n.pl"/></match>
   </rule>
-  <rule c="648 3009: 1" weight="2.04833">
+  <rule c="650 3018: 1" weight="2.04833">
     <match lemma="nuestro" tags="det.pos.m.pl"/>
     <match lemma="esfuerzo" tags="n.m.pl"><select lemma="effort" tags="n.pl"/></match>
   </rule>
-  <rule c="649 3013: 1" weight="2.04833">
+  <rule c="651 3022: 1" weight="2.04833">
     <match lemma="el" tags="det.def.m.pl"/>
     <match lemma="esfuerzo" tags="n.m.pl"><select lemma="effort" tags="n.pl"/></match>
     <match lemma="para" tags="pr"/>
   </rule>
-  <rule c="650 3018: 1" weight="1.3956">
+  <rule c="652 3027: 1" weight="1.3956">
     <match lemma="mayor" tags="adj.mf.sg"/>
     <match lemma="esfuerzo" tags="n.m.sg"><select lemma="effort" tags="n.sg"/></match>
   </rule>
-  <rule c="651 3022: 1" weight="1.41678">
+  <rule c="653 3031: 1" weight="1.41678">
     <match lemma="esfuerzo" tags="n.m.sg"><select lemma="effort" tags="n.pl"/></match>
     <match lemma="que" tags="rel.an.mf.sp"/>
   </rule>
-  <rule c="652 3026: 1" weight="1.21656">
+  <rule c="654 3035: 1" weight="1.21656">
     <match lemma="uno" tags="det.ind.m.sg"/>
     <match lemma="esfuerzo" tags="n.m.sg"><select lemma="effort" tags="n.sg"/></match>
   </rule>
-  <rule c="653 3030: 1" weight="1.73519">
+  <rule c="655 3039: 1" weight="1.73519">
     <match lemma="el" tags="det.def.m.sg"/>
     <match lemma="esfuerzo" tags="n.m.sg"><select lemma="effort" tags="n.pl"/></match>
   </rule>
-  <rule c="654 3034: 1" weight="1.73519">
+  <rule c="656 3043: 1" weight="1.73519">
     <match lemma="el" tags="det.def.m.sg"/>
     <match lemma="esfuerzo" tags="n.m.sg"><select lemma="effort" tags="n.pl"/></match>
     <match lemma="que" tags="rel.an.mf.sp"/>
   </rule>
-  <rule c="655 3039: 1" weight="8.4207e+31">
+  <rule c="657 3048: 1" weight="8.4207e+31">
     <match lemma="esperar" tags="vblex.pri.p1.pl"><select lemma="hope" tags="vblex.pres"/></match>
     <match lemma="que" tags="cnjsub"/>
   </rule>
-  <rule c="656 3043: 1" weight="8.4207e+31">
+  <rule c="658 3052: 1" weight="8.4207e+31">
     <match lemma="esperar" tags="vblex.pri.p1.pl"><select lemma="hope" tags="vblex.pres"/></match>
     <match lemma="que" tags="cnjsub"/>
     <match lemma="el" tags="det.def.m.sg"/>
   </rule>
-  <rule c="657 3048: 1" weight="3.44684e+42">
+  <rule c="659 3057: 1" weight="3.44684e+42">
     <match lemma="esperar" tags="vblex.pri.p1.sg"><select lemma="hope" tags="vblex.pres"/></match>
     <match lemma="que" tags="cnjsub"/>
   </rule>
-  <rule c="658 3052: 1" weight="1.49322e+21">
+  <rule c="660 3061: 1" weight="1.49322e+21">
     <match lemma="esperar" tags="vblex.pri.p1.sg"><select lemma="expect" tags="vblex.inf"/></match>
     <match lemma="que" tags="cnjsub"/>
   </rule>
-  <rule c="659 3056: 1" weight="2.78737e+42">
+  <rule c="661 3065: 1" weight="2.78737e+42">
     <match lemma="esperar" tags="vblex.pri.p1.sg"><select lemma="hope" tags="vblex.pres"/></match>
     <match lemma="que" tags="cnjsub"/>
     <match lemma="el" tags="det.def.f.sg"/>
   </rule>
-  <rule c="660 3061: 1" weight="2.93704e+42">
+  <rule c="662 3070: 1" weight="2.93704e+42">
     <match lemma="y" tags="cnjcoo"/>
-    <match lemma="esperar" tags="vblex.pri.p1.sg"><select lemma="hope" tags="vblex.pres"/></match>
-  </rule>
-  <rule c="661 3065: 1" weight="3.80951e+42">
-    <match lemma="y" tags="cnjcoo"/>
-    <match lemma="esperar" tags="vblex.pri.p1.sg"><select lemma="hope" tags="vblex.pres"/></match>
-    <match lemma="que" tags="cnjsub"/>
-  </rule>
-  <rule c="662 3070: 1" weight="3.77297e+42">
-    <match lemma="prpers" tags="prn.tn.p1.mf.sg"/>
     <match lemma="esperar" tags="vblex.pri.p1.sg"><select lemma="hope" tags="vblex.pres"/></match>
   </rule>
   <rule c="663 3074: 1" weight="3.80951e+42">
+    <match lemma="y" tags="cnjcoo"/>
+    <match lemma="esperar" tags="vblex.pri.p1.sg"><select lemma="hope" tags="vblex.pres"/></match>
+    <match lemma="que" tags="cnjsub"/>
+  </rule>
+  <rule c="664 3079: 1" weight="3.77297e+42">
+    <match lemma="prpers" tags="prn.tn.p1.mf.sg"/>
+    <match lemma="esperar" tags="vblex.pri.p1.sg"><select lemma="hope" tags="vblex.pres"/></match>
+  </rule>
+  <rule c="665 3083: 1" weight="3.80951e+42">
     <match lemma="prpers" tags="prn.tn.p1.mf.sg"/>
     <match lemma="esperar" tags="vblex.pri.p1.sg"><select lemma="hope" tags="vblex.pres"/></match>
     <match lemma="que" tags="cnjsub"/>
   </rule>
-  <rule c="664 3079: 1" weight="3.80951e+42">
+  <rule c="666 3088: 1" weight="3.80951e+42">
     <match lemma="y" tags="cnjcoo"/>
     <match lemma="prpers" tags="prn.tn.p1.mf.sg"/>
     <match lemma="esperar" tags="vblex.pri.p1.sg"><select lemma="hope" tags="vblex.pres"/></match>
   </rule>
-  <rule c="665 3084: 1" weight="2.15944e+42">
+  <rule c="667 3093: 1" weight="2.15944e+42">
     <match lemma="esperar" tags="vblex.pri.p1.sg"><select lemma="hope" tags="vblex.pres"/></match>
     <match lemma="que" tags="cnjsub"/>
     <match lemma="el" tags="det.def.m.sg"/>
   </rule>
-  <rule c="666 3089: 1" weight="3.80951e+42">
+  <rule c="668 3098: 1" weight="3.80951e+42">
     <match lemma="esperar" tags="vblex.pri.p1.sg"><select lemma="hope" tags="vblex.pres"/></match>
     <match lemma="que" tags="cnjsub"/>
     <match lemma="poder" tags="vbmod.prs.p1.pl"/>
   </rule>
-  <rule c="667 3094: 1" weight="3.70337e+42">
+  <rule c="669 3103: 1" weight="3.70337e+42">
     <match lemma="esperar" tags="vblex.pri.p1.sg"><select lemma="hope" tags="vblex.pres"/></match>
     <match lemma="sinceramente" tags="adv"/>
   </rule>
-  <rule c="668 3098: 1" weight="3.70337e+42">
+  <rule c="670 3107: 1" weight="3.70337e+42">
     <match lemma="esperar" tags="vblex.pri.p1.sg"><select lemma="hope" tags="vblex.pres"/></match>
     <match lemma="sinceramente" tags="adv"/>
     <match lemma="que" tags="cnjsub"/>
   </rule>
-  <rule c="669 3103: 1" weight="3.80951e+42">
+  <rule c="671 3112: 1" weight="3.80951e+42">
     <match lemma="esperar" tags="vblex.pri.p1.sg"><select lemma="hope" tags="vblex.pres"/></match>
     <match lemma="que" tags="cnjsub"/>
     <match lemma="el" tags="det.def.m.pl"/>
   </rule>
-  <rule c="670 3108: 1" weight="3.91932e+24">
+  <rule c="672 3117: 1" weight="3.91932e+24">
     <match lemma="estimar" tags="vblex.pp.f.pl"><select lemma="call" tags="vblex.pres"/></match>
     <match lemma="y" tags="cnjcoo"/>
   </rule>
-  <rule c="671 3112: 1" weight="3.91932e+24">
+  <rule c="673 3121: 1" weight="3.91932e+24">
     <match lemma="estimar" tags="vblex.pp.f.pl"><select lemma="call" tags="vblex.pres"/></match>
     <match lemma="y" tags="cnjcoo"/>
     <match lemma="estimar" tags="vblex.pp.m.pl"/>
   </rule>
-  <rule c="672 3117: 1" weight="7.09924">
+  <rule c="674 3126: 1" weight="7.09924">
     <match lemma="el" tags="det.def.f.sg"/>
     <match lemma="evaluación" tags="n.f.sg"><select lemma="evaluation" tags="n.sg"/></match>
   </rule>
-  <rule c="673 3121: 1" weight="5.30151">
+  <rule c="675 3130: 1" weight="5.30151">
     <match lemma="evaluación" tags="n.f.sg"><select lemma="evaluation" tags="n.sg"/></match>
     <match lemma="de" tags="pr"/>
   </rule>
-  <rule c="674 3125: 1" weight="7.60099">
+  <rule c="676 3134: 1" weight="7.60099">
     <match lemma="el" tags="det.def.f.sg"/>
     <match lemma="evaluación" tags="n.f.sg"><select lemma="evaluation" tags="n.sg"/></match>
     <match lemma="de" tags="pr"/>
   </rule>
-  <rule c="675 3130: 1" weight="2.50447">
+  <rule c="677 3139: 1" weight="2.50447">
     <match lemma="el" tags="det.def.f.sg"/>
     <match lemma="evaluación" tags="n.f.sg"><select lemma="assessment" tags="n.sg"/></match>
   </rule>
-  <rule c="676 3134: 1" weight="3.1194">
+  <rule c="678 3143: 1" weight="3.1194">
     <match lemma="evaluación" tags="n.f.sg"><select lemma="assessment" tags="n.sg"/></match>
     <match lemma="de" tags="pr"/>
   </rule>
-  <rule c="677 3138: 1" weight="5.49009">
+  <rule c="679 3147: 1" weight="5.49009">
     <match lemma="evaluación" tags="n.f.sg"><select lemma="assessment" tags="n.sg"/></match>
     <match lemma="de" tags="pr"/>
     <match lemma="el" tags="det.def.f.pl"/>
   </rule>
-  <rule c="678 3143: 1" weight="10.4481">
+  <rule c="680 3152: 1" weight="10.4481">
     <match lemma="de" tags="pr"/>
     <match lemma="el" tags="det.def.f.sg"/>
     <match lemma="evaluación" tags="n.f.sg"><select lemma="evaluation" tags="n.sg"/></match>
   </rule>
-  <rule c="679 3148: 1" weight="4.04548">
+  <rule c="681 3157: 1" weight="4.04548">
     <match lemma="uno" tags="det.ind.f.sg"/>
     <match lemma="evaluación" tags="n.f.sg"><select lemma="assessment" tags="n.sg"/></match>
   </rule>
-  <rule c="680 3152: 1" weight="4.05876e+32">
+  <rule c="682 3161: 1" weight="4.05876e+32">
     <match lemma="para" tags="pr"/>
     <match lemma="evitar" tags="vblex.inf"><select lemma="prevent" tags="vblex.inf"/></match>
   </rule>
-  <rule c="681 3156: 1" weight="1.43661e+26">
+  <rule c="683 3165: 1" weight="1.43661e+26">
     <match lemma="poder" tags="vbmod.pri.p1.pl"/>
     <match lemma="evitar" tags="vblex.inf"><select lemma="avoid" tags="vblex.inf"/></match>
   </rule>
-  <rule c="682 3160: 1" weight="2.41842e+32">
+  <rule c="684 3169: 1" weight="2.41842e+32">
     <match lemma="evitar" tags="vblex.inf"><select lemma="prevent" tags="vblex.inf"/></match>
     <match lemma="el" tags="det.def.m.pl"/>
   </rule>
-  <rule c="683 3164: 1" weight="1.60482e+32">
+  <rule c="685 3173: 1" weight="1.60482e+32">
     <match lemma="de" tags="pr"/>
     <match lemma="evitar" tags="vblex.inf"><select lemma="prevent" tags="vblex.inf"/></match>
   </rule>
-  <rule c="684 3168: 1" weight="1.49349e+20">
+  <rule c="686 3177: 1" weight="1.49349e+20">
     <match lemma="de" tags="pr"/>
     <match lemma="evitar" tags="vblex.inf"><select lemma="avoid" tags="vblex.inf"/></match>
   </rule>
-  <rule c="685 3172: 1" weight="5.46135e+22">
+  <rule c="687 3181: 1" weight="5.46135e+22">
     <match lemma="evitar" tags="vblex.inf"><select lemma="avoid" tags="vblex.inf"/></match>
     <match lemma="cualquier" tags="det.ind.mf.sg"/>
   </rule>
-  <rule c="686 3176: 1" weight="1.18244e+32">
+  <rule c="688 3185: 1" weight="1.18244e+32">
     <match lemma="evitar" tags="vblex.inf"><select lemma="prevent" tags="vblex.inf"/></match>
     <match lemma="que" tags="cnjsub"/>
   </rule>
-  <rule c="687 3180: 1" weight="1.5823">
+  <rule c="689 3189: 1" weight="1.5823">
     <match lemma="el" tags="det.def.f.sg"/>
     <match lemma="falta" tags="n.f.sg"><select lemma="lack" tags="n.sg"/></match>
-  </rule>
-  <rule c="688 3184: 1" weight="1.5823">
-    <match lemma="falta" tags="n.f.sg"><select lemma="lack" tags="n.sg"/></match>
-    <match lemma="de" tags="pr"/>
-  </rule>
-  <rule c="689 3188: 1" weight="1.5823">
-    <match lemma="el" tags="det.def.f.sg"/>
-    <match lemma="falta" tags="n.f.sg"><select lemma="lack" tags="n.sg"/></match>
-    <match lemma="de" tags="pr"/>
   </rule>
   <rule c="690 3193: 1" weight="1.5823">
+    <match lemma="falta" tags="n.f.sg"><select lemma="lack" tags="n.sg"/></match>
+    <match lemma="de" tags="pr"/>
+  </rule>
+  <rule c="691 3197: 1" weight="1.5823">
+    <match lemma="el" tags="det.def.f.sg"/>
+    <match lemma="falta" tags="n.f.sg"><select lemma="lack" tags="n.sg"/></match>
+    <match lemma="de" tags="pr"/>
+  </rule>
+  <rule c="692 3202: 1" weight="1.5823">
     <match lemma="ser" tags="vbser.pri.p3.sg"/>
     <match lemma="el" tags="det.def.f.sg"/>
     <match lemma="falta" tags="n.f.sg"><select lemma="lack" tags="n.sg"/></match>
   </rule>
-  <rule c="691 3198: 1" weight="1.5823">
+  <rule c="693 3207: 1" weight="1.5823">
     <match lemma="falta" tags="n.f.sg"><select lemma="lack" tags="n.sg"/></match>
     <match lemma="de" tags="pr"/>
     <match lemma="transparencia" tags="n.f.sg"/>
   </rule>
-  <rule c="692 3203: 1" weight="1.5823">
+  <rule c="694 3212: 1" weight="1.5823">
     <match lemma="por" tags="pr"/>
     <match lemma="el" tags="det.def.f.sg"/>
     <match lemma="falta" tags="n.f.sg"><select lemma="lack" tags="n.sg"/></match>
   </rule>
-  <rule c="693 3208: 1" weight="1.36926">
+  <rule c="695 3217: 1" weight="1.36926">
     <match lemma="hacer" tags="vblex.pri.p3.sg"/>
     <match lemma="falta" tags="n.f.sg"><select lemma="need" tags="n.sg"/></match>
   </rule>
-  <rule c="694 3212: 1" weight="1.5823">
+  <rule c="696 3221: 1" weight="1.5823">
     <match lemma="falta" tags="n.f.sg"><select lemma="lack" tags="n.sg"/></match>
     <match lemma="de" tags="pr"/>
     <match lemma="inspector" tags="n.m.pl"/>
   </rule>
-  <rule c="695 3217: 1" weight="1.5823">
-    <match lemma="uno" tags="det.ind.f.sg"/>
-    <match lemma="falta" tags="n.f.sg"><select lemma="lack" tags="n.sg"/></match>
-  </rule>
-  <rule c="696 3221: 1" weight="1.5823">
-    <match lemma="uno" tags="det.ind.f.sg"/>
-    <match lemma="falta" tags="n.f.sg"><select lemma="lack" tags="n.sg"/></match>
-    <match lemma="de" tags="pr"/>
-  </rule>
   <rule c="697 3226: 1" weight="1.5823">
-    <match lemma="gran" tags="adj.mf.sg"/>
+    <match lemma="uno" tags="det.ind.f.sg"/>
     <match lemma="falta" tags="n.f.sg"><select lemma="lack" tags="n.sg"/></match>
   </rule>
   <rule c="698 3230: 1" weight="1.5823">
-    <match lemma="gran" tags="adj.mf.sg"/>
+    <match lemma="uno" tags="det.ind.f.sg"/>
     <match lemma="falta" tags="n.f.sg"><select lemma="lack" tags="n.sg"/></match>
     <match lemma="de" tags="pr"/>
   </rule>
   <rule c="699 3235: 1" weight="1.5823">
+    <match lemma="gran" tags="adj.mf.sg"/>
+    <match lemma="falta" tags="n.f.sg"><select lemma="lack" tags="n.sg"/></match>
+  </rule>
+  <rule c="700 3239: 1" weight="1.5823">
+    <match lemma="gran" tags="adj.mf.sg"/>
+    <match lemma="falta" tags="n.f.sg"><select lemma="lack" tags="n.sg"/></match>
+    <match lemma="de" tags="pr"/>
+  </rule>
+  <rule c="701 3244: 1" weight="1.5823">
     <match lemma="uno" tags="det.ind.f.sg"/>
     <match lemma="gran" tags="adj.mf.sg"/>
     <match lemma="falta" tags="n.f.sg"><select lemma="lack" tags="n.sg"/></match>
   </rule>
-  <rule c="700 3240: 1" weight="inf">
-    <match lemma="fondo" tags="n.m.pl"><select lemma="fund" tags="n.pl"/></match>
-    <match lemma="estructural" tags="adj.mf.pl"/>
-  </rule>
-  <rule c="701 3244: 1" weight="inf">
-    <match lemma="el" tags="det.def.m.pl"/>
-    <match lemma="fondo" tags="n.m.pl"><select lemma="fund" tags="n.pl"/></match>
-  </rule>
-  <rule c="702 3248: 1" weight="inf">
-    <match lemma="el" tags="det.def.m.pl"/>
+  <rule c="702 3249: 1" weight="inf">
     <match lemma="fondo" tags="n.m.pl"><select lemma="fund" tags="n.pl"/></match>
     <match lemma="estructural" tags="adj.mf.pl"/>
   </rule>
   <rule c="703 3253: 1" weight="inf">
+    <match lemma="el" tags="det.def.m.pl"/>
+    <match lemma="fondo" tags="n.m.pl"><select lemma="fund" tags="n.pl"/></match>
+  </rule>
+  <rule c="704 3257: 1" weight="inf">
+    <match lemma="el" tags="det.def.m.pl"/>
+    <match lemma="fondo" tags="n.m.pl"><select lemma="fund" tags="n.pl"/></match>
+    <match lemma="estructural" tags="adj.mf.pl"/>
+  </rule>
+  <rule c="705 3262: 1" weight="inf">
     <match lemma="a" tags="pr"/>
     <match lemma="el" tags="det.def.m.pl"/>
     <match lemma="fondo" tags="n.m.pl"><select lemma="fund" tags="n.pl"/></match>
   </rule>
-  <rule c="704 3258: 1" weight="inf">
+  <rule c="706 3267: 1" weight="inf">
     <match lemma="fondo" tags="n.m.pl"><select lemma="fund" tags="n.pl"/></match>
     <match lemma="estructural" tags="adj.mf.pl"/>
     <match lemma="y" tags="cnjcoo"/>
   </rule>
-  <rule c="705 3263: 1" weight="inf">
+  <rule c="707 3272: 1" weight="inf">
     <match lemma="el" tags="det.def.m.pl"/>
     <match lemma="fondo" tags="n.m.pl"><select lemma="money" tags="n.sg"/></match>
   </rule>
-  <rule c="706 3267: 1" weight="inf">
+  <rule c="708 3276: 1" weight="inf">
     <match lemma="de" tags="pr"/>
     <match lemma="el" tags="det.def.m.pl"/>
     <match lemma="fondo" tags="n.m.pl"><select lemma="fund" tags="n.pl"/></match>
   </rule>
-  <rule c="707 3272: 1" weight="inf">
+  <rule c="709 3281: 1" weight="inf">
     <match lemma="de" tags="pr"/>
     <match lemma="fondo" tags="n.m.pl"><select lemma="fund" tags="n.pl"/></match>
   </rule>
-  <rule c="708 3276: 1" weight="inf">
+  <rule c="710 3285: 1" weight="inf">
     <match lemma="de" tags="pr"/>
     <match lemma="fondo" tags="n.m.pl"><select lemma="fund" tags="n.pl"/></match>
     <match lemma="estructural" tags="adj.mf.pl"/>
   </rule>
-  <rule c="709 3281: 1" weight="inf">
+  <rule c="711 3290: 1" weight="inf">
     <match lemma="programa" tags="n.m.sg"/>
     <match lemma="de" tags="pr"/>
     <match lemma="fondo" tags="n.m.pl"><select lemma="fund" tags="n.pl"/></match>
   </rule>
-  <rule c="710 3286: 1" weight="inf">
+  <rule c="712 3295: 1" weight="inf">
     <match lemma="fondo" tags="n.m.pl"><select lemma="fund" tags="n.pl"/></match>
     <match lemma="estructural" tags="adj.mf.pl"/>
     <match lemma="no" tags="adv"/>
   </rule>
-  <rule c="711 3291: 1" weight="inf">
+  <rule c="713 3300: 1" weight="inf">
     <match lemma="fondo" tags="n.m.pl"><select lemma="fund" tags="n.pl"/></match>
     <match lemma="estructural" tags="adj.mf.pl"/>
     <match lemma="ser" tags="vbser.pri.p3.sg"/>
   </rule>
-  <rule c="712 3296: 1" weight="inf">
+  <rule c="714 3305: 1" weight="inf">
     <match lemma="este" tags="det.dem.m.pl"/>
     <match lemma="fondo" tags="n.m.pl"><select lemma="fund" tags="n.pl"/></match>
   </rule>
-  <rule c="713 3300: 1" weight="inf">
+  <rule c="715 3309: 1" weight="inf">
     <match lemma="de" tags="pr"/>
     <match lemma="este" tags="det.dem.m.pl"/>
     <match lemma="fondo" tags="n.m.pl"><select lemma="fund" tags="n.pl"/></match>
   </rule>
-  <rule c="714 3305: 1" weight="inf">
+  <rule c="716 3314: 1" weight="inf">
     <match lemma="fondo" tags="n.m.pl"><select lemma="fund" tags="n.pl"/></match>
     <match lemma="para" tags="pr"/>
   </rule>
-  <rule c="715 3309: 1" weight="inf">
+  <rule c="717 3318: 1" weight="inf">
     <match lemma="que" tags="cnjsub"/>
     <match lemma="el" tags="det.def.m.pl"/>
     <match lemma="fondo" tags="n.m.pl"><select lemma="fund" tags="n.pl"/></match>
   </rule>
-  <rule c="716 3314: 1" weight="inf">
+  <rule c="718 3323: 1" weight="inf">
     <match lemma="de" tags="pr"/>
     <match lemma="el" tags="det.def.m.pl"/>
     <match lemma="fondo" tags="n.m.pl"><select lemma="fund" tags="n.pl"/></match>
     <match lemma="estructural" tags="adj.mf.pl"/>
     <match lemma="y" tags="cnjcoo"/>
   </rule>
-  <rule c="717 3321: 1" weight="inf">
+  <rule c="719 3330: 1" weight="inf">
     <match lemma="fondo" tags="n.m.pl"><select lemma="fund" tags="n.pl"/></match>
     <match lemma="comunitario" tags="adj.m.pl"/>
   </rule>
-  <rule c="718 3325: 1" weight="inf">
+  <rule c="720 3334: 1" weight="inf">
     <match lemma="el" tags="det.def.m.pl"/>
     <match lemma="fondo" tags="n.m.pl"><select lemma="fund" tags="n.pl"/></match>
     <match lemma="comunitario" tags="adj.m.pl"/>
   </rule>
-  <rule c="719 3330: 1" weight="inf">
+  <rule c="721 3339: 1" weight="inf">
     <match lemma="en" tags="pr"/>
     <match lemma="el" tags="det.def.m.pl"/>
     <match lemma="fondo" tags="n.m.pl"><select lemma="fund" tags="n.pl"/></match>
   </rule>
-  <rule c="720 3335: 1" weight="inf">
+  <rule c="722 3344: 1" weight="inf">
     <match lemma="de" tags="pr"/>
     <match lemma="el" tags="det.def.m.pl"/>
     <match lemma="fondo" tags="n.m.pl"><select lemma="fund" tags="n.pl"/></match>
     <match lemma="estructural" tags="adj.mf.pl"/>
     <match lemma="no" tags="adv"/>
   </rule>
-  <rule c="721 3342: 1" weight="inf">
+  <rule c="723 3351: 1" weight="inf">
     <match lemma="fondo" tags="n.m.pl"><select lemma="eu" tags="n.acr.sg"/></match>
     <match lemma="europeo" tags="adj.m.pl"/>
-  </rule>
-  <rule c="722 3346: 1" weight="inf">
-    <match lemma="fondo" tags="n.m.pl"><select lemma="fund" tags="n.pl"/></match>
-    <match lemma="en" tags="pr"/>
-  </rule>
-  <rule c="723 3350: 1" weight="inf">
-    <match lemma="el" tags="det.def.m.pl"/>
-    <match lemma="fondo" tags="n.m.pl"><select lemma="fund" tags="n.pl"/></match>
-    <match lemma="en" tags="pr"/>
   </rule>
   <rule c="724 3355: 1" weight="inf">
     <match lemma="fondo" tags="n.m.pl"><select lemma="fund" tags="n.pl"/></match>
     <match lemma="en" tags="pr"/>
-    <match lemma="el" tags="det.def.m.sg"/>
   </rule>
-  <rule c="725 3360: 1" weight="inf">
-    <match lemma="percibir" tags="vblex.pri.p3.sg"/>
-    <match lemma="fondo" tags="n.m.pl"><select lemma="eu" tags="n.acr.sg"/></match>
+  <rule c="725 3359: 1" weight="inf">
+    <match lemma="el" tags="det.def.m.pl"/>
+    <match lemma="fondo" tags="n.m.pl"><select lemma="fund" tags="n.pl"/></match>
+    <match lemma="en" tags="pr"/>
   </rule>
   <rule c="726 3364: 1" weight="inf">
-    <match lemma="percibir" tags="vblex.pri.p3.sg"/>
-    <match lemma="fondo" tags="n.m.pl"><select lemma="eu" tags="n.acr.sg"/></match>
-    <match lemma="europeo" tags="adj.m.pl"/>
+    <match lemma="fondo" tags="n.m.pl"><select lemma="fund" tags="n.pl"/></match>
+    <match lemma="en" tags="pr"/>
+    <match lemma="el" tags="det.def.m.sg"/>
   </rule>
   <rule c="727 3369: 1" weight="inf">
+    <match lemma="percibir" tags="vblex.pri.p3.sg"/>
+    <match lemma="fondo" tags="n.m.pl"><select lemma="eu" tags="n.acr.sg"/></match>
+  </rule>
+  <rule c="728 3373: 1" weight="inf">
+    <match lemma="percibir" tags="vblex.pri.p3.sg"/>
+    <match lemma="fondo" tags="n.m.pl"><select lemma="eu" tags="n.acr.sg"/></match>
+    <match lemma="europeo" tags="adj.m.pl"/>
+  </rule>
+  <rule c="729 3378: 1" weight="inf">
     <match lemma="mientras" tags="cnjadv"/>
     <match lemma="percibir" tags="vblex.pri.p3.sg"/>
     <match lemma="fondo" tags="n.m.pl"><select lemma="eu" tags="n.acr.sg"/></match>
   </rule>
-  <rule c="728 3374: 1" weight="inf">
+  <rule c="730 3383: 1" weight="inf">
     <match lemma="fondo" tags="n.m.pl"><select lemma="eu" tags="n.acr.sg"/></match>
     <match lemma="europeo" tags="adj.m.pl"/>
     <match lemma="como" tags="pr"/>
   </rule>
-  <rule c="729 3379: 1" weight="inf">
+  <rule c="731 3388: 1" weight="inf">
     <match lemma="mientras" tags="cnjadv"/>
     <match lemma="percibir" tags="vblex.pri.p3.sg"/>
     <match lemma="fondo" tags="n.m.pl"><select lemma="eu" tags="n.acr.sg"/></match>
     <match lemma="europeo" tags="adj.m.pl"/>
     <match lemma="como" tags="pr"/>
   </rule>
-  <rule c="730 3386: 1" weight="18.6686">
+  <rule c="732 3395: 1" weight="18.6686">
     <match lemma="y" tags="cnjcoo"/>
     <match lemma="fusión" tags="n.f.pl"><select lemma="merger" tags="n.pl"/></match>
   </rule>
-  <rule c="731 3390: 1" weight="10.5445">
+  <rule c="733 3399: 1" weight="10.5445">
     <match lemma="fusión" tags="n.f.pl"><select lemma="merger" tags="n.pl"/></match>
     <match lemma="de" tags="pr"/>
   </rule>
-  <rule c="732 3394: 1" weight="2.51986">
+  <rule c="734 3403: 1" weight="2.51986">
     <match lemma="de" tags="pr"/>
     <match lemma="fusión" tags="n.f.pl"><select lemma="merger" tags="n.sg"/></match>
   </rule>
-  <rule c="733 3398: 1" weight="18.4609">
+  <rule c="735 3407: 1" weight="18.4609">
     <match lemma="el" tags="det.def.f.pl"/>
     <match lemma="fusión" tags="n.f.pl"><select lemma="merger" tags="n.pl"/></match>
   </rule>
-  <rule c="734 3402: 1" weight="18.3598">
+  <rule c="736 3411: 1" weight="18.3598">
     <match lemma="de" tags="pr"/>
     <match lemma="el" tags="det.def.f.pl"/>
     <match lemma="fusión" tags="n.f.pl"><select lemma="merger" tags="n.pl"/></match>
   </rule>
-  <rule c="735 3407: 1" weight="2.13349">
+  <rule c="737 3416: 1" weight="2.13349">
     <match lemma="fusión" tags="n.f.pl"><select lemma="merger" tags="n.sg"/></match>
     <match lemma="en" tags="pr"/>
   </rule>
-  <rule c="736 3411: 1" weight="4.11636">
+  <rule c="738 3420: 1" weight="4.11636">
     <match lemma="de" tags="pr"/>
     <match lemma="fusión" tags="n.f.pl"><select lemma="merger" tags="n.sg"/></match>
     <match lemma="en" tags="pr"/>
   </rule>
-  <rule c="737 3416: 1" weight="2.44047">
+  <rule c="739 3425: 1" weight="2.44047">
     <match lemma="de" tags="pr"/>
     <match lemma="gasto" tags="n.m.pl"><select lemma="expenditure" tags="n.sg"/></match>
   </rule>
-  <rule c="738 3420: 1" weight="3.97892e+53">
+  <rule c="740 3429: 1" weight="3.97892e+53">
     <match lemma="el" tags="det.def.m.sg"/>
     <match lemma="gasto" tags="n.m.sg"><select lemma="expenditure" tags="n.sg"/></match>
   </rule>
-  <rule c="739 3424: 1" weight="64155800.0">
+  <rule c="741 3433: 1" weight="64155800.0">
     <match lemma="gestión" tags="n.f.sg"><select lemma="discharge" tags="n.sg"/></match>
     <match lemma="de" tags="pr"/>
   </rule>
-  <rule c="740 3428: 1" weight="2373500.0">
+  <rule c="742 3437: 1" weight="2373500.0">
     <match lemma="de" tags="pr"/>
     <match lemma="gestión" tags="n.f.sg"><select lemma="management" tags="n.sg"/></match>
   </rule>
-  <rule c="741 3432: 1" weight="1181000.0">
+  <rule c="743 3441: 1" weight="1181000.0">
     <match lemma="gestión" tags="n.f.sg"><select lemma="management" tags="n.sg"/></match>
     <match lemma="de" tags="pr"/>
   </rule>
-  <rule c="742 3436: 1" weight="33696600.0">
+  <rule c="744 3445: 1" weight="33696600.0">
     <match lemma="de" tags="pr"/>
     <match lemma="gestión" tags="n.f.sg"><select lemma="management" tags="n.sg"/></match>
     <match lemma="de" tags="pr"/>
   </rule>
-  <rule c="743 3441: 1" weight="17493600.0">
+  <rule c="745 3450: 1" weight="17493600.0">
     <match lemma="sistema" tags="n.m.sg"/>
     <match lemma="de" tags="pr"/>
     <match lemma="gestión" tags="n.f.sg"><select lemma="management" tags="n.sg"/></match>
   </rule>
-  <rule c="744 3446: 1" weight="3758260.0">
+  <rule c="746 3455: 1" weight="3758260.0">
     <match lemma="gestión" tags="n.f.sg"><select lemma="management" tags="n.sg"/></match>
     <match lemma="de" tags="pr"/>
     <match lemma="el" tags="det.def.m.pl"/>
   </rule>
-  <rule c="745 3451: 1" weight="598324000.0">
+  <rule c="747 3460: 1" weight="598324000.0">
     <match lemma="el" tags="det.def.f.sg"/>
     <match lemma="gestión" tags="n.f.sg"><select lemma="discharge" tags="n.sg"/></match>
   </rule>
-  <rule c="746 3455: 1" weight="4641260000.0">
+  <rule c="748 3464: 1" weight="4641260000.0">
     <match lemma="el" tags="det.def.f.sg"/>
     <match lemma="gestión" tags="n.f.sg"><select lemma="discharge" tags="n.sg"/></match>
     <match lemma="de" tags="pr"/>
   </rule>
-  <rule c="747 3460: 1" weight="69566.5">
+  <rule c="749 3469: 1" weight="69566.5">
     <match lemma="el" tags="det.def.f.sg"/>
     <match lemma="gestión" tags="n.f.sg"><select lemma="management" tags="n.sg"/></match>
   </rule>
-  <rule c="748 3464: 1" weight="841775.0">
+  <rule c="750 3473: 1" weight="841775.0">
     <match lemma="el" tags="det.def.f.sg"/>
     <match lemma="gestión" tags="n.f.sg"><select lemma="management" tags="n.sg"/></match>
     <match lemma="de" tags="pr"/>
   </rule>
-  <rule c="749 3469: 1" weight="229168.0">
+  <rule c="751 3478: 1" weight="229168.0">
     <match lemma="suyo" tags="det.pos.mf.sg"/>
     <match lemma="gestión" tags="n.f.sg"><select lemma="management" tags="n.sg"/></match>
   </rule>
-  <rule c="750 3473: 1" weight="299675000.0">
+  <rule c="752 3482: 1" weight="299675000.0">
     <match lemma="gestión" tags="n.f.sg"><select lemma="discharge" tags="n.sg"/></match>
     <match lemma="de" tags="pr"/>
     <match lemma="el" tags="det.def.f.sg"/>
   </rule>
-  <rule c="751 3478: 1" weight="4855890.0">
+  <rule c="753 3487: 1" weight="4855890.0">
     <match lemma="centro" tags="n.m.sg"/>
     <match lemma="de" tags="pr"/>
     <match lemma="gestión" tags="n.f.sg"><select lemma="management" tags="n.sg"/></match>
   </rule>
-  <rule c="752 3483: 1" weight="4707780.0">
+  <rule c="754 3492: 1" weight="4707780.0">
     <match lemma="gestión" tags="n.f.sg"><select lemma="management" tags="n.sg"/></match>
     <match lemma="de" tags="pr"/>
     <match lemma="el" tags="det.def.f.sg"/>
   </rule>
-  <rule c="753 3488: 1" weight="11411700.0">
+  <rule c="755 3497: 1" weight="11411700.0">
     <match lemma="y" tags="cnjcoo"/>
     <match lemma="el" tags="det.def.f.sg"/>
     <match lemma="gestión" tags="n.f.sg"><select lemma="management" tags="n.sg"/></match>
   </rule>
-  <rule c="754 3493: 1" weight="5361690000.0">
+  <rule c="756 3502: 1" weight="5361690000.0">
     <match lemma="gestión" tags="n.f.sg"><select lemma="discharge" tags="n.sg"/></match>
     <match lemma="para" tags="pr"/>
   </rule>
-  <rule c="755 3497: 1" weight="1868340000.0">
+  <rule c="757 3506: 1" weight="1868340000.0">
     <match lemma="gestión" tags="n.f.sg"><select lemma="discharge" tags="n.sg"/></match>
     <match lemma="de" tags="pr"/>
     <match lemma="el" tags="det.def.m.sg"/>
   </rule>
-  <rule c="756 3502: 1" weight="1523620.0">
+  <rule c="758 3511: 1" weight="1523620.0">
     <match lemma="gestión" tags="n.f.sg"><select lemma="management" tags="n.sg"/></match>
     <match lemma="de" tags="pr"/>
     <match lemma="el" tags="det.def.m.sg"/>
   </rule>
-  <rule c="757 3507: 1" weight="6568060000.0">
+  <rule c="759 3516: 1" weight="6568060000.0">
     <match lemma="de" tags="pr"/>
     <match lemma="el" tags="det.def.f.sg"/>
     <match lemma="gestión" tags="n.f.sg"><select lemma="discharge" tags="n.sg"/></match>
   </rule>
-  <rule c="758 3512: 1" weight="6584810000.0">
+  <rule c="760 3521: 1" weight="6584810000.0">
     <match lemma="de" tags="pr"/>
     <match lemma="el" tags="det.def.f.sg"/>
     <match lemma="gestión" tags="n.f.sg"><select lemma="discharge" tags="n.sg"/></match>
     <match lemma="de" tags="pr"/>
     <match lemma="el" tags="det.def.f.sg"/>
   </rule>
-  <rule c="759 3519: 1" weight="6715210000.0">
-    <match lemma="gestión" tags="n.f.sg"><select lemma="discharge" tags="n.sg"/></match>
-    <match lemma="de" tags="pr"/>
-    <match lemma="1997" tags="num"/>
-  </rule>
-  <rule c="760 3524: 1" weight="6715210000.0">
-    <match lemma="de" tags="pr"/>
-    <match lemma="el" tags="det.def.f.sg"/>
+  <rule c="761 3528: 1" weight="6715210000.0">
     <match lemma="gestión" tags="n.f.sg"><select lemma="discharge" tags="n.sg"/></match>
     <match lemma="de" tags="pr"/>
     <match lemma="1997" tags="num"/>
   </rule>
-  <rule c="761 3531: 1" weight="6941480000.0">
+  <rule c="762 3533: 1" weight="6715210000.0">
+    <match lemma="de" tags="pr"/>
+    <match lemma="el" tags="det.def.f.sg"/>
+    <match lemma="gestión" tags="n.f.sg"><select lemma="discharge" tags="n.sg"/></match>
+    <match lemma="de" tags="pr"/>
+    <match lemma="1997" tags="num"/>
+  </rule>
+  <rule c="763 3540: 1" weight="6941480000.0">
     <match lemma="sobre" tags="pr"/>
     <match lemma="el" tags="det.def.f.sg"/>
     <match lemma="gestión" tags="n.f.sg"><select lemma="discharge" tags="n.sg"/></match>
   </rule>
-  <rule c="762 3536: 1" weight="6748270000.0">
+  <rule c="764 3545: 1" weight="6748270000.0">
     <match lemma="aprobar" tags="vblex.inf"/>
     <match lemma="el" tags="det.def.f.sg"/>
     <match lemma="gestión" tags="n.f.sg"><select lemma="discharge" tags="n.sg"/></match>
   </rule>
-  <rule c="763 3541: 1" weight="6963290000.0">
+  <rule c="765 3550: 1" weight="6963290000.0">
     <match lemma="gestión" tags="n.f.sg"><select lemma="discharge" tags="n.sg"/></match>
     <match lemma="no" tags="adv"/>
   </rule>
-  <rule c="764 3545: 1" weight="6574310000.0">
+  <rule c="766 3554: 1" weight="6574310000.0">
     <match lemma="de" tags="pr"/>
     <match lemma="el" tags="det.def.f.sg"/>
     <match lemma="gestión" tags="n.f.sg"><select lemma="discharge" tags="n.sg"/></match>
     <match lemma="de" tags="pr"/>
     <match lemma="el" tags="det.def.m.sg"/>
   </rule>
-  <rule c="765 3552: 1" weight="6941480000.0">
+  <rule c="767 3561: 1" weight="6941480000.0">
     <match lemma="el" tags="det.def.f.sg"/>
     <match lemma="gestión" tags="n.f.sg"><select lemma="discharge" tags="n.sg"/></match>
     <match lemma="para" tags="pr"/>
   </rule>
-  <rule c="766 3557: 1" weight="6941480000.0">
+  <rule c="768 3566: 1" weight="6941480000.0">
     <match lemma="gestión" tags="n.f.sg"><select lemma="discharge" tags="n.sg"/></match>
     <match lemma="para" tags="pr"/>
     <match lemma="el" tags="det.def.m.sg"/>
   </rule>
-  <rule c="767 3562: 1" weight="6941480000.0">
+  <rule c="769 3571: 1" weight="6941480000.0">
     <match lemma="de" tags="pr"/>
     <match lemma="el" tags="det.def.f.sg"/>
     <match lemma="gestión" tags="n.f.sg"><select lemma="discharge" tags="n.sg"/></match>
     <match lemma="para" tags="pr"/>
     <match lemma="el" tags="det.def.m.sg"/>
-  </rule>
-  <rule c="768 3569: 1" weight="9104390.0">
-    <match lemma="gestión" tags="n.f.sg"><select lemma="management" tags="n.sg"/></match>
-    <match lemma="y" tags="cnjcoo"/>
-  </rule>
-  <rule c="769 3573: 1" weight="27237600.0">
-    <match lemma="el" tags="det.def.f.sg"/>
-    <match lemma="gestión" tags="n.f.sg"><select lemma="management" tags="n.sg"/></match>
-    <match lemma="y" tags="cnjcoo"/>
   </rule>
   <rule c="770 3578: 1" weight="9104390.0">
     <match lemma="gestión" tags="n.f.sg"><select lemma="management" tags="n.sg"/></match>
     <match lemma="y" tags="cnjcoo"/>
+  </rule>
+  <rule c="771 3582: 1" weight="27237600.0">
+    <match lemma="el" tags="det.def.f.sg"/>
+    <match lemma="gestión" tags="n.f.sg"><select lemma="management" tags="n.sg"/></match>
+    <match lemma="y" tags="cnjcoo"/>
+  </rule>
+  <rule c="772 3587: 1" weight="9104390.0">
+    <match lemma="gestión" tags="n.f.sg"><select lemma="management" tags="n.sg"/></match>
+    <match lemma="y" tags="cnjcoo"/>
     <match lemma="el" tags="det.def.m.sg"/>
   </rule>
-  <rule c="771 3583: 1" weight="680.823">
+  <rule c="773 3592: 1" weight="680.823">
     <match lemma="gestión" tags="n.f.sg"><select lemma="nepotism" tags="n.sg"/></match>
     <match lemma="y" tags="cnjcoo"/>
   </rule>
-  <rule c="772 3587: 1" weight="680.823">
+  <rule c="774 3596: 1" weight="680.823">
     <match lemma="gestión" tags="n.f.sg"><select lemma="nepotism" tags="n.sg"/></match>
     <match lemma="y" tags="cnjcoo"/>
     <match lemma="el" tags="det.def.m.sg"/>
   </rule>
-  <rule c="773 3592: 1" weight="2.44749">
+  <rule c="775 3601: 1" weight="2.44749">
     <match lemma="malo" tags="adj.f.sg"/>
     <match lemma="gestión" tags="n.f.sg"><select lemma="nepotism" tags="n.sg"/></match>
   </rule>
-  <rule c="774 3596: 1" weight="483511.0">
+  <rule c="776 3605: 1" weight="483511.0">
     <match lemma="malo" tags="adj.f.sg"/>
     <match lemma="gestión" tags="n.f.sg"><select lemma="nepotism" tags="n.sg"/></match>
     <match lemma="y" tags="cnjcoo"/>
   </rule>
-  <rule c="775 3601: 1" weight="483511.0">
+  <rule c="777 3610: 1" weight="483511.0">
     <match lemma="el" tags="det.def.f.sg"/>
     <match lemma="malo" tags="adj.f.sg"/>
     <match lemma="gestión" tags="n.f.sg"><select lemma="nepotism" tags="n.sg"/></match>
   </rule>
-  <rule c="776 3606: 1" weight="483511.0">
+  <rule c="778 3615: 1" weight="483511.0">
     <match lemma="el" tags="det.def.f.sg"/>
     <match lemma="malo" tags="adj.f.sg"/>
     <match lemma="gestión" tags="n.f.sg"><select lemma="nepotism" tags="n.sg"/></match>
     <match lemma="y" tags="cnjcoo"/>
     <match lemma="el" tags="det.def.m.sg"/>
   </rule>
-  <rule c="777 3613: 1" weight="2.51984">
+  <rule c="779 3622: 1" weight="2.51984">
     <match lemma="el" tags="det.def.f.sg"/>
     <match lemma="historia" tags="n.f.sg"><select lemma="history" tags="n.sg"/></match>
   </rule>
-  <rule c="778 3617: 1" weight="2.51984">
+  <rule c="780 3626: 1" weight="2.51984">
     <match lemma="historia" tags="n.f.sg"><select lemma="history" tags="n.sg"/></match>
     <match lemma="de" tags="pr"/>
   </rule>
-  <rule c="779 3621: 1" weight="2.51984">
+  <rule c="781 3630: 1" weight="2.51984">
     <match lemma="el" tags="det.def.f.sg"/>
     <match lemma="historia" tags="n.f.sg"><select lemma="history" tags="n.sg"/></match>
     <match lemma="de" tags="pr"/>
   </rule>
-  <rule c="780 3626: 1" weight="2.37203">
+  <rule c="782 3635: 1" weight="2.37203">
     <match lemma="medio" tags="adj.f.sg"/>
     <match lemma="hora" tags="n.f.sg"><select lemma="hour" tags="n.sg"/></match>
   </rule>
-  <rule c="781 3630: 1" weight="2.94284">
+  <rule c="783 3639: 1" weight="2.94284">
     <match lemma="el" tags="det.def.f.sg"/>
     <match lemma="hora" tags="n.f.sg"><select lemma="time" tags="n.sg"/></match>
   </rule>
-  <rule c="782 3634: 1" weight="2.79183">
+  <rule c="784 3643: 1" weight="2.79183">
     <match lemma="hora" tags="n.f.sg"><select lemma="time" tags="n.sg"/></match>
     <match lemma="de" tags="pr"/>
   </rule>
-  <rule c="783 3638: 1" weight="2.79183">
+  <rule c="785 3647: 1" weight="2.79183">
     <match lemma="el" tags="det.def.f.sg"/>
     <match lemma="hora" tags="n.f.sg"><select lemma="time" tags="n.sg"/></match>
     <match lemma="de" tags="pr"/>
   </rule>
-  <rule c="784 3643: 1" weight="3.22372">
+  <rule c="786 3652: 1" weight="3.22372">
     <match lemma="llegar" tags="vblex.pp.m.sg"/>
     <match lemma="el" tags="det.def.f.sg"/>
     <match lemma="hora" tags="n.f.sg"><select lemma="time" tags="n.sg"/></match>
   </rule>
-  <rule c="785 3648: 1" weight="3.22372">
+  <rule c="787 3657: 1" weight="3.22372">
     <match lemma="hora" tags="n.f.sg"><select lemma="time" tags="n.sg"/></match>
     <match lemma="de que" tags="cnjsub"/>
   </rule>
-  <rule c="786 3652: 1" weight="3.22372">
+  <rule c="788 3661: 1" weight="3.22372">
     <match lemma="el" tags="det.def.f.sg"/>
     <match lemma="hora" tags="n.f.sg"><select lemma="time" tags="n.sg"/></match>
     <match lemma="de que" tags="cnjsub"/>
   </rule>
-  <rule c="787 3657: 1" weight="1.19992e+29">
+  <rule c="789 3666: 1" weight="1.19992e+29">
     <match lemma="intercambio" tags="n.m.sg"><select lemma="exchange" tags="n.sg"/></match>
     <match lemma="de" tags="pr"/>
   </rule>
-  <rule c="788 3661: 1" weight="2.16976e+29">
+  <rule c="790 3670: 1" weight="2.16976e+29">
     <match lemma="el" tags="det.def.m.sg"/>
     <match lemma="intercambio" tags="n.m.sg"><select lemma="exchange" tags="n.sg"/></match>
   </rule>
-  <rule c="789 3665: 1" weight="2.16976e+29">
+  <rule c="791 3674: 1" weight="2.16976e+29">
     <match lemma="el" tags="det.def.m.sg"/>
     <match lemma="intercambio" tags="n.m.sg"><select lemma="exchange" tags="n.sg"/></match>
     <match lemma="de" tags="pr"/>
   </rule>
-  <rule c="790 3670: 1" weight="1.76517">
+  <rule c="792 3679: 1" weight="1.76517">
     <match lemma="interrumpir" tags="vblex.pp.f.sg"><select lemma="suspend" tags="vblex.pp"/></match>
     <match lemma="a" tags="pr"/>
   </rule>
-  <rule c="791 3674: 1" weight="1.76517">
+  <rule c="793 3683: 1" weight="1.76517">
     <match lemma="interrumpir" tags="vblex.pp.f.sg"><select lemma="suspend" tags="vblex.pp"/></match>
     <match lemma="a" tags="pr"/>
     <match lemma="el" tags="det.def.f.pl"/>
   </rule>
-  <rule c="792 3679: 1" weight="1147090000000000.0">
+  <rule c="794 3688: 1" weight="1147090000000000.0">
     <match lemma="el" tags="det.def.f.pl"/>
     <match lemma="investigación" tags="n.f.pl"><select lemma="investigation" tags="n.pl"/></match>
   </rule>
-  <rule c="793 3683: 1" weight="5.50327e-09">
+  <rule c="795 3692: 1" weight="5.50327e-09">
     <match lemma="el" tags="det.def.f.pl"/>
     <match lemma="investigación" tags="n.f.pl"><select lemma="inquiry" tags="n.pl"/></match>
   </rule>
-  <rule c="794 3687: 1" weight="1.76642e+22">
+  <rule c="796 3696: 1" weight="1.76642e+22">
     <match lemma="el" tags="det.def.f.sg"/>
     <match lemma="investigación" tags="n.f.sg"><select lemma="research" tags="n.sg"/></match>
   </rule>
-  <rule c="795 3691: 1" weight="1.98906e+22">
+  <rule c="797 3700: 1" weight="1.98906e+22">
     <match lemma="de" tags="pr"/>
     <match lemma="el" tags="det.def.f.sg"/>
     <match lemma="investigación" tags="n.f.sg"><select lemma="research" tags="n.sg"/></match>
   </rule>
-  <rule c="796 3696: 1" weight="1.41703e+22">
+  <rule c="798 3705: 1" weight="1.41703e+22">
     <match lemma="investigación" tags="n.f.sg"><select lemma="research" tags="n.sg"/></match>
     <match lemma="y" tags="cnjcoo"/>
   </rule>
-  <rule c="797 3700: 1" weight="1.58872e+22">
+  <rule c="799 3709: 1" weight="1.58872e+22">
     <match lemma="el" tags="det.def.f.sg"/>
     <match lemma="investigación" tags="n.f.sg"><select lemma="research" tags="n.sg"/></match>
     <match lemma="y" tags="cnjcoo"/>
   </rule>
-  <rule c="798 3705: 1" weight="1.98533e+22">
+  <rule c="800 3714: 1" weight="1.98533e+22">
     <match lemma="a" tags="pr"/>
     <match lemma="el" tags="det.def.f.sg"/>
     <match lemma="investigación" tags="n.f.sg"><select lemma="research" tags="n.sg"/></match>
   </rule>
-  <rule c="799 3710: 1" weight="2267700000000000.0">
+  <rule c="801 3719: 1" weight="2267700000000000.0">
     <match lemma="investigación" tags="n.f.sg"><select lemma="investigation" tags="n.sg"/></match>
     <match lemma="y" tags="cnjcoo"/>
   </rule>
-  <rule c="800 3714: 1" weight="1.97875e+22">
+  <rule c="802 3723: 1" weight="1.97875e+22">
     <match lemma="investigación" tags="n.f.sg"><select lemma="research" tags="n.sg"/></match>
     <match lemma="y" tags="cnjcoo"/>
     <match lemma="desarrollo" tags="n.m.sg"/>
   </rule>
-  <rule c="801 3719: 1" weight="1.9859e+22">
+  <rule c="803 3728: 1" weight="1.9859e+22">
     <match lemma="investigación" tags="n.f.sg"><select lemma="research" tags="n.sg"/></match>
     <match lemma="y" tags="cnjcoo"/>
     <match lemma="el" tags="det.def.m.sg"/>
   </rule>
-  <rule c="802 3724: 1" weight="9.01749e+16">
+  <rule c="804 3733: 1" weight="9.01749e+16">
     <match lemma="de" tags="pr"/>
     <match lemma="investigación" tags="n.f.sg"><select lemma="investigation" tags="n.sg"/></match>
   </rule>
-  <rule c="803 3728: 1" weight="10593500000.0">
+  <rule c="805 3737: 1" weight="10593500000.0">
     <match lemma="de" tags="pr"/>
     <match lemma="investigación" tags="n.f.sg"><select lemma="inquiry" tags="n.sg"/></match>
   </rule>
-  <rule c="804 3732: 1" weight="12941900000000.0">
+  <rule c="806 3741: 1" weight="12941900000000.0">
     <match lemma="comisión" tags="n.f.sg"/>
     <match lemma="de" tags="pr"/>
     <match lemma="investigación" tags="n.f.sg"><select lemma="inquiry" tags="n.sg"/></match>
   </rule>
-  <rule c="805 3737: 1" weight="5.62679">
+  <rule c="807 3746: 1" weight="5.62679">
     <match lemma="para" tags="pr"/>
     <match lemma="investigar" tags="vblex.inf"><select lemma="investigate" tags="vblex.inf"/></match>
   </rule>
-  <rule c="806 3741: 1" weight="5.62679">
+  <rule c="808 3750: 1" weight="5.62679">
     <match lemma="investigar" tags="vblex.inf"><select lemma="investigate" tags="vblex.inf"/></match>
     <match lemma="el" tags="det.def.f.pl"/>
   </rule>
-  <rule c="807 3745: 1" weight="5.62679">
+  <rule c="809 3754: 1" weight="5.62679">
     <match lemma="para" tags="pr"/>
     <match lemma="investigar" tags="vblex.inf"><select lemma="investigate" tags="vblex.inf"/></match>
     <match lemma="el" tags="det.def.f.pl"/>
   </rule>
-  <rule c="808 3750: 1" weight="1.69911">
+  <rule c="810 3759: 1" weight="1.69911">
     <match lemma="el" tags="det.def.m.pl"/>
     <match lemma="jefe" tags="n.m.pl"><select lemma="unit" tags="n.sg"/></match>
-  </rule>
-  <rule c="809 3754: 1" weight="1.69911">
-    <match lemma="jefe" tags="n.m.pl"><select lemma="unit" tags="n.sg"/></match>
-    <match lemma="de" tags="pr"/>
-  </rule>
-  <rule c="810 3758: 1" weight="1.69911">
-    <match lemma="el" tags="det.def.m.pl"/>
-    <match lemma="jefe" tags="n.m.pl"><select lemma="unit" tags="n.sg"/></match>
-    <match lemma="de" tags="pr"/>
   </rule>
   <rule c="811 3763: 1" weight="1.69911">
+    <match lemma="jefe" tags="n.m.pl"><select lemma="unit" tags="n.sg"/></match>
+    <match lemma="de" tags="pr"/>
+  </rule>
+  <rule c="812 3767: 1" weight="1.69911">
+    <match lemma="el" tags="det.def.m.pl"/>
+    <match lemma="jefe" tags="n.m.pl"><select lemma="unit" tags="n.sg"/></match>
+    <match lemma="de" tags="pr"/>
+  </rule>
+  <rule c="813 3772: 1" weight="1.69911">
     <match lemma="de" tags="pr"/>
     <match lemma="el" tags="det.def.m.pl"/>
     <match lemma="jefe" tags="n.m.pl"><select lemma="unit" tags="n.sg"/></match>
   </rule>
-  <rule c="812 3768: 1" weight="1.69911">
+  <rule c="814 3777: 1" weight="1.69911">
     <match lemma="jefe" tags="n.m.pl"><select lemma="unit" tags="n.sg"/></match>
     <match lemma="de" tags="pr"/>
     <match lemma="departamento" tags="n.m.sg"/>
   </rule>
-  <rule c="813 3773: 1" weight="2.72008">
+  <rule c="815 3782: 1" weight="2.72008">
     <match lemma="el" tags="det.def.f.sg"/>
     <match lemma="lucha" tags="n.f.sg"><select lemma="fight" tags="n.sg"/></match>
   </rule>
-  <rule c="814 3777: 1" weight="2.59751">
+  <rule c="816 3786: 1" weight="2.59751">
     <match lemma="lucha" tags="n.f.sg"><select lemma="fight" tags="n.sg"/></match>
     <match lemma="contra" tags="pr"/>
   </rule>
-  <rule c="815 3781: 1" weight="2.72008">
+  <rule c="817 3790: 1" weight="2.72008">
     <match lemma="el" tags="det.def.f.sg"/>
     <match lemma="lucha" tags="n.f.sg"><select lemma="fight" tags="n.sg"/></match>
     <match lemma="contra" tags="pr"/>
   </rule>
-  <rule c="816 3786: 1" weight="2.87585">
+  <rule c="818 3795: 1" weight="2.87585">
     <match lemma="de" tags="pr"/>
     <match lemma="el" tags="det.def.f.sg"/>
     <match lemma="lucha" tags="n.f.sg"><select lemma="fight" tags="n.sg"/></match>
   </rule>
-  <rule c="817 3791: 1" weight="2.87585">
+  <rule c="819 3800: 1" weight="2.87585">
     <match lemma="lucha" tags="n.f.sg"><select lemma="fight" tags="n.sg"/></match>
     <match lemma="contra" tags="pr"/>
     <match lemma="el" tags="det.def.f.sg"/>
   </rule>
-  <rule c="818 3796: 1" weight="2.87585">
+  <rule c="820 3805: 1" weight="2.87585">
     <match lemma="de" tags="pr"/>
     <match lemma="el" tags="det.def.f.sg"/>
     <match lemma="lucha" tags="n.f.sg"><select lemma="fight" tags="n.sg"/></match>
     <match lemma="contra" tags="pr"/>
     <match lemma="el" tags="det.def.f.sg"/>
   </rule>
-  <rule c="819 3803: 1" weight="1.1271">
+  <rule c="821 3812: 1" weight="1.1271">
     <match lemma="lucha" tags="n.f.sg"><select lemma="fraud" tags="n.sg"/></match>
     <match lemma="contra" tags="pr"/>
   </rule>
-  <rule c="820 3807: 1" weight="0.910189">
+  <rule c="822 3816: 1" weight="0.910189">
     <match lemma="lucha" tags="n.f.sg"><select lemma="unemployment" tags="n.sg"/></match>
     <match lemma="contra" tags="pr"/>
   </rule>
-  <rule c="821 3811: 1" weight="2.59338">
+  <rule c="823 3820: 1" weight="2.59338">
     <match lemma="lucha" tags="n.f.sg"><select lemma="fight" tags="n.sg"/></match>
     <match lemma="contra" tags="pr"/>
     <match lemma="el" tags="det.def.m.sg"/>
   </rule>
-  <rule c="822 3816: 1" weight="1.2195">
+  <rule c="824 3825: 1" weight="1.2195">
     <match lemma="lucha" tags="n.f.sg"><select lemma="fraud" tags="n.sg"/></match>
     <match lemma="contra" tags="pr"/>
     <match lemma="el" tags="det.def.m.sg"/>
   </rule>
-  <rule c="823 3821: 1" weight="2.11894">
+  <rule c="825 3830: 1" weight="2.11894">
     <match lemma="de" tags="pr"/>
     <match lemma="lucha" tags="n.f.sg"><select lemma="fight" tags="n.sg"/></match>
   </rule>
-  <rule c="824 3825: 1" weight="2.11894">
+  <rule c="826 3834: 1" weight="2.11894">
     <match lemma="de" tags="pr"/>
     <match lemma="lucha" tags="n.f.sg"><select lemma="fight" tags="n.sg"/></match>
     <match lemma="contra" tags="pr"/>
   </rule>
-  <rule c="825 3830: 1" weight="2.87585">
+  <rule c="827 3839: 1" weight="2.87585">
     <match lemma="de" tags="pr"/>
     <match lemma="el" tags="det.def.f.sg"/>
     <match lemma="lucha" tags="n.f.sg"><select lemma="fight" tags="n.sg"/></match>
     <match lemma="contra" tags="pr"/>
     <match lemma="el" tags="det.def.m.sg"/>
   </rule>
-  <rule c="826 3837: 1" weight="49.4769">
+  <rule c="828 3846: 1" weight="49.4769">
     <match lemma="en" tags="pr"/>
     <match lemma="materia" tags="n.f.sg"><select lemma="legislation" tags="n.sg"/></match>
   </rule>
-  <rule c="827 3841: 1" weight="49.4769">
+  <rule c="829 3850: 1" weight="49.4769">
     <match lemma="materia" tags="n.f.sg"><select lemma="legislation" tags="n.sg"/></match>
     <match lemma="de" tags="pr"/>
   </rule>
-  <rule c="828 3845: 1" weight="49.4769">
+  <rule c="830 3854: 1" weight="49.4769">
     <match lemma="en" tags="pr"/>
     <match lemma="materia" tags="n.f.sg"><select lemma="legislation" tags="n.sg"/></match>
     <match lemma="de" tags="pr"/>
   </rule>
-  <rule c="829 3850: 1" weight="35.0718">
+  <rule c="831 3859: 1" weight="35.0718">
     <match lemma="en" tags="pr"/>
     <match lemma="materia" tags="n.f.sg"><select lemma="competition" tags="n.sg"/></match>
   </rule>
-  <rule c="830 3854: 1" weight="35.0718">
+  <rule c="832 3863: 1" weight="35.0718">
     <match lemma="materia" tags="n.f.sg"><select lemma="competition" tags="n.sg"/></match>
     <match lemma="de" tags="pr"/>
   </rule>
-  <rule c="831 3858: 1" weight="35.0718">
+  <rule c="833 3867: 1" weight="35.0718">
     <match lemma="en" tags="pr"/>
     <match lemma="materia" tags="n.f.sg"><select lemma="competition" tags="n.sg"/></match>
     <match lemma="de" tags="pr"/>
   </rule>
-  <rule c="832 3863: 1" weight="18.731">
+  <rule c="834 3872: 1" weight="18.731">
     <match lemma="en" tags="pr"/>
     <match lemma="materia" tags="n.f.sg"><select lemma="safety" tags="n.sg"/></match>
   </rule>
-  <rule c="833 3867: 1" weight="18.731">
+  <rule c="835 3876: 1" weight="18.731">
     <match lemma="materia" tags="n.f.sg"><select lemma="safety" tags="n.sg"/></match>
     <match lemma="de" tags="pr"/>
   </rule>
-  <rule c="834 3871: 1" weight="18.731">
+  <rule c="836 3880: 1" weight="18.731">
     <match lemma="en" tags="pr"/>
     <match lemma="materia" tags="n.f.sg"><select lemma="safety" tags="n.sg"/></match>
     <match lemma="de" tags="pr"/>
   </rule>
-  <rule c="835 3876: 1" weight="46.3998">
+  <rule c="837 3885: 1" weight="46.3998">
     <match lemma="materia" tags="n.f.sg"><select lemma="safety" tags="n.sg"/></match>
     <match lemma="de" tags="pr"/>
     <match lemma="seguridad" tags="n.f.sg"/>
   </rule>
-  <rule c="836 3881: 1" weight="6.04147">
+  <rule c="838 3890: 1" weight="6.04147">
     <match lemma="en" tags="pr"/>
     <match lemma="materia" tags="n.f.sg"><select lemma="repayment" tags="n.sg"/></match>
   </rule>
-  <rule c="837 3885: 1" weight="6.04147">
+  <rule c="839 3894: 1" weight="6.04147">
     <match lemma="materia" tags="n.f.sg"><select lemma="repayment" tags="n.sg"/></match>
     <match lemma="de" tags="pr"/>
   </rule>
-  <rule c="838 3889: 1" weight="6.04147">
+  <rule c="840 3898: 1" weight="6.04147">
     <match lemma="en" tags="pr"/>
     <match lemma="materia" tags="n.f.sg"><select lemma="repayment" tags="n.sg"/></match>
     <match lemma="de" tags="pr"/>
   </rule>
-  <rule c="839 3894: 1" weight="67.251">
+  <rule c="841 3903: 1" weight="67.251">
     <match lemma="materia" tags="n.f.sg"><select lemma="competition" tags="n.sg"/></match>
     <match lemma="de" tags="pr"/>
     <match lemma="competencia" tags="n.f.sg"/>
   </rule>
-  <rule c="840 3899: 1" weight="inf">
-    <match lemma="uno" tags="det.ind.f.sg"/>
-    <match lemma="mayor" tags="adj.mf.sg"><select lemma="great" tags="adj.sint.comp"/></match>
-  </rule>
-  <rule c="841 3903: 1" weight="inf">
-    <match lemma="mayor" tags="adj.mf.sg"><select lemma="great" tags="adj.sint.comp"/></match>
-    <match lemma="seguridad" tags="n.f.sg"/>
-  </rule>
-  <rule c="842 3907: 1" weight="inf">
-    <match lemma="de" tags="pr"/>
+  <rule c="842 3908: 1" weight="inf">
     <match lemma="uno" tags="det.ind.f.sg"/>
     <match lemma="mayor" tags="adj.mf.sg"><select lemma="great" tags="adj.sint.comp"/></match>
   </rule>
   <rule c="843 3912: 1" weight="inf">
     <match lemma="mayor" tags="adj.mf.sg"><select lemma="great" tags="adj.sint.comp"/></match>
-    <match lemma="transparencia" tags="n.f.sg"/>
+    <match lemma="seguridad" tags="n.f.sg"/>
   </rule>
   <rule c="844 3916: 1" weight="inf">
+    <match lemma="de" tags="pr"/>
+    <match lemma="uno" tags="det.ind.f.sg"/>
+    <match lemma="mayor" tags="adj.mf.sg"><select lemma="great" tags="adj.sint.comp"/></match>
+  </rule>
+  <rule c="845 3921: 1" weight="inf">
+    <match lemma="mayor" tags="adj.mf.sg"><select lemma="great" tags="adj.sint.comp"/></match>
+    <match lemma="transparencia" tags="n.f.sg"/>
+  </rule>
+  <rule c="846 3925: 1" weight="inf">
     <match lemma="uno" tags="det.ind.f.sg"/>
     <match lemma="mayor" tags="adj.mf.sg"><select lemma="great" tags="adj.sint.comp"/></match>
     <match lemma="transparencia" tags="n.f.sg"/>
   </rule>
-  <rule c="845 3921: 1" weight="inf">
+  <rule c="847 3930: 1" weight="inf">
     <match lemma="uno" tags="det.ind.m.sg"/>
     <match lemma="mayor" tags="adj.mf.sg"><select lemma="great" tags="adj.sint.comp"/></match>
   </rule>
-  <rule c="846 3925: 1" weight="inf">
+  <rule c="848 3934: 1" weight="inf">
     <match lemma="el" tags="det.def.f.sg"/>
     <match lemma="mayor" tags="adj.mf.sg"><select lemma="great" tags="adj.sint.sup"/></match>
-  </rule>
-  <rule c="847 3929: 1" weight="inf">
-    <match lemma="mayor" tags="adj.mf.sg"><select lemma="great" tags="adj.sint.comp"/></match>
-    <match lemma="igualdad" tags="n.f.sg"/>
-  </rule>
-  <rule c="848 3933: 1" weight="inf">
-    <match lemma="uno" tags="det.ind.f.sg"/>
-    <match lemma="mayor" tags="adj.mf.sg"><select lemma="great" tags="adj.sint.comp"/></match>
-    <match lemma="igualdad" tags="n.f.sg"/>
   </rule>
   <rule c="849 3938: 1" weight="inf">
     <match lemma="mayor" tags="adj.mf.sg"><select lemma="great" tags="adj.sint.comp"/></match>
     <match lemma="igualdad" tags="n.f.sg"/>
+  </rule>
+  <rule c="850 3942: 1" weight="inf">
+    <match lemma="uno" tags="det.ind.f.sg"/>
+    <match lemma="mayor" tags="adj.mf.sg"><select lemma="great" tags="adj.sint.comp"/></match>
+    <match lemma="igualdad" tags="n.f.sg"/>
+  </rule>
+  <rule c="851 3947: 1" weight="inf">
+    <match lemma="mayor" tags="adj.mf.sg"><select lemma="great" tags="adj.sint.comp"/></match>
+    <match lemma="igualdad" tags="n.f.sg"/>
     <match lemma="entre" tags="pr"/>
   </rule>
-  <rule c="850 3943: 1" weight="inf">
+  <rule c="852 3952: 1" weight="inf">
     <match lemma="de" tags="pr"/>
     <match lemma="mayor" tags="adj.mf.sg"><select lemma="great" tags="adj.sint.comp"/></match>
   </rule>
-  <rule c="851 3947: 1" weight="8.88217e+33">
+  <rule c="853 3956: 1" weight="8.88217e+33">
     <match lemma="medio" tags="adj.m.sg"><select lemma="natural" tags="adj"/></match>
     <match lemma="natural" tags="adj.mf.sg"/>
   </rule>
-  <rule c="852 3951: 1" weight="1.83041">
+  <rule c="854 3960: 1" weight="1.83041">
     <match lemma="el" tags="det.def.m.pl"/>
     <match lemma="medio" tags="n.m.pl"><select lemma="means" tags="n.sg"/></match>
   </rule>
-  <rule c="853 3955: 1" weight="1.22226">
+  <rule c="855 3964: 1" weight="1.22226">
     <match lemma="de" tags="pr"/>
     <match lemma="medio" tags="n.m.pl"><select lemma="resource" tags="n.pl"/></match>
   </rule>
-  <rule c="854 3959: 1" weight="2.124">
+  <rule c="856 3968: 1" weight="2.124">
     <match lemma="medio" tags="n.m.pl"><select lemma="means" tags="n.sg"/></match>
     <match lemma="para" tags="pr"/>
   </rule>
-  <rule c="855 3963: 1" weight="2.124">
+  <rule c="857 3972: 1" weight="2.124">
     <match lemma="el" tags="det.def.m.pl"/>
     <match lemma="medio" tags="n.m.pl"><select lemma="means" tags="n.sg"/></match>
     <match lemma="para" tags="pr"/>
   </rule>
-  <rule c="856 3968: 1" weight="1.70511">
+  <rule c="858 3977: 1" weight="1.70511">
     <match lemma="y" tags="cnjcoo"/>
     <match lemma="mejorar" tags="vblex.inf"><select lemma="improve" tags="vblex.inf"/></match>
   </rule>
-  <rule c="857 3972: 1" weight="1.2057">
+  <rule c="859 3981: 1" weight="1.2057">
     <match lemma="de" tags="pr"/>
     <match lemma="mejorar" tags="vblex.inf"><select lemma="improve" tags="vblex.inf"/></match>
   </rule>
-  <rule c="858 3976: 1" weight="0.984447">
+  <rule c="860 3985: 1" weight="0.984447">
     <match lemma="de" tags="pr"/>
     <match lemma="mejorar" tags="vblex.inf"><select lemma="improve" tags="vblex.ger"/></match>
   </rule>
-  <rule c="859 3980: 1" weight="1.56848">
+  <rule c="861 3989: 1" weight="1.56848">
     <match lemma="mejorar" tags="vblex.inf"><select lemma="improve" tags="vblex.inf"/></match>
     <match lemma="el" tags="det.def.f.sg"/>
   </rule>
-  <rule c="860 3984: 1" weight="1.70511">
+  <rule c="862 3993: 1" weight="1.70511">
     <match lemma="mejorar" tags="vblex.inf"><select lemma="improve" tags="vblex.inf"/></match>
     <match lemma="el" tags="det.def.f.sg"/>
     <match lemma="competitividad" tags="n.f.sg"/>
   </rule>
-  <rule c="861 3989: 1" weight="0.546073">
+  <rule c="863 3998: 1" weight="0.546073">
     <match lemma="mejorar" tags="vblex.inf"><select lemma="improve" tags="vblex.ger"/></match>
     <match lemma="el" tags="det.def.f.sg"/>
   </rule>
-  <rule c="862 3993: 1" weight="1.50377">
+  <rule c="864 4002: 1" weight="1.50377">
     <match lemma="para" tags="pr"/>
     <match lemma="mejorar" tags="vblex.inf"><select lemma="improve" tags="vblex.inf"/></match>
   </rule>
-  <rule c="863 3997: 1" weight="1.70511">
+  <rule c="865 4006: 1" weight="1.70511">
     <match lemma="para" tags="pr"/>
     <match lemma="mejorar" tags="vblex.inf"><select lemma="improve" tags="vblex.inf"/></match>
     <match lemma="el" tags="det.def.f.sg"/>
   </rule>
-  <rule c="864 4002: 1" weight="1.47667">
+  <rule c="866 4011: 1" weight="1.47667">
     <match lemma="mejorar" tags="vblex.inf"><select lemma="improve" tags="vblex.inf"/></match>
     <match lemma="el" tags="det.def.f.sg"/>
     <match lemma="calidad" tags="n.f.sg"/>
   </rule>
-  <rule c="865 4007: 1" weight="0.656298">
+  <rule c="867 4016: 1" weight="0.656298">
     <match lemma="para" tags="pr"/>
     <match lemma="mejorar" tags="vblex.inf"><select lemma="improve" tags="vblex.ger"/></match>
   </rule>
-  <rule c="866 4011: 1" weight="1.39222">
+  <rule c="868 4020: 1" weight="1.39222">
     <match lemma="mejorar" tags="vblex.inf"><select lemma="improve" tags="vblex.inf"/></match>
     <match lemma="el" tags="det.def.m.sg"/>
   </rule>
-  <rule c="867 4015: 1" weight="1.70511">
+  <rule c="869 4024: 1" weight="1.70511">
     <match lemma="mejorar" tags="vblex.inf"><select lemma="improve" tags="vblex.inf"/></match>
     <match lemma="el" tags="det.def.f.pl"/>
   </rule>
-  <rule c="868 4019: 1" weight="2.18793">
-    <match lemma="motivo" tags="n.m.sg"><select lemma="reason" tags="n.sg"/></match>
-    <match lemma="de" tags="pr"/>
-  </rule>
-  <rule c="869 4023: 1" weight="2.67966">
-    <match lemma="el" tags="det.def.m.sg"/>
-    <match lemma="motivo" tags="n.m.sg"><select lemma="reason" tags="n.sg"/></match>
-  </rule>
-  <rule c="870 4027: 1" weight="2.67966">
-    <match lemma="el" tags="det.def.m.sg"/>
+  <rule c="870 4028: 1" weight="2.18793">
     <match lemma="motivo" tags="n.m.sg"><select lemma="reason" tags="n.sg"/></match>
     <match lemma="de" tags="pr"/>
   </rule>
   <rule c="871 4032: 1" weight="2.67966">
+    <match lemma="el" tags="det.def.m.sg"/>
+    <match lemma="motivo" tags="n.m.sg"><select lemma="reason" tags="n.sg"/></match>
+  </rule>
+  <rule c="872 4036: 1" weight="2.67966">
+    <match lemma="el" tags="det.def.m.sg"/>
+    <match lemma="motivo" tags="n.m.sg"><select lemma="reason" tags="n.sg"/></match>
+    <match lemma="de" tags="pr"/>
+  </rule>
+  <rule c="873 4041: 1" weight="2.67966">
     <match lemma="ser" tags="vbser.pri.p3.sg"/>
     <match lemma="el" tags="det.def.m.sg"/>
     <match lemma="motivo" tags="n.m.sg"><select lemma="reason" tags="n.sg"/></match>
   </rule>
-  <rule c="872 4037: 1" weight="1.24605e+28">
+  <rule c="874 4046: 1" weight="1.24605e+28">
     <match lemma="el" tags="det.def.m.sg"/>
     <match lemma="ordenamiento" tags="n.m.sg"><select lemma="legislation" tags="n.sg"/></match>
   </rule>
-  <rule c="873 4041: 1" weight="1.24605e+28">
+  <rule c="875 4050: 1" weight="1.24605e+28">
     <match lemma="de" tags="pr"/>
     <match lemma="el" tags="det.def.m.sg"/>
     <match lemma="ordenamiento" tags="n.m.sg"><select lemma="legislation" tags="n.sg"/></match>
   </rule>
-  <rule c="874 4046: 1" weight="44.5925">
+  <rule c="876 4055: 1" weight="44.5925">
     <match lemma="prpers" tags="prn.pro.p1.mf.sg"/>
     <match lemma="parecer" tags="vblex.pri.p3.sg"><select lemma="seem" tags="vblex.pri.p3.sg"/></match>
   </rule>
-  <rule c="875 4050: 1" weight="23.45">
+  <rule c="877 4059: 1" weight="23.45">
     <match lemma="prpers" tags="prn.pro.p1.mf.pl"/>
     <match lemma="parecer" tags="vblex.pri.p3.sg"><select lemma="feel" tags="vblex.pres"/></match>
   </rule>
-  <rule c="876 4054: 1" weight="50.8433">
-    <match lemma="parecer" tags="vblex.pri.p3.sg"><select lemma="seem" tags="vblex.pri.p3.sg"/></match>
-    <match lemma="que" tags="cnjsub"/>
-  </rule>
-  <rule c="877 4058: 1" weight="50.8433">
-    <match lemma="prpers" tags="prn.pro.p1.mf.sg"/>
-    <match lemma="parecer" tags="vblex.pri.p3.sg"><select lemma="seem" tags="vblex.pri.p3.sg"/></match>
-    <match lemma="que" tags="cnjsub"/>
-  </rule>
   <rule c="878 4063: 1" weight="50.8433">
     <match lemma="parecer" tags="vblex.pri.p3.sg"><select lemma="seem" tags="vblex.pri.p3.sg"/></match>
-    <match lemma="importante" tags="adj.mf.sg"/>
+    <match lemma="que" tags="cnjsub"/>
   </rule>
   <rule c="879 4067: 1" weight="50.8433">
     <match lemma="prpers" tags="prn.pro.p1.mf.sg"/>
     <match lemma="parecer" tags="vblex.pri.p3.sg"><select lemma="seem" tags="vblex.pri.p3.sg"/></match>
+    <match lemma="que" tags="cnjsub"/>
+  </rule>
+  <rule c="880 4072: 1" weight="50.8433">
+    <match lemma="parecer" tags="vblex.pri.p3.sg"><select lemma="seem" tags="vblex.pri.p3.sg"/></match>
     <match lemma="importante" tags="adj.mf.sg"/>
   </rule>
-  <rule c="880 4072: 1" weight="41.5134">
+  <rule c="881 4076: 1" weight="50.8433">
+    <match lemma="prpers" tags="prn.pro.p1.mf.sg"/>
+    <match lemma="parecer" tags="vblex.pri.p3.sg"><select lemma="seem" tags="vblex.pri.p3.sg"/></match>
+    <match lemma="importante" tags="adj.mf.sg"/>
+  </rule>
+  <rule c="882 4081: 1" weight="41.5134">
     <match lemma="parecer" tags="vblex.pri.p3.sg"><select lemma="seem" tags="vblex.pri.p3.sg"/></match>
     <match lemma="ser" tags="vbser.inf"/>
   </rule>
-  <rule c="881 4076: 1" weight="3.25488">
+  <rule c="883 4085: 1" weight="3.25488">
     <match lemma="el" tags="det.def.f.sg"/>
     <match lemma="participación" tags="n.f.sg"><select lemma="participation" tags="n.sg"/></match>
   </rule>
-  <rule c="882 4080: 1" weight="3.25488">
+  <rule c="884 4089: 1" weight="3.25488">
     <match lemma="participación" tags="n.f.sg"><select lemma="participation" tags="n.sg"/></match>
     <match lemma="de" tags="pr"/>
   </rule>
-  <rule c="883 4084: 1" weight="3.4784">
+  <rule c="885 4093: 1" weight="3.4784">
     <match lemma="el" tags="det.def.f.sg"/>
     <match lemma="participación" tags="n.f.sg"><select lemma="participation" tags="n.sg"/></match>
     <match lemma="de" tags="pr"/>
   </rule>
-  <rule c="884 4089: 1" weight="3.36045">
+  <rule c="886 4098: 1" weight="3.36045">
     <match lemma="con" tags="pr"/>
     <match lemma="el" tags="det.def.f.sg"/>
     <match lemma="participación" tags="n.f.sg"><select lemma="participation" tags="n.sg"/></match>
   </rule>
-  <rule c="885 4094: 1" weight="1.1115">
+  <rule c="887 4103: 1" weight="1.1115">
     <match lemma="el" tags="det.def.f.sg"/>
     <match lemma="participación" tags="n.f.sg"><select lemma="involvement" tags="n.sg"/></match>
   </rule>
-  <rule c="886 4098: 1" weight="1.1115">
+  <rule c="888 4107: 1" weight="1.1115">
     <match lemma="participación" tags="n.f.sg"><select lemma="involvement" tags="n.sg"/></match>
     <match lemma="de" tags="pr"/>
   </rule>
-  <rule c="887 4102: 1" weight="9.53418e+39">
+  <rule c="889 4111: 1" weight="9.53418e+39">
     <match lemma="participar" tags="vblex.inf"><select lemma="take# part" tags="vblex.inf"/></match>
     <match lemma="en" tags="pr"/>
   </rule>
-  <rule c="888 4106: 1" weight="4.1558e+27">
+  <rule c="890 4115: 1" weight="4.1558e+27">
     <match lemma="de" tags="pr"/>
     <match lemma="participar" tags="vblex.inf"><select lemma="participate" tags="vblex.inf"/></match>
   </rule>
-  <rule c="889 4110: 1" weight="2.56038">
+  <rule c="891 4119: 1" weight="2.56038">
     <match lemma="haber" tags="vbhaver.pri.p3.sg"/>
     <match lemma="pasar" tags="vblex.pp.m.sg"><select lemma="happen" tags="vblex.pp"/></match>
-  </rule>
-  <rule c="890 4114: 1" weight="2.56038">
-    <match lemma="pasar" tags="vblex.pp.m.sg"><select lemma="happen" tags="vblex.pp"/></match>
-    <match lemma="con" tags="pr"/>
-  </rule>
-  <rule c="891 4118: 1" weight="2.56038">
-    <match lemma="haber" tags="vbhaver.pri.p3.sg"/>
-    <match lemma="pasar" tags="vblex.pp.m.sg"><select lemma="happen" tags="vblex.pp"/></match>
-    <match lemma="con" tags="pr"/>
   </rule>
   <rule c="892 4123: 1" weight="2.56038">
+    <match lemma="pasar" tags="vblex.pp.m.sg"><select lemma="happen" tags="vblex.pp"/></match>
+    <match lemma="con" tags="pr"/>
+  </rule>
+  <rule c="893 4127: 1" weight="2.56038">
+    <match lemma="haber" tags="vbhaver.pri.p3.sg"/>
+    <match lemma="pasar" tags="vblex.pp.m.sg"><select lemma="happen" tags="vblex.pp"/></match>
+    <match lemma="con" tags="pr"/>
+  </rule>
+  <rule c="894 4132: 1" weight="2.56038">
     <match lemma="qué" tags="prn.itg.m.sg"/>
     <match lemma="haber" tags="vbhaver.pri.p3.sg"/>
     <match lemma="pasar" tags="vblex.pp.m.sg"><select lemma="happen" tags="vblex.pp"/></match>
   </rule>
-  <rule c="893 4128: 1" weight="5.93345e+20">
+  <rule c="895 4137: 1" weight="5.93345e+20">
     <match lemma="perder" tags="vblex.inf"><select lemma="lose" tags="vblex.inf"/></match>
     <match lemma="de" tags="pr"/>
   </rule>
-  <rule c="894 4132: 1" weight="5.93345e+20">
+  <rule c="896 4141: 1" weight="5.93345e+20">
     <match lemma="perder" tags="vblex.inf"><select lemma="lose" tags="vblex.inf"/></match>
     <match lemma="de" tags="pr"/>
     <match lemma="vista" tags="n.f.sg"/>
   </rule>
-  <rule c="895 4137: 1" weight="1.52318e+59">
+  <rule c="897 4146: 1" weight="1.52318e+59">
     <match lemma="plazo" tags="n.m.sg"><select lemma="term" tags="n.sg"/></match>
     <match lemma="y" tags="cnjcoo"/>
   </rule>
-  <rule c="896 4141: 1" weight="6.94439e+26">
+  <rule c="898 4150: 1" weight="6.94439e+26">
     <match lemma="uno" tags="det.ind.m.sg"/>
     <match lemma="plazo" tags="n.m.sg"><select lemma="time limit" tags="n.sg"/></match>
   </rule>
-  <rule c="897 4145: 1" weight="7.81403e+68">
+  <rule c="899 4154: 1" weight="7.81403e+68">
     <match lemma="plazo" tags="n.m.sg"><select lemma="deadline" tags="n.sg"/></match>
     <match lemma="de" tags="pr"/>
   </rule>
-  <rule c="898 4149: 1" weight="6.32518e+56">
+  <rule c="900 4158: 1" weight="6.32518e+56">
     <match lemma="medio" tags="adj.m.sg"/>
     <match lemma="plazo" tags="n.m.sg"><select lemma="term" tags="n.sg"/></match>
   </rule>
-  <rule c="899 4153: 1" weight="1.55634e+69">
+  <rule c="901 4162: 1" weight="1.55634e+69">
     <match lemma="el" tags="det.def.m.sg"/>
     <match lemma="plazo" tags="n.m.sg"><select lemma="deadline" tags="n.sg"/></match>
   </rule>
-  <rule c="900 4157: 1" weight="1.55634e+69">
+  <rule c="902 4166: 1" weight="1.55634e+69">
     <match lemma="el" tags="det.def.m.sg"/>
     <match lemma="plazo" tags="n.m.sg"><select lemma="deadline" tags="n.sg"/></match>
     <match lemma="de" tags="pr"/>
   </rule>
-  <rule c="901 4162: 1" weight="1.44502">
+  <rule c="903 4171: 1" weight="1.44502">
     <match lemma="el" tags="det.def.f.pl"/>
     <match lemma="política" tags="n.f.pl"><select lemma="policy" tags="n.pl"/></match>
   </rule>
-  <rule c="902 4166: 1" weight="1.56579">
+  <rule c="904 4175: 1" weight="1.56579">
     <match lemma="y" tags="cnjcoo"/>
     <match lemma="el" tags="det.def.f.pl"/>
     <match lemma="política" tags="n.f.pl"><select lemma="policy" tags="n.pl"/></match>
   </rule>
-  <rule c="903 4171: 1" weight="0.673212">
+  <rule c="905 4180: 1" weight="0.673212">
     <match lemma="el" tags="det.def.f.pl"/>
     <match lemma="política" tags="n.f.pl"><select lemma="policy" tags="n.sg"/></match>
   </rule>
-  <rule c="904 4175: 1" weight="1.33136">
+  <rule c="906 4184: 1" weight="1.33136">
     <match lemma="política" tags="n.f.pl"><select lemma="policy" tags="n.pl"/></match>
     <match lemma="regional" tags="adj.mf.pl"/>
   </rule>
-  <rule c="905 4179: 1" weight="1.56579">
+  <rule c="907 4188: 1" weight="1.56579">
     <match lemma="nuestro" tags="det.pos.f.pl"/>
     <match lemma="política" tags="n.f.pl"><select lemma="policy" tags="n.pl"/></match>
   </rule>
-  <rule c="906 4183: 1" weight="1.56579">
+  <rule c="908 4192: 1" weight="1.56579">
     <match lemma="política" tags="n.f.pl"><select lemma="policy" tags="n.pl"/></match>
     <match lemma="estructural" tags="adj.mf.pl"/>
   </rule>
-  <rule c="907 4187: 1" weight="1.56579">
+  <rule c="909 4196: 1" weight="1.56579">
     <match lemma="el" tags="det.def.f.pl"/>
     <match lemma="política" tags="n.f.pl"><select lemma="policy" tags="n.pl"/></match>
     <match lemma="estructural" tags="adj.mf.pl"/>
   </rule>
-  <rule c="908 4192: 1" weight="1.43209">
+  <rule c="910 4201: 1" weight="1.43209">
     <match lemma="este" tags="det.dem.f.pl"/>
     <match lemma="política" tags="n.f.pl"><select lemma="policy" tags="n.pl"/></match>
   </rule>
-  <rule c="909 4196: 1" weight="1.48435">
+  <rule c="911 4205: 1" weight="1.48435">
     <match lemma="política" tags="n.f.pl"><select lemma="policy" tags="n.pl"/></match>
     <match lemma="de" tags="pr"/>
   </rule>
-  <rule c="910 4200: 1" weight="1.43209">
+  <rule c="912 4209: 1" weight="1.43209">
     <match lemma="de" tags="pr"/>
     <match lemma="el" tags="det.def.f.pl"/>
     <match lemma="política" tags="n.f.pl"><select lemma="policy" tags="n.pl"/></match>
   </rule>
-  <rule c="911 4205: 1" weight="0.699373">
+  <rule c="913 4214: 1" weight="0.699373">
     <match lemma="de" tags="pr"/>
     <match lemma="el" tags="det.def.f.pl"/>
     <match lemma="política" tags="n.f.pl"><select lemma="policy" tags="n.sg"/></match>
   </rule>
-  <rule c="912 4210: 1" weight="1.18665">
+  <rule c="914 4219: 1" weight="1.18665">
     <match lemma="de" tags="pr"/>
     <match lemma="política" tags="n.f.pl"><select lemma="policy" tags="n.pl"/></match>
   </rule>
-  <rule c="913 4214: 1" weight="1.00899">
+  <rule c="915 4223: 1" weight="1.00899">
     <match lemma="de" tags="pr"/>
     <match lemma="política" tags="n.f.pl"><select lemma="policy" tags="n.sg"/></match>
   </rule>
-  <rule c="914 4218: 1" weight="1.43209">
+  <rule c="916 4227: 1" weight="1.43209">
     <match lemma="el" tags="det.def.f.pl"/>
     <match lemma="política" tags="n.f.pl"><select lemma="policy" tags="n.pl"/></match>
     <match lemma="de" tags="pr"/>
   </rule>
-  <rule c="915 4223: 1" weight="1.32465">
+  <rule c="917 4232: 1" weight="1.32465">
     <match lemma="política" tags="n.f.pl"><select lemma="policy" tags="n.sg"/></match>
     <match lemma="sectorial" tags="adj.mf.pl"/>
   </rule>
-  <rule c="916 4227: 1" weight="1.56579">
+  <rule c="918 4236: 1" weight="1.56579">
     <match lemma="política" tags="n.f.pl"><select lemma="policy" tags="n.pl"/></match>
     <match lemma="para" tags="pr"/>
   </rule>
-  <rule c="917 4231: 1" weight="1.56579">
+  <rule c="919 4240: 1" weight="1.56579">
     <match lemma="nuestro" tags="det.pos.f.pl"/>
     <match lemma="política" tags="n.f.pl"><select lemma="policy" tags="n.pl"/></match>
     <match lemma="para" tags="pr"/>
   </rule>
-  <rule c="918 4236: 1" weight="1.56579">
+  <rule c="920 4245: 1" weight="1.56579">
     <match lemma="política" tags="n.f.pl"><select lemma="policy" tags="n.pl"/></match>
     <match lemma="de" tags="pr"/>
     <match lemma="empleo" tags="n.m.sg"/>
   </rule>
-  <rule c="919 4241: 1" weight="1.56579">
+  <rule c="921 4250: 1" weight="1.56579">
     <match lemma="aplicar" tags="vblex.inf"/>
     <match lemma="política" tags="n.f.pl"><select lemma="policy" tags="n.pl"/></match>
   </rule>
-  <rule c="920 4245: 1" weight="1.56579">
+  <rule c="922 4254: 1" weight="1.56579">
     <match lemma="de" tags="pr"/>
     <match lemma="aplicar" tags="vblex.inf"/>
     <match lemma="política" tags="n.f.pl"><select lemma="policy" tags="n.pl"/></match>
   </rule>
-  <rule c="921 4250: 1" weight="1.56579">
+  <rule c="923 4259: 1" weight="1.56579">
     <match lemma="política" tags="n.f.pl"><select lemma="policy" tags="n.pl"/></match>
     <match lemma="adecuado" tags="adj.f.pl"/>
   </rule>
-  <rule c="922 4254: 1" weight="1.56579">
+  <rule c="924 4263: 1" weight="1.56579">
     <match lemma="el" tags="det.def.f.pl"/>
     <match lemma="política" tags="n.f.pl"><select lemma="policy" tags="n.pl"/></match>
     <match lemma="adecuado" tags="adj.f.pl"/>
   </rule>
-  <rule c="923 4259: 1" weight="1.56579">
+  <rule c="925 4268: 1" weight="1.56579">
     <match lemma="política" tags="n.f.pl"><select lemma="policy" tags="n.pl"/></match>
     <match lemma="de" tags="pr"/>
     <match lemma="*microcréditos" tags="."/>
   </rule>
-  <rule c="924 4264: 1" weight="nan">
+  <rule c="926 4273: 1" weight="nan">
     <match lemma="de" tags="pr"/>
     <match lemma="política" tags="n.f.sg"><select lemma="policy" tags="n.sg"/></match>
-  </rule>
-  <rule c="925 4268: 1" weight="nan">
-    <match lemma="política" tags="n.f.sg"><select lemma="policy" tags="n.sg"/></match>
-    <match lemma="regional" tags="adj.mf.sg"/>
-  </rule>
-  <rule c="926 4272: 1" weight="nan">
-    <match lemma="de" tags="pr"/>
-    <match lemma="política" tags="n.f.sg"><select lemma="policy" tags="n.sg"/></match>
-    <match lemma="regional" tags="adj.mf.sg"/>
   </rule>
   <rule c="927 4277: 1" weight="nan">
+    <match lemma="política" tags="n.f.sg"><select lemma="policy" tags="n.sg"/></match>
+    <match lemma="regional" tags="adj.mf.sg"/>
+  </rule>
+  <rule c="928 4281: 1" weight="nan">
+    <match lemma="de" tags="pr"/>
+    <match lemma="política" tags="n.f.sg"><select lemma="policy" tags="n.sg"/></match>
+    <match lemma="regional" tags="adj.mf.sg"/>
+  </rule>
+  <rule c="929 4286: 1" weight="nan">
     <match lemma="comisión" tags="n.f.sg"/>
     <match lemma="de" tags="pr"/>
     <match lemma="política" tags="n.f.sg"><select lemma="policy" tags="n.sg"/></match>
   </rule>
-  <rule c="928 4282: 1" weight="nan">
+  <rule c="930 4291: 1" weight="nan">
     <match lemma="política" tags="n.f.sg"><select lemma="policy" tags="n.sg"/></match>
     <match lemma="regional" tags="adj.mf.sg"/>
     <match lemma="y" tags="cnjcoo"/>
   </rule>
-  <rule c="929 4287: 1" weight="nan">
+  <rule c="931 4296: 1" weight="nan">
     <match lemma="uno" tags="det.ind.f.sg"/>
-    <match lemma="política" tags="n.f.sg"><select lemma="policy" tags="n.sg"/></match>
-  </rule>
-  <rule c="930 4291: 1" weight="nan">
-    <match lemma="el" tags="det.def.f.sg"/>
-    <match lemma="política" tags="n.f.sg"><select lemma="policy" tags="n.sg"/></match>
-  </rule>
-  <rule c="931 4295: 1" weight="nan">
-    <match lemma="de" tags="pr"/>
-    <match lemma="el" tags="det.def.f.sg"/>
     <match lemma="política" tags="n.f.sg"><select lemma="policy" tags="n.sg"/></match>
   </rule>
   <rule c="932 4300: 1" weight="nan">
     <match lemma="el" tags="det.def.f.sg"/>
-    <match lemma="política" tags="n.f.sg"><select lemma="politics" tags="n.sg"/></match>
+    <match lemma="política" tags="n.f.sg"><select lemma="policy" tags="n.sg"/></match>
   </rule>
   <rule c="933 4304: 1" weight="nan">
+    <match lemma="de" tags="pr"/>
+    <match lemma="el" tags="det.def.f.sg"/>
+    <match lemma="política" tags="n.f.sg"><select lemma="policy" tags="n.sg"/></match>
+  </rule>
+  <rule c="934 4309: 1" weight="nan">
+    <match lemma="el" tags="det.def.f.sg"/>
+    <match lemma="política" tags="n.f.sg"><select lemma="politics" tags="n.sg"/></match>
+  </rule>
+  <rule c="935 4313: 1" weight="nan">
     <match lemma="el" tags="det.def.f.sg"/>
     <match lemma="política" tags="n.f.sg"><select lemma="competition" tags="n.sg"/></match>
   </rule>
-  <rule c="934 4308: 1" weight="nan">
+  <rule c="936 4317: 1" weight="nan">
     <match lemma="de" tags="pr"/>
     <match lemma="uno" tags="det.ind.f.sg"/>
     <match lemma="política" tags="n.f.sg"><select lemma="policy" tags="n.sg"/></match>
   </rule>
-  <rule c="935 4313: 1" weight="nan">
+  <rule c="937 4322: 1" weight="nan">
     <match lemma="el" tags="det.def.f.sg"/>
     <match lemma="política" tags="n.f.sg"><select lemma="policy" tags="n.sg"/></match>
     <match lemma="regional" tags="adj.mf.sg"/>
   </rule>
-  <rule c="936 4318: 1" weight="nan">
+  <rule c="938 4327: 1" weight="nan">
     <match lemma="política" tags="n.f.sg"><select lemma="policy" tags="n.sg"/></match>
     <match lemma="regional" tags="adj.mf.sg"/>
     <match lemma="de" tags="pr"/>
   </rule>
-  <rule c="937 4323: 1" weight="nan">
+  <rule c="939 4332: 1" weight="nan">
     <match lemma="sobre" tags="pr"/>
     <match lemma="el" tags="det.def.f.sg"/>
     <match lemma="política" tags="n.f.sg"><select lemma="policy" tags="n.sg"/></match>
   </rule>
-  <rule c="938 4328: 1" weight="nan">
+  <rule c="940 4337: 1" weight="nan">
     <match lemma="sobre" tags="pr"/>
     <match lemma="el" tags="det.def.f.sg"/>
     <match lemma="política" tags="n.f.sg"><select lemma="competition" tags="n.sg"/></match>
   </rule>
-  <rule c="939 4333: 1" weight="nan">
+  <rule c="941 4342: 1" weight="nan">
     <match lemma="de" tags="pr"/>
     <match lemma="el" tags="det.def.f.sg"/>
     <match lemma="política" tags="n.f.sg"><select lemma="policy" tags="n.sg"/></match>
     <match lemma="regional" tags="adj.mf.sg"/>
     <match lemma="de" tags="pr"/>
   </rule>
-  <rule c="940 4340: 1" weight="nan">
+  <rule c="942 4349: 1" weight="nan">
     <match lemma="política" tags="n.f.sg"><select lemma="policy" tags="n.sg"/></match>
     <match lemma="estructural" tags="adj.mf.sg"/>
   </rule>
-  <rule c="941 4344: 1" weight="nan">
+  <rule c="943 4353: 1" weight="nan">
     <match lemma="el" tags="det.def.f.sg"/>
     <match lemma="política" tags="n.f.sg"><select lemma="policy" tags="n.sg"/></match>
     <match lemma="estructural" tags="adj.mf.sg"/>
   </rule>
-  <rule c="942 4349: 1" weight="nan">
+  <rule c="944 4358: 1" weight="nan">
     <match lemma="por" tags="pr"/>
     <match lemma="el" tags="det.def.f.sg"/>
     <match lemma="política" tags="n.f.sg"><select lemma="policy" tags="n.sg"/></match>
   </rule>
-  <rule c="943 4354: 1" weight="nan">
+  <rule c="945 4363: 1" weight="nan">
     <match lemma="política" tags="n.f.sg"><select lemma="policy" tags="n.sg"/></match>
     <match lemma="regional" tags="adj.mf.sg"/>
     <match lemma="que" tags="rel.an.mf.sp"/>
-  </rule>
-  <rule c="944 4359: 1" weight="nan">
-    <match lemma="política" tags="n.f.sg"><select lemma="policy" tags="n.sg"/></match>
-    <match lemma="económico" tags="adj.f.sg"/>
-  </rule>
-  <rule c="945 4363: 1" weight="nan">
-    <match lemma="el" tags="det.def.f.sg"/>
-    <match lemma="política" tags="n.f.sg"><select lemma="policy" tags="n.sg"/></match>
-    <match lemma="económico" tags="adj.f.sg"/>
   </rule>
   <rule c="946 4368: 1" weight="nan">
     <match lemma="política" tags="n.f.sg"><select lemma="policy" tags="n.sg"/></match>
     <match lemma="económico" tags="adj.f.sg"/>
-    <match lemma="y" tags="cnjcoo"/>
   </rule>
-  <rule c="947 4373: 1" weight="nan">
-    <match lemma="este" tags="det.dem.f.sg"/>
+  <rule c="947 4372: 1" weight="nan">
+    <match lemma="el" tags="det.def.f.sg"/>
     <match lemma="política" tags="n.f.sg"><select lemma="policy" tags="n.sg"/></match>
+    <match lemma="económico" tags="adj.f.sg"/>
   </rule>
   <rule c="948 4377: 1" weight="nan">
     <match lemma="política" tags="n.f.sg"><select lemma="policy" tags="n.sg"/></match>
+    <match lemma="económico" tags="adj.f.sg"/>
+    <match lemma="y" tags="cnjcoo"/>
+  </rule>
+  <rule c="949 4382: 1" weight="nan">
+    <match lemma="este" tags="det.dem.f.sg"/>
+    <match lemma="política" tags="n.f.sg"><select lemma="policy" tags="n.sg"/></match>
+  </rule>
+  <rule c="950 4386: 1" weight="nan">
+    <match lemma="política" tags="n.f.sg"><select lemma="policy" tags="n.sg"/></match>
     <match lemma="medioambiental" tags="adj.mf.sg"/>
   </rule>
-  <rule c="949 4381: 1" weight="nan">
+  <rule c="951 4390: 1" weight="nan">
     <match lemma="el" tags="det.def.f.sg"/>
     <match lemma="política" tags="n.f.sg"><select lemma="policy" tags="n.sg"/></match>
     <match lemma="medioambiental" tags="adj.mf.sg"/>
   </rule>
-  <rule c="950 4386: 1" weight="nan">
+  <rule c="952 4395: 1" weight="nan">
     <match lemma="y" tags="cnjcoo"/>
     <match lemma="el" tags="det.def.f.sg"/>
     <match lemma="política" tags="n.f.sg"><select lemma="policy" tags="n.sg"/></match>
-  </rule>
-  <rule c="951 4391: 1" weight="nan">
-    <match lemma="política" tags="n.f.sg"><select lemma="policy" tags="n.sg"/></match>
-    <match lemma="de" tags="pr"/>
-  </rule>
-  <rule c="952 4395: 1" weight="nan">
-    <match lemma="el" tags="det.def.f.sg"/>
-    <match lemma="política" tags="n.f.sg"><select lemma="policy" tags="n.sg"/></match>
-    <match lemma="de" tags="pr"/>
   </rule>
   <rule c="953 4400: 1" weight="nan">
     <match lemma="política" tags="n.f.sg"><select lemma="policy" tags="n.sg"/></match>
     <match lemma="de" tags="pr"/>
-    <match lemma="cohesión" tags="n.f.sg"/>
   </rule>
-  <rule c="954 4405: 1" weight="nan">
-    <match lemma="política" tags="n.f.sg"><select lemma="politics" tags="n.sg"/></match>
+  <rule c="954 4404: 1" weight="nan">
+    <match lemma="el" tags="det.def.f.sg"/>
+    <match lemma="política" tags="n.f.sg"><select lemma="policy" tags="n.sg"/></match>
     <match lemma="de" tags="pr"/>
   </rule>
   <rule c="955 4409: 1" weight="nan">
-    <match lemma="el" tags="det.def.f.sg"/>
-    <match lemma="política" tags="n.f.sg"><select lemma="politics" tags="n.sg"/></match>
+    <match lemma="política" tags="n.f.sg"><select lemma="policy" tags="n.sg"/></match>
     <match lemma="de" tags="pr"/>
+    <match lemma="cohesión" tags="n.f.sg"/>
   </rule>
   <rule c="956 4414: 1" weight="nan">
-    <match lemma="política" tags="n.f.sg"><select lemma="competition" tags="n.sg"/></match>
+    <match lemma="política" tags="n.f.sg"><select lemma="politics" tags="n.sg"/></match>
     <match lemma="de" tags="pr"/>
   </rule>
   <rule c="957 4418: 1" weight="nan">
     <match lemma="el" tags="det.def.f.sg"/>
-    <match lemma="política" tags="n.f.sg"><select lemma="competition" tags="n.sg"/></match>
+    <match lemma="política" tags="n.f.sg"><select lemma="politics" tags="n.sg"/></match>
     <match lemma="de" tags="pr"/>
   </rule>
   <rule c="958 4423: 1" weight="nan">
+    <match lemma="política" tags="n.f.sg"><select lemma="competition" tags="n.sg"/></match>
+    <match lemma="de" tags="pr"/>
+  </rule>
+  <rule c="959 4427: 1" weight="nan">
+    <match lemma="el" tags="det.def.f.sg"/>
+    <match lemma="política" tags="n.f.sg"><select lemma="competition" tags="n.sg"/></match>
+    <match lemma="de" tags="pr"/>
+  </rule>
+  <rule c="960 4432: 1" weight="nan">
     <match lemma="política" tags="n.f.sg"><select lemma="policy" tags="n.sg"/></match>
     <match lemma="estructural" tags="adj.mf.sg"/>
     <match lemma="de" tags="pr"/>
   </rule>
-  <rule c="959 4428: 1" weight="nan">
+  <rule c="961 4437: 1" weight="nan">
     <match lemma="este" tags="det.dem.f.sg"/>
     <match lemma="política" tags="n.f.sg"><select lemma="policy" tags="n.sg"/></match>
     <match lemma="regional" tags="adj.mf.sg"/>
   </rule>
-  <rule c="960 4433: 1" weight="nan">
+  <rule c="962 4442: 1" weight="nan">
     <match lemma="de" tags="pr"/>
     <match lemma="este" tags="det.dem.f.sg"/>
     <match lemma="política" tags="n.f.sg"><select lemma="policy" tags="n.sg"/></match>
   </rule>
-  <rule c="961 4438: 1" weight="nan">
+  <rule c="963 4447: 1" weight="nan">
     <match lemma="uno" tags="det.ind.f.sg"/>
     <match lemma="política" tags="n.f.sg"><select lemma="policy" tags="n.sg"/></match>
     <match lemma="de" tags="pr"/>
   </rule>
-  <rule c="962 4443: 1" weight="nan">
+  <rule c="964 4452: 1" weight="nan">
     <match lemma="política" tags="n.f.sg"><select lemma="policy" tags="n.sg"/></match>
     <match lemma="europeo" tags="adj.f.sg"/>
   </rule>
-  <rule c="963 4447: 1" weight="nan">
+  <rule c="965 4456: 1" weight="nan">
     <match lemma="política" tags="n.f.sg"><select lemma="policy" tags="n.sg"/></match>
     <match lemma="europeo" tags="adj.f.sg"/>
     <match lemma="de" tags="pr"/>
   </rule>
-  <rule c="964 4452: 1" weight="nan">
+  <rule c="966 4461: 1" weight="nan">
     <match lemma="para" tags="pr"/>
     <match lemma="el" tags="det.def.f.sg"/>
     <match lemma="política" tags="n.f.sg"><select lemma="policy" tags="n.sg"/></match>
   </rule>
-  <rule c="965 4457: 1" weight="nan">
+  <rule c="967 4466: 1" weight="nan">
     <match lemma="para" tags="pr"/>
     <match lemma="el" tags="det.def.f.sg"/>
     <match lemma="política" tags="n.f.sg"><select lemma="policy" tags="n.sg"/></match>
     <match lemma="de" tags="pr"/>
     <match lemma="cohesión" tags="n.f.sg"/>
   </rule>
-  <rule c="966 4464: 1" weight="nan">
+  <rule c="968 4473: 1" weight="nan">
     <match lemma="política" tags="n.f.sg"><select lemma="policy" tags="n.sg"/></match>
     <match lemma="de" tags="pr"/>
     <match lemma="el" tags="det.def.f.sg"/>
   </rule>
-  <rule c="967 4469: 1" weight="nan">
-    <match lemma="el" tags="det.def.f.sg"/>
-    <match lemma="política" tags="n.f.sg"><select lemma="policy" tags="n.sg"/></match>
-    <match lemma="europeo" tags="adj.f.sg"/>
-  </rule>
-  <rule c="968 4474: 1" weight="nan">
-    <match lemma="de" tags="pr"/>
+  <rule c="969 4478: 1" weight="nan">
     <match lemma="el" tags="det.def.f.sg"/>
     <match lemma="política" tags="n.f.sg"><select lemma="policy" tags="n.sg"/></match>
     <match lemma="europeo" tags="adj.f.sg"/>
+  </rule>
+  <rule c="970 4483: 1" weight="nan">
+    <match lemma="de" tags="pr"/>
+    <match lemma="el" tags="det.def.f.sg"/>
+    <match lemma="política" tags="n.f.sg"><select lemma="policy" tags="n.sg"/></match>
+    <match lemma="europeo" tags="adj.f.sg"/>
     <match lemma="de" tags="pr"/>
   </rule>
-  <rule c="969 4481: 1" weight="nan">
+  <rule c="971 4490: 1" weight="nan">
     <match lemma="política" tags="n.f.sg"><select lemma="policy" tags="n.sg"/></match>
     <match lemma="de" tags="pr"/>
     <match lemma="competencia" tags="n.f.sg"/>
   </rule>
-  <rule c="970 4486: 1" weight="nan">
+  <rule c="972 4495: 1" weight="nan">
     <match lemma="sobre" tags="pr"/>
     <match lemma="el" tags="det.def.f.sg"/>
     <match lemma="política" tags="n.f.sg"><select lemma="policy" tags="n.sg"/></match>
     <match lemma="de" tags="pr"/>
     <match lemma="competencia" tags="n.f.sg"/>
   </rule>
-  <rule c="971 4493: 1" weight="nan">
+  <rule c="973 4502: 1" weight="nan">
     <match lemma="política" tags="n.f.sg"><select lemma="competition" tags="n.sg"/></match>
     <match lemma="de" tags="pr"/>
     <match lemma="competencia" tags="n.f.sg"/>
   </rule>
-  <rule c="972 4498: 1" weight="nan">
+  <rule c="974 4507: 1" weight="nan">
     <match lemma="sobre" tags="pr"/>
     <match lemma="el" tags="det.def.f.sg"/>
     <match lemma="política" tags="n.f.sg"><select lemma="competition" tags="n.sg"/></match>
     <match lemma="de" tags="pr"/>
     <match lemma="competencia" tags="n.f.sg"/>
   </rule>
-  <rule c="973 4505: 1" weight="nan">
+  <rule c="975 4514: 1" weight="nan">
     <match lemma="de" tags="pr"/>
     <match lemma="el" tags="det.def.f.sg"/>
     <match lemma="política" tags="n.f.sg"><select lemma="policy" tags="n.sg"/></match>
     <match lemma="de" tags="pr"/>
     <match lemma="competencia" tags="n.f.sg"/>
   </rule>
-  <rule c="974 4512: 1" weight="nan">
+  <rule c="976 4521: 1" weight="nan">
     <match lemma="de" tags="pr"/>
     <match lemma="política" tags="n.f.sg"><select lemma="policy" tags="n.sg"/></match>
     <match lemma="de" tags="pr"/>
   </rule>
-  <rule c="975 4517: 1" weight="nan">
+  <rule c="977 4526: 1" weight="nan">
     <match lemma="materia" tags="n.f.sg"/>
     <match lemma="de" tags="pr"/>
     <match lemma="política" tags="n.f.sg"><select lemma="policy" tags="n.sg"/></match>
   </rule>
-  <rule c="976 4522: 1" weight="nan">
+  <rule c="978 4531: 1" weight="nan">
     <match lemma="a" tags="pr"/>
     <match lemma="el" tags="det.def.f.sg"/>
     <match lemma="política" tags="n.f.sg"><select lemma="policy" tags="n.sg"/></match>
   </rule>
-  <rule c="977 4527: 1" weight="nan">
+  <rule c="979 4536: 1" weight="nan">
     <match lemma="a" tags="pr"/>
     <match lemma="el" tags="det.def.f.sg"/>
     <match lemma="política" tags="n.f.sg"><select lemma="policy" tags="n.sg"/></match>
     <match lemma="de" tags="pr"/>
     <match lemma="competencia" tags="n.f.sg"/>
   </rule>
-  <rule c="978 4534: 1" weight="nan">
+  <rule c="980 4543: 1" weight="nan">
     <match lemma="de" tags="pr"/>
     <match lemma="el" tags="det.def.f.sg"/>
     <match lemma="política" tags="n.f.sg"><select lemma="policy" tags="n.sg"/></match>
     <match lemma="de" tags="pr"/>
     <match lemma="el" tags="det.def.f.sg"/>
   </rule>
-  <rule c="979 4541: 1" weight="nan">
+  <rule c="981 4550: 1" weight="nan">
     <match lemma="en" tags="pr"/>
     <match lemma="el" tags="det.def.f.sg"/>
     <match lemma="política" tags="n.f.sg"><select lemma="policy" tags="n.sg"/></match>
   </rule>
-  <rule c="980 4546: 1" weight="nan">
+  <rule c="982 4555: 1" weight="nan">
     <match lemma="en" tags="pr"/>
     <match lemma="el" tags="det.def.f.sg"/>
     <match lemma="política" tags="n.f.sg"><select lemma="politics" tags="n.sg"/></match>
   </rule>
-  <rule c="981 4551: 1" weight="nan">
+  <rule c="983 4560: 1" weight="nan">
     <match lemma="materia" tags="n.f.sg"/>
     <match lemma="de" tags="pr"/>
     <match lemma="política" tags="n.f.sg"><select lemma="policy" tags="n.sg"/></match>
     <match lemma="de" tags="pr"/>
     <match lemma="competencia" tags="n.f.sg"/>
   </rule>
-  <rule c="982 4558: 1" weight="nan">
+  <rule c="984 4567: 1" weight="nan">
     <match lemma="que" tags="cnjsub"/>
     <match lemma="uno" tags="det.ind.f.sg"/>
     <match lemma="política" tags="n.f.sg"><select lemma="policy" tags="n.sg"/></match>
   </rule>
-  <rule c="983 4563: 1" weight="nan">
+  <rule c="985 4572: 1" weight="nan">
     <match lemma="política" tags="n.f.sg"><select lemma="policy" tags="n.sg"/></match>
     <match lemma="económico" tags="adj.f.sg"/>
     <match lemma="orientar" tags="vblex.pp.f.sg"/>
   </rule>
-  <rule c="984 4568: 1" weight="nan">
+  <rule c="986 4577: 1" weight="nan">
     <match lemma="con" tags="pr"/>
     <match lemma="el" tags="det.def.f.sg"/>
     <match lemma="política" tags="n.f.sg"><select lemma="policy" tags="n.sg"/></match>
   </rule>
-  <rule c="985 4573: 1" weight="nan">
+  <rule c="987 4582: 1" weight="nan">
     <match lemma="de" tags="pr"/>
     <match lemma="el" tags="det.def.f.sg"/>
     <match lemma="política" tags="n.f.sg"><select lemma="policy" tags="n.sg"/></match>
     <match lemma="económico" tags="adj.f.sg"/>
     <match lemma="y" tags="cnjcoo"/>
   </rule>
-  <rule c="986 4580: 1" weight="nan">
+  <rule c="988 4589: 1" weight="nan">
     <match lemma="política" tags="n.f.sg"><select lemma="policy" tags="n.sg"/></match>
     <match lemma="actual" tags="adj.mf.sg"/>
   </rule>
-  <rule c="987 4584: 1" weight="nan">
+  <rule c="989 4593: 1" weight="nan">
     <match lemma="el" tags="det.def.f.sg"/>
     <match lemma="política" tags="n.f.sg"><select lemma="policy" tags="n.sg"/></match>
     <match lemma="actual" tags="adj.mf.sg"/>
   </rule>
-  <rule c="988 4589: 1" weight="nan">
+  <rule c="990 4598: 1" weight="nan">
     <match lemma="de" tags="pr"/>
     <match lemma="el" tags="det.def.f.sg"/>
     <match lemma="política" tags="n.f.sg"><select lemma="policy" tags="n.sg"/></match>
     <match lemma="de" tags="pr"/>
     <match lemma="cohesión" tags="n.f.sg"/>
   </rule>
-  <rule c="989 4596: 1" weight="nan">
+  <rule c="991 4605: 1" weight="nan">
     <match lemma="que" tags="cnjsub"/>
     <match lemma="el" tags="det.def.f.sg"/>
     <match lemma="política" tags="n.f.sg"><select lemma="policy" tags="n.sg"/></match>
   </rule>
-  <rule c="990 4601: 1" weight="nan">
+  <rule c="992 4610: 1" weight="nan">
     <match lemma="este" tags="det.dem.f.sg"/>
     <match lemma="política" tags="n.f.sg"><select lemma="policy" tags="n.sg"/></match>
     <match lemma="de" tags="pr"/>
   </rule>
-  <rule c="991 4606: 1" weight="nan">
+  <rule c="993 4615: 1" weight="nan">
     <match lemma="política" tags="n.f.sg"><select lemma="policy" tags="n.sg"/></match>
     <match lemma="y" tags="cnjcoo"/>
   </rule>
-  <rule c="992 4610: 1" weight="nan">
+  <rule c="994 4619: 1" weight="nan">
     <match lemma="política" tags="n.f.sg"><select lemma="policy" tags="n.sg"/></match>
     <match lemma="exterior" tags="adj.mf.sg"/>
   </rule>
-  <rule c="993 4614: 1" weight="nan">
+  <rule c="995 4623: 1" weight="nan">
     <match lemma="el" tags="det.def.f.sg"/>
     <match lemma="política" tags="n.f.sg"><select lemma="policy" tags="n.sg"/></match>
     <match lemma="exterior" tags="adj.mf.sg"/>
   </rule>
-  <rule c="994 4619: 1" weight="nan">
+  <rule c="996 4628: 1" weight="nan">
     <match lemma="política" tags="n.f.sg"><select lemma="policy" tags="n.sg"/></match>
     <match lemma="de" tags="pr"/>
     <match lemma="ayuda" tags="n.f.sg"/>
   </rule>
-  <rule c="995 4624: 1" weight="nan">
+  <rule c="997 4633: 1" weight="nan">
     <match lemma="política" tags="n.f.sg"><select lemma="policy" tags="n.sg"/></match>
     <match lemma="de" tags="pr"/>
     <match lemma="personal" tags="n.m.sg"/>
   </rule>
-  <rule c="996 4629: 1" weight="nan">
+  <rule c="998 4638: 1" weight="nan">
     <match lemma="política" tags="n.f.sg"><select lemma="policy" tags="n.sg"/></match>
     <match lemma="de" tags="pr"/>
     <match lemma="recurso" tags="n.m.pl"/>
   </rule>
-  <rule c="997 4634: 1" weight="nan">
+  <rule c="999 4643: 1" weight="nan">
     <match lemma="sobre" tags="pr"/>
     <match lemma="política" tags="n.f.sg"><select lemma="policy" tags="n.sg"/></match>
   </rule>
-  <rule c="998 4638: 1" weight="nan">
+  <rule c="1000 4647: 1" weight="nan">
     <match lemma="política" tags="n.f.sg"><select lemma="policy" tags="n.sg"/></match>
     <match lemma="de" tags="pr"/>
     <match lemma="inmigración" tags="n.f.sg"/>
   </rule>
-  <rule c="999 4643: 1" weight="1.81353">
+  <rule c="1001 4652: 1" weight="1.81353">
     <match lemma="el" tags="det.def.m.pl"/>
     <match lemma="precio" tags="n.m.pl"><select lemma="price" tags="n.pl"/></match>
   </rule>
-  <rule c="1000 4647: 1" weight="2.02759">
+  <rule c="1002 4656: 1" weight="2.02759">
     <match lemma="precio" tags="n.m.pl"><select lemma="price" tags="n.pl"/></match>
     <match lemma="y" tags="cnjcoo"/>
   </rule>
-  <rule c="1001 4651: 1" weight="2.02759">
+  <rule c="1003 4660: 1" weight="2.02759">
     <match lemma="el" tags="det.def.m.pl"/>
     <match lemma="precio" tags="n.m.pl"><select lemma="price" tags="n.pl"/></match>
     <match lemma="y" tags="cnjcoo"/>
   </rule>
-  <rule c="1002 4656: 1" weight="1.75594">
+  <rule c="1004 4665: 1" weight="1.75594">
     <match lemma="de" tags="pr"/>
     <match lemma="el" tags="det.def.m.pl"/>
     <match lemma="precio" tags="n.m.pl"><select lemma="price" tags="n.pl"/></match>
   </rule>
-  <rule c="1003 4661: 1" weight="2.31281">
+  <rule c="1005 4670: 1" weight="2.31281">
     <match lemma="el" tags="det.def.m.sg"/>
     <match lemma="presidente" tags="n.m.sg"><select lemma="president" tags="n.sg"/></match>
   </rule>
-  <rule c="1004 4665: 1" weight="2.18791">
+  <rule c="1006 4674: 1" weight="2.18791">
     <match lemma="presidente" tags="n.m.sg"><select lemma="president" tags="n.sg"/></match>
     <match lemma="de" tags="pr"/>
   </rule>
-  <rule c="1005 4669: 1" weight="2.25736">
+  <rule c="1007 4678: 1" weight="2.25736">
     <match lemma="el" tags="det.def.m.sg"/>
     <match lemma="presidente" tags="n.m.sg"><select lemma="president" tags="n.sg"/></match>
     <match lemma="de" tags="pr"/>
   </rule>
-  <rule c="1006 4674: 1" weight="2.06681">
+  <rule c="1008 4683: 1" weight="2.06681">
     <match lemma="a" tags="pr"/>
     <match lemma="el" tags="det.def.m.sg"/>
     <match lemma="presidente" tags="n.m.sg"><select lemma="president" tags="n.sg"/></match>
   </rule>
-  <rule c="1007 4679: 1" weight="0.740856">
+  <rule c="1009 4688: 1" weight="0.740856">
     <match lemma="el" tags="det.def.m.sg"/>
     <match lemma="presidente" tags="n.m.sg"><select lemma="chairman" tags="n.sg"/></match>
   </rule>
-  <rule c="1008 4683: 1" weight="1.18579">
+  <rule c="1010 4692: 1" weight="1.18579">
     <match lemma="presidente" tags="n.m.sg"><select lemma="chairman" tags="n.sg"/></match>
     <match lemma="de" tags="pr"/>
   </rule>
-  <rule c="1009 4687: 1" weight="1.01803">
+  <rule c="1011 4696: 1" weight="1.01803">
     <match lemma="el" tags="det.def.m.sg"/>
     <match lemma="presidente" tags="n.m.sg"><select lemma="chairman" tags="n.sg"/></match>
     <match lemma="de" tags="pr"/>
   </rule>
-  <rule c="1010 4692: 1" weight="1.38359">
+  <rule c="1012 4701: 1" weight="1.38359">
     <match lemma="a" tags="pr"/>
     <match lemma="el" tags="det.def.m.sg"/>
     <match lemma="presidente" tags="n.m.sg"><select lemma="chairman" tags="n.sg"/></match>
-  </rule>
-  <rule c="1011 4697: 1" weight="2.3842">
-    <match lemma="presidente" tags="n.m.sg"><select lemma="president" tags="n.sg"/></match>
-    <match lemma="y" tags="cnjcoo"/>
-  </rule>
-  <rule c="1012 4701: 1" weight="2.3842">
-    <match lemma="el" tags="det.def.m.sg"/>
-    <match lemma="presidente" tags="n.m.sg"><select lemma="president" tags="n.sg"/></match>
-    <match lemma="y" tags="cnjcoo"/>
   </rule>
   <rule c="1013 4706: 1" weight="2.3842">
     <match lemma="presidente" tags="n.m.sg"><select lemma="president" tags="n.sg"/></match>
-    <match lemma="*prodi" tags="."/>
+    <match lemma="y" tags="cnjcoo"/>
   </rule>
   <rule c="1014 4710: 1" weight="2.3842">
     <match lemma="el" tags="det.def.m.sg"/>
     <match lemma="presidente" tags="n.m.sg"><select lemma="president" tags="n.sg"/></match>
+    <match lemma="y" tags="cnjcoo"/>
+  </rule>
+  <rule c="1015 4715: 1" weight="2.3842">
+    <match lemma="presidente" tags="n.m.sg"><select lemma="president" tags="n.sg"/></match>
     <match lemma="*prodi" tags="."/>
   </rule>
-  <rule c="1015 4715: 1" weight="2.38183">
+  <rule c="1016 4719: 1" weight="2.3842">
+    <match lemma="el" tags="det.def.m.sg"/>
+    <match lemma="presidente" tags="n.m.sg"><select lemma="president" tags="n.sg"/></match>
+    <match lemma="*prodi" tags="."/>
+  </rule>
+  <rule c="1017 4724: 1" weight="2.38183">
     <match lemma="de" tags="pr"/>
     <match lemma="el" tags="det.def.m.sg"/>
     <match lemma="presidente" tags="n.m.sg"><select lemma="president" tags="n.sg"/></match>
   </rule>
-  <rule c="1016 4720: 1" weight="2.14957">
+  <rule c="1018 4729: 1" weight="2.14957">
     <match lemma="suyo" tags="det.pos.mf.sg"/>
     <match lemma="presidente" tags="n.m.sg"><select lemma="president" tags="n.sg"/></match>
   </rule>
-  <rule c="1017 4724: 1" weight="2.03501">
+  <rule c="1019 4733: 1" weight="2.03501">
     <match lemma="presidente" tags="n.m.sg"><select lemma="president" tags="n.sg"/></match>
     <match lemma="de" tags="pr"/>
     <match lemma="el" tags="det.def.f.sg"/>
   </rule>
-  <rule c="1018 4729: 1" weight="1.42431">
+  <rule c="1020 4738: 1" weight="1.42431">
     <match lemma="presidente" tags="n.m.sg"><select lemma="chairman" tags="n.sg"/></match>
     <match lemma="de" tags="pr"/>
     <match lemma="el" tags="det.def.f.sg"/>
   </rule>
-  <rule c="1019 4734: 1" weight="1.74322">
+  <rule c="1021 4743: 1" weight="1.74322">
     <match lemma="a" tags="pr"/>
     <match lemma="el" tags="det.def.m.sg"/>
     <match lemma="presidente" tags="n.m.sg"><select lemma="chairman" tags="n.sg"/></match>
     <match lemma="de" tags="pr"/>
     <match lemma="el" tags="det.def.f.sg"/>
   </rule>
-  <rule c="1020 4741: 1" weight="2.3842">
+  <rule c="1022 4750: 1" weight="2.3842">
     <match lemma="presidente" tags="n.m.sg"><select lemma="president" tags="n.sg"/></match>
     <match lemma="*prodi" tags="."/>
     <match lemma="se" tags="prn.pro.ref.p3.mf.sp"/>
   </rule>
-  <rule c="1021 4746: 1" weight="2.36244">
+  <rule c="1023 4755: 1" weight="2.36244">
     <match lemma="señor" tags="n.m.sg"/>
     <match lemma="presidente" tags="n.m.sg"><select lemma="president" tags="n.sg"/></match>
   </rule>
-  <rule c="1022 4750: 1" weight="2.36591">
+  <rule c="1024 4759: 1" weight="2.36591">
     <match lemma=")" tags="rpar"/>
     <match lemma="señor" tags="n.m.sg"/>
     <match lemma="presidente" tags="n.m.sg"><select lemma="president" tags="n.sg"/></match>
   </rule>
-  <rule c="1023 4755: 1" weight="2.37444">
+  <rule c="1025 4764: 1" weight="2.37444">
     <match lemma="por" tags="pr"/>
     <match lemma="el" tags="det.def.m.sg"/>
     <match lemma="presidente" tags="n.m.sg"><select lemma="president" tags="n.sg"/></match>
   </rule>
-  <rule c="1024 4760: 1" weight="2.36591">
+  <rule c="1026 4769: 1" weight="2.36591">
     <match lemma="por" tags="pr"/>
     <match lemma="el" tags="det.def.m.sg"/>
     <match lemma="presidente" tags="n.m.sg"><select lemma="president" tags="n.sg"/></match>
     <match lemma="de" tags="pr"/>
     <match lemma="el" tags="det.def.f.sg"/>
   </rule>
-  <rule c="1025 4767: 1" weight="2.36965">
+  <rule c="1027 4776: 1" weight="2.36965">
     <match lemma="presidente" tags="n.m.sg"><select lemma="president" tags="n.sg"/></match>
     <match lemma="de" tags="pr"/>
     <match lemma="el" tags="det.def.m.sg"/>
   </rule>
-  <rule c="1026 4772: 1" weight="2.3719">
+  <rule c="1028 4781: 1" weight="2.3719">
     <match lemma="con" tags="pr"/>
     <match lemma="el" tags="det.def.m.sg"/>
     <match lemma="presidente" tags="n.m.sg"><select lemma="president" tags="n.sg"/></match>
   </rule>
-  <rule c="1027 4777: 1" weight="2.36591">
+  <rule c="1029 4786: 1" weight="2.36591">
     <match lemma="con" tags="pr"/>
     <match lemma="el" tags="det.def.m.sg"/>
     <match lemma="presidente" tags="n.m.sg"><select lemma="president" tags="n.sg"/></match>
     <match lemma="de" tags="pr"/>
     <match lemma="el" tags="det.def.f.sg"/>
   </rule>
-  <rule c="1028 4784: 1" weight="2.3842">
+  <rule c="1030 4793: 1" weight="2.3842">
     <match lemma="(" tags="lpar"/>
     <match lemma="el" tags="det.def.m.sg"/>
     <match lemma="presidente" tags="n.m.sg"><select lemma="president" tags="n.sg"/></match>
-  </rule>
-  <rule c="1029 4789: 1" weight="2.3842">
-    <match lemma="presidente" tags="n.m.sg"><select lemma="president" tags="n.sg"/></match>
-    <match lemma="interrumpir" tags="vblex.pri.p3.sg"/>
-  </rule>
-  <rule c="1030 4793: 1" weight="2.3842">
-    <match lemma="el" tags="det.def.m.sg"/>
-    <match lemma="presidente" tags="n.m.sg"><select lemma="president" tags="n.sg"/></match>
-    <match lemma="interrumpir" tags="vblex.pri.p3.sg"/>
   </rule>
   <rule c="1031 4798: 1" weight="2.3842">
     <match lemma="presidente" tags="n.m.sg"><select lemma="president" tags="n.sg"/></match>
     <match lemma="interrumpir" tags="vblex.pri.p3.sg"/>
+  </rule>
+  <rule c="1032 4802: 1" weight="2.3842">
+    <match lemma="el" tags="det.def.m.sg"/>
+    <match lemma="presidente" tags="n.m.sg"><select lemma="president" tags="n.sg"/></match>
+    <match lemma="interrumpir" tags="vblex.pri.p3.sg"/>
+  </rule>
+  <rule c="1033 4807: 1" weight="2.3842">
+    <match lemma="presidente" tags="n.m.sg"><select lemma="president" tags="n.sg"/></match>
+    <match lemma="interrumpir" tags="vblex.pri.p3.sg"/>
     <match lemma="a" tags="pr"/>
   </rule>
-  <rule c="1032 4803: 1" weight="2.3842">
+  <rule c="1034 4812: 1" weight="2.3842">
     <match lemma="(" tags="lpar"/>
     <match lemma="el" tags="det.def.m.sg"/>
     <match lemma="presidente" tags="n.m.sg"><select lemma="president" tags="n.sg"/></match>
     <match lemma="interrumpir" tags="vblex.pri.p3.sg"/>
     <match lemma="a" tags="pr"/>
   </rule>
-  <rule c="1033 4810: 1" weight="2.3842">
+  <rule c="1035 4819: 1" weight="2.3842">
     <match lemma="presidente" tags="n.m.sg"><select lemma="president" tags="n.sg"/></match>
     <match lemma="arafat" tags="np.cog.mf.sg"/>
   </rule>
-  <rule c="1034 4814: 1" weight="2.3842">
+  <rule c="1036 4823: 1" weight="2.3842">
     <match lemma="el" tags="det.def.m.sg"/>
     <match lemma="presidente" tags="n.m.sg"><select lemma="president" tags="n.sg"/></match>
     <match lemma="arafat" tags="np.cog.mf.sg"/>
   </rule>
-  <rule c="1035 4819: 1" weight="2.36591">
+  <rule c="1037 4828: 1" weight="2.36591">
     <match lemma="señor" tags="n.m.sg"/>
     <match lemma="presidente" tags="n.m.sg"><select lemma="president" tags="n.sg"/></match>
     <match lemma="de" tags="pr"/>
   </rule>
-  <rule c="1036 4824: 1" weight="2.19964">
+  <rule c="1038 4833: 1" weight="2.19964">
     <match lemma="presidente" tags="n.m.sg"><select lemma="president" tags="n.sg"/></match>
     <match lemma="en" tags="pr"/>
   </rule>
-  <rule c="1037 4828: 1" weight="2.19964">
+  <rule c="1039 4837: 1" weight="2.19964">
     <match lemma="presidente" tags="n.m.sg"><select lemma="president" tags="n.sg"/></match>
     <match lemma="en" tags="pr"/>
     <match lemma="ejercicio" tags="n.m.sg"/>
   </rule>
-  <rule c="1038 4833: 1" weight="2.17235">
+  <rule c="1040 4842: 1" weight="2.17235">
     <match lemma="el" tags="det.def.m.sg"/>
     <match lemma="presupuesto" tags="n.m.sg"><select lemma="budget" tags="n.sg"/></match>
-  </rule>
-  <rule c="1039 4837: 1" weight="2.23923">
-    <match lemma="presupuesto" tags="n.m.sg"><select lemma="budget" tags="n.sg"/></match>
-    <match lemma="de" tags="pr"/>
-  </rule>
-  <rule c="1040 4841: 1" weight="2.23923">
-    <match lemma="el" tags="det.def.m.sg"/>
-    <match lemma="presupuesto" tags="n.m.sg"><select lemma="budget" tags="n.sg"/></match>
-    <match lemma="de" tags="pr"/>
   </rule>
   <rule c="1041 4846: 1" weight="2.23923">
+    <match lemma="presupuesto" tags="n.m.sg"><select lemma="budget" tags="n.sg"/></match>
+    <match lemma="de" tags="pr"/>
+  </rule>
+  <rule c="1042 4850: 1" weight="2.23923">
+    <match lemma="el" tags="det.def.m.sg"/>
+    <match lemma="presupuesto" tags="n.m.sg"><select lemma="budget" tags="n.sg"/></match>
+    <match lemma="de" tags="pr"/>
+  </rule>
+  <rule c="1043 4855: 1" weight="2.23923">
     <match lemma="de" tags="pr"/>
     <match lemma="el" tags="det.def.m.sg"/>
     <match lemma="presupuesto" tags="n.m.sg"><select lemma="budget" tags="n.sg"/></match>
   </rule>
-  <rule c="1042 4851: 1" weight="2.23923">
+  <rule c="1044 4860: 1" weight="2.23923">
     <match lemma="presupuesto" tags="n.m.sg"><select lemma="budget" tags="n.sg"/></match>
     <match lemma="de" tags="pr"/>
     <match lemma="el" tags="det.def.f.sg"/>
   </rule>
-  <rule c="1043 4856: 1" weight="2.23923">
+  <rule c="1045 4865: 1" weight="2.23923">
     <match lemma="de" tags="pr"/>
     <match lemma="el" tags="det.def.m.sg"/>
     <match lemma="presupuesto" tags="n.m.sg"><select lemma="budget" tags="n.sg"/></match>
     <match lemma="de" tags="pr"/>
     <match lemma="el" tags="det.def.f.sg"/>
   </rule>
-  <rule c="1044 4863: 1" weight="2.23923">
+  <rule c="1046 4872: 1" weight="2.23923">
     <match lemma="contra" tags="pr"/>
     <match lemma="el" tags="det.def.m.sg"/>
     <match lemma="presupuesto" tags="n.m.sg"><select lemma="budget" tags="n.sg"/></match>
   </rule>
-  <rule c="1045 4868: 1" weight="2.23923">
+  <rule c="1047 4877: 1" weight="2.23923">
     <match lemma="contra" tags="pr"/>
     <match lemma="el" tags="det.def.m.sg"/>
     <match lemma="presupuesto" tags="n.m.sg"><select lemma="budget" tags="n.sg"/></match>
     <match lemma="de" tags="pr"/>
     <match lemma="el" tags="det.def.f.sg"/>
   </rule>
-  <rule c="1046 4875: 1" weight="2.23923">
+  <rule c="1048 4884: 1" weight="2.23923">
     <match lemma="presupuesto" tags="n.m.sg"><select lemma="budget" tags="n.sg"/></match>
     <match lemma="comunitario" tags="adj.m.sg"/>
   </rule>
-  <rule c="1047 4879: 1" weight="2.23923">
+  <rule c="1049 4888: 1" weight="2.23923">
     <match lemma="el" tags="det.def.m.sg"/>
     <match lemma="presupuesto" tags="n.m.sg"><select lemma="budget" tags="n.sg"/></match>
     <match lemma="comunitario" tags="adj.m.sg"/>
   </rule>
-  <rule c="1048 4884: 1" weight="1.95615">
+  <rule c="1050 4893: 1" weight="1.95615">
     <match lemma="a" tags="pr"/>
     <match lemma="el" tags="det.def.m.sg"/>
     <match lemma="presupuesto" tags="n.m.sg"><select lemma="budget" tags="n.sg"/></match>
-  </rule>
-  <rule c="1049 4889: 1" weight="2.23923">
-    <match lemma="presupuesto" tags="n.m.sg"><select lemma="budget" tags="n.sg"/></match>
-    <match lemma="europeo" tags="adj.m.sg"/>
-  </rule>
-  <rule c="1050 4893: 1" weight="2.23923">
-    <match lemma="el" tags="det.def.m.sg"/>
-    <match lemma="presupuesto" tags="n.m.sg"><select lemma="budget" tags="n.sg"/></match>
-    <match lemma="europeo" tags="adj.m.sg"/>
   </rule>
   <rule c="1051 4898: 1" weight="2.23923">
     <match lemma="presupuesto" tags="n.m.sg"><select lemma="budget" tags="n.sg"/></match>
     <match lemma="europeo" tags="adj.m.sg"/>
+  </rule>
+  <rule c="1052 4902: 1" weight="2.23923">
+    <match lemma="el" tags="det.def.m.sg"/>
+    <match lemma="presupuesto" tags="n.m.sg"><select lemma="budget" tags="n.sg"/></match>
+    <match lemma="europeo" tags="adj.m.sg"/>
+  </rule>
+  <rule c="1053 4907: 1" weight="2.23923">
+    <match lemma="presupuesto" tags="n.m.sg"><select lemma="budget" tags="n.sg"/></match>
+    <match lemma="europeo" tags="adj.m.sg"/>
     <match lemma="se" tags="prn.pro.ref.p3.mf.sp"/>
   </rule>
-  <rule c="1052 4903: 1" weight="2.23923">
+  <rule c="1054 4912: 1" weight="2.23923">
     <match lemma="suyo" tags="det.pos.mf.sg"/>
     <match lemma="presupuesto" tags="n.m.sg"><select lemma="budget" tags="n.sg"/></match>
   </rule>
-  <rule c="1053 4907: 1" weight="2.23923">
+  <rule c="1055 4916: 1" weight="2.23923">
     <match lemma="*recortando" tags="."/>
     <match lemma="suyo" tags="det.pos.mf.sg"/>
     <match lemma="presupuesto" tags="n.m.sg"><select lemma="budget" tags="n.sg"/></match>
   </rule>
-  <rule c="1054 4912: 1" weight="2.23923">
+  <rule c="1056 4921: 1" weight="2.23923">
     <match lemma="en" tags="pr"/>
     <match lemma="el" tags="det.def.m.sg"/>
     <match lemma="presupuesto" tags="n.m.sg"><select lemma="budget" tags="n.sg"/></match>
   </rule>
-  <rule c="1055 4917: 1" weight="120.728">
+  <rule c="1057 4926: 1" weight="120.728">
     <match lemma="el" tags="det.def.m.sg"/>
     <match lemma="progreso" tags="n.m.sg"><select lemma="progress" tags="n.sg"/></match>
   </rule>
-  <rule c="1056 4921: 1" weight="2.49188">
+  <rule c="1058 4930: 1" weight="2.49188">
     <match lemma="debate" tags="n.m.sg"/>
     <match lemma="quedar" tags="vblex.pri.p3.sg"><select lemma="close" tags="vblex.pp"/></match>
   </rule>
-  <rule c="1057 4925: 1" weight="2.42397">
+  <rule c="1059 4934: 1" weight="2.42397">
     <match lemma="quedar" tags="vblex.pri.p3.sg"><select lemma="close" tags="vblex.pp"/></match>
     <match lemma="cerrar" tags="vblex.pp.m.sg"/>
   </rule>
-  <rule c="1058 4929: 1" weight="2.49188">
+  <rule c="1060 4938: 1" weight="2.49188">
     <match lemma="debate" tags="n.m.sg"/>
     <match lemma="quedar" tags="vblex.pri.p3.sg"><select lemma="close" tags="vblex.pp"/></match>
     <match lemma="cerrar" tags="vblex.pp.m.sg"/>
   </rule>
-  <rule c="1059 4934: 1" weight="2.49188">
+  <rule c="1061 4943: 1" weight="2.49188">
     <match lemma="el" tags="det.def.m.sg"/>
     <match lemma="debate" tags="n.m.sg"/>
     <match lemma="quedar" tags="vblex.pri.p3.sg"><select lemma="close" tags="vblex.pp"/></match>
   </rule>
-  <rule c="1060 4939: 1" weight="1.23834">
+  <rule c="1062 4948: 1" weight="1.23834">
     <match lemma="quedar" tags="vblex.pri.p3.sg"><select lemma="conclude" tags="vblex.pri.p3.sg"/></match>
     <match lemma="cerrar" tags="vblex.pp.m.sg"/>
   </rule>
-  <rule c="1061 4943: 1" weight="1247760000000000.0">
+  <rule c="1063 4952: 1" weight="1247760000000000.0">
     <match lemma="querer" tags="vblex.pri.p1.pl"><select lemma="want" tags="vblex.pres"/></match>
     <match lemma="uno" tags="det.ind.f.sg"/>
   </rule>
-  <rule c="1062 4947: 1" weight="34136300.0">
+  <rule c="1064 4956: 1" weight="34136300.0">
     <match lemma="no" tags="adv"/>
     <match lemma="querer" tags="vblex.pri.p1.pl"><select lemma="want" tags="vblex.inf"/></match>
   </rule>
-  <rule c="1063 4951: 1" weight="34136300.0">
+  <rule c="1065 4960: 1" weight="34136300.0">
     <match lemma="querer" tags="vblex.pri.p1.pl"><select lemma="want" tags="vblex.inf"/></match>
     <match lemma="que" tags="cnjsub"/>
   </rule>
-  <rule c="1064 4955: 1" weight="34136300.0">
+  <rule c="1066 4964: 1" weight="34136300.0">
     <match lemma="no" tags="adv"/>
     <match lemma="querer" tags="vblex.pri.p1.pl"><select lemma="want" tags="vblex.inf"/></match>
     <match lemma="que" tags="cnjsub"/>
   </rule>
-  <rule c="1065 4960: 1" weight="23094900.0">
+  <rule c="1067 4969: 1" weight="23094900.0">
     <match lemma="querer" tags="vblex.pri.p1.pl"><select lemma="want" tags="vblex.inf"/></match>
     <match lemma="que" tags="cnjsub"/>
     <match lemma="se" tags="prn.pro.ref.p3.mf.sp"/>
   </rule>
-  <rule c="1066 4965: 1" weight="7.90088e+41">
+  <rule c="1068 4974: 1" weight="7.90088e+41">
     <match lemma="real" tags="adj.mf.sg"><select lemma="real" tags="adj"/></match>
     <match lemma="y" tags="cnjcoo"/>
   </rule>
-  <rule c="1067 4969: 1" weight="7.80565e+23">
+  <rule c="1069 4978: 1" weight="7.80565e+23">
     <match lemma="querer" tags="vbmod.pri.p3.sg"/>
     <match lemma="realizar" tags="vblex.inf"><select lemma="carry" tags="vblex.inf"/></match>
   </rule>
-  <rule c="1068 4973: 1" weight="1.04245e+46">
+  <rule c="1070 4982: 1" weight="1.04245e+46">
     <match lemma="realizar" tags="vblex.inf"><select lemma="make" tags="vblex.inf"/></match>
     <match lemma="uno" tags="det.ind.m.sg"/>
   </rule>
-  <rule c="1069 4977: 1" weight="1.53937e+35">
+  <rule c="1071 4986: 1" weight="1.53937e+35">
     <match lemma="haber" tags="vbhaver.pri.p3.sg"/>
     <match lemma="realizar" tags="vblex.pp.m.sg"><select lemma="make" tags="vblex.pp"/></match>
   </rule>
-  <rule c="1070 4981: 1" weight="1.73362e+22">
+  <rule c="1072 4990: 1" weight="1.73362e+22">
     <match lemma="haber" tags="vbhaver.pri.p3.sg"/>
     <match lemma="realizar" tags="vblex.pp.m.sg"><select lemma="do" tags="vblex.pp"/></match>
   </rule>
-  <rule c="1071 4985: 1" weight="5.87571e+35">
+  <rule c="1073 4994: 1" weight="5.87571e+35">
     <match lemma="haber" tags="vbhaver.pri.p3.pl"/>
     <match lemma="realizar" tags="vblex.pp.m.sg"><select lemma="make" tags="vblex.pp"/></match>
   </rule>
-  <rule c="1072 4989: 1" weight="149265000.0">
+  <rule c="1074 4998: 1" weight="149265000.0">
     <match lemma="realizar" tags="vblex.pp.m.sg"><select lemma="date" tags="vblex.inf"/></match>
     <match lemma="hasta la fecha" tags="adv"/>
   </rule>
-  <rule c="1073 4993: 1" weight="1.61915e+36">
+  <rule c="1075 5002: 1" weight="1.61915e+36">
     <match lemma="se" tags="prn.pro.ref.p3.mf.sp"/>
     <match lemma="haber" tags="vbhaver.pri.p3.pl"/>
     <match lemma="realizar" tags="vblex.pp.m.sg"><select lemma="make" tags="vblex.pp"/></match>
   </rule>
-  <rule c="1074 4998: 1" weight="7809900000000000.0">
+  <rule c="1076 5007: 1" weight="7809900000000000.0">
     <match lemma="reconocer" tags="vblex.inf"><select lemma="recognise" tags="vblex.inf"/></match>
     <match lemma="que" tags="cnjsub"/>
   </rule>
-  <rule c="1075 5002: 1" weight="1.26147e+16">
+  <rule c="1077 5011: 1" weight="1.26147e+16">
     <match lemma="necesario" tags="adj.m.sg"/>
     <match lemma="reconocer" tags="vblex.inf"><select lemma="recognise" tags="vblex.inf"/></match>
   </rule>
-  <rule c="1076 5006: 1" weight="1.26147e+16">
+  <rule c="1078 5015: 1" weight="1.26147e+16">
     <match lemma="ser" tags="vbser.pri.p3.sg"/>
     <match lemma="necesario" tags="adj.m.sg"/>
     <match lemma="reconocer" tags="vblex.inf"><select lemma="recognise" tags="vblex.inf"/></match>
   </rule>
-  <rule c="1077 5011: 1" weight="9.05214e+88">
+  <rule c="1079 5020: 1" weight="9.05214e+88">
     <match lemma="recordar" tags="vblex.inf"><select lemma="remind" tags="vblex.inf"/></match>
     <match lemma="a" tags="pr"/>
   </rule>
-  <rule c="1078 5015: 1" weight="1.4144e+89">
+  <rule c="1080 5024: 1" weight="1.4144e+89">
     <match lemma="prpers" tags="prn.enc.p1.mf.sg"/>
     <match lemma="recordar" tags="vblex.inf"><select lemma="remind" tags="vblex.inf"/></match>
   </rule>
-  <rule c="1079 5019: 1" weight="3.69997e+71">
+  <rule c="1081 5028: 1" weight="3.69997e+71">
     <match lemma="deber" tags="vbmod.pri.p1.pl"/>
     <match lemma="recordar" tags="vblex.inf"><select lemma="remember" tags="vblex.inf"/></match>
   </rule>
-  <rule c="1080 5023: 1" weight="1.91008e+71">
+  <rule c="1082 5032: 1" weight="1.91008e+71">
     <match lemma="recordar" tags="vblex.inf"><select lemma="remember" tags="vblex.inf"/></match>
     <match lemma="que" tags="cnjsub"/>
   </rule>
-  <rule c="1081 5027: 1" weight="2.73359e+65">
+  <rule c="1083 5036: 1" weight="2.73359e+65">
     <match lemma="querer" tags="vbmod.pri.p1.sg"/>
     <match lemma="recordar" tags="vblex.inf"><select lemma="point" tags="vblex.inf"/></match>
   </rule>
-  <rule c="1082 5031: 1" weight="1.27856">
+  <rule c="1084 5040: 1" weight="1.27856">
     <match lemma="el" tags="det.def.f.sg"/>
     <match lemma="recuperación" tags="n.f.sg"><select lemma="recovery" tags="n.sg"/></match>
   </rule>
-  <rule c="1083 5035: 1" weight="2.65433">
+  <rule c="1085 5044: 1" weight="2.65433">
     <match lemma="el" tags="det.def.m.sg"/>
     <match lemma="régimen" tags="n.m.sg"><select lemma="scheme" tags="n.sg"/></match>
-  </rule>
-  <rule c="1084 5039: 1" weight="3.06495">
-    <match lemma="régimen" tags="n.m.sg"><select lemma="scheme" tags="n.sg"/></match>
-    <match lemma="danés" tags="adj.m.sg"/>
-  </rule>
-  <rule c="1085 5043: 1" weight="3.06495">
-    <match lemma="el" tags="det.def.m.sg"/>
-    <match lemma="régimen" tags="n.m.sg"><select lemma="scheme" tags="n.sg"/></match>
-    <match lemma="danés" tags="adj.m.sg"/>
   </rule>
   <rule c="1086 5048: 1" weight="3.06495">
     <match lemma="régimen" tags="n.m.sg"><select lemma="scheme" tags="n.sg"/></match>
     <match lemma="danés" tags="adj.m.sg"/>
+  </rule>
+  <rule c="1087 5052: 1" weight="3.06495">
+    <match lemma="el" tags="det.def.m.sg"/>
+    <match lemma="régimen" tags="n.m.sg"><select lemma="scheme" tags="n.sg"/></match>
+    <match lemma="danés" tags="adj.m.sg"/>
+  </rule>
+  <rule c="1088 5057: 1" weight="3.06495">
+    <match lemma="régimen" tags="n.m.sg"><select lemma="scheme" tags="n.sg"/></match>
+    <match lemma="danés" tags="adj.m.sg"/>
     <match lemma="de" tags="pr"/>
   </rule>
-  <rule c="1087 5053: 1" weight="1.74205">
+  <rule c="1089 5062: 1" weight="1.74205">
     <match lemma="registro" tags="n.m.sg"><select lemma="register" tags="n.sg"/></match>
     <match lemma="de" tags="pr"/>
   </rule>
-  <rule c="1088 5057: 1" weight="1.41492">
+  <rule c="1090 5066: 1" weight="1.41492">
     <match lemma="el" tags="det.def.m.sg"/>
     <match lemma="registro" tags="n.m.sg"><select lemma="record" tags="n.pl"/></match>
   </rule>
-  <rule c="1089 5061: 1" weight="2.13357">
+  <rule c="1091 5070: 1" weight="2.13357">
     <match lemma="uno" tags="det.ind.m.sg"/>
     <match lemma="registro" tags="n.m.sg"><select lemma="register" tags="n.sg"/></match>
-  </rule>
-  <rule c="1090 5065: 1" weight="2.13357">
-    <match lemma="registro" tags="n.m.sg"><select lemma="register" tags="n.sg"/></match>
-    <match lemma="público" tags="adj.m.sg"/>
-  </rule>
-  <rule c="1091 5069: 1" weight="2.13357">
-    <match lemma="uno" tags="det.ind.m.sg"/>
-    <match lemma="registro" tags="n.m.sg"><select lemma="register" tags="n.sg"/></match>
-    <match lemma="público" tags="adj.m.sg"/>
   </rule>
   <rule c="1092 5074: 1" weight="2.13357">
+    <match lemma="registro" tags="n.m.sg"><select lemma="register" tags="n.sg"/></match>
+    <match lemma="público" tags="adj.m.sg"/>
+  </rule>
+  <rule c="1093 5078: 1" weight="2.13357">
+    <match lemma="uno" tags="det.ind.m.sg"/>
+    <match lemma="registro" tags="n.m.sg"><select lemma="register" tags="n.sg"/></match>
+    <match lemma="público" tags="adj.m.sg"/>
+  </rule>
+  <rule c="1094 5083: 1" weight="2.13357">
     <match lemma="de" tags="pr"/>
     <match lemma="uno" tags="det.ind.m.sg"/>
     <match lemma="registro" tags="n.m.sg"><select lemma="register" tags="n.sg"/></match>
   </rule>
-  <rule c="1093 5079: 1" weight="2.13357">
+  <rule c="1095 5088: 1" weight="2.13357">
     <match lemma="registro" tags="n.m.sg"><select lemma="register" tags="n.sg"/></match>
     <match lemma="que" tags="rel.an.mf.sp"/>
   </rule>
-  <rule c="1094 5083: 1" weight="2.13357">
+  <rule c="1096 5092: 1" weight="2.13357">
     <match lemma="uno" tags="det.ind.m.sg"/>
     <match lemma="registro" tags="n.m.sg"><select lemma="register" tags="n.sg"/></match>
     <match lemma="que" tags="rel.an.mf.sp"/>
   </rule>
-  <rule c="1095 5088: 1" weight="2.55499">
+  <rule c="1097 5097: 1" weight="2.55499">
     <match lemma="el" tags="det.def.f.pl"/>
     <match lemma="relación" tags="n.f.pl"><select lemma="relation" tags="n.pl"/></match>
   </rule>
-  <rule c="1096 5092: 1" weight="2.32935">
+  <rule c="1098 5101: 1" weight="2.32935">
     <match lemma="relación" tags="n.f.pl"><select lemma="relation" tags="n.pl"/></match>
     <match lemma="entre" tags="pr"/>
   </rule>
-  <rule c="1097 5096: 1" weight="2.32935">
+  <rule c="1099 5105: 1" weight="2.32935">
     <match lemma="el" tags="det.def.f.pl"/>
     <match lemma="relación" tags="n.f.pl"><select lemma="relation" tags="n.pl"/></match>
     <match lemma="entre" tags="pr"/>
   </rule>
-  <rule c="1098 5101: 1" weight="1.03354">
+  <rule c="1100 5110: 1" weight="1.03354">
     <match lemma="el" tags="det.def.f.pl"/>
     <match lemma="relación" tags="n.f.pl"><select lemma="relationship" tags="n.sg"/></match>
   </rule>
-  <rule c="1099 5105: 1" weight="1.56257">
+  <rule c="1101 5114: 1" weight="1.56257">
     <match lemma="relación" tags="n.f.pl"><select lemma="relationship" tags="n.sg"/></match>
     <match lemma="entre" tags="pr"/>
   </rule>
-  <rule c="1100 5109: 1" weight="1.56257">
+  <rule c="1102 5118: 1" weight="1.56257">
     <match lemma="el" tags="det.def.f.pl"/>
     <match lemma="relación" tags="n.f.pl"><select lemma="relationship" tags="n.sg"/></match>
     <match lemma="entre" tags="pr"/>
   </rule>
-  <rule c="1101 5114: 1" weight="0.628995">
+  <rule c="1103 5123: 1" weight="0.628995">
     <match lemma="el" tags="det.def.f.pl"/>
     <match lemma="relación" tags="n.f.pl"><select lemma="relationship" tags="n.pl"/></match>
   </rule>
-  <rule c="1102 5118: 1" weight="2.60429">
+  <rule c="1104 5127: 1" weight="2.60429">
     <match lemma="relación" tags="n.f.pl"><select lemma="relation" tags="n.pl"/></match>
     <match lemma="con" tags="pr"/>
   </rule>
-  <rule c="1103 5122: 1" weight="1.27584">
+  <rule c="1105 5131: 1" weight="1.27584">
     <match lemma="relación" tags="n.f.pl"><select lemma="relationship" tags="n.sg"/></match>
     <match lemma="con" tags="pr"/>
   </rule>
-  <rule c="1104 5126: 1" weight="3.08143">
+  <rule c="1106 5135: 1" weight="3.08143">
     <match lemma="el" tags="det.def.f.pl"/>
     <match lemma="relación" tags="n.f.pl"><select lemma="relation" tags="n.pl"/></match>
     <match lemma="con" tags="pr"/>
   </rule>
-  <rule c="1105 5131: 1" weight="2.06709">
+  <rule c="1107 5140: 1" weight="2.06709">
     <match lemma="relación" tags="n.f.pl"><select lemma="relationship" tags="n.sg"/></match>
     <match lemma="entre" tags="pr"/>
     <match lemma="el" tags="det.def.m.sg"/>
   </rule>
-  <rule c="1106 5136: 1" weight="3.08143">
-    <match lemma="relación" tags="n.f.pl"><select lemma="relation" tags="n.pl"/></match>
-    <match lemma="de" tags="pr"/>
-  </rule>
-  <rule c="1107 5140: 1" weight="3.08143">
-    <match lemma="el" tags="det.def.f.pl"/>
-    <match lemma="relación" tags="n.f.pl"><select lemma="relation" tags="n.pl"/></match>
-    <match lemma="de" tags="pr"/>
-  </rule>
   <rule c="1108 5145: 1" weight="3.08143">
+    <match lemma="relación" tags="n.f.pl"><select lemma="relation" tags="n.pl"/></match>
+    <match lemma="de" tags="pr"/>
+  </rule>
+  <rule c="1109 5149: 1" weight="3.08143">
+    <match lemma="el" tags="det.def.f.pl"/>
+    <match lemma="relación" tags="n.f.pl"><select lemma="relation" tags="n.pl"/></match>
+    <match lemma="de" tags="pr"/>
+  </rule>
+  <rule c="1110 5154: 1" weight="3.08143">
     <match lemma="de" tags="pr"/>
     <match lemma="el" tags="det.def.f.pl"/>
     <match lemma="relación" tags="n.f.pl"><select lemma="relation" tags="n.pl"/></match>
   </rule>
-  <rule c="1109 5150: 1" weight="2.79914e+58">
+  <rule c="1111 5159: 1" weight="2.79914e+58">
     <match lemma="responsable" tags="adj.mf.pl"><select lemma="responsible" tags="adj"/></match>
     <match lemma="de" tags="pr"/>
   </rule>
-  <rule c="1110 5154: 1" weight="1.51455">
+  <rule c="1112 5163: 1" weight="1.51455">
     <match lemma="respuesta" tags="n.f.sg"><select lemma="response" tags="n.sg"/></match>
     <match lemma="a" tags="pr"/>
   </rule>
-  <rule c="1111 5158: 1" weight="1.72082">
+  <rule c="1113 5167: 1" weight="1.72082">
     <match lemma="uno" tags="det.ind.f.sg"/>
     <match lemma="respuesta" tags="n.f.sg"><select lemma="answer" tags="n.sg"/></match>
   </rule>
-  <rule c="1112 5162: 1" weight="1.19243">
+  <rule c="1114 5171: 1" weight="1.19243">
     <match lemma="uno" tags="det.ind.f.sg"/>
     <match lemma="respuesta" tags="n.f.sg"><select lemma="response" tags="n.sg"/></match>
   </rule>
-  <rule c="1113 5166: 1" weight="0.628446">
+  <rule c="1115 5175: 1" weight="0.628446">
     <match lemma="uno" tags="det.ind.f.sg"/>
     <match lemma="respuesta" tags="n.f.sg"><select lemma="reply" tags="n.sg"/></match>
   </rule>
-  <rule c="1114 5170: 1" weight="1.80753">
+  <rule c="1116 5179: 1" weight="1.80753">
     <match lemma="el" tags="det.def.f.sg"/>
     <match lemma="respuesta" tags="n.f.sg"><select lemma="answer" tags="n.sg"/></match>
   </rule>
-  <rule c="1115 5174: 1" weight="2.2114">
+  <rule c="1117 5183: 1" weight="2.2114">
     <match lemma="respuesta" tags="n.f.sg"><select lemma="answer" tags="n.sg"/></match>
     <match lemma="ser" tags="vbser.pri.p3.sg"/>
   </rule>
-  <rule c="1116 5178: 1" weight="2.5535">
+  <rule c="1118 5187: 1" weight="2.5535">
     <match lemma="el" tags="det.def.f.sg"/>
     <match lemma="respuesta" tags="n.f.sg"><select lemma="answer" tags="n.sg"/></match>
     <match lemma="ser" tags="vbser.pri.p3.sg"/>
   </rule>
-  <rule c="1117 5183: 1" weight="0.913774">
+  <rule c="1119 5192: 1" weight="0.913774">
     <match lemma="el" tags="det.def.f.sg"/>
     <match lemma="respuesta" tags="n.f.sg"><select lemma="response" tags="n.sg"/></match>
   </rule>
-  <rule c="1118 5187: 1" weight="0.787429">
+  <rule c="1120 5196: 1" weight="0.787429">
     <match lemma="el" tags="det.def.f.sg"/>
     <match lemma="respuesta" tags="n.f.sg"><select lemma="reply" tags="n.sg"/></match>
   </rule>
-  <rule c="1119 5191: 1" weight="1.47068">
+  <rule c="1121 5200: 1" weight="1.47068">
     <match lemma="suyo" tags="det.pos.mf.sg"/>
     <match lemma="respuesta" tags="n.f.sg"><select lemma="answer" tags="n.sg"/></match>
   </rule>
-  <rule c="1120 5195: 1" weight="1.14029">
+  <rule c="1122 5204: 1" weight="1.14029">
     <match lemma="suyo" tags="det.pos.mf.sg"/>
     <match lemma="respuesta" tags="n.f.sg"><select lemma="response" tags="n.sg"/></match>
   </rule>
-  <rule c="1121 5199: 1" weight="0.849787">
+  <rule c="1123 5208: 1" weight="0.849787">
     <match lemma="suyo" tags="det.pos.mf.sg"/>
     <match lemma="respuesta" tags="n.f.sg"><select lemma="reply" tags="n.sg"/></match>
   </rule>
-  <rule c="1122 5203: 1" weight="1.27337">
+  <rule c="1124 5212: 1" weight="1.27337">
     <match lemma="de" tags="pr"/>
     <match lemma="el" tags="det.def.f.sg"/>
     <match lemma="respuesta" tags="n.f.sg"><select lemma="reply" tags="n.sg"/></match>
-  </rule>
-  <rule c="1123 5208: 1" weight="2.5535">
-    <match lemma="respuesta" tags="n.f.sg"><select lemma="answer" tags="n.sg"/></match>
-    <match lemma="muy" tags="preadv"/>
-  </rule>
-  <rule c="1124 5212: 1" weight="2.5535">
-    <match lemma="uno" tags="det.ind.f.sg"/>
-    <match lemma="respuesta" tags="n.f.sg"><select lemma="answer" tags="n.sg"/></match>
-    <match lemma="muy" tags="preadv"/>
   </rule>
   <rule c="1125 5217: 1" weight="2.5535">
+    <match lemma="respuesta" tags="n.f.sg"><select lemma="answer" tags="n.sg"/></match>
+    <match lemma="muy" tags="preadv"/>
+  </rule>
+  <rule c="1126 5221: 1" weight="2.5535">
+    <match lemma="uno" tags="det.ind.f.sg"/>
+    <match lemma="respuesta" tags="n.f.sg"><select lemma="answer" tags="n.sg"/></match>
+    <match lemma="muy" tags="preadv"/>
+  </rule>
+  <rule c="1127 5226: 1" weight="2.5535">
     <match lemma="ser" tags="vbser.pri.p3.sg"/>
     <match lemma="uno" tags="det.ind.f.sg"/>
     <match lemma="respuesta" tags="n.f.sg"><select lemma="answer" tags="n.sg"/></match>
   </rule>
-  <rule c="1126 5222: 1" weight="1.94079">
+  <rule c="1128 5231: 1" weight="1.94079">
     <match lemma="el" tags="det.def.f.sg"/>
     <match lemma="reunión" tags="n.f.sg"><select lemma="meeting" tags="n.sg"/></match>
   </rule>
-  <rule c="1127 5226: 1" weight="1.79682">
+  <rule c="1129 5235: 1" weight="1.79682">
     <match lemma="reunión" tags="n.f.sg"><select lemma="meeting" tags="n.sg"/></match>
     <match lemma="de" tags="pr"/>
   </rule>
-  <rule c="1128 5230: 1" weight="1.94079">
+  <rule c="1130 5239: 1" weight="1.94079">
     <match lemma="el" tags="det.def.f.sg"/>
     <match lemma="reunión" tags="n.f.sg"><select lemma="meeting" tags="n.sg"/></match>
     <match lemma="de" tags="pr"/>
   </rule>
-  <rule c="1129 5235: 1" weight="1.94079">
+  <rule c="1131 5244: 1" weight="1.94079">
     <match lemma="uno" tags="det.ind.f.sg"/>
     <match lemma="reunión" tags="n.f.sg"><select lemma="meeting" tags="n.sg"/></match>
   </rule>
-  <rule c="1130 5239: 1" weight="1.94079">
+  <rule c="1132 5248: 1" weight="1.94079">
     <match lemma="reunión" tags="n.f.sg"><select lemma="meeting" tags="n.sg"/></match>
     <match lemma="con" tags="pr"/>
   </rule>
-  <rule c="1131 5243: 1" weight="1.94079">
+  <rule c="1133 5252: 1" weight="1.94079">
     <match lemma="reunión" tags="n.f.sg"><select lemma="meeting" tags="n.sg"/></match>
     <match lemma="con" tags="pr"/>
     <match lemma="el" tags="det.def.m.sg"/>
   </rule>
-  <rule c="1132 5248: 1" weight="1.94079">
+  <rule c="1134 5257: 1" weight="1.94079">
     <match lemma="último" tags="det.ord.f.sg"/>
     <match lemma="reunión" tags="n.f.sg"><select lemma="meeting" tags="n.sg"/></match>
   </rule>
-  <rule c="1133 5252: 1" weight="1.94079">
+  <rule c="1135 5261: 1" weight="1.94079">
     <match lemma="el" tags="det.def.f.sg"/>
     <match lemma="último" tags="det.ord.f.sg"/>
     <match lemma="reunión" tags="n.f.sg"><select lemma="meeting" tags="n.sg"/></match>
   </rule>
-  <rule c="1134 5257: 1" weight="1.94079">
+  <rule c="1136 5266: 1" weight="1.94079">
     <match lemma="reunión" tags="n.f.sg"><select lemma="meeting" tags="n.sg"/></match>
     <match lemma="de" tags="pr"/>
     <match lemma="el" tags="det.def.f.sg"/>
   </rule>
-  <rule c="1135 5262: 1" weight="1.49987e+53">
+  <rule c="1137 5271: 1" weight="1.49987e+53">
     <match lemma="haber que" tags="vbmod.pri.p3.sg"/>
     <match lemma="revisar" tags="vblex.inf"><select lemma="review" tags="vblex.pp"/></match>
   </rule>
-  <rule c="1136 5266: 1" weight="2.99779">
+  <rule c="1138 5275: 1" weight="2.99779">
     <match lemma="el" tags="det.def.f.sg"/>
     <match lemma="revisión" tags="n.f.sg"><select lemma="revision" tags="n.sg"/></match>
   </rule>
-  <rule c="1137 5270: 1" weight="2.23124">
+  <rule c="1139 5279: 1" weight="2.23124">
     <match lemma="revisión" tags="n.f.sg"><select lemma="revision" tags="n.sg"/></match>
     <match lemma="de" tags="pr"/>
   </rule>
-  <rule c="1138 5274: 1" weight="2.99779">
+  <rule c="1140 5283: 1" weight="2.99779">
     <match lemma="el" tags="det.def.f.sg"/>
     <match lemma="revisión" tags="n.f.sg"><select lemma="revision" tags="n.sg"/></match>
     <match lemma="de" tags="pr"/>
   </rule>
-  <rule c="1139 5279: 1" weight="1.33951">
+  <rule c="1141 5288: 1" weight="1.33951">
     <match lemma="revisión" tags="n.f.sg"><select lemma="review" tags="n.sg"/></match>
     <match lemma="de" tags="pr"/>
   </rule>
-  <rule c="1140 5283: 1" weight="1.72709">
+  <rule c="1142 5292: 1" weight="1.72709">
     <match lemma="uno" tags="det.ind.f.sg"/>
     <match lemma="revisión" tags="n.f.sg"><select lemma="revision" tags="n.sg"/></match>
   </rule>
-  <rule c="1141 5287: 1" weight="1.63985">
+  <rule c="1143 5296: 1" weight="1.63985">
     <match lemma="uno" tags="det.ind.f.sg"/>
     <match lemma="revisión" tags="n.f.sg"><select lemma="review" tags="n.sg"/></match>
   </rule>
-  <rule c="1142 5291: 1" weight="2.99779">
+  <rule c="1144 5300: 1" weight="2.99779">
     <match lemma="revisión" tags="n.f.sg"><select lemma="revision" tags="n.sg"/></match>
     <match lemma="de" tags="pr"/>
     <match lemma="el" tags="det.def.m.pl"/>
   </rule>
-  <rule c="1143 5296: 1" weight="1.89113">
+  <rule c="1145 5305: 1" weight="1.89113">
     <match lemma="uno" tags="det.ind.f.sg"/>
     <match lemma="revisión" tags="n.f.sg"><select lemma="review" tags="n.sg"/></match>
     <match lemma="de" tags="pr"/>
   </rule>
-  <rule c="1144 5301: 1" weight="2.94381">
+  <rule c="1146 5310: 1" weight="2.94381">
     <match lemma="cierto" tags="det.ind.m.sg"/>
     <match lemma="sentido" tags="n.m.sg"><select lemma="sense" tags="n.sg"/></match>
   </rule>
-  <rule c="1145 5305: 1" weight="2.94381">
+  <rule c="1147 5314: 1" weight="2.94381">
     <match lemma="en" tags="pr"/>
     <match lemma="cierto" tags="det.ind.m.sg"/>
     <match lemma="sentido" tags="n.m.sg"><select lemma="sense" tags="n.sg"/></match>
   </rule>
-  <rule c="1146 5310: 1" weight="2.10992">
+  <rule c="1148 5319: 1" weight="2.10992">
     <match lemma="sentido" tags="n.m.sg"><select lemma="sense" tags="n.sg"/></match>
     <match lemma="de" tags="pr"/>
   </rule>
-  <rule c="1147 5314: 1" weight="1.3096">
+  <rule c="1149 5323: 1" weight="1.3096">
     <match lemma="el" tags="det.def.m.sg"/>
     <match lemma="sentido" tags="n.m.sg"><select lemma="meaning" tags="n.sg"/></match>
   </rule>
-  <rule c="1148 5318: 1" weight="1.14518">
+  <rule c="1150 5327: 1" weight="1.14518">
     <match lemma="sentido" tags="n.m.sg"><select lemma="meaning" tags="n.sg"/></match>
     <match lemma="de" tags="pr"/>
   </rule>
-  <rule c="1149 5322: 1" weight="1.3096">
+  <rule c="1151 5331: 1" weight="1.3096">
     <match lemma="el" tags="det.def.m.sg"/>
     <match lemma="sentido" tags="n.m.sg"><select lemma="meaning" tags="n.sg"/></match>
     <match lemma="de" tags="pr"/>
   </rule>
-  <rule c="1150 5327: 1" weight="2.94381">
+  <rule c="1152 5336: 1" weight="2.94381">
     <match lemma="ese" tags="det.dem.m.sg"/>
     <match lemma="sentido" tags="n.m.sg"><select lemma="sense" tags="n.sg"/></match>
   </rule>
-  <rule c="1151 5331: 1" weight="2.94381">
+  <rule c="1153 5340: 1" weight="2.94381">
     <match lemma="en" tags="pr"/>
     <match lemma="ese" tags="det.dem.m.sg"/>
     <match lemma="sentido" tags="n.m.sg"><select lemma="sense" tags="n.sg"/></match>
   </rule>
-  <rule c="1152 5336: 1" weight="2.54942">
+  <rule c="1154 5345: 1" weight="2.54942">
     <match lemma="este" tags="det.dem.m.sg"/>
     <match lemma="sentido" tags="n.m.sg"><select lemma="sense" tags="n.sg"/></match>
   </rule>
-  <rule c="1153 5340: 1" weight="2.54942">
+  <rule c="1155 5349: 1" weight="2.54942">
     <match lemma="en" tags="pr"/>
     <match lemma="este" tags="det.dem.m.sg"/>
     <match lemma="sentido" tags="n.m.sg"><select lemma="sense" tags="n.sg"/></match>
   </rule>
-  <rule c="1154 5345: 1" weight="1.31683">
+  <rule c="1156 5354: 1" weight="1.31683">
     <match lemma="sentido" tags="n.m.sg"><select lemma="meaning" tags="n.sg"/></match>
     <match lemma="de" tags="pr"/>
     <match lemma="el" tags="det.def.f.sg"/>
   </rule>
-  <rule c="1155 5350: 1" weight="2.97134">
+  <rule c="1157 5359: 1" weight="2.97134">
     <match lemma="uno" tags="det.ind.m.sg"/>
     <match lemma="sentido" tags="n.m.sg"><select lemma="sense" tags="n.sg"/></match>
   </rule>
-  <rule c="1156 5354: 1" weight="1.4542">
+  <rule c="1158 5363: 1" weight="1.4542">
     <match lemma="tiempo" tags="n.m.sg"><select lemma="time" tags="n.sg"/></match>
     <match lemma="suficiente" tags="adj.mf.sg"/>
   </rule>
-  <rule c="1157 5358: 1" weight="1.4542">
+  <rule c="1159 5367: 1" weight="1.4542">
     <match lemma="a" tags="pr"/>
     <match lemma="tiempo" tags="n.m.sg"><select lemma="time" tags="n.sg"/></match>
   </rule>
-  <rule c="1158 5362: 1" weight="1.4542">
+  <rule c="1160 5371: 1" weight="1.4542">
     <match lemma="de" tags="pr"/>
     <match lemma="tiempo" tags="n.m.sg"><select lemma="time" tags="n.sg"/></match>
   </rule>
-  <rule c="1159 5366: 1" weight="1.4542">
+  <rule c="1161 5375: 1" weight="1.4542">
     <match lemma="periodo" tags="n.m.sg"/>
     <match lemma="de" tags="pr"/>
     <match lemma="tiempo" tags="n.m.sg"><select lemma="time" tags="n.sg"/></match>
   </rule>
-  <rule c="1160 5371: 1" weight="1.33242">
+  <rule c="1162 5380: 1" weight="1.33242">
     <match lemma="el" tags="det.def.m.sg"/>
     <match lemma="tiempo" tags="n.m.sg"><select lemma="time" tags="n.sg"/></match>
   </rule>
-  <rule c="1161 5375: 1" weight="1.4542">
+  <rule c="1163 5384: 1" weight="1.4542">
     <match lemma="en" tags="pr"/>
     <match lemma="el" tags="det.def.m.sg"/>
     <match lemma="tiempo" tags="n.m.sg"><select lemma="time" tags="n.sg"/></match>
   </rule>
-  <rule c="1162 5380: 1" weight="0.779205">
+  <rule c="1164 5389: 1" weight="0.779205">
     <match lemma="el" tags="det.def.m.sg"/>
     <match lemma="tiempo" tags="n.m.sg"><select lemma="working time" tags="n.sg"/></match>
   </rule>
-  <rule c="1163 5384: 1" weight="1.4542">
+  <rule c="1165 5393: 1" weight="1.4542">
     <match lemma="tiempo" tags="n.m.sg"><select lemma="time" tags="n.sg"/></match>
     <match lemma="a" tags="pr"/>
   </rule>
-  <rule c="1164 5388: 1" weight="1.4542">
+  <rule c="1166 5397: 1" weight="1.4542">
     <match lemma="tiempo" tags="n.m.sg"><select lemma="time" tags="n.sg"/></match>
     <match lemma="a" tags="pr"/>
     <match lemma="el" tags="det.def.f.sg"/>
   </rule>
-  <rule c="1165 5393: 1" weight="1.4542">
+  <rule c="1167 5402: 1" weight="1.4542">
     <match lemma="hacer" tags="vblex.pri.p3.sg"/>
     <match lemma="tiempo" tags="n.m.sg"><select lemma="time" tags="n.sg"/></match>
   </rule>
-  <rule c="1166 5397: 1" weight="1.4542">
+  <rule c="1168 5406: 1" weight="1.4542">
     <match lemma="desde" tags="pr"/>
     <match lemma="hacer" tags="vblex.pri.p3.sg"/>
     <match lemma="tiempo" tags="n.m.sg"><select lemma="time" tags="n.sg"/></match>
   </rule>
-  <rule c="1167 5402: 1" weight="1.20673">
+  <rule c="1169 5411: 1" weight="1.20673">
     <match lemma="tiempo" tags="n.m.sg"><select lemma="time" tags="n.sg"/></match>
     <match lemma="de" tags="pr"/>
   </rule>
-  <rule c="1168 5406: 1" weight="1.1542">
+  <rule c="1170 5415: 1" weight="1.1542">
     <match lemma="el" tags="det.def.m.sg"/>
     <match lemma="tiempo" tags="n.m.sg"><select lemma="time" tags="n.sg"/></match>
     <match lemma="de" tags="pr"/>
   </rule>
-  <rule c="1169 5411: 1" weight="0.957782">
+  <rule c="1171 5420: 1" weight="0.957782">
     <match lemma="tiempo" tags="n.m.sg"><select lemma="working time" tags="n.sg"/></match>
     <match lemma="de" tags="pr"/>
   </rule>
-  <rule c="1170 5415: 1" weight="1.00828">
+  <rule c="1172 5424: 1" weight="1.00828">
     <match lemma="el" tags="det.def.m.sg"/>
     <match lemma="tiempo" tags="n.m.sg"><select lemma="working time" tags="n.sg"/></match>
     <match lemma="de" tags="pr"/>
   </rule>
-  <rule c="1171 5420: 1" weight="1.4542">
+  <rule c="1173 5429: 1" weight="1.4542">
     <match lemma="tiempo" tags="n.m.sg"><select lemma="time" tags="n.sg"/></match>
     <match lemma="de que" tags="cnjsub"/>
   </rule>
-  <rule c="1172 5424: 1" weight="1.4542">
+  <rule c="1174 5433: 1" weight="1.4542">
     <match lemma="en" tags="pr"/>
     <match lemma="tiempo" tags="n.m.sg"><select lemma="time" tags="n.sg"/></match>
   </rule>
-  <rule c="1173 5428: 1" weight="1.4542">
+  <rule c="1175 5437: 1" weight="1.4542">
     <match lemma="requerir" tags="vblex.pri.p3.sg"/>
     <match lemma="tiempo" tags="n.m.sg"><select lemma="time" tags="n.sg"/></match>
   </rule>
-  <rule c="1174 5432: 1" weight="1.4542">
+  <rule c="1176 5441: 1" weight="1.4542">
     <match lemma="más" tags="det.qnt.mf.sp"/>
     <match lemma="tiempo" tags="n.m.sg"><select lemma="time" tags="n.sg"/></match>
   </rule>
-  <rule c="1175 5436: 1" weight="1.4542">
+  <rule c="1177 5445: 1" weight="1.4542">
     <match lemma="tiempo" tags="n.m.sg"><select lemma="time" tags="n.sg"/></match>
     <match lemma="prpers" tags="prn.pro.p1.mf.sg"/>
   </rule>
-  <rule c="1176 5440: 1" weight="1.27036">
+  <rule c="1178 5449: 1" weight="1.27036">
     <match lemma="a" tags="pr"/>
     <match lemma="el" tags="det.def.m.sg"/>
     <match lemma="tiempo" tags="n.m.sg"><select lemma="working time" tags="n.sg"/></match>
   </rule>
-  <rule c="1177 5445: 1" weight="1.27036">
+  <rule c="1179 5454: 1" weight="1.27036">
     <match lemma="tiempo" tags="n.m.sg"><select lemma="working time" tags="n.sg"/></match>
     <match lemma="de" tags="pr"/>
     <match lemma="trabajo" tags="n.m.sg"/>
   </rule>
-  <rule c="1178 5450: 1" weight="1.27036">
+  <rule c="1180 5459: 1" weight="1.27036">
     <match lemma="a" tags="pr"/>
     <match lemma="el" tags="det.def.m.sg"/>
     <match lemma="tiempo" tags="n.m.sg"><select lemma="working time" tags="n.sg"/></match>
     <match lemma="de" tags="pr"/>
     <match lemma="trabajo" tags="n.m.sg"/>
   </rule>
-  <rule c="1179 5457: 1" weight="1.4542">
+  <rule c="1181 5466: 1" weight="1.4542">
     <match lemma="tanto" tags="det.qnt.m.sg"/>
     <match lemma="tiempo" tags="n.m.sg"><select lemma="time" tags="n.sg"/></match>
   </rule>
-  <rule c="1180 5461: 1" weight="2626810000.0">
+  <rule c="1182 5470: 1" weight="2626810000.0">
     <match lemma="de" tags="pr"/>
     <match lemma="tierra" tags="n.f.sg"><select lemma="earth" tags="n.sg"/></match>
   </rule>
-  <rule c="1181 5465: 1" weight="4159600000.0">
-    <match lemma="tierra" tags="n.f.sg"><select lemma="earth" tags="n.sg"/></match>
-    <match lemma="quemado" tags="adj.f.sg"/>
-  </rule>
-  <rule c="1182 5469: 1" weight="4159600000.0">
-    <match lemma="de" tags="pr"/>
+  <rule c="1183 5474: 1" weight="4159600000.0">
     <match lemma="tierra" tags="n.f.sg"><select lemma="earth" tags="n.sg"/></match>
     <match lemma="quemado" tags="adj.f.sg"/>
   </rule>
-  <rule c="1183 5474: 1" weight="1.16978">
-    <match lemma="el" tags="det.def.m.pl"/>
-    <match lemma="trabajo" tags="n.m.pl"><select lemma="work" tags="n.sg"/></match>
-  </rule>
-  <rule c="1184 5478: 1" weight="1.06989">
+  <rule c="1184 5478: 1" weight="4159600000.0">
     <match lemma="de" tags="pr"/>
+    <match lemma="tierra" tags="n.f.sg"><select lemma="earth" tags="n.sg"/></match>
+    <match lemma="quemado" tags="adj.f.sg"/>
+  </rule>
+  <rule c="1185 5483: 1" weight="1.16978">
     <match lemma="el" tags="det.def.m.pl"/>
     <match lemma="trabajo" tags="n.m.pl"><select lemma="work" tags="n.sg"/></match>
-  </rule>
-  <rule c="1185 5483: 1" weight="0.994645">
-    <match lemma="el" tags="det.def.m.pl"/>
-    <match lemma="trabajo" tags="n.m.pl"><select lemma="agenda" tags="n.sg"/></match>
   </rule>
   <rule c="1186 5487: 1" weight="1.06989">
     <match lemma="de" tags="pr"/>
     <match lemma="el" tags="det.def.m.pl"/>
+    <match lemma="trabajo" tags="n.m.pl"><select lemma="work" tags="n.sg"/></match>
+  </rule>
+  <rule c="1187 5492: 1" weight="0.994645">
+    <match lemma="el" tags="det.def.m.pl"/>
     <match lemma="trabajo" tags="n.m.pl"><select lemma="agenda" tags="n.sg"/></match>
   </rule>
-  <rule c="1187 5492: 1" weight="1.41173">
+  <rule c="1188 5496: 1" weight="1.06989">
+    <match lemma="de" tags="pr"/>
+    <match lemma="el" tags="det.def.m.pl"/>
+    <match lemma="trabajo" tags="n.m.pl"><select lemma="agenda" tags="n.sg"/></match>
+  </rule>
+  <rule c="1189 5501: 1" weight="1.41173">
     <match lemma="trabajo" tags="n.m.pl"><select lemma="work" tags="n.sg"/></match>
     <match lemma="de" tags="pr"/>
   </rule>
-  <rule c="1188 5496: 1" weight="1.37576">
+  <rule c="1190 5505: 1" weight="1.37576">
     <match lemma="el" tags="det.def.m.pl"/>
     <match lemma="trabajo" tags="n.m.pl"><select lemma="work" tags="n.sg"/></match>
     <match lemma="de" tags="pr"/>
   </rule>
-  <rule c="1189 5501: 1" weight="1.54354">
+  <rule c="1191 5510: 1" weight="1.54354">
     <match lemma="trabajo" tags="n.m.pl"><select lemma="work" tags="n.sg"/></match>
     <match lemma="de" tags="pr"/>
     <match lemma="el" tags="det.def.m.sg"/>
   </rule>
-  <rule c="1190 5506: 1" weight="4.10997e+31">
+  <rule c="1192 5515: 1" weight="4.10997e+31">
     <match lemma="trabajo" tags="n.m.sg"><select lemma="work" tags="n.sg"/></match>
     <match lemma="y" tags="cnjcoo"/>
   </rule>
-  <rule c="1191 5510: 1" weight="6.36731e+33">
+  <rule c="1193 5519: 1" weight="6.36731e+33">
     <match lemma="trabajo" tags="n.m.sg"><select lemma="work" tags="n.sg"/></match>
     <match lemma="y" tags="cnjcoo"/>
     <match lemma="por" tags="pr"/>
   </rule>
-  <rule c="1192 5515: 1" weight="6.00946e+27">
+  <rule c="1194 5524: 1" weight="6.00946e+27">
     <match lemma="trabajo" tags="n.m.sg"><select lemma="job" tags="n.pl"/></match>
     <match lemma="y" tags="cnjcoo"/>
   </rule>
-  <rule c="1193 5519: 1" weight="8.32851e+21">
+  <rule c="1195 5528: 1" weight="8.32851e+21">
     <match lemma="trabajo" tags="n.m.sg"><select lemma="employment" tags="n.sg"/></match>
     <match lemma="y" tags="cnjcoo"/>
   </rule>
-  <rule c="1194 5523: 1" weight="5.25659e+33">
+  <rule c="1196 5532: 1" weight="5.25659e+33">
     <match lemma="suyo" tags="det.pos.mf.sg"/>
     <match lemma="trabajo" tags="n.m.sg"><select lemma="work" tags="n.sg"/></match>
   </rule>
-  <rule c="1195 5527: 1" weight="5.89694e+33">
+  <rule c="1197 5536: 1" weight="5.89694e+33">
     <match lemma="el" tags="det.def.m.sg"/>
     <match lemma="trabajo" tags="n.m.sg"><select lemma="work" tags="n.sg"/></match>
   </rule>
-  <rule c="1196 5531: 1" weight="6.52307e+33">
+  <rule c="1198 5540: 1" weight="6.52307e+33">
     <match lemma="trabajo" tags="n.m.sg"><select lemma="work" tags="n.sg"/></match>
     <match lemma="realizar" tags="vblex.pp.m.sg"/>
   </rule>
-  <rule c="1197 5535: 1" weight="6.52307e+33">
+  <rule c="1199 5544: 1" weight="6.52307e+33">
     <match lemma="el" tags="det.def.m.sg"/>
     <match lemma="trabajo" tags="n.m.sg"><select lemma="work" tags="n.sg"/></match>
     <match lemma="realizar" tags="vblex.pp.m.sg"/>
   </rule>
-  <rule c="1198 5540: 1" weight="5.08734e+33">
+  <rule c="1200 5549: 1" weight="5.08734e+33">
     <match lemma="trabajo" tags="n.m.sg"><select lemma="work" tags="n.sg"/></match>
     <match lemma="de" tags="pr"/>
   </rule>
-  <rule c="1199 5544: 1" weight="6.50586e+33">
+  <rule c="1201 5553: 1" weight="6.50586e+33">
     <match lemma="el" tags="det.def.m.sg"/>
     <match lemma="trabajo" tags="n.m.sg"><select lemma="work" tags="n.sg"/></match>
     <match lemma="de" tags="pr"/>
   </rule>
-  <rule c="1200 5549: 1" weight="5148630.0">
+  <rule c="1202 5558: 1" weight="5148630.0">
     <match lemma="trabajo" tags="n.m.sg"><select lemma="working time" tags="n.sg"/></match>
     <match lemma="de" tags="pr"/>
   </rule>
-  <rule c="1201 5553: 1" weight="2.2986e+31">
+  <rule c="1203 5562: 1" weight="2.2986e+31">
     <match lemma="trabajo" tags="n.m.sg"><select lemma="work" tags="n.sg"/></match>
     <match lemma="en" tags="pr"/>
   </rule>
-  <rule c="1202 5557: 1" weight="6.42242e+33">
+  <rule c="1204 5566: 1" weight="6.42242e+33">
     <match lemma="suyo" tags="det.pos.mf.sg"/>
     <match lemma="trabajo" tags="n.m.sg"><select lemma="work" tags="n.sg"/></match>
     <match lemma="en" tags="pr"/>
   </rule>
-  <rule c="1203 5562: 1" weight="7.46489e+27">
+  <rule c="1205 5571: 1" weight="7.46489e+27">
     <match lemma="trabajo" tags="n.m.sg"><select lemma="job" tags="n.pl"/></match>
     <match lemma="en" tags="pr"/>
   </rule>
-  <rule c="1204 5566: 1" weight="1.77678e+31">
+  <rule c="1206 5575: 1" weight="1.77678e+31">
     <match lemma="de" tags="pr"/>
     <match lemma="trabajo" tags="n.m.sg"><select lemma="work" tags="n.sg"/></match>
   </rule>
-  <rule c="1205 5570: 1" weight="1.39538e+28">
+  <rule c="1207 5579: 1" weight="1.39538e+28">
     <match lemma="de" tags="pr"/>
     <match lemma="trabajo" tags="n.m.sg"><select lemma="job" tags="n.pl"/></match>
   </rule>
-  <rule c="1206 5574: 1" weight="1.63529e+31">
+  <rule c="1208 5583: 1" weight="1.63529e+31">
     <match lemma="de" tags="pr"/>
     <match lemma="trabajo" tags="n.m.sg"><select lemma="job" tags="n.pl"/></match>
     <match lemma="en" tags="pr"/>
   </rule>
-  <rule c="1207 5579: 1" weight="4.44278e+29">
+  <rule c="1209 5588: 1" weight="4.44278e+29">
     <match lemma="puesto" tags="n.m.pl"/>
     <match lemma="de" tags="pr"/>
     <match lemma="trabajo" tags="n.m.sg"><select lemma="job" tags="n.pl"/></match>
   </rule>
-  <rule c="1208 5584: 1" weight="1.00673e+22">
+  <rule c="1210 5593: 1" weight="1.00673e+22">
     <match lemma="de" tags="pr"/>
     <match lemma="trabajo" tags="n.m.sg"><select lemma="employment" tags="n.sg"/></match>
   </rule>
-  <rule c="1209 5588: 1" weight="2219310000000000.0">
+  <rule c="1211 5597: 1" weight="2219310000000000.0">
     <match lemma="de" tags="pr"/>
     <match lemma="trabajo" tags="n.m.sg"><select lemma="job" tags="n.sg"/></match>
   </rule>
-  <rule c="1210 5592: 1" weight="2.58282e+17">
+  <rule c="1212 5601: 1" weight="2.58282e+17">
     <match lemma="puesto" tags="n.m.pl"/>
     <match lemma="de" tags="pr"/>
     <match lemma="trabajo" tags="n.m.sg"><select lemma="job" tags="n.sg"/></match>
   </rule>
-  <rule c="1211 5597: 1" weight="1308510000.0">
+  <rule c="1213 5606: 1" weight="1308510000.0">
     <match lemma="de" tags="pr"/>
     <match lemma="trabajo" tags="n.m.sg"><select lemma="working time" tags="n.sg"/></match>
   </rule>
-  <rule c="1212 5601: 1" weight="6.52307e+33">
+  <rule c="1214 5610: 1" weight="6.52307e+33">
     <match lemma="uno" tags="det.ind.m.sg"/>
     <match lemma="trabajo" tags="n.m.sg"><select lemma="work" tags="n.sg"/></match>
   </rule>
-  <rule c="1213 5605: 1" weight="5.5712e+33">
-    <match lemma="trabajo" tags="n.m.sg"><select lemma="work" tags="n.sg"/></match>
-    <match lemma="que" tags="rel.an.mf.sp"/>
-  </rule>
-  <rule c="1214 5609: 1" weight="6.52307e+33">
-    <match lemma="excelente" tags="adj.mf.sg"/>
-    <match lemma="trabajo" tags="n.m.sg"><select lemma="work" tags="n.sg"/></match>
-  </rule>
-  <rule c="1215 5613: 1" weight="6.52307e+33">
-    <match lemma="excelente" tags="adj.mf.sg"/>
+  <rule c="1215 5614: 1" weight="5.5712e+33">
     <match lemma="trabajo" tags="n.m.sg"><select lemma="work" tags="n.sg"/></match>
     <match lemma="que" tags="rel.an.mf.sp"/>
   </rule>
   <rule c="1216 5618: 1" weight="6.52307e+33">
+    <match lemma="excelente" tags="adj.mf.sg"/>
+    <match lemma="trabajo" tags="n.m.sg"><select lemma="work" tags="n.sg"/></match>
+  </rule>
+  <rule c="1217 5622: 1" weight="6.52307e+33">
+    <match lemma="excelente" tags="adj.mf.sg"/>
+    <match lemma="trabajo" tags="n.m.sg"><select lemma="work" tags="n.sg"/></match>
+    <match lemma="que" tags="rel.an.mf.sp"/>
+  </rule>
+  <rule c="1218 5627: 1" weight="6.52307e+33">
     <match lemma="el" tags="det.def.m.sg"/>
     <match lemma="excelente" tags="adj.mf.sg"/>
     <match lemma="trabajo" tags="n.m.sg"><select lemma="work" tags="n.sg"/></match>
   </rule>
-  <rule c="1217 5623: 1" weight="6.52307e+33">
+  <rule c="1219 5632: 1" weight="6.52307e+33">
     <match lemma="trabajo" tags="n.m.sg"><select lemma="work" tags="n.sg"/></match>
     <match lemma="que" tags="rel.an.mf.sp"/>
     <match lemma="haber" tags="vbhaver.pri.p3.sg"/>
   </rule>
-  <rule c="1218 5628: 1" weight="6.52307e+33">
+  <rule c="1220 5637: 1" weight="6.52307e+33">
     <match lemma="de" tags="pr"/>
     <match lemma="uno" tags="det.ind.m.sg"/>
     <match lemma="trabajo" tags="n.m.sg"><select lemma="work" tags="n.sg"/></match>
   </rule>
-  <rule c="1219 5633: 1" weight="1.97561e+31">
+  <rule c="1221 5642: 1" weight="1.97561e+31">
     <match lemma="de" tags="pr"/>
     <match lemma="trabajo" tags="n.m.sg"><select lemma="job" tags="n.pl"/></match>
     <match lemma="y" tags="cnjcoo"/>
   </rule>
-  <rule c="1220 5638: 1" weight="1.9113e+27">
+  <rule c="1222 5647: 1" weight="1.9113e+27">
     <match lemma="de" tags="pr"/>
     <match lemma="trabajo" tags="n.m.sg"><select lemma="employment" tags="n.sg"/></match>
     <match lemma="y" tags="cnjcoo"/>
   </rule>
-  <rule c="1221 5643: 1" weight="6.44052e+33">
+  <rule c="1223 5652: 1" weight="6.44052e+33">
     <match lemma="nuestro" tags="det.pos.m.sg"/>
     <match lemma="trabajo" tags="n.m.sg"><select lemma="work" tags="n.sg"/></match>
   </rule>
-  <rule c="1222 5647: 1" weight="6.46523e+33">
+  <rule c="1224 5656: 1" weight="6.46523e+33">
     <match lemma="de" tags="pr"/>
     <match lemma="nuestro" tags="det.pos.m.sg"/>
     <match lemma="trabajo" tags="n.m.sg"><select lemma="work" tags="n.sg"/></match>
   </rule>
-  <rule c="1223 5652: 1" weight="6.46272e+33">
+  <rule c="1225 5661: 1" weight="6.46272e+33">
     <match lemma="trabajo" tags="n.m.sg"><select lemma="work" tags="n.sg"/></match>
     <match lemma="de" tags="pr"/>
     <match lemma="el" tags="det.def.f.sg"/>
   </rule>
-  <rule c="1224 5657: 1" weight="16620800000.0">
+  <rule c="1226 5666: 1" weight="16620800000.0">
     <match lemma="de" tags="pr"/>
     <match lemma="trabajo" tags="n.m.sg"><select lemma="working time" tags="n.sg"/></match>
     <match lemma="de" tags="pr"/>
   </rule>
-  <rule c="1225 5662: 1" weight="6.52307e+33">
+  <rule c="1227 5671: 1" weight="6.52307e+33">
     <match lemma="y" tags="cnjcoo"/>
     <match lemma="el" tags="det.def.m.sg"/>
     <match lemma="trabajo" tags="n.m.sg"><select lemma="work" tags="n.sg"/></match>
   </rule>
-  <rule c="1226 5667: 1" weight="6.36731e+33">
+  <rule c="1228 5676: 1" weight="6.36731e+33">
     <match lemma="suyo" tags="det.pos.mf.sg"/>
     <match lemma="trabajo" tags="n.m.sg"><select lemma="work" tags="n.sg"/></match>
     <match lemma="y" tags="cnjcoo"/>
   </rule>
-  <rule c="1227 5672: 1" weight="6.52307e+33">
+  <rule c="1229 5681: 1" weight="6.52307e+33">
     <match lemma="el" tags="det.def.m.sg"/>
     <match lemma="trabajo" tags="n.m.sg"><select lemma="work" tags="n.sg"/></match>
     <match lemma="que" tags="rel.an.mf.sp"/>
   </rule>
-  <rule c="1228 5677: 1" weight="6.5173e+33">
+  <rule c="1230 5686: 1" weight="6.5173e+33">
     <match lemma="a" tags="pr"/>
     <match lemma="el" tags="det.def.m.sg"/>
     <match lemma="trabajo" tags="n.m.sg"><select lemma="work" tags="n.sg"/></match>
   </rule>
-  <rule c="1229 5682: 1" weight="6.52307e+33">
+  <rule c="1231 5691: 1" weight="6.52307e+33">
     <match lemma="trabajo" tags="n.m.sg"><select lemma="work" tags="n.sg"/></match>
     <match lemma="que" tags="rel.an.mf.sp"/>
     <match lemma="estar" tags="vblex.pri.p3.sg"/>
   </rule>
-  <rule c="1230 5687: 1" weight="6.52307e+33">
+  <rule c="1232 5696: 1" weight="6.52307e+33">
     <match lemma="trabajo" tags="n.m.sg"><select lemma="work" tags="n.sg"/></match>
     <match lemma="se" tags="prn.pro.ref.p3.mf.sp"/>
   </rule>
-  <rule c="1231 5691: 1" weight="15324600000.0">
+  <rule c="1233 5700: 1" weight="15324600000.0">
     <match lemma="tiempo" tags="n.m.sg"/>
     <match lemma="de" tags="pr"/>
     <match lemma="trabajo" tags="n.m.sg"><select lemma="working time" tags="n.sg"/></match>
   </rule>
-  <rule c="1232 5696: 1" weight="1.0263e+25">
+  <rule c="1234 5705: 1" weight="1.0263e+25">
     <match lemma="condición" tags="n.f.pl"/>
     <match lemma="de" tags="pr"/>
     <match lemma="trabajo" tags="n.m.sg"><select lemma="employment" tags="n.sg"/></match>
   </rule>
-  <rule c="1233 5701: 1" weight="2.51026">
+  <rule c="1235 5710: 1" weight="2.51026">
     <match lemma="el" tags="det.def.m.sg"/>
     <match lemma="turno" tags="n.m.sg"><select lemma="question" tags="n.pl"/></match>
   </rule>
-  <rule c="1234 5705: 1" weight="2.08308">
+  <rule c="1236 5714: 1" weight="2.08308">
     <match lemma="turno" tags="n.m.sg"><select lemma="question" tags="n.pl"/></match>
     <match lemma="de" tags="pr"/>
   </rule>
-  <rule c="1235 5709: 1" weight="2.51026">
+  <rule c="1237 5718: 1" weight="2.51026">
     <match lemma="el" tags="det.def.m.sg"/>
     <match lemma="turno" tags="n.m.sg"><select lemma="question" tags="n.pl"/></match>
     <match lemma="de" tags="pr"/>
   </rule>
-  <rule c="1236 5714: 1" weight="2.7629">
+  <rule c="1238 5723: 1" weight="2.7629">
     <match lemma="a" tags="pr"/>
     <match lemma="el" tags="det.def.m.sg"/>
     <match lemma="turno" tags="n.m.sg"><select lemma="question" tags="n.pl"/></match>
   </rule>
-  <rule c="1237 5719: 1" weight="2.08308">
+  <rule c="1239 5728: 1" weight="2.08308">
     <match lemma="turno" tags="n.m.sg"><select lemma="question" tags="n.pl"/></match>
     <match lemma="de" tags="pr"/>
     <match lemma="pregunta" tags="n.f.pl"/>
   </rule>
-  <rule c="1238 5724: 1" weight="2.7629">
+  <rule c="1240 5733: 1" weight="2.7629">
     <match lemma="a" tags="pr"/>
     <match lemma="el" tags="det.def.m.sg"/>
     <match lemma="turno" tags="n.m.sg"><select lemma="question" tags="n.pl"/></match>
     <match lemma="de" tags="pr"/>
     <match lemma="pregunta" tags="n.f.pl"/>
   </rule>
-  <rule c="1239 5731: 1" weight="1.51007">
+  <rule c="1241 5740: 1" weight="1.51007">
     <match lemma="turno" tags="n.m.sg"><select lemma="question" tags="n.sg"/></match>
     <match lemma="de" tags="pr"/>
   </rule>
-  <rule c="1240 5735: 1" weight="1.51007">
+  <rule c="1242 5744: 1" weight="1.51007">
     <match lemma="turno" tags="n.m.sg"><select lemma="question" tags="n.sg"/></match>
     <match lemma="de" tags="pr"/>
     <match lemma="pregunta" tags="n.f.pl"/>
   </rule>
-  <rule c="1241 5740: 1" weight="75133.0">
+  <rule c="1243 5749: 1" weight="75133.0">
     <match lemma="moneda" tags="n.f.sg"/>
     <match lemma="único" tags="adj.f.sg"><select lemma="single" tags="adj"/></match>
   </rule>
-  <rule c="1242 5744: 1" weight="75133.0">
+  <rule c="1244 5753: 1" weight="75133.0">
     <match lemma="el" tags="det.def.f.sg"/>
     <match lemma="moneda" tags="n.f.sg"/>
     <match lemma="único" tags="adj.f.sg"><select lemma="single" tags="adj"/></match>
   </rule>
-  <rule c="1243 5749: 1" weight="3518380000.0">
+  <rule c="1245 5758: 1" weight="3518380000.0">
     <match lemma="el" tags="det.def.f.sg"/>
     <match lemma="único" tags="adj.f.sg"><select lemma="only" tags="adj"/></match>
   </rule>
-  <rule c="1244 5753: 1" weight="9.55341e+38">
+  <rule c="1246 5762: 1" weight="9.55341e+38">
     <match lemma="único" tags="adj.m.sg"><select lemma="single" tags="adj"/></match>
     <match lemma="y" tags="cnjcoo"/>
   </rule>
-  <rule c="1245 5757: 1" weight="9.55341e+38">
+  <rule c="1247 5766: 1" weight="9.55341e+38">
     <match lemma="uno" tags="det.ind.m.sg"/>
     <match lemma="único" tags="adj.m.sg"><select lemma="single" tags="adj"/></match>
   </rule>
-  <rule c="1246 5761: 1" weight="9.55341e+38">
+  <rule c="1248 5770: 1" weight="9.55341e+38">
     <match lemma="de" tags="pr"/>
     <match lemma="uno" tags="det.ind.m.sg"/>
     <match lemma="único" tags="adj.m.sg"><select lemma="single" tags="adj"/></match>
   </rule>
-  <rule c="1247 5766: 1" weight="1.35388e+26">
+  <rule c="1249 5775: 1" weight="1.35388e+26">
     <match lemma="el" tags="det.def.m.sg"/>
     <match lemma="único" tags="adj.m.sg"><select lemma="only" tags="adj"/></match>
   </rule>
-  <rule c="1248 5770: 1" weight="7.07066e+25">
+  <rule c="1250 5779: 1" weight="7.07066e+25">
     <match lemma="ser" tags="vbser.pri.p3.sg"/>
     <match lemma="el" tags="det.def.m.sg"/>
     <match lemma="único" tags="adj.m.sg"><select lemma="only" tags="adj"/></match>

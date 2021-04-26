@@ -19,61 +19,61 @@ ITERATION 2
   log_e likelihood: -848671
   log_2 likelihood: -1.22437e+06
      cross entropy: 9.66875
-        perplexity: 813.923
-      posterior p0: 0.102548
- posterior al-feat: -0.11851
+        perplexity: 813.924
+      posterior p0: 0.102547
+ posterior al-feat: -0.118512
        size counts: 1211
   1  model al-feat: -0.167337 (tension=4)
-  2  model al-feat: -0.145965 (tension=4.97655)
-  3  model al-feat: -0.135803 (tension=5.52565)
-  4  model al-feat: -0.129997 (tension=5.87151)
-  5  model al-feat: -0.126373 (tension=6.10125)
-  6  model al-feat: -0.123992 (tension=6.25851)
-  7  model al-feat: -0.122379 (tension=6.36815)
-  8  model al-feat: -0.121262 (tension=6.44553)
-     final tension: 6.50058
+  2  model al-feat: -0.145966 (tension=4.9765)
+  3  model al-feat: -0.135804 (tension=5.52559)
+  4  model al-feat: -0.129998 (tension=5.87143)
+  5  model al-feat: -0.126374 (tension=6.10115)
+  6  model al-feat: -0.123994 (tension=6.2584)
+  7  model al-feat: -0.12238 (tension=6.36803)
+  8  model al-feat: -0.121264 (tension=6.44541)
+     final tension: 6.50045
 ITERATION 3
 ....
   log_e likelihood: -593243
-  log_2 likelihood: -855868
+  log_2 likelihood: -855869
      cross entropy: 6.75871
         perplexity: 108.286
-      posterior p0: 0.0721116
- posterior al-feat: -0.0927005
+      posterior p0: 0.0721107
+ posterior al-feat: -0.0927018
        size counts: 1211
-  1  model al-feat: -0.120479 (tension=6.50058)
-  2  model al-feat: -0.113056 (tension=7.05615)
-  3  model al-feat: -0.108126 (tension=7.46325)
-  4  model al-feat: -0.104646 (tension=7.77175)
-  5  model al-feat: -0.102092 (tension=8.01067)
-  6  model al-feat: -0.100164 (tension=8.1985)
-  7  model al-feat: -0.0986802 (tension=8.34777)
-  8  model al-feat: -0.0975209 (tension=8.46736)
-     final tension: 8.56377
+  1  model al-feat: -0.120481 (tension=6.50045)
+  2  model al-feat: -0.113057 (tension=7.05603)
+  3  model al-feat: -0.108127 (tension=7.46314)
+  4  model al-feat: -0.104648 (tension=7.77164)
+  5  model al-feat: -0.102093 (tension=8.01055)
+  6  model al-feat: -0.100165 (tension=8.19838)
+  7  model al-feat: -0.0986814 (tension=8.34765)
+  8  model al-feat: -0.0975221 (tension=8.46724)
+     final tension: 8.56364
 ITERATION 4
 ....
-  log_e likelihood: -551072
-  log_2 likelihood: -795029
-     cross entropy: 6.27827
-        perplexity: 77.6151
-      posterior p0: 0.0704351
- posterior al-feat: -0.0819096
+  log_e likelihood: -551075
+  log_2 likelihood: -795033
+     cross entropy: 6.27829
+        perplexity: 77.6166
+      posterior p0: 0.070434
+ posterior al-feat: -0.0819105
        size counts: 1211
-  1  model al-feat: -0.0966049 (tension=8.56377)
-  2  model al-feat: -0.0939103 (tension=8.85768)
-  3  model al-feat: -0.0918136 (tension=9.09769)
-  4  model al-feat: -0.0901493 (tension=9.29577)
-  5  model al-feat: -0.088808 (tension=9.46057)
-  6  model al-feat: -0.0877141 (tension=9.59854)
-  7  model al-feat: -0.0868135 (tension=9.71463)
-  8  model al-feat: -0.0860664 (tension=9.81271)
-     final tension: 9.89584
+  1  model al-feat: -0.0966061 (tension=8.56364)
+  2  model al-feat: -0.0939114 (tension=8.85756)
+  3  model al-feat: -0.0918146 (tension=9.09757)
+  4  model al-feat: -0.0901503 (tension=9.29565)
+  5  model al-feat: -0.088809 (tension=9.46045)
+  6  model al-feat: -0.0877151 (tension=9.59842)
+  7  model al-feat: -0.0868145 (tension=9.71451)
+  8  model al-feat: -0.0860673 (tension=9.81259)
+     final tension: 9.89572
 ITERATION 5 (FINAL)
 ....
-  log_e likelihood: -538189
-  log_2 likelihood: -776443
-     cross entropy: 6.13149
-        perplexity: 70.1073
+  log_e likelihood: -538191
+  log_2 likelihood: -776446
+     cross entropy: 6.13151
+        perplexity: 70.1083
       posterior p0: 0
  posterior al-feat: 0
        size counts: 1211
@@ -96,64 +96,64 @@ ITERATION 1
        size counts: 1211
 ITERATION 2
 ....
-  log_e likelihood: -816741
-  log_2 likelihood: -1.17831e+06
-     cross entropy: 9.56364
-        perplexity: 756.734
-      posterior p0: 0.103295
+  log_e likelihood: -816738
+  log_2 likelihood: -1.1783e+06
+     cross entropy: 9.56361
+        perplexity: 756.718
+      posterior p0: 0.103297
  posterior al-feat: -0.118706
        size counts: 1211
   1  model al-feat: -0.176726 (tension=4)
   2  model al-feat: -0.150186 (tension=5.16041)
-  3  model al-feat: -0.138421 (tension=5.79002)
-  4  model al-feat: -0.131842 (tension=6.18431)
-  5  model al-feat: -0.12776 (tension=6.44703)
-  6  model al-feat: -0.125078 (tension=6.62812)
-  7  model al-feat: -0.123251 (tension=6.75556)
-  8  model al-feat: -0.121978 (tension=6.84647)
-     final tension: 6.9119
+  3  model al-feat: -0.138421 (tension=5.79001)
+  4  model al-feat: -0.131842 (tension=6.1843)
+  5  model al-feat: -0.127761 (tension=6.44702)
+  6  model al-feat: -0.125078 (tension=6.62811)
+  7  model al-feat: -0.123251 (tension=6.75555)
+  8  model al-feat: -0.121978 (tension=6.84645)
+     final tension: 6.91189
 ITERATION 3
 ....
   log_e likelihood: -577435
-  log_2 likelihood: -833063
+  log_2 likelihood: -833062
      cross entropy: 6.76149
         perplexity: 108.495
-      posterior p0: 0.0723192
- posterior al-feat: -0.0889289
+      posterior p0: 0.0723208
+ posterior al-feat: -0.0889287
        size counts: 1211
-  1  model al-feat: -0.121076 (tension=6.9119)
-  2  model al-feat: -0.112835 (tension=7.55484)
+  1  model al-feat: -0.121076 (tension=6.91189)
+  2  model al-feat: -0.112835 (tension=7.55483)
   3  model al-feat: -0.107366 (tension=8.03297)
   4  model al-feat: -0.103486 (tension=8.40172)
-  5  model al-feat: -0.100611 (tension=8.69286)
-  6  model al-feat: -0.0984168 (tension=8.92651)
-  7  model al-feat: -0.0967039 (tension=9.11627)
-  8  model al-feat: -0.0953447 (tension=9.27177)
-     final tension: 9.40009
+  5  model al-feat: -0.100611 (tension=8.69287)
+  6  model al-feat: -0.0984167 (tension=8.92652)
+  7  model al-feat: -0.0967038 (tension=9.11628)
+  8  model al-feat: -0.0953446 (tension=9.27178)
+     final tension: 9.4001
 ITERATION 4
 ....
-  log_e likelihood: -534832
-  log_2 likelihood: -771600
-     cross entropy: 6.26263
-        perplexity: 76.7785
-      posterior p0: 0.0698538
- posterior al-feat: -0.077581
+  log_e likelihood: -534831
+  log_2 likelihood: -771598
+     cross entropy: 6.26261
+        perplexity: 76.7777
+      posterior p0: 0.0698548
+ posterior al-feat: -0.07758
        size counts: 1211
-  1  model al-feat: -0.0942522 (tension=9.40009)
-  2  model al-feat: -0.0915308 (tension=9.73351)
-  3  model al-feat: -0.0893774 (tension=10.0125)
-  4  model al-feat: -0.0876395 (tension=10.2484)
-  5  model al-feat: -0.086215 (tension=10.4496)
-  6  model al-feat: -0.0850329 (tension=10.6223)
-  7  model al-feat: -0.084042 (tension=10.7713)
-  8  model al-feat: -0.0832042 (tension=10.9005)
-     final tension: 11.013
+  1  model al-feat: -0.094252 (tension=9.4001)
+  2  model al-feat: -0.0915305 (tension=9.73354)
+  3  model al-feat: -0.089377 (tension=10.0126)
+  4  model al-feat: -0.087639 (tension=10.2485)
+  5  model al-feat: -0.0862145 (tension=10.4497)
+  6  model al-feat: -0.0850324 (tension=10.6224)
+  7  model al-feat: -0.0840414 (tension=10.7714)
+  8  model al-feat: -0.0832036 (tension=10.9006)
+     final tension: 11.0131
 ITERATION 5 (FINAL)
 ....
-  log_e likelihood: -522266
-  log_2 likelihood: -753471
-     cross entropy: 6.11549
-        perplexity: 69.334
+  log_e likelihood: -522263
+  log_2 likelihood: -753466
+     cross entropy: 6.11545
+        perplexity: 69.3321
       posterior p0: 0
  posterior al-feat: 0
        size counts: 1211
@@ -207,8 +207,8 @@ error: de<pr> != det
 error: de<pr> != gen
 error: de<pr> != guio
 error: de<pr> != cnjcoo
-error: de<pr> != vblex
 error: de<pr> != adv
+error: de<pr> != vblex
 error: de<pr> != n
 error: de<pr> != n
 error: de<pr> != vbser
@@ -218,16 +218,16 @@ error: de<pr> != num
 error: de<pr> != vbser
 error: de<pr> != n
 error: de<pr> != adj
-error: de<pr> != vblex
-error: de<pr> != adv
 error: de<pr> != cm
-error: de<pr> != n
-error: de<pr> != adv
-error: de<pr> != vblex
 error: de<pr> != vblex
 error: de<pr> != adv
 error: de<pr> != n
 error: de<pr> != adv
+error: de<pr> != vblex
+error: de<pr> != vblex
+error: de<pr> != adv
+error: de<pr> != n
+error: de<pr> != adv
 error: de<pr> != n
 error: de<pr> != vblex
 error: de<pr> != n
@@ -242,6 +242,7 @@ error: de<pr> != n
 error: de<pr> != vblex
 error: de<pr> != vblex
 error: de<pr> != n
+error: de<pr> != vblex
 error: de<pr> != vblex
 error: de<pr> != n
 error: de<pr> != vbhaver
@@ -249,7 +250,6 @@ error: de<pr> != vblex
 error: de<pr> != n
 error: de<pr> != adj
 error: de<pr> != n
-error: de<pr> != vblex
 error: de<pr> != vblex
 error: de<pr> != vaux
 error: de<pr> != adv
