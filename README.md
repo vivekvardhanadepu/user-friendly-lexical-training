@@ -6,13 +6,7 @@ The procedure for lexical selection training is a bit messy, with various script
 
 In directory coding_challenges,
 
-**Parallel corpus:**
-
-europarl-v7.spa-eng.eng
-
-europarl-v7.spa-eng.spa
-
-**Scripts:**
+**Training parallel corpora:**
 
 *(change the relevant paths)*
 
@@ -24,7 +18,7 @@ alignment and training: alignment.sh
 
 rule-extraction: rule_extraction.sh
 
-relevant logs in `.log`
+cache-SL-TL: intermediate output files and logs for debugging
 
 **Typical moses training:**(*without using apertium tools*)
 
@@ -36,8 +30,10 @@ Ref: www.statmt.org/moses/?n=Moses.Baseline
 
 **Simple TOML parser**
 
-parser: toml-parser.sh
+parser: toml_parser.py
 
 parser test: parser_test.toml
 
-Right now, it does basic syntax check and tests whether apertium, python, lttoolbox and apertium-lex-tools(specific version) are installed or not
+parser test output: parser_test.out
+
+Right now, it takes toml file, checks the syntax, converts and outputs it as a dictionary
