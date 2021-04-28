@@ -2,8 +2,8 @@
 
 CORPUS="europarl-v7"
 PAIR="eng-spa"
-SL="eng"
-TL="spa"
+SL="spa"
+TL="eng"
 
 PROJ_HOME="/home/vivek/Documents/FOSS/apertium/user-friendly-lexical-training/coding_challenges"
 LEX_TOOLS="/home/vivek/Documents/FOSS/apertium/apertium-lex-tools"

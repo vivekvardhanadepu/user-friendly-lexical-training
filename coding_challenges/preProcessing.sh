@@ -2,14 +2,14 @@
 
 CORPUS="europarl-v7"
 PAIR="eng-spa"
-SL="eng"
-TL="spa"
+SL="spa"
+TL="eng"
 DATA="/home/vivek/Documents/FOSS/apertium/user-friendly-lexical-training/coding_challenges/apertium-$PAIR"
 
 # LEX_TOOLS="/home/vivek/Documents/FOSS/apertium/apertium-lex-tools"
 # SCRIPTS="$LEX_TOOLS/scripts"
 # MOSESDECODER="/home/vivek/Documents/FOSS/apertium/mosesdecoder/scripts/training"
-TRAINING_LINES=4500
+TRAINING_LINES=7000
 
 
 if [ ! -d cache-$SL-$TL ]; then 
