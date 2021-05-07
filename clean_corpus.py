@@ -1,4 +1,6 @@
 # removes lines above and below the empty lines including the empty lines in each corpus
+# removes lines containing only ° and *
+# stripping trailing and leading spaces
 
 
 import sys
@@ -38,6 +40,11 @@ def main(argc, argv):
                 #         del lines1[i], lines2[i]
             if (not lines1[i].strip()) or (not lines2[i].strip()):
                 lines_to_remove.update([i-1, i, i+1])
+                continue
+            
+            # removing lines only with '°' and '*'
+            if (not lines1[i].replace('°', ' ').replace('*', ' ').strip()) and (not lines2[i].replace('°', ' ').replace('*', ' ').strip()):
+                lines_to_remove.add(i)
             # print(lines1, lines2)
 
         # assert len(lines1) == len(lines2)
@@ -77,8 +84,9 @@ def main(argc, argv):
         lines_to_keep = lines_to_keep - lines_to_remove
         
         for i in sorted(lines_to_keep):
-            l1.write(lines1[i])
-            l2.write(lines2[i])
+            # also removing leading and trailing spaces
+            l1.write(lines1[i].strip() + '\n')
+            l2.write(lines2[i].strip() + '\n')
         
         l1.truncate()
         l2.truncate()
