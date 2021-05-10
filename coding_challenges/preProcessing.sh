@@ -1,6 +1,6 @@
 #!/bin/bash
 
-CORPUS="europarl-v7"
+CORPUS="Europarl-v7"
 PAIR="eng-spa"
 SL="spa"
 TL="eng"
@@ -9,18 +9,17 @@ DATA="/home/vivek/Documents/FOSS/apertium/user-friendly-lexical-training/coding_
 # LEX_TOOLS="/home/vivek/Documents/FOSS/apertium/apertium-lex-tools"
 # SCRIPTS="$LEX_TOOLS/scripts"
 # MOSESDECODER="/home/vivek/Documents/FOSS/apertium/mosesdecoder/scripts/training"
-TRAINING_LINES=7000
-
+TRAINING_LINES=100
 
 if [ ! -d cache-$SL-$TL ]; then 
 	mkdir cache-$SL-$TL;
 fi
 
 # TAG CORPUS
-<"$CORPUS.$PAIR.$SL" head -n $TRAINING_LINES | apertium -d "$DATA" $SL-$TL-tagger \
+<"$CORPUS.$PAIR.$SL" head -n $TRAINING_LINES | apertium-destxt | apertium -d "$DATA" -f none $SL-$TL-tagger \
 	| apertium-pretransfer > cache-$SL-$TL/$CORPUS.tagged.$SL;
 
-<"$CORPUS.$PAIR.$TL" head -n $TRAINING_LINES | apertium -d "$DATA" $TL-$SL-tagger \
+<"$CORPUS.$PAIR.$TL" head -n $TRAINING_LINES | apertium-destxt | apertium -d "$DATA" -f none $TL-$SL-tagger \
 	| apertium-pretransfer > cache-$SL-$TL/$CORPUS.tagged.$TL;
 
 # N=$(wc -l $CORPUS.$PAIR.$SL | cut -d ' ' -f 1)

@@ -1,6 +1,6 @@
 #!/bin/bash
 
-CORPUS="europarl-v7"
+CORPUS="Europarl-v7"
 SL="spa"
 TL="eng"
 
@@ -8,6 +8,7 @@ MIN=1
 LEX_TOOLS="/home/vivek/Documents/FOSS/apertium/apertium-lex-tools"
 SCRIPTS="$LEX_TOOLS/scripts"
 YASMET=$LEX_TOOLS/yasmet
+
 python3 $SCRIPTS/ngram-count-patterns-maxent2.py cache-$SL-$TL/$CORPUS.lex.$SL-$TL cache-$SL-$TL/$CORPUS.candidates.$SL-$TL \
             2>cache-$SL-$TL/ngrams > cache-$SL-$TL/events
 

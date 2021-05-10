@@ -1,6 +1,6 @@
 #!/bin/bash
 
-CORPUS="europarl-v7"
+CORPUS="Europarl-v7"
 PAIR="eng-spa"
 SL="spa"
 TL="eng"
@@ -13,9 +13,9 @@ DATA="$PROJ_HOME/apertium-$PAIR"
 
 # ALIGN
 $FAST_ALIGN/fast_align -i cache-$SL-$TL/$CORPUS.tagged-merged.$SL-$TL -d -o -v > cache-$SL-$TL/$CORPUS.forward-align.$SL-$TL
-$FAST_ALIGN/fast_align -i cache-$SL-$TL/$CORPUS.tagged-merged.$SL-$TL -r -d -o -v > cache-$SL-$TL/$CORPUS.reverse-align.$SL-$TL
-$FAST_ALIGN/atools -i cache-$SL-$TL/$CORPUS.forward-align.$SL-$TL -j cache-$SL-$TL/$CORPUS.reverse-align.$SL-$TL \
-                 -c grow-diag-final-and > cache-$SL-$TL/$CORPUS.symm-align.$SL-$TL
+# $FAST_ALIGN/fast_align -i cache-$SL-$TL/$CORPUS.tagged-merged.$SL-$TL -r -d -o -v > cache-$SL-$TL/$CORPUS.reverse-align.$SL-$TL
+# $FAST_ALIGN/atools -i cache-$SL-$TL/$CORPUS.forward-align.$SL-$TL -j cache-$SL-$TL/$CORPUS.reverse-align.$SL-$TL \
+#                  -c grow-diag-final-and > cache-$SL-$TL/$CORPUS.symm-align.$SL-$TL
 
 # head -n $TRAINING_LINES $CORPUS.$PAIR.$SL > tmp1
 # head -n $TRAINING_LINES $CORPUS.$PAIR.$TL > tmp2
@@ -31,7 +31,7 @@ paste cache-$SL-$TL/$CORPUS.tagged.$TL cache-$SL-$TL/$CORPUS.tagged.$SL cache-$S
 	| sed 's/~/ /g' | multitrans -p -t $DATA/$TL-$SL.autobil.bin > tmp1
 
 <cache-$SL-$TL/$CORPUS.phrasetable.$SL-$TL sed 's/ ||| /\t/g' | cut -f 2 \
-	| sed 's/~/ /g' | multitrans -p -t $DATA/$SL-$TL.autobil.bin> tmp2
+	| sed 's/~/ /g' | multitrans -p -t $DATA/$SL-$TL.autobil.bin > tmp2
 
 <cache-$SL-$TL/$CORPUS.phrasetable.$SL-$TL sed 's/ ||| /\t/g' | cut -f 3 > tmp3
 
