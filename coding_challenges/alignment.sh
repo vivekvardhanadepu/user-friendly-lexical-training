@@ -28,10 +28,10 @@ paste cache-$SL-$TL/$CORPUS.tagged.$TL cache-$SL-$TL/$CORPUS.tagged.$SL cache-$S
 
 # TRIM TAGS
 <cache-$SL-$TL/$CORPUS.phrasetable.$SL-$TL sed 's/ ||| /\t/g' | cut -f 1 \
-	| sed 's/~/ /g' | $LEX_TOOLS/process-tagger-output $DATA/$TL-$SL.autobil.bin > tmp1 # multitrans -p -t $DATA/$TL-$SL.autobil.bin > tmp1
+	| sed 's/~/ /g' | $SCRIPTS/process-tagger-output $DATA/$TL-$SL.autobil.bin > tmp1 # multitrans -p -t $DATA/$TL-$SL.autobil.bin > tmp1
 
 <cache-$SL-$TL/$CORPUS.phrasetable.$SL-$TL sed 's/ ||| /\t/g' | cut -f 2 \
-	| sed 's/~/ /g' | $LEX_TOOLS/process-tagger-output $DATA/$SL-$TL.autobil.bin > tmp2
+	| sed 's/~/ /g' | $SCRIPTS/process-tagger-output $DATA/$SL-$TL.autobil.bin > tmp2
 
 <cache-$SL-$TL/$CORPUS.phrasetable.$SL-$TL sed 's/ ||| /\t/g' | cut -f 3 > tmp3
 
@@ -39,7 +39,7 @@ paste cache-$SL-$TL/$CORPUS.tagged.$TL cache-$SL-$TL/$CORPUS.tagged.$SL cache-$S
 # 	| sed 's/~/ /g' | multitrans -b -t $DATA/$TL-$SL.autobil.bin > cache-$SL-$TL/$CORPUS.clean-biltrans.$PAIR
 # sed -i -e '1,2d' cache-$SL-$TL/$CORPUS.clean-biltrans.$PAIR
 <cache-$SL-$TL/$CORPUS.phrasetable.$SL-$TL sed 's/ ||| /\t/g' | cut -f 2 \
-	| sed 's/~/ /g' | $LEX_TOOLS/process-tagger-output $DATA/$SL-$TL.autobil.bin > cache-$SL-$TL/$CORPUS.clean-biltrans.$SL-$TL
+	| sed 's/~/ /g' | $SCRIPTS/process-tagger-output $DATA/$SL-$TL.autobil.bin > cache-$SL-$TL/$CORPUS.clean-biltrans.$SL-$TL
 
 paste tmp1 tmp2 tmp3 | sed 's/\t/ ||| /g' > cache-$SL-$TL/$CORPUS.phrasetable.$SL-$TL
 rm tmp1 tmp2 tmp3
