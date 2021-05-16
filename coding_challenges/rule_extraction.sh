@@ -7,7 +7,7 @@ TL="spa"
 MIN=1
 LEX_TOOLS="/home/vivek/Documents/FOSS/apertium/apertium-lex-tools"
 SCRIPTS="$LEX_TOOLS/scripts"
-YASMET=$LEX_TOOLS/yasmet
+# YASMET=$LEX_TOOLS/yasmet
 
 python3 $SCRIPTS/ngram-count-patterns-maxent2.py cache-$SL-$TL/$CORPUS.lex.$SL-$TL cache-$SL-$TL/$CORPUS.candidates.$SL-$TL \
             2>cache-$SL-$TL/ngrams > cache-$SL-$TL/events
@@ -23,8 +23,8 @@ while read i; do
 	echo "$num" > "tmp.yasmet.$i";
 	<cache-$SL-$TL/events.trimmed grep "^$i" | cut -f3  >> "tmp.yasmet.$i";
 	echo "$i"
-	<"tmp.yasmet.$i" $YASMET -red $MIN > "tmp.yasmet.$i.$MIN"; 
-	<"tmp.yasmet.$i.$MIN" $YASMET > "tmp.lambdas.$i"
+	<"tmp.yasmet.$i" yasmet -red $MIN > "tmp.yasmet.$i.$MIN"; 
+	<"tmp.yasmet.$i.$MIN" yasmet > "tmp.lambdas.$i"
 	<"tmp.lambdas.$i" sed "s/ /\t/g" | sed "s/^/$i\t/g" >> cache-$SL-$TL/all-lambdas;
 	# IFS='\n';
 done < tmp.sl
