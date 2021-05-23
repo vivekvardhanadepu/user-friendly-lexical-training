@@ -1,0 +1,25 @@
+# configuration for lexical training
+
+# corpus name
+CORPUS = 
+
+# source language
+SL = 
+
+# target language
+TL = 
+
+# source corpus
+CORPUS_SL = 
+
+# target corpus
+CORPUS_TL = 
+
+# apertium-lex-tools scripts
+LEX_TOOLS = 
+
+# apertium language data
+DATA = 
+
+# fast align build folder
+FAST_ALIGN = 
