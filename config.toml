@@ -1,25 +1,26 @@
 # configuration for lexical training
+# Note: pass absolute paths
 
 # corpus name
-CORPUS = 
+CORPUS = "europarl-v7"
 
 # source language
-SL = 
+SL = "eng"
 
 # target language
-TL = 
+TL = "spa"
 
 # source corpus
-CORPUS_SL = 
+CORPUS_SL = "europarl-v7.eng-spa.eng"
 
 # target corpus
-CORPUS_TL = 
+CORPUS_TL = "europarl-v7.eng-spa.spa"
 
 # apertium-lex-tools scripts
-LEX_TOOLS = 
+LEX_TOOLS = "/home/vivek/Documents/FOSS/apertium/apertium-lex-tools/scripts"
 
 # apertium language data
-DATA = 
+LANG_DATA = "/home/vivek/Documents/FOSS/apertium/user-friendly-lexical-training/coding_challenges/apertium-eng-spa"
 
 # fast align build folder
-FAST_ALIGN = 
+FAST_ALIGN = "/home/vivek/Documents/FOSS/apertium/user-friendly-lexical-training/coding_challenges/fast_align/build"
