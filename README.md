@@ -4,6 +4,10 @@ The procedure for lexical selection training is a bit messy, with various script
 
 for more, read https://wiki.apertium.org/wiki/Ideas_for_Google_Summer_of_Code/User-friendly_lexical_selection_training
 
+## tests
+
+This folder contains scripts for automated testing of the helper scripts
+
 ## coding challenges *(using for testing)*
 
 In directory coding_challenges,
