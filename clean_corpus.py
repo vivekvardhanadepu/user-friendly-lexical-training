@@ -42,8 +42,9 @@ def main(argc, argv):
                 lines_to_remove.update([i-1, i, i+1])
                 continue
             
-            # removing lines only with '°' and '*'
-            if (not lines1[i].replace('°', ' ').replace('*', ' ').strip()) and (not lines2[i].replace('°', ' ').replace('*', ' ').strip()):
+            # removing lines only with '°', '*' and '.'
+            if (not lines1[i].replace('°', '').replace('*', '').replace('.','').strip()) and \
+                        (not lines2[i].replace('°', '').replace('*', '').replace('.', '').strip()):
                 lines_to_remove.add(i)
             # print(lines1, lines2)
 
