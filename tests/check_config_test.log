@@ -1,34 +1,34 @@
 Test 1 : wrong paths
 ---------------------
-'/home/vivek/Documents/FOSS/apertium/user-friendly-lexical-training/europarl-v7.eng-spa.engabc'(CORPUS_SL) is not a file, provide a valid file or 
+'/home/vivek/Documents/FOSS/apertium/user-friendly-lexical-training/tests/../europarl-v7.eng-spa.engabc'(CORPUS_SL) is not a file, provide a valid file or 
 to download, look https://wiki.apertium.org/wiki/Corpora 
 
-'/home/vivek/Documents/FOSS/apertium/user-friendly-lexical-training/europarl-v7.eng-spa.spaabc'(CORPUS_TL) is not a file, provide a valid file or 
+'/home/vivek/Documents/FOSS/apertium/user-friendly-lexical-training/tests/../europarl-v7.eng-spa.spaabc'(CORPUS_TL) is not a file, provide a valid file or 
 to download, look https://wiki.apertium.org/wiki/Corpora 
 
-'/home/vivek/Documents/FOSS/apertium/apertium-lex-tools/scriptsabc'(LEX_TOOLS) is not a directory, provide a valid directory or 
+'/home/vivek/Documents/FOSS/apertium/user-friendly-lexical-training/tests/../../apertium-lex-tools/scriptsabc'(LEX_TOOLS) is not a directory, provide a valid directory or 
 to install, follow https://wiki.apertium.org/wiki/Install_Apertium_core_by_compiling 
 
-'/home/vivek/Documents/FOSS/apertium/user-friendly-lexical-training/coding_challenges/fast_align/buildabc'(FAST_ALIGN) is not a directory, provide a valid directory or 
+'/home/vivek/Documents/FOSS/apertium/user-friendly-lexical-training/tests/../coding_challenges/fast_align/buildabc'(FAST_ALIGN) is not a directory, provide a valid directory or 
 to install, follow https://github.com/clab/fast_align 
 
-'/home/vivek/Documents/FOSS/apertium/user-friendly-lexical-training/coding_challenges/apertium-eng-spaabc'(DATA) is not a directory, provide a valid directory or 
+'/home/vivek/Documents/FOSS/apertium/user-friendly-lexical-training/tests/../coding_challenges/apertium-eng-spaabc'(LANG_DATA) is not a directory, provide a valid directory or 
 to install, follow https://wiki.apertium.org/wiki/List_of_language_pairs 
 
 Test 1 : wrong paths
 ---------------------
 Test 2 : partial/no installations
 ----------------------------------
-'process-tagger-output' is not in '/home/vivek/Documents/FOSS/apertium/apertium-lex-tools/scripts'(LEX_TOOLS), provide a valid directory or 
+'process-tagger-output' is not in '/home/vivek/Documents/FOSS/apertium/user-friendly-lexical-training/tests/../../apertium-lex-tools/scripts'(LEX_TOOLS), provide a valid directory or 
 to install, follow https://wiki.apertium.org/wiki/Install_Apertium_core_by_compiling 
 
-fast_align is not present in '/home/vivek/Documents/FOSS/apertium/user-friendly-lexical-training/coding_challenges/fast_align/build'(FAST_ALIGN), provide a valid directory or 
+fast_align is not present in '/home/vivek/Documents/FOSS/apertium/user-friendly-lexical-training/tests/../coding_challenges/fast_align/build'(FAST_ALIGN), provide a valid directory or 
 to install, follow https://github.com/clab/fast_align 
 
-'engabc-spa.autobil.bin' is not in '/home/vivek/Documents/FOSS/apertium/user-friendly-lexical-training/coding_challenges/apertium-eng-spa'(DATA), provide a valid directory or 
+'engabc-spa.autobil.bin' is not in '/home/vivek/Documents/FOSS/apertium/user-friendly-lexical-training/tests/../coding_challenges/apertium-eng-spa'(LANG_DATA), provide a valid directory or 
 to install, follow https://wiki.apertium.org/wiki/List_of_language_pairs 
 
-'spa-engabc.autobil.bin' is not in '/home/vivek/Documents/FOSS/apertium/user-friendly-lexical-training/coding_challenges/apertium-eng-spa'(DATA), provide a valid directory or 
+'spa-engabc.autobil.bin' is not in '/home/vivek/Documents/FOSS/apertium/user-friendly-lexical-training/tests/../coding_challenges/apertium-eng-spa'(LANG_DATA), provide a valid directory or 
 to install, follow https://wiki.apertium.org/wiki/List_of_language_pairs 
 
 apertium is either not installed or not added to path, see https://wiki.apertium.org/wiki/Installation 

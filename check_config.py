@@ -20,6 +20,22 @@ def check_config(filename='config.toml'):
     # gives error if not parsed well
     assert config_toml == dumps(config)
 
+    # changing the paths to absolute
+    if not os.path.isabs(config['CORPUS_SL']):
+        config['CORPUS_SL'] = os.path.join(os.path.abspath('.'), config['CORPUS_SL'])
+
+    if not os.path.isabs(config['CORPUS_TL']):
+        config['CORPUS_TL'] = os.path.join(os.path.abspath('.'), config['CORPUS_TL'])
+
+    if not os.path.isabs(config['LEX_TOOLS']):
+        config['LEX_TOOLS'] = os.path.join(os.path.abspath('.'), config['LEX_TOOLS'])
+
+    if not os.path.isabs(config['FAST_ALIGN']):
+        config['FAST_ALIGN'] = os.path.join(os.path.abspath('.'), config['FAST_ALIGN'])
+
+    if not os.path.isabs(config['LANG_DATA']):
+        config['LANG_DATA'] = os.path.join(os.path.abspath('.'), config['LANG_DATA'])
+
     if not os.path.isfile(config['CORPUS_SL']):
         print("'"+config['CORPUS_SL']+"'(CORPUS_SL)","is not a file, provide a valid"+ \
                     " file or \nto download, look", corpora_url, '\n')
@@ -58,18 +74,18 @@ def check_config(filename='config.toml'):
             misconfigured = True
     
     if not os.path.isdir(config['LANG_DATA']):
-        print("'"+config['LANG_DATA']+"'(DATA)", "is not a directory, provide a valid "+ \
+        print("'"+config['LANG_DATA']+"'(LANG_DATA)", "is not a directory, provide a valid "+ \
                     "directory or \nto install, follow", langs_url, '\n')
         misconfigured = True
     else:
         sl_tl_autobil = config['SL'] + '-' + config['TL'] + '.autobil.bin'
         tl_sl_autobil = config['TL'] + '-' + config['SL'] + '.autobil.bin'
         if sl_tl_autobil not in os.listdir(config['LANG_DATA']):
-            print("'"+sl_tl_autobil+"'", "is not in", "'"+config['LANG_DATA']+ "'(DATA),", \
+            print("'"+sl_tl_autobil+"'", "is not in", "'"+config['LANG_DATA']+ "'(LANG_DATA),", \
                         "provide a valid directory or \nto install, follow", langs_url, '\n')
             misconfigured = True
         if tl_sl_autobil not in os.listdir(config['LANG_DATA']):
-            print("'"+tl_sl_autobil+"'", "is not in", "'"+config['LANG_DATA']+ "'(DATA),", \
+            print("'"+tl_sl_autobil+"'", "is not in", "'"+config['LANG_DATA']+ "'(LANG_DATA),", \
                         "provide a valid directory or \nto install, follow", langs_url, '\n')
             misconfigured = True
 
@@ -99,4 +115,4 @@ def check_config(filename='config.toml'):
     return config
 
 if __name__ == '__main__':
-    parse_config()
+    check_config()

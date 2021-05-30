@@ -43,12 +43,6 @@ def main(argc, argv):
 
     config['SL']+="abc"
 
-    if os.path.isfile(os.path.join(config['LEX_TOOLS'], 'process-tagger-output')):
-        shutil.move(os.path.join(config['LEX_TOOLS'], 'process-tagger-output'), os.path.join(config['LEX_TOOLS'], 'process-tagger-output'+'abc'))
-
-    if os.path.isfile(os.path.join(config['FAST_ALIGN'], 'fast_align')):
-        shutil.move(os.path.join(config['FAST_ALIGN'], 'fast_align'), os.path.join(config['FAST_ALIGN'], 'fast_align'+'abc'))
-
     for path in os.environ["PATH"].split(os.pathsep):
         if os.path.isfile(os.path.join(path, 'apertium')):
             shutil.move(os.path.join(path, 'apertium'), os.path.join(path, 'apertium'+'abc'))
@@ -58,6 +52,12 @@ def main(argc, argv):
         if os.path.isfile(os.path.join(path, 'yasmet')):
             shutil.move(os.path.join(path, 'yasmet'), os.path.join(path, 'yasmet'+'abc'))
             break
+
+    if os.path.isfile(os.path.join(config['LEX_TOOLS'], 'process-tagger-output')):
+        shutil.move(os.path.join(config['LEX_TOOLS'], 'process-tagger-output'), os.path.join(config['LEX_TOOLS'], 'process-tagger-output'+'abc'))
+
+    if os.path.isfile(os.path.join(config['FAST_ALIGN'], 'fast_align')):
+        shutil.move(os.path.join(config['FAST_ALIGN'], 'fast_align'), os.path.join(config['FAST_ALIGN'], 'fast_align'+'abc'))
 
     if os.fork() == 0:
         with open('check_config_test.toml', 'w') as test_file:
