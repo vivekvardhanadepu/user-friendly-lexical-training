@@ -22,22 +22,6 @@ def main(argc, argv):
         # print(lines1, lines2)
         i = 0
         for i in range(len(lines1)):
-            # if not(lines1[i].strip()) and not(lines2[i].strip()):
-            #     continue
-                # if i > 0:
-                #     if i < len(lines1)-1:
-                #         del lines1[i-1], lines2[i-1]
-                #         del lines1[i-1], lines2[i-1]
-                #         del lines1[i-1], lines2[i-1]
-                #     else:
-                #         del lines1[i-1], lines2[i-1]
-                #         del lines1[i-1], lines2[i-1]
-                # else:
-                #     if i < len(lines1)-1:
-                #         del lines1[i], lines2[i]
-                #         del lines1[i], lines2[i]
-                #     else:
-                #         del lines1[i], lines2[i]
             if (not lines1[i].strip()) or (not lines2[i].strip()):
                 lines_to_remove.update([i-1, i, i+1])
                 continue
@@ -47,27 +31,7 @@ def main(argc, argv):
                         (not lines2[i].replace('°', '').replace('*', '').replace('.', '').strip()):
                 lines_to_remove.add(i)
             # print(lines1, lines2)
-
-        # assert len(lines1) == len(lines2)
-
-        # if len(lines1) == 0:
-        #     l1.seek(0)
-        #     l1.write('\n')
-        #     l1.truncate()
-
-        #     l2.seek(0)
-        #     l2.write('\n')
-        #     l2.truncate()
-
-        #     l1.close()
-        #     l2.close()
-        #     return
-
-        # if '\n' not in lines1[len(lines1)-1]:
-        #     lines1[len(lines1)-1] = lines1[len(lines1)-1] + '\n'
-        # if '\n' not in lines2[len(lines2)-1]:
-        #     lines2[len(lines2)-1] = lines2[len(lines2)-1] + '\n'
-
+            
         print(lines_to_remove)
 
         l1.seek(0)
