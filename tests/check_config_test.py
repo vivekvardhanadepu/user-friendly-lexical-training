@@ -11,7 +11,7 @@ from check_config import check_config
 def main(argc, argv):
     
     # Test 1
-    config_file = open('../config.toml', 'r')
+    config_file = open('config_test.toml', 'r')
     config_toml = config_file.read()
     config = parse(config_toml)
     config_file.close()
@@ -33,7 +33,7 @@ def main(argc, argv):
     # print()
 
     # Test 2
-    config_file = open('../config.toml', 'r')
+    config_file = open('config_test.toml', 'r')
     config_toml = config_file.read()
     config = parse(config_toml)
     config_file.close()
@@ -84,7 +84,7 @@ def main(argc, argv):
     # print()
     
     # Test 3
-    config_file = open('../config.toml', 'r')
+    config_file = open('config_test.toml', 'r')
     config_toml = config_file.read()
     config = parse(config_toml)
     config_file.close()
@@ -95,6 +95,8 @@ def main(argc, argv):
     with open('check_config_test.toml', 'w') as test_file:
         test_file.write(dumps(config))
     check_config('check_config_test.toml')
+
+    os.remove('check_config_test.toml')
 
 if __name__ == '__main__':
     main(len(sys.argv), sys.argv)
