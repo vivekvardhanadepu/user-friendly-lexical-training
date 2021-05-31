@@ -33,13 +33,3 @@ In moses_training,
 change the relevant paths and run training_script.sh
 
 Ref: www.statmt.org/moses/?n=Moses.Baseline
-
-**Simple TOML parser**
-
-parser: toml_parser.py
-
-parser test: parser_test.toml
-
-parser test output: parser_test.out
-
-Right now, it takes toml file, checks the syntax, converts and outputs it as a dictionary

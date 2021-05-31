@@ -21,20 +21,9 @@ def check_config(filename='config.toml'):
     assert config_toml == dumps(config)
 
     # changing the paths to absolute
-    if not os.path.isabs(config['CORPUS_SL']):
-        config['CORPUS_SL'] = os.path.join(os.path.abspath('.'), config['CORPUS_SL'])
-
-    if not os.path.isabs(config['CORPUS_TL']):
-        config['CORPUS_TL'] = os.path.join(os.path.abspath('.'), config['CORPUS_TL'])
-
-    if not os.path.isabs(config['LEX_TOOLS']):
-        config['LEX_TOOLS'] = os.path.join(os.path.abspath('.'), config['LEX_TOOLS'])
-
-    if not os.path.isabs(config['FAST_ALIGN']):
-        config['FAST_ALIGN'] = os.path.join(os.path.abspath('.'), config['FAST_ALIGN'])
-
-    if not os.path.isabs(config['LANG_DATA']):
-        config['LANG_DATA'] = os.path.join(os.path.abspath('.'), config['LANG_DATA'])
+    for key in ['CORPUS_SL', 'CORPUS_TL', 'LEX_TOOLS', 'FAST_ALIGN', 'LANG_DATA']:
+        if not os.path.isabs(config[key]):
+            config[key] = os.path.join(os.path.abspath('.'), config[key])
 
     if not os.path.isfile(config['CORPUS_SL']):
         print("'"+config['CORPUS_SL']+"'(CORPUS_SL)","is not a file, provide a valid"+ \

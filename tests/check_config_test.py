@@ -30,8 +30,6 @@ def main(argc, argv):
 
     _, _ = os.wait()
 
-    # print()
-
     # Test 2
     config_file = open('config_test.toml', 'r')
     config_toml = config_file.read()
@@ -80,8 +78,6 @@ def main(argc, argv):
         if os.path.isfile(os.path.join(path, 'yasmet'+'abc')):
             shutil.move(os.path.join(path, 'yasmet'+'abc'), os.path.join(path, 'yasmet'))
             break
-    
-    # print()
     
     # Test 3
     config_file = open('config_test.toml', 'r')
